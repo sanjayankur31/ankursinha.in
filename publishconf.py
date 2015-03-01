@@ -20,5 +20,5 @@ CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
 
 DELETE_OUTPUT_DIRECTORY = True
 
-DISQUS_SITENAME = u'ankursinha.disqus.com'
+DISQUS_SITENAME = u'ankursinha'
 #GOOGLE_ANALYTICS = ""
