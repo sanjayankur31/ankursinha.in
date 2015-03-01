@@ -19,23 +19,19 @@ MONTH_ARCHIVE_SAVE_AS = 'posts/{date:%Y}/{date:%b}/index.html'
 
 TAG_URL = 'tag/{slug}/'
 TAG_SAVE_AS = 'tag/{slug}/index.html'
+CATEGORY_URL = 'category/{slug}/'
+CATEGORY_SAVE_AS = 'category/{slug}/index.html'
 
 SIDEBAR = 'sidebar.html'
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'Europe/London'
 
 DEFAULT_LANG = u'en'
 
-THEME = '/home/asinha/Documents/02_Code/00_repos/others/pelican-themes/voidy-bootstrap'
+THEME = 'voidy-bootstrap'
 
-# Can't get plugins to work yet
-#PLUGIN_PATHS = ['/home/asinha/Documents/02_Code/00_repos/others/pelican-plugins/render_math/',
-#                '/home/asinha/Documents/02_Code/00_repos/others/pelican-plugins/sitemap',
-#                '/home/asinha/Documents/02_Code/00_repos/others/pelican-plugins']
-#PLUGINS = ['global_license', 'post_stats', 'render_math', 'share_post', 'sitemap']
-# Current theme doesn't use it I think
-#LICENSE =
-#PLUGINS = ['render_math', 'sitemap.sitemap']
+PLUGIN_PATH = '/home/asinha/Documents/02_Code/00_repos/others/pelican-plugins'
+PLUGINS = ['post_stats', 'render_math', 'sitemap']
 
 
 # Blogroll
@@ -53,9 +49,24 @@ SOCIAL = (('Google+', 'https://plus.google.com/105107988864522484597/about',
           )
 
 DEFAULT_PAGINATION = 10
-
 DELETE_OUTPUT_DIRECTORY = True
 
+SITEMAP = {
+    'format': 'xml',
+    'priorities': {
+        'articles': 0.5,
+        'indexes': 0.5,
+        'pages': 0.5
+    },
+    'changefreqs': {
+        'articles': 'monthly',
+        'indexes': 'daily',
+        'pages': 'monthly'
+    }
+}
+
+CUSTOM_ARTICLE_FOOTERS = ('sharing.html',)
+CUSTOM_SCRIPTS_ARTICLE = "sharing_scripts.html"
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
