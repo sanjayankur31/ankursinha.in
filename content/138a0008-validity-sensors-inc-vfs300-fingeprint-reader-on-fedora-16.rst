@@ -4,9 +4,6 @@
 :author: ankur
 :category: FOSS
 :tags: Fedora, libfprint, validity fingerprint
-:tags: Fedora, libfprint, validity fingerprint
-:tags: Fedora, libfprint, validity fingerprint
-:tags: Fedora, libfprint, validity fingerprint
 :slug: 138a0008-validity-sensors-inc-vfs300-fingeprint-reader-on-fedora-16
 
 I've been looking to get my finger print reader working on Fedora for
