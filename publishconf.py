@@ -10,15 +10,15 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'http://ankursinha.in'
+SITEURL = 'http://ankursinha.in/blog'
 RELATIVE_URLS = False
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
 CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
+FEED_ALL_RSS = 'feeds/all.rss.xml'
+CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
 
 DELETE_OUTPUT_DIRECTORY = True
 
-# Following items are often useful when publishing
-
-#DISQUS_SITENAME = ""
+DISQUS_SITENAME = u'ankursinha.disqus.com'
 #GOOGLE_ANALYTICS = ""

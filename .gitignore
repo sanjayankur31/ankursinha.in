@@ -1,0 +1,5 @@
+output
+*.py?
+*.pid
+.ropeproject
+cache
