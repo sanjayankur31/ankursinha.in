@@ -4,9 +4,6 @@ Taskwarrior, Taskwarrior-server and Mirakel - syncing and carrying your taskslis
 :author: ankur
 :category: FOSS
 :tags: Fedora, mirakel, taskwarrior, vit
-:tags: Fedora, mirakel, taskwarrior, vit
-:tags: Fedora, mirakel, taskwarrior, vit
-:tags: Fedora, mirakel, taskwarrior, vit
 :slug: taskwarrior-taskwarrior-server-and-mirakel-syncing-and-carrying-your-taskslist-with-you
 
 I'd `documented using task warrior to manage your tasks recently`_. I'd
@@ -19,9 +16,10 @@ then Mirakel. The previous post already documents how one needs to setup
 and use task. You can use ``vit`` which is an excellent front end to
 task. It's `available`_ in the Fedora repositories for Fedora 20+:
 
-``sudo yum install vit``
+.. code-block:: bash
+    sudo yum install vit
 
-|vit-screenshot|
+vit-screenshot
 
 Task warrior server
 -------------------
@@ -37,22 +35,43 @@ quite straightforward:
 Generate your keys
 ^^^^^^^^^^^^^^^^^^
 
-``$ sudo -u taskd #or su - taskd -> as taskd user $ cd /etc/pki/taskd #this is where the scripts are placed $ ./generate #this will generate a couple of new files ls -l /etc/pki/taskd/ total 60 -rw-------. 1 taskd taskd 1476 Jul 31 12:00 ankur_sinha.cert.pem -rw-------. 1 taskd taskd 6799 Jul 31 12:00 ankur_sinha.key.pem -rw-------. 1 taskd taskd 1489 Jul 31 11:57 ca.cert.pem -rw-------. 1 taskd taskd 6789 Jul 31 11:57 ca.key.pem -rwxr-xr-x. 1 root  root   666 Jan 16  2014 generate -rwxr-xr-x. 1 root  root   647 Jan 16  2014 generate.ca -rwxr-xr-x. 1 root  root   787 Jan 16  2014 generate.client -rwxr-xr-x. 1 root  root   878 Jan 16  2014 generate.crl -rwxr-xr-x. 1 root  root   792 Jan 16  2014 generate.server -rw-------. 1 taskd taskd 1521 Jul 31 11:57 server.cert.pem -rw-------. 1 taskd taskd  808 Jul 31 11:57 server.crl.pem -rw-------. 1 taskd taskd 6796 Jul 31 11:57 server.key.pem [asinha@ankur-laptop  ~]$``
+.. code-block:: bash
+    $ sudo -u taskd #or su - taskd -> as taskd user 
+    $ cd /etc/pki/taskd #this is where the scripts are placed 
+    $ ./generate #this will generate a couple of new files 
+    $ ls -l /etc/pki/taskd/ 
+    total 60 -rw-------. 1 taskd taskd 1476 Jul 31 12:00 
+    ankur_sinha.cert.pem -rw-------. 1 taskd taskd 6799 Jul 31 12:00 
+    ankur_sinha.key.pem -rw-------. 1 taskd taskd 1489 Jul 31 11:57 
+    ca.cert.pem -rw-------. 1 taskd taskd 6789 Jul 31 11:57 
+    ca.key.pem -rwxr-xr-x. 1 root  root   666 Jan 16  2014 
+    generate -rwxr-xr-x. 1 root  root   647 Jan 16  2014 
+    generate.ca -rwxr-xr-x. 1 root  root   787 Jan 16  2014 
+    generate.client -rwxr-xr-x. 1 root  root   878 Jan 16  2014 
+    generate.crl -rwxr-xr-x. 1 root  root   792 Jan 16  2014 
+    generate.server -rw-------. 1 taskd taskd 1521 Jul 31 11:57 
+    server.cert.pem -rw-------. 1 taskd taskd  808 Jul 31 11:57 
+    server.crl.pem -rw-------. 1 taskd taskd 6796 Jul 31 11:57 
+    server.key.pem 
+    [asinha@ankur-laptop  ~]$
 
 When you run the ``generate`` script, it'll generate a
 ``client.cert.pem`` and ``client.key.pm``. I've renamed them to match
 the user that I'll create in the next section.
 
-`` $ mv client.cert.pem ankur_sinha.cert.pem $ mv client.key.pem ankur_sinha.key.pem``
+.. code-block:: bash
+    $ mv client.cert.pem ankur_sinha.cert.pem $ mv client.key.pem ankur_sinha.key.pem
 
 Set up a user
 ^^^^^^^^^^^^^
 
-| Choose your username and organization. For example, I picked "Ankur
+Choose your username and organization. For example, I picked "Ankur
 Sinha" as my username and "Personal" as the organization.
-| 
-`` taskd add org ORGNAME --data /var/lib/taskd taskd add user ORGNAME USERNAME --data /var/lib/taskd``
-|  This will generate a **unique key** for your user. Please note it
+
+.. code-block:: bash
+    taskd add org ORGNAME --data /var/lib/taskd taskd add user ORGNAME USERNAME --data /var/lib/taskd
+
+This will generate a **unique key** for your user. Please note it
 down. It is required when you setup your client to sync with the task
 server. You can have multiple users set up. Each will be given a unique
 key.
@@ -60,11 +79,15 @@ key.
 Start taskd
 ^^^^^^^^^^^
 
-| It should be as simple as:
-|  ``sudo systemctl start taskd.service``
+It should be as simple as:
 
-| If this doesn't work, for some reason, try this:
-|  ``sudo taskd server --data /var/lib/taskd --daemon``
+.. code-block:: bash
+    sudo systemctl start taskd.service
+
+If this doesn't work, for some reason, try this:
+
+.. code-block:: bash
+    sudo taskd server --data /var/lib/taskd --daemon
 
 Set up your client
 ------------------
@@ -74,71 +97,90 @@ directory. For example, if you're using the client and server on the
 same machine, you need to copy the client certs to ~/.task. In my case,
 to set up the task client I did:
 
-`` $ sudo -i $ cd /etc/pki/taskd $ cp ankur_sinha*pem ~asinha/.task #client keys $ cp ca.cert.pem ~asinha/.task #signing certificate $ chown asinha:asinha ~/asinha/.task/*.pem #make sure the permissions are limited to your user only``
+.. code-block:: bash
+    $ sudo -i $ cd /etc/pki/taskd 
+    $ cp ankur_sinha*pem ~asinha/.task #client keys 
+    $ cp ca.cert.pem ~asinha/.task #signing certificate 
+    $ chown asinha:asinha ~/asinha/.task/*.pem #make sure the permissions are limited to your user only
 
 Configuring task
 ^^^^^^^^^^^^^^^^
 
-| You need to configure your client to use the credentials that you
+You need to configure your client to use the credentials that you
 created, and to point it to your server. You can either modify
 ``~/.taskrc`` by hand, or use the ``task config`` command - they both do
 the same thing. To edit it by hand, I did:
-| 
-`` taskd.server=localhost:6544 taskd.credentials=Personal/Ankur Sinha/my-long-key``
 
-| taskd.certificate=/home/asinha/.task/ankur\_sinha.cert.pem
-|  taskd.key=/home/asinha/.task/ankur\_sinha.key.pem
-|  taskd.ca=/home/asinha/.task/ca.cert.pem
-|  taskd.trust=yes
-| 
+.. code-block::
+    taskd.server=localhost:6544 taskd.credentials=Personal/Ankur Sinha/my-long-key
 
-| If I'd used the ``task config`` command, it'd be this:
-| 
-`` $ task config taskd.certificate ~/.task/ankur_sinha.cert.pem $ task config taskd.key         ~/.task/ankur_sinha.key.pem $ task config taskd.ca          ~/.task/ca.cert.pem $ task config taskd.server      localhost:6544 #on Fedora, we use 6544 for taskd $ task config taskd.credentials 'Personal/Ankur Sinha/my-long-key``
+    taskd.certificate=/home/asinha/.task/ankur\_sinha.cert.pem
+    taskd.key=/home/asinha/.task/ankur\_sinha.key.pem
+    taskd.ca=/home/asinha/.task/ca.cert.pem
+    taskd.trust=yes
+
+
+If I'd used the ``task config`` command, it'd be this:
+
+.. code-block:: bash
+    $ task config taskd.certificate ~/.task/ankur_sinha.cert.pem 
+    $ task config taskd.key         ~/.task/ankur_sinha.key.pem 
+    $ task config taskd.ca          ~/.task/ca.cert.pem 
+    $ task config taskd.server      localhost:6544 #on Fedora, we use 6544 for taskd 
+    $ task config taskd.credentials 'Personal/Ankur Sinha/my-long-key'
 
 Sync up!
 ^^^^^^^^
 
-| That's all the setup you need. Now, you run your first sync:
-|  `` $ task sync init``
+That's all the setup you need. Now, you run your first sync:
 
-| In the future, you just need to run:
-|  `` $ task sync``
-|  All of this is well documented at the taskwarrior website here:
+.. code-block:: bash
+    $ task sync init
+
+In the future, you just need to run:
+
+.. code-block:: bash
+    $ task sync
+
+All of this is well documented at the taskwarrior website here:
 http://taskwarrior.org/docs/server_setup.html
 
 Setting up Mirakel
 ------------------
 
-| Mirakel is quite easy to setup too. You can use the same credentials
+Mirakel is quite easy to setup too. You can use the same credentials
 for the user you created to get Mirakel to sync with your task server.
 There's one main difference - instead of placing your certificate files
 in a folder, you need to quote the keys in the file itself. For example,
 my Mirakel configuration file looks like this:
-| 
-`` username: Ankur Sinha org: Personal user key: my-long-key server : your-servers-hostname:6544``
 
-| Client.cert:
-|  -----BEGIN CERTIFICATE-----
-|  # PLACE contents of ~/.task/ankur\_sinha.cert.pem here
-|  -----END CERTIFICATE-----
+.. code-block::
+    username: Ankur Sinha org: Personal user key: my-long-key server : your-servers-hostname:6544
 
-| Client.key:
-|  -----BEGIN RSA PRIVATE KEY-----
-|  # PLACE KEY FROM ~/.task/ankur\_sinha.key.pem here
-|  -----END RSA PRIVATE KEY-----
+    Client.cert:
+    -----BEGIN CERTIFICATE-----
+    # PLACE contents of ~/.task/ankur\_sinha.cert.pem here
+    -----END CERTIFICATE-----
 
-| ca.cert:
-|  -----BEGIN CERTIFICATE-----
-|  # PLACE CONTENTS OF ~/.task/ca.cert.pem here
-|  -----END CERTIFICATE-----
+    Client.key:
+    -----BEGIN RSA PRIVATE KEY-----
+    # PLACE KEY FROM ~/.task/ankur\_sinha.key.pem here
+    -----END RSA PRIVATE KEY-----
 
-| 
-|  Once your configuration file is ready, place it on your android
+    ca.cert:
+    -----BEGIN CERTIFICATE-----
+    # PLACE CONTENTS OF ~/.task/ca.cert.pem here
+    -----END CERTIFICATE-----
+
+
+Once your configuration file is ready, place it on your android
 device and add a new Mirakel user using this file:
-``Menu > Settings > Sync > Add (button on top right) > Taskwarrior > Select config file``.
-|  [caption id="attachment\_1693" align="aligncenter"
-width="168"]\ |Select your configuration file| Select your configuration
+
+.. code-block:: bash
+    Menu > Settings > Sync > Add (button on top right) > Taskwarrior > Select config file.
+
+[caption id="attachment\_1693" align="aligncenter"
+width="168"]\ Select your configuration file| Select your configuration
 file[/caption]
 
 It'll add a new user. You can then play around with the settings and set
@@ -147,8 +189,8 @@ here: http://mirakel.azapps.de/taskwarrior.html. However, they're not
 tailored to use the Fedora rpms, which is why I thought it'd be good to
 write up fresh instructions.
 
-| Now, you have Mirakel up and running:
-|  |2014-07-31 04.53.57|
+Now, you have Mirakel up and running:
+|2014-07-31 04.53.57|
 
 A couple of things to keep in mind
 ----------------------------------
@@ -174,9 +216,9 @@ EDIT: Updated generation portion.
 .. _copr repo here: http://copr.fedoraproject.org/coprs/ralph/taskd/
 .. _here: https://ankursinha.fedorapeople.org/taskd/
 
-.. |vit-screenshot| image:: http://ankursinha.in/wp/wp-content/uploads/2014/07/vit-screenshot-300x160.png
+.. vit-screenshot| image:: http://ankursinha.in/wp/wp-content/uploads/2014/07/vit-screenshot-300x160.png
    :target: http://ankursinha.in/wp/wp-content/uploads/2014/07/vit-screenshot.png
-.. |Select your configuration file| image:: http://ankursinha.in/wp/wp-content/uploads/2014/07/2014-07-31-04.39.19-168x300.png
+.. Select your configuration file| image:: http://ankursinha.in/wp/wp-content/uploads/2014/07/2014-07-31-04.39.19-168x300.png
    :target: http://ankursinha.in/wp/wp-content/uploads/2014/07/2014-07-31-04.39.19.png
-.. |2014-07-31 04.53.57| image:: http://ankursinha.in/wp/wp-content/uploads/2014/07/2014-07-31-04.53.57-168x300.png
+.. 2014-07-31 04.53.57| image:: http://ankursinha.in/wp/wp-content/uploads/2014/07/2014-07-31-04.53.57-168x300.png
    :target: http://ankursinha.in/wp/wp-content/uploads/2014/07/2014-07-31-04.53.57.png
