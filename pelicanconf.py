@@ -10,12 +10,12 @@ TWITTER_USERNAME = 'sanjay_ankur'
 
 STATIC_PATHS = ['images']
 ARTICLE_PATHS = ['']
-ARTICLE_SAVE_AS = '{date:%Y}/{date:%b}/{date:%d}/{slug}.html'
-ARTICLE_URL = '{date:%Y}/{date:%b}/{date:%d}/{slug}.html'
+ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{date:%d}/{slug}.html'
+ARTICLE_URL = '{date:%Y}/{date:%m}/{date:%d}/{slug}.html'
 
 ARCHIVES_SAVE_AS = 'archives.html'
 YEAR_ARCHIVE_SAVE_aS = 'posts/{date:%Y}/index.html'
-MONTH_ARCHIVE_SAVE_AS = 'posts/{date:%Y}/{date:%b}/index.html'
+MONTH_ARCHIVE_SAVE_AS = 'posts/{date:%Y}/{date:%m}/index.html'
 
 TAG_URL = 'tag/{slug}/'
 TAG_SAVE_AS = 'tag/{slug}/index.html'
