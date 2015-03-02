@@ -17,9 +17,10 @@ and use task. You can use ``vit`` which is an excellent front end to
 task. It's `available`_ in the Fedora repositories for Fedora 20+:
 
 .. code-block:: bash
+
     sudo yum install vit
 
-vit-screenshot
+|vit-screenshot|
 
 Task warrior server
 -------------------
@@ -36,6 +37,7 @@ Generate your keys
 ^^^^^^^^^^^^^^^^^^
 
 .. code-block:: bash
+
     $ sudo -u taskd #or su - taskd -> as taskd user 
     $ cd /etc/pki/taskd #this is where the scripts are placed 
     $ ./generate #this will generate a couple of new files 
@@ -60,6 +62,7 @@ When you run the ``generate`` script, it'll generate a
 the user that I'll create in the next section.
 
 .. code-block:: bash
+
     $ mv client.cert.pem ankur_sinha.cert.pem $ mv client.key.pem ankur_sinha.key.pem
 
 Set up a user
@@ -69,6 +72,7 @@ Choose your username and organization. For example, I picked "Ankur
 Sinha" as my username and "Personal" as the organization.
 
 .. code-block:: bash
+
     taskd add org ORGNAME --data /var/lib/taskd taskd add user ORGNAME USERNAME --data /var/lib/taskd
 
 This will generate a **unique key** for your user. Please note it
@@ -82,11 +86,13 @@ Start taskd
 It should be as simple as:
 
 .. code-block:: bash
+
     sudo systemctl start taskd.service
 
 If this doesn't work, for some reason, try this:
 
 .. code-block:: bash
+
     sudo taskd server --data /var/lib/taskd --daemon
 
 Set up your client
@@ -98,6 +104,7 @@ same machine, you need to copy the client certs to ~/.task. In my case,
 to set up the task client I did:
 
 .. code-block:: bash
+
     $ sudo -i $ cd /etc/pki/taskd 
     $ cp ankur_sinha*pem ~asinha/.task #client keys 
     $ cp ca.cert.pem ~asinha/.task #signing certificate 
@@ -111,7 +118,8 @@ created, and to point it to your server. You can either modify
 ``~/.taskrc`` by hand, or use the ``task config`` command - they both do
 the same thing. To edit it by hand, I did:
 
-.. code-block::
+.. code-block:: bash
+
     taskd.server=localhost:6544 taskd.credentials=Personal/Ankur Sinha/my-long-key
 
     taskd.certificate=/home/asinha/.task/ankur\_sinha.cert.pem
@@ -123,6 +131,7 @@ the same thing. To edit it by hand, I did:
 If I'd used the ``task config`` command, it'd be this:
 
 .. code-block:: bash
+
     $ task config taskd.certificate ~/.task/ankur_sinha.cert.pem 
     $ task config taskd.key         ~/.task/ankur_sinha.key.pem 
     $ task config taskd.ca          ~/.task/ca.cert.pem 
@@ -135,11 +144,13 @@ Sync up!
 That's all the setup you need. Now, you run your first sync:
 
 .. code-block:: bash
+
     $ task sync init
 
 In the future, you just need to run:
 
 .. code-block:: bash
+
     $ task sync
 
 All of this is well documented at the taskwarrior website here:
@@ -154,7 +165,8 @@ There's one main difference - instead of placing your certificate files
 in a folder, you need to quote the keys in the file itself. For example,
 my Mirakel configuration file looks like this:
 
-.. code-block::
+.. code-block:: bash
+
     username: Ankur Sinha org: Personal user key: my-long-key server : your-servers-hostname:6544
 
     Client.cert:
@@ -177,11 +189,10 @@ Once your configuration file is ready, place it on your android
 device and add a new Mirakel user using this file:
 
 .. code-block:: bash
+
     Menu > Settings > Sync > Add (button on top right) > Taskwarrior > Select config file.
 
-[caption id="attachment\_1693" align="aligncenter"
-width="168"]\ Select your configuration file| Select your configuration
-file[/caption]
+|Select your configuration file|
 
 It'll add a new user. You can then play around with the settings and set
 up your sync frequency etc. These steps are quite clearly documented
@@ -190,7 +201,7 @@ tailored to use the Fedora rpms, which is why I thought it'd be good to
 write up fresh instructions.
 
 Now, you have Mirakel up and running:
-|2014-07-31 04.53.57|
+2014-07-31-04.53.57
 
 A couple of things to keep in mind
 ----------------------------------
@@ -216,9 +227,9 @@ EDIT: Updated generation portion.
 .. _copr repo here: http://copr.fedoraproject.org/coprs/ralph/taskd/
 .. _here: https://ankursinha.fedorapeople.org/taskd/
 
-.. vit-screenshot| image:: http://ankursinha.in/wp/wp-content/uploads/2014/07/vit-screenshot-300x160.png
-   :target: http://ankursinha.in/wp/wp-content/uploads/2014/07/vit-screenshot.png
-.. Select your configuration file| image:: http://ankursinha.in/wp/wp-content/uploads/2014/07/2014-07-31-04.39.19-168x300.png
-   :target: http://ankursinha.in/wp/wp-content/uploads/2014/07/2014-07-31-04.39.19.png
-.. 2014-07-31 04.53.57| image:: http://ankursinha.in/wp/wp-content/uploads/2014/07/2014-07-31-04.53.57-168x300.png
-   :target: http://ankursinha.in/wp/wp-content/uploads/2014/07/2014-07-31-04.53.57.png
+.. |vit-screenshot| image:: images/vit-screenshot_small.png
+   :target: images/vit-screenshot.png
+.. |Select your configuration file| image:: images/2014-07-31-04.39.19_small.png
+   :target: images/2014-07-31-04.39.19.png
+.. |2014-07-31 04.53.57| image:: images/2014-07-31-04.53.57_small.png
+   :target: images/2014-07-31-04.53.57.png

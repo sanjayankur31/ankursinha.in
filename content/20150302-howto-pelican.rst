@@ -7,6 +7,7 @@
 :slug: howto-pelican
 :author: ankur
 :lang: en
+:status: draft
 
 In my last post, I mentioned that I had moved to a Pelican based blog. In this post, I'll document how I did this, for myself as a future reference and for others that might be looking for a resource. **Yet another howto**.
 
@@ -26,4 +27,4 @@ Requirements
 - Your favourite text editor
 
 
-:: _Fedora: http://fedoraproject.org 
+.. _Fedora: http://fedoraproject.org 
