@@ -30,7 +30,7 @@ DEFAULT_LANG = u'en'
 
 THEME = 'voidy-bootstrap'
 
-PLUGIN_PATH = '/home/asinha/Documents/02_Code/00_repos/others/pelican-plugins'
+PLUGIN_PATH = 'pelican-plugins'
 PLUGINS = ['post_stats', 'render_math', 'sitemap']
 
 

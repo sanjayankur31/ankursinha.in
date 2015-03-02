@@ -3,3 +3,4 @@ output
 *.pid
 .ropeproject
 cache
+*.swp
