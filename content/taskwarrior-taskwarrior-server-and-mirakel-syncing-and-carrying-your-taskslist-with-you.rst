@@ -227,9 +227,9 @@ EDIT: Updated generation portion.
 .. _copr repo here: http://copr.fedoraproject.org/coprs/ralph/taskd/
 .. _here: https://ankursinha.fedorapeople.org/taskd/
 
-.. |vit-screenshot| image:: images/vit-screenshot_small.png
-   :target: images/vit-screenshot.png
+.. |vit-screenshot| image:: {filename}/images/vit-screenshot_small.png
+   :target: {filename}/images/vit-screenshot.png
 .. |Select your configuration file| image:: images/2014-07-31-04.39.19_small.png
-   :target: images/2014-07-31-04.39.19.png
+   :target: {filename}/images/2014-07-31-04.39.19.png
 .. |2014-07-31 04.53.57| image:: images/2014-07-31-04.53.57_small.png
-   :target: images/2014-07-31-04.53.57.png
+   :target: {filename}images/2014-07-31-04.53.57.png
