@@ -20,7 +20,15 @@ task. It's `available`_ in the Fedora repositories for Fedora 20+:
 
     sudo yum install vit
 
-|vit-screenshot|
+.. figure:: {filename}/images/vit-screenshot.png
+    :align: center
+    :height: 800px
+    :scale: 25 %
+    :target: {filename}/images/vit-screenshot.png
+    :alt: vit screenshot
+
+    A vit screenshot.
+
 
 Task warrior server
 -------------------
@@ -192,7 +200,16 @@ device and add a new Mirakel user using this file:
 
     Menu > Settings > Sync > Add (button on top right) > Taskwarrior > Select config file.
 
-|Select your configuration file|
+.. figure:: {filename}/images/2014-07-31-04.39.19.png
+    :align: center
+    :height: 800px
+    :scale: 25 %
+    :target: {filename}/images/2014-07-31-04.39.19.png
+    :alt: Mirakel screenshot
+
+
+    Mirakel screenshot
+
 
 It'll add a new user. You can then play around with the settings and set
 up your sync frequency etc. These steps are quite clearly documented
@@ -201,7 +218,16 @@ tailored to use the Fedora rpms, which is why I thought it'd be good to
 write up fresh instructions.
 
 Now, you have Mirakel up and running:
-2014-07-31-04.53.57
+
+.. figure:: {filename}/images/2014-07-31-04.53.57.png
+    :align: center
+    :height: 800px
+    :scale: 25 %
+    :target: {filename}/images/2014-07-31-04.53.57.png
+    :alt: Mirakel screenshot 2
+
+    Mirakel screenshot 2
+
 
 A couple of things to keep in mind
 ----------------------------------
@@ -226,10 +252,3 @@ EDIT: Updated generation portion.
 .. _review request: https://bugzilla.redhat.com/show_bug.cgi?id=1066573
 .. _copr repo here: http://copr.fedoraproject.org/coprs/ralph/taskd/
 .. _here: https://ankursinha.fedorapeople.org/taskd/
-
-.. |vit-screenshot| image:: {filename}/images/vit-screenshot_small.png
-   :target: {filename}/images/vit-screenshot.png
-.. |Select your configuration file| image:: images/2014-07-31-04.39.19_small.png
-   :target: {filename}/images/2014-07-31-04.39.19.png
-.. |2014-07-31 04.53.57| image:: images/2014-07-31-04.53.57_small.png
-   :target: {filename}images/2014-07-31-04.53.57.png

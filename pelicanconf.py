@@ -31,10 +31,9 @@ DEFAULT_LANG = u'en'
 THEME = 'voidy-bootstrap'
 
 PLUGIN_PATH = 'pelican-plugins'
-PLUGINS = ['post_stats', 'render_math', 'sitemap', 'thumbnailer']
-IMAGE_PATH = 'images'
-THUMBNAIL_DIR = 'images'
-THUMBNAIL_SIZES = {'small':'300x?'}
+#PLUGINS = ['post_stats', 'render_math', 'sitemap', 'better_figures_and_images']
+PLUGINS = ['post_stats', 'render_math', 'sitemap',]
+RESPONSIVE_IMAGES = False
 
 
 # Blogroll
