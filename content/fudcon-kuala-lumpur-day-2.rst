@@ -22,7 +22,7 @@ it a barcamp style session again. I didn't have a talk on this day. Both
 my sessions had finished on day 1. On the second day, I was going to run
 around and attend sessions!
 
-| I sat in `Praveen's RPM packaging session`_ to start with. Quite a few
+I sat in `Praveen's RPM packaging session`_ to start with. Quite a few
 people had turned up. However, a majority of them weren't fedora users,
 so the packaging bit was going a little over their heads. Uhm, a lot
 over their heads actually. Praveen finished in 20 minutes. The time
@@ -32,7 +32,7 @@ bit, and gave the audience a very very very high level summary of
 packaging. For instance, while explaining the spec file, I blah-blahed
 most of the parts. I just explained what goes on, without going into any
 specifics at all. They appeared to absorb some of it.
-|  I finished up and ran to level 2 to attend `Aditya's talk on
+I finished up and ran to level 2 to attend `Aditya's talk on
 puppet`_.\ `(He's uploaded the slides here)`_ I had attended an IRC
 session Aditya had taken on puppet a while back: everyone other than me
 had gotten puppet to work. So, I wanted to attend this second session in
@@ -42,12 +42,12 @@ need puppet to control my 3 or even 4 systems. It doesn't quite make
 sense to take the trouble. It's my opinion really. One might choose to
 use puppet even for two systems. I recorded the session. If you're
 interested, you can see it `here at archive.org.`_
-|  After puppet, I ran to attend the session on oVirt that
+After puppet, I ran to attend the session on oVirt that
 "`wariola`_\ " was taking. Again, a video is available `here at
 archive.org. <http://archive.org/details/oVirt>`__ It was a most
 interesting talk. There was a lot of cool stuff that he showed. I'll
 nudge him for the presentations and put them up someplace.
-|  This was followed by a quiet lunch.
+This was followed by a quiet lunch.
 
 The post lunch program was re-planned into barcamp format. So, we had
 pitches and voting. The first session was on some "User issues with
