@@ -4,9 +4,6 @@ FUDCon Beijing - Day 2
 :author: ankur
 :category: Tech
 :tags: beijing, Fedora, fudcon, GNOME
-:tags: beijing, Fedora, fudcon, GNOME
-:tags: beijing, Fedora, fudcon, GNOME
-:tags: beijing, Fedora, fudcon, GNOME
 :slug: fudcon-beijing-day-2
 
 Pre-lunch - Richard Stallman's talk
@@ -55,7 +52,7 @@ differ from his hard lined one. I think that's quite expected, though.
 
    <figure>
 
-| |20140525\_104418|
+|20140525_104418|
 
 .. raw:: html
 
@@ -123,7 +120,7 @@ contribute to it.
 
    <figure>
 
-|20140525\_165656|
+|20140525_165656|
 
 .. raw:: html
 
@@ -155,7 +152,7 @@ down and participate in the event. Lots of clapping and cheering.
 
    <figure>
 
-| |20140524\_180544|
+|20140524_180544|
 
 .. raw:: html
 
@@ -180,7 +177,7 @@ over the Fedora communication channels.
 
    <figure>
 
-| |20140525\_175855|
+|20140525_175855|
 
 .. raw:: html
 
@@ -200,7 +197,7 @@ Jaroslav at the closing ceremony
 
    <figure>
 
-| |20140525\_180401|
+|20140525_180401|
 
 .. raw:: html
 
@@ -225,7 +222,7 @@ Emily and wished them all the best as we took our leave from the dinner.
 
    <figure>
 
-| |20140525\_190425|
+|20140525_190425|
 
 .. raw:: html
 
@@ -244,15 +241,15 @@ I really did eat a lot!
 This was the end of the FUDCon for us. The next day, we were to head out
 to a tour of the Great Wall.
 
-.. |20140525\_104418| image:: https://farm4.staticflickr.com/3832/14100569368_0cf2e343f2.jpg
+.. |20140525_104418| image:: https://farm4.staticflickr.com/3832/14100569368_0cf2e343f2.jpg
    :target: https://www.flickr.com/photos/30402562@N07/14100569368
-.. |20140525\_165656| image:: https://farm3.staticflickr.com/2912/14100583850_992c8a14bb.jpg
+.. |20140525_165656| image:: https://farm3.staticflickr.com/2912/14100583850_992c8a14bb.jpg
    :target: https://www.flickr.com/photos/30402562@N07/14100583850
-.. |20140524\_180544| image:: https://farm6.staticflickr.com/5036/14286705264_dea45a1909.jpg
+.. |20140524_180544| image:: https://farm6.staticflickr.com/5036/14286705264_dea45a1909.jpg
    :target: https://www.flickr.com/photos/30402562@N07/14286705264
-.. |20140525\_175855| image:: https://farm4.staticflickr.com/3735/14307400533_1eb06a177a.jpg
+.. |20140525_175855| image:: https://farm4.staticflickr.com/3735/14307400533_1eb06a177a.jpg
    :target: https://www.flickr.com/photos/30402562@N07/14307400533
-.. |20140525\_180401| image:: https://farm4.staticflickr.com/3809/14100586090_b44806a8b6.jpg
+.. |20140525_180401| image:: https://farm4.staticflickr.com/3809/14100586090_b44806a8b6.jpg
    :target: https://www.flickr.com/photos/30402562@N07/14100586090
-.. |20140525\_190425| image:: https://farm4.staticflickr.com/3830/14286713274_7c254c4eae.jpg
+.. |20140525_190425| image:: https://farm4.staticflickr.com/3830/14286713274_7c254c4eae.jpg
    :target: https://www.flickr.com/photos/30402562@N07/14286713274
