@@ -3,23 +3,20 @@ Fedora 11 Podcasts : Podcast 3 "General Overview of F11 with Tom 'Spot' Callaway
 :date: 2009-05-18 15:25
 :author: ankur
 :category: Tech
-:tags: Fedora 11, Fedora 11 Podcast, linux
-:tags: Fedora 11, Fedora 11 Podcast, linux
-:tags: Fedora 11, Fedora 11 Podcast, linux
-:tags: Fedora 11, Fedora 11 Podcast, linux
+:tags: Fedora11
 :slug: fedora-11-podcasts-podcast-3-general-overview-of-f11-with-tom-spot-callaway-2
 
-From Jack's message on the mailing list :
+From Jack's message on the mailing list:
 https://www.redhat.com/archives/fedora-marketing-list/2009-May/msg00172.html
 
-    | Continuing on in our series of Fedora 11 podcasts, we present an
+    Continuing on in our series of Fedora 11 podcasts, we present an
     interview of the series with Tom 'Spot' Callaway. In case you don't
     know Spot, he's been making Fedora happen since before Fedora was
-    |  called Fedora. Spot is a Red Hat Engineer, the Fedora Engineering
+    called Fedora. Spot is a Red Hat Engineer, the Fedora Engineering
     Manager, and of course an active and knowledgeable community member.
     With keen insights and an eagle-eye view of the Fedora release
     process,
-    |  the community, and our history and roadmap, you can be sure that
+    the community, and our history and roadmap, you can be sure that
     any chat with Spot is worth your while.
 
     Fedora 11 General Overview and Insights with Tom Spot Callaway
