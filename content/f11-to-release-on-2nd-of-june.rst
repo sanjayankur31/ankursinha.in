@@ -3,10 +3,7 @@ F11 to release on 2nd of June
 :date: 2009-05-20 04:52
 :author: ankur
 :category: Tech
-:tags: Fedora 11, Fedora Project
-:tags: Fedora 11, Fedora Project
-:tags: Fedora 11, Fedora Project
-:tags: Fedora 11, Fedora Project
+:tags: Fedora11, Fedora
 :slug: f11-to-release-on-2nd-of-june
 
 From Jesse's post on the list..
@@ -24,6 +21,5 @@ https://www.redhat.com/archives/fedora-test-list/2009-May/msg00853.html
     to release on the 26th. We hope to enter RC phase in the next couple
     days, and hit our new target,\ **June 2nd**.
 
-    | Freeze breaks for critical bugs will still be accepted, however
-    trivial
-    |  bug fixes should be pushed as updates via bodhi. Thanks!
+    Freeze breaks for critical bugs will still be accepted, however trivial
+    bug fixes should be pushed as updates via bodhi. Thanks!
