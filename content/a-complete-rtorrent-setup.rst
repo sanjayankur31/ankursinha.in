@@ -3,10 +3,7 @@ A complete rtorrent setup
 :date: 2011-02-23 14:31
 :author: ankur
 :category: Tech
-:tags: Fedora, linux, queue management, RSS, rssdler, rtorrent
-:tags: Fedora, linux, queue management, RSS, rssdler, rtorrent
-:tags: Fedora, linux, queue management, RSS, rssdler, rtorrent
-:tags: Fedora, linux, queue management, RSS, rssdler, rtorrent
+:tags: Fedora, rssdler, rtorrent
 :slug: a-complete-rtorrent-setup
 
 I wrote a  `blog post`_ recently which gave an overview of how you can
@@ -21,7 +18,7 @@ post, I'm going to detail a **complete** rtorrent setup.
 Install rtorrent
 ----------------
 
- ``$ yum install rtorrent -y``
+``$ yum install rtorrent -y``
 
 Make a ~/bin/ directory
 -----------------------
@@ -85,28 +82,28 @@ placed it in my Downloads/torrent/ directory.
 
 ``echo "2" > ~/Downloads/torrents/max_downloads.txt``
 
-| Again, make sure that the value you give in the file is what you name
+Again, make sure that the value you give in the file is what you name
 the file as etc. If you aren't careful about this, the setup won't work.
-|  Place the python script in ~/bin/ and make it executable
+Place the python script in ~/bin/ and make it executable
 
 ``cp rtorrentqueuemanager.py ~/bin/ && chmod a+x ~/bin/rtorrentqueuemanager.py``
 
-| Alright, we're mostly set.
-|  If you want the two scripts to run at login, under GNOME head to
+Alright, we're mostly set.
+If you want the two scripts to run at login, under GNOME head to
 System>prefs>startup applications and add them there. Add rssdler as
 "rssdler -d" (daemon mode) and rtorrentqueuemanager.py as "python
 rtorrentqueuemanager.py &"
 
-| Log out, log back in. Check if rssdler is running : "rssdler -s". You
+Log out, log back in. Check if rssdler is running : "rssdler -s". You
 can list the downloaded files with "rssdler --list-saved".
-|  These files will be downloaded into the loading\_dir. When the
+These files will be downloaded into the loading\_dir. When the
 queuemanager sees less that max\_download files in the watch dir, it
 moves a new one to it, thus implementing queue management. Cool ha!?
 
 I think I've included most of what needs to be done. If you have
 queries/run into trouble, please ask.
 
-.. _blog post: http://dodoincfedora.wordpress.com/2011/02/21/using-torrent-rss-feeds-with-rtorrent/
+.. _blog post: http://ankursinha.in/2011/02/21/using-torrent-rss-feeds-with-rtorrent/
 .. _RFE: http://libtorrent.rakshasa.no/ticket/13
 .. _rtorrent.rc: http://ankursinha.fedorapeople.org/misc/rtorrentconf/rtorrent.rc
 .. _Download rssdler: http://code.google.com/p/rssdler/
