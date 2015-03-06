@@ -3,14 +3,14 @@ Cast your vote!
 :date: 2012-04-29 22:44
 :author: ankur
 :category: Tech
-:tags: famsco, Fedora, fedora-board, fedora-elections, fesco
-:tags: famsco, Fedora, fedora-board, fedora-elections, fesco
-:tags: famsco, Fedora, fedora-board, fedora-elections, fesco
-:tags: famsco, Fedora, fedora-board, fedora-elections, fesco
-:tags: famsco, Fedora, fedora-board, fedora-elections, fesco
-:tags: famsco, Fedora, fedora-board, fedora-elections, fesco
-:tags: famsco, Fedora, fedora-board, fedora-elections, fesco
-:tags: famsco, Fedora, fedora-board, fedora-elections, fesco
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: cast-your-vote
 
 Well, eventually, that is. There's a lot to do before you can cast your

@@ -3,14 +3,14 @@ New Fedora blog
 :date: 2009-02-09 13:26
 :author: ankur
 :category: Tech
-:tags: Fedora, linux, Planet fedora
-:tags: Fedora, linux, Planet fedora
-:tags: Fedora, linux, Planet fedora
-:tags: Fedora, linux, Planet fedora
-:tags: Fedora, linux, Planet fedora
-:tags: Fedora, linux, Planet fedora
-:tags: Fedora, linux, Planet fedora
-:tags: Fedora, linux, Planet fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: new-fedora-blog
 
 hi,

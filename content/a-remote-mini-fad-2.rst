@@ -3,10 +3,10 @@ A remote mini FAD 2
 :date: 2011-01-25 19:18
 :author: ankur
 :category: Tech
-:tags: fad, Fedora
-:tags: fad, Fedora
-:tags: fad, Fedora
-:tags: fad, Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: a-remote-mini-fad-2
 
 We did quite a lot of work at the first `remote mini FAD`_. Fortunately,

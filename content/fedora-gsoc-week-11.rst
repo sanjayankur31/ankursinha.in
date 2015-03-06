@@ -3,14 +3,14 @@ Fedora GSoC: Week 11
 :date: 2011-07-10 11:10
 :author: ankur
 :category: Tech
-:tags: Fedora, fedora-medical, gsoc
-:tags: Fedora, fedora-medical, gsoc
-:tags: Fedora, fedora-medical, gsoc
-:tags: Fedora, fedora-medical, gsoc
-:tags: Fedora, fedora-medical, gsoc
-:tags: Fedora, fedora-medical, gsoc
-:tags: Fedora, fedora-medical, gsoc
-:tags: Fedora, fedora-medical, gsoc
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: fedora-gsoc-week-11
 
 The project is steadily building up, brick by brick. Aeskulap was

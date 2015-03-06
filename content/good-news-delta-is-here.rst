@@ -3,10 +3,10 @@ Good news!! Delta is here!!
 :date: 2009-05-10 21:18
 :author: ankur
 :category: misc
-:tags: Deltarpms, Fedora, Fedora Project, Planet, yum presto
-:tags: Deltarpms, Fedora, Fedora Project, Planet, yum presto
-:tags: Deltarpms, Fedora, Fedora Project, Planet, yum presto
-:tags: Deltarpms, Fedora, Fedora Project, Planet, yum presto
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: good-news-delta-is-here
 
 Ah, `planet fedora`_ just made my day.. or night.. This post from Josh

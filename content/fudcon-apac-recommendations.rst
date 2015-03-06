@@ -3,10 +3,10 @@ FUDCon APAC Recommendations
 :date: 2012-02-25 14:37
 :author: ankur
 :category: Tech
-:tags: apac, Fedora, Fedora Ambassadors, fudcon
-:tags: apac, Fedora, Fedora Ambassadors, fudcon
-:tags: apac, Fedora, Fedora Ambassadors, fudcon
-:tags: apac, Fedora, Fedora Ambassadors, fudcon
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: fudcon-apac-recommendations
 
 Hello Fedorians!

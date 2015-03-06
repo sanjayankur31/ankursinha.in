@@ -3,10 +3,10 @@ A qemu quickie!
 :date: 2011-05-19 18:23
 :author: ankur
 :category: Tech
-:tags: Fedora, qemu
-:tags: Fedora, qemu
-:tags: Fedora, qemu
-:tags: Fedora, qemu
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: a-qemu-quickie
 
 This one's intended for myself actually. I keep forgetting how to use

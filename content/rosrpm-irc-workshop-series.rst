@@ -3,10 +3,10 @@ ROS/RPM IRC workshop series
 :date: 2014-04-06 23:56
 :author: ankur
 :category: Tech
-:tags: Fedora, fudcon-beijing, ROS, RPM, workshop
-:tags: Fedora, fudcon-beijing, ROS, RPM, workshop
-:tags: Fedora, fudcon-beijing, ROS, RPM, workshop
-:tags: Fedora, fudcon-beijing, ROS, RPM, workshop
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: rosrpm-irc-workshop-series
 
 I intend to take a ROS RPM packaging session at the upcoming `FUDCon

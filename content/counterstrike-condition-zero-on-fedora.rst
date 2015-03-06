@@ -3,10 +3,10 @@ Counterstrike : Condition Zero on Fedora !
 :date: 2011-05-21 21:10
 :author: ankur
 :category: Tech
-:tags: counterstrike, Fedora, wine
-:tags: counterstrike, Fedora, wine
-:tags: counterstrike, Fedora, wine
-:tags: counterstrike, Fedora, wine
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: counterstrike-condition-zero-on-fedora
 
 It's been a really really long time since I played on my system last.

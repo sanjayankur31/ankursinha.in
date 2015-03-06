@@ -3,10 +3,10 @@ Offline installs  => death !!
 :date: 2009-03-07 11:05
 :author: ankur
 :category: Tech
-:tags: Fedora, Fedora 10, linux, Ndiswrapper, offline install
-:tags: Fedora, Fedora 10, linux, Ndiswrapper, offline install
-:tags: Fedora, Fedora 10, linux, Ndiswrapper, offline install
-:tags: Fedora, Fedora 10, linux, Ndiswrapper, offline install
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: offline-installs-death
 
 I've just come off #fedora..

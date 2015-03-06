@@ -3,7 +3,7 @@ Mailer for the Free media program
 :date: 2010-09-23 00:54
 :author: ankur
 :category: Tech
-:tags: Fedora, free-media
+:tags: Fedora
 :slug: mailer-for-the-free-media-program
 
 A `mailer`_ exists for the Free media program. `Joe`_ had made this

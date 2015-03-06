@@ -3,14 +3,14 @@ Fedora 14 on Christmas!!
 :date: 2010-12-28 11:09
 :author: ankur
 :category: Tech
-:tags: broadcom, deja-dup, Dell, Fedora, fedorasolved.org, nvidia
-:tags: broadcom, deja-dup, Dell, Fedora, fedorasolved.org, nvidia
-:tags: broadcom, deja-dup, Dell, Fedora, fedorasolved.org, nvidia
-:tags: broadcom, deja-dup, Dell, Fedora, fedorasolved.org, nvidia
-:tags: broadcom, deja-dup, Dell, Fedora, fedorasolved.org, nvidia
-:tags: broadcom, deja-dup, Dell, Fedora, fedorasolved.org, nvidia
-:tags: broadcom, deja-dup, Dell, Fedora, fedorasolved.org, nvidia
-:tags: broadcom, deja-dup, Dell, Fedora, fedorasolved.org, nvidia
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: fedora-14-on-christmas
 
 **"Somethings are meant to happen".**

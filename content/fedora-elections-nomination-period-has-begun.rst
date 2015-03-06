@@ -3,10 +3,10 @@ Fedora Elections: Nomination period has begun!
 :date: 2012-05-09 11:01
 :author: ankur
 :category: Tech
-:tags: elections, Fedora
-:tags: elections, Fedora
-:tags: elections, Fedora
-:tags: elections, Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: fedora-elections-nomination-period-has-begun
 
 So, who are you nominating this cycle? We have the following elections

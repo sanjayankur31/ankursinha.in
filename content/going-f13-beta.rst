@@ -3,10 +3,10 @@ Going F13 beta!
 :date: 2010-05-10 18:00
 :author: ankur
 :category: Tech
-:tags: Fedora 13 beta
-:tags: Fedora 13 beta
-:tags: Fedora 13 beta
-:tags: Fedora 13 beta
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: going-f13-beta
 
 I had wanted to swipe my system clean for almost two years now but the

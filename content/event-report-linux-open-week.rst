@@ -3,10 +3,10 @@ Event Report : Linux Open Week
 :date: 2009-03-30 19:10
 :author: ankur
 :category: Tech
-:tags: Fedora, Fedora 10, Intall Fest, linux, LUGManipal
-:tags: Fedora, Fedora 10, Intall Fest, linux, LUGManipal
-:tags: Fedora, Fedora 10, Intall Fest, linux, LUGManipal
-:tags: Fedora, Fedora 10, Intall Fest, linux, LUGManipal
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: event-report-linux-open-week
 
 The Open Week came to an end today. It was a busy week, and met with

@@ -3,10 +3,10 @@ if sealert is still broken for you
 :date: 2011-07-04 08:13
 :author: ankur
 :category: Tech
-:tags: Fedora, report-gtk, sealert, selinux
-:tags: Fedora, report-gtk, sealert, selinux
-:tags: Fedora, report-gtk, sealert, selinux
-:tags: Fedora, report-gtk, sealert, selinux
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: if-sealert-is-still-broken-for-you
 
 Hi!!

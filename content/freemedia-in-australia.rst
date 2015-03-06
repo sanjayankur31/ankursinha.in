@@ -3,10 +3,10 @@ Freemedia in Australia
 :date: 2013-02-10 16:59
 :author: ankur
 :category: Tech
-:tags: australia, Fedora, freemedia
-:tags: australia, Fedora, freemedia
-:tags: australia, Fedora, freemedia
-:tags: australia, Fedora, freemedia
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: freemedia-in-australia
 
 I haven't been active with the Freemedia programme since moving to

@@ -3,14 +3,14 @@ Reminder: Questionnaire and nomination dead lines
 :date: 2013-05-22 12:36
 :author: ankur
 :category: Tech
-:tags: elections, famsco, Fedora, fedora-board, fedora20, fesco, naming, questionnaire
-:tags: elections, famsco, Fedora, fedora-board, fedora20, fesco, naming, questionnaire
-:tags: elections, famsco, Fedora, fedora-board, fedora20, fesco, naming, questionnaire
-:tags: elections, famsco, Fedora, fedora-board, fedora20, fesco, naming, questionnaire
-:tags: elections, famsco, Fedora, fedora-board, fedora20, fesco, naming, questionnaire
-:tags: elections, famsco, Fedora, fedora-board, fedora20, fesco, naming, questionnaire
-:tags: elections, famsco, Fedora, fedora-board, fedora20, fesco, naming, questionnaire
-:tags: elections, famsco, Fedora, fedora-board, fedora20, fesco, naming, questionnaire
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: reminder-questionnaire-and-nomination-dead-lines
 
 A gentle reminder on the deadlines for the elections:

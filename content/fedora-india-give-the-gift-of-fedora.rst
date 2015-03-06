@@ -3,10 +3,10 @@ Fedora India : Give the gift of Fedora!
 :date: 2010-09-23 21:35
 :author: ankur
 :category: Tech
-:tags: Fedora, free media, join
-:tags: Fedora, free media, join
-:tags: Fedora, free media, join
-:tags: Fedora, free media, join
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: fedora-india-give-the-gift-of-fedora
 
 |image0|\ In spite of a large contribution from the Fedora India Free

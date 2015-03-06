@@ -3,10 +3,10 @@ My first batch of free media for the month
 :date: 2011-03-09 19:07
 :author: ankur
 :category: Tech
-:tags: Fedora, freemedia
-:tags: Fedora, freemedia
-:tags: Fedora, freemedia
-:tags: Fedora, freemedia
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: my-first-batch-of-free-media-for-the-month
 
 I've run out of media already! Until I can get more, these are the lucky

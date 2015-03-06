@@ -3,14 +3,14 @@ Fedora GSoC: Week 14
 :date: 2011-08-01 12:25
 :author: ankur
 :category: Tech
-:tags: Fedora, fedora-gsoc, fedora-medical, gsoc, RPM
-:tags: Fedora, fedora-gsoc, fedora-medical, gsoc, RPM
-:tags: Fedora, fedora-gsoc, fedora-medical, gsoc, RPM
-:tags: Fedora, fedora-gsoc, fedora-medical, gsoc, RPM
-:tags: Fedora, fedora-gsoc, fedora-medical, gsoc, RPM
-:tags: Fedora, fedora-gsoc, fedora-medical, gsoc, RPM
-:tags: Fedora, fedora-gsoc, fedora-medical, gsoc, RPM
-:tags: Fedora, fedora-gsoc, fedora-medical, gsoc, RPM
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: fedora-gsoc-week-14
 
 A quick update (My internet subscription at home lapsed and I'm posting

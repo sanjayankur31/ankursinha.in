@@ -3,7 +3,7 @@ Fedora GSoC: Report
 :date: 2011-08-20 13:21
 :author: ankur
 :category: Tech
-:tags: fedora-gsoc, fedora-medical
+:tags: Fedora
 :slug: fedora-gsoc-report
 
 The soft pencils down date has passed. I'm to submit a report soon. I

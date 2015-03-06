@@ -3,10 +3,10 @@ Keyboard shortcuts to control mpd
 :date: 2011-06-20 12:45
 :author: ankur
 :category: Tech
-:tags: Fedora, gnome-shell, mpc, mpd, ncmpc
-:tags: Fedora, gnome-shell, mpc, mpd, ncmpc
-:tags: Fedora, gnome-shell, mpc, mpd, ncmpc
-:tags: Fedora, gnome-shell, mpc, mpd, ncmpc
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: keyboard-shortcuts-to-control-mpd
 
 I `use`_ ncmpc, which is a great great curses based client for mpd.

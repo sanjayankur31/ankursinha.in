@@ -3,10 +3,10 @@ making vim-latex load when you open a new tex file
 :date: 2010-11-23 20:43
 :author: ankur
 :category: misc
-:tags: Fedora, latex, tex, vim, vim-latex
-:tags: Fedora, latex, tex, vim, vim-latex
-:tags: Fedora, latex, tex, vim, vim-latex
-:tags: Fedora, latex, tex, vim, vim-latex
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: making-vim-latex-load-when-you-open-a-new-tex-file
 
 For quite sometime now, I've been pondering over this issue:

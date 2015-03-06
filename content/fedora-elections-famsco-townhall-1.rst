@@ -3,14 +3,14 @@ Fedora Elections: FAmSCo townhall #1
 :date: 2012-05-27 19:45
 :author: ankur
 :category: Tech
-:tags: famsco, Fedora, fedora-elections
-:tags: famsco, Fedora, fedora-elections
-:tags: famsco, Fedora, fedora-elections
-:tags: famsco, Fedora, fedora-elections
-:tags: famsco, Fedora, fedora-elections
-:tags: famsco, Fedora, fedora-elections
-:tags: famsco, Fedora, fedora-elections
-:tags: famsco, Fedora, fedora-elections
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: fedora-elections-famsco-townhall-1
 
 It's time for stage two of the `Fedora Elections`_: The townhalls! The

@@ -3,10 +3,10 @@ A set of new monospace fonts: Anka-Coder fonts
 :date: 2013-04-10 23:16
 :author: ankur
 :category: Tech
-:tags: anka-coder-fonts, code, Fedora, fonts, monospace, packaging, RPM
-:tags: anka-coder-fonts, code, Fedora, fonts, monospace, packaging, RPM
-:tags: anka-coder-fonts, code, Fedora, fonts, monospace, packaging, RPM
-:tags: anka-coder-fonts, code, Fedora, fonts, monospace, packaging, RPM
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: a-set-of-new-monospace-fonts-anka-coder-fonts
 
 I was looking to well, "beautify" my system a little. I get these urges

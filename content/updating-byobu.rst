@@ -3,10 +3,10 @@ Updating byobu
 :date: 2012-04-25 14:38
 :author: ankur
 :category: Tech
-:tags: byobu, Fedora, update
-:tags: byobu, Fedora, update
-:tags: byobu, Fedora, update
-:tags: byobu, Fedora, update
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: updating-byobu
 
 `Byobu`_ in fedora hasn't been updated in a while. The current fedora

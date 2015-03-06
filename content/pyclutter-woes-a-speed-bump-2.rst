@@ -3,10 +3,10 @@ pyclutter woes : a speed bump :|
 :date: 2009-12-26 18:49
 :author: ankur
 :category: Tech
-:tags: Fedora 12, Fedora tour, linux, pyclutter
-:tags: Fedora 12, Fedora tour, linux, pyclutter
-:tags: Fedora 12, Fedora tour, linux, pyclutter
-:tags: Fedora 12, Fedora tour, linux, pyclutter
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: pyclutter-woes-a-speed-bump-2
 
 Every task has some bottle-necks to overcome. The fedora-tour is no

@@ -3,10 +3,10 @@ F-spot ..
 :date: 2009-07-04 09:33
 :author: ankur
 :category: Tech
-:tags: F-spot, Fedora, linux
-:tags: F-spot, Fedora, linux
-:tags: F-spot, Fedora, linux
-:tags: F-spot, Fedora, linux
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: f-spot
 
 I've been getting a lot of this error lately while uploading photos to

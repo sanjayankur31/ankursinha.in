@@ -3,10 +3,10 @@ Fedora 19 and a few bugs I've run into
 :date: 2013-05-02 19:27
 :author: ankur
 :category: Tech
-:tags: anaconda, authentication, bijiben, Evolution, Fedora, Fedora-19, gnome-online-accounts, hibernate, imap, microsoft-exchange, smtp, suspend, xorg
-:tags: anaconda, authentication, bijiben, Evolution, Fedora, Fedora-19, gnome-online-accounts, hibernate, imap, microsoft-exchange, smtp, suspend, xorg
-:tags: anaconda, authentication, bijiben, Evolution, Fedora, Fedora-19, gnome-online-accounts, hibernate, imap, microsoft-exchange, smtp, suspend, xorg
-:tags: anaconda, authentication, bijiben, Evolution, Fedora, Fedora-19, gnome-online-accounts, hibernate, imap, microsoft-exchange, smtp, suspend, xorg
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: fedora-19-and-a-few-bugs-ive-run-into
 
 [caption id="" align="aligncenter" width="210"]\ |Fedora 19 alpha

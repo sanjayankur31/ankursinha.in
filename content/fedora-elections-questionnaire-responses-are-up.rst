@@ -3,14 +3,14 @@ Fedora Elections questionnaire responses are up!!
 :date: 2012-05-23 22:59
 :author: ankur
 :category: Tech
-:tags: famsco, Fedora, fedora-board, fedora-elections, fesco
-:tags: famsco, Fedora, fedora-board, fedora-elections, fesco
-:tags: famsco, Fedora, fedora-board, fedora-elections, fesco
-:tags: famsco, Fedora, fedora-board, fedora-elections, fesco
-:tags: famsco, Fedora, fedora-board, fedora-elections, fesco
-:tags: famsco, Fedora, fedora-board, fedora-elections, fesco
-:tags: famsco, Fedora, fedora-board, fedora-elections, fesco
-:tags: famsco, Fedora, fedora-board, fedora-elections, fesco
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: fedora-elections-questionnaire-responses-are-up
 
 You asked the questions, and they have been answered! The responses to

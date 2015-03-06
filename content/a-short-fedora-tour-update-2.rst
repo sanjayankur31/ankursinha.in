@@ -3,10 +3,10 @@ A short "Fedora tour" update
 :date: 2010-04-08 18:55
 :author: ankur
 :category: Tech
-:tags: Fedora, Fedora tour
-:tags: Fedora, Fedora tour
-:tags: Fedora, Fedora tour
-:tags: Fedora, Fedora tour
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: a-short-fedora-tour-update-2
 
 The fedora-tour is finally picking up speed with Subfusc and me

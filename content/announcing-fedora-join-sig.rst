@@ -3,14 +3,14 @@ Announcing: Fedora Join SIG!
 :date: 2012-06-16 02:24
 :author: ankur
 :category: Tech
-:tags: Fedora, fedora-join
-:tags: Fedora, fedora-join
-:tags: Fedora, fedora-join
-:tags: Fedora, fedora-join
-:tags: Fedora, fedora-join
-:tags: Fedora, fedora-join
-:tags: Fedora, fedora-join
-:tags: Fedora, fedora-join
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: announcing-fedora-join-sig
 
 We've all run into people who are interested in contributing. Quite a

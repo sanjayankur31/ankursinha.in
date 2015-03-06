@@ -3,14 +3,14 @@ fpaste : A simple tool for posting info onto fpaste.org
 :date: 2009-08-15 05:56
 :author: ankur
 :category: Tech
-:tags: bodhi, Fedora, fedora cvs, fpaste, fpaste.org, newpackage, pkgdb
-:tags: bodhi, Fedora, fedora cvs, fpaste, fpaste.org, newpackage, pkgdb
-:tags: bodhi, Fedora, fedora cvs, fpaste, fpaste.org, newpackage, pkgdb
-:tags: bodhi, Fedora, fedora cvs, fpaste, fpaste.org, newpackage, pkgdb
-:tags: bodhi, Fedora, fedora cvs, fpaste, fpaste.org, newpackage, pkgdb
-:tags: bodhi, Fedora, fedora cvs, fpaste, fpaste.org, newpackage, pkgdb
-:tags: bodhi, Fedora, fedora cvs, fpaste, fpaste.org, newpackage, pkgdb
-:tags: bodhi, Fedora, fedora cvs, fpaste, fpaste.org, newpackage, pkgdb
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: fpaste-a-simple-tool-for-posting-info-onto-fpaste-org
 
 Hi folks,

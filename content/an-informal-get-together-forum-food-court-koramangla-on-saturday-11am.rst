@@ -3,10 +3,10 @@ An informal get together @forum food court, Koramangla on Saturday, 11am
 :date: 2012-01-10 23:41
 :author: ankur
 :category: Tech
-:tags: Bangalore, Fedora
-:tags: Bangalore, Fedora
-:tags: Bangalore, Fedora
-:tags: Bangalore, Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: an-informal-get-together-forum-food-court-koramangla-on-saturday-11am
 
 |Burger|

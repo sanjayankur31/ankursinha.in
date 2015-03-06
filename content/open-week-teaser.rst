@@ -3,14 +3,14 @@ Open Week teaser:
 :date: 2009-02-09 17:53
 :author: ankur
 :category: Tech
-:tags: Fedora, Install Fest, linux, LUG Manipal, Packages, Planet fedora
-:tags: Fedora, Install Fest, linux, LUG Manipal, Packages, Planet fedora
-:tags: Fedora, Install Fest, linux, LUG Manipal, Packages, Planet fedora
-:tags: Fedora, Install Fest, linux, LUG Manipal, Packages, Planet fedora
-:tags: Fedora, Install Fest, linux, LUG Manipal, Packages, Planet fedora
-:tags: Fedora, Install Fest, linux, LUG Manipal, Packages, Planet fedora
-:tags: Fedora, Install Fest, linux, LUG Manipal, Packages, Planet fedora
-:tags: Fedora, Install Fest, linux, LUG Manipal, Packages, Planet fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: open-week-teaser
 
 The LUG Manipal, of which I am a part, is holding a "Linux OpenWeek"

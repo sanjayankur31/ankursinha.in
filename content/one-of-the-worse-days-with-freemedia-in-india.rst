@@ -3,10 +3,10 @@ One of the worse days with freemedia in India
 :date: 2012-04-25 11:30
 :author: ankur
 :category: Tech
-:tags: Fedora, freemedia, moron
-:tags: Fedora, freemedia, moron
-:tags: Fedora, freemedia, moron
-:tags: Fedora, freemedia, moron
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: one-of-the-worse-days-with-freemedia-in-india
 
 The quotes will say it all:

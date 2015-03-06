@@ -3,14 +3,14 @@ It's always the right time to join Fedora and start contributing!
 :date: 2013-05-15 21:03
 :author: ankur
 :category: Tech
-:tags: Fedora, fedora design team, fedora join sig, IRC, mailing list
-:tags: Fedora, fedora design team, fedora join sig, IRC, mailing list
-:tags: Fedora, fedora design team, fedora join sig, IRC, mailing list
-:tags: Fedora, fedora design team, fedora join sig, IRC, mailing list
-:tags: Fedora, fedora design team, fedora join sig, IRC, mailing list
-:tags: Fedora, fedora design team, fedora join sig, IRC, mailing list
-:tags: Fedora, fedora design team, fedora join sig, IRC, mailing list
-:tags: Fedora, fedora design team, fedora join sig, IRC, mailing list
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: its-always-the-right-time-to-join-fedora-and-start-contributing
 
 It always is! *Always*! **ALWAYS!** ***ALWAYS!***

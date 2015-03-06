@@ -3,7 +3,7 @@ FUDCon Beijing - Day 1
 :date: 2014-05-30 07:46
 :author: ankur
 :category: Tech
-:tags: ansible, beijing, conary, Fedora, fudcon, puppet, ROS
+:tags: Fedora
 :slug: fudcon-beijing-day-1
 
 Registration and getting started!

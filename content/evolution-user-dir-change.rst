@@ -3,10 +3,10 @@ Evolution user dir change
 :date: 2011-01-07 09:38
 :author: ankur
 :category: Tech
-:tags: Evolution, Fedora
-:tags: Evolution, Fedora
-:tags: Evolution, Fedora
-:tags: Evolution, Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: evolution-user-dir-change
 
 Evolution has moved to using the `XDG standard`_ for user directories.

@@ -3,10 +3,10 @@ Managing tasks and generating timesheets using taskwarrior
 :date: 2014-04-09 09:41
 :author: ankur
 :category: Tech
-:tags: Fedora, gtg, hamster-time-tracker, task manager, taskwarrior
-:tags: Fedora, gtg, hamster-time-tracker, task manager, taskwarrior
-:tags: Fedora, gtg, hamster-time-tracker, task manager, taskwarrior
-:tags: Fedora, gtg, hamster-time-tracker, task manager, taskwarrior
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: managing-tasks-and-generating-timesheets-using-taskwarrior
 
 A while back, I `had blogged on how one can use gtg and

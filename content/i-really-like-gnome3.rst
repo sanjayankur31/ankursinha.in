@@ -3,10 +3,10 @@ I really like Gnome3
 :date: 2013-03-07 17:09
 :author: ankur
 :category: Tech
-:tags: byobu, Evolution, Fedora, firefox, gnome3, Gnote, linux, screen, terminal x
-:tags: byobu, Evolution, Fedora, firefox, gnome3, Gnote, linux, screen, terminal x
-:tags: byobu, Evolution, Fedora, firefox, gnome3, Gnote, linux, screen, terminal x
-:tags: byobu, Evolution, Fedora, firefox, gnome3, Gnote, linux, screen, terminal x
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: i-really-like-gnome3
 
 The subject says it all. Since Gnome3 was released, or even in the

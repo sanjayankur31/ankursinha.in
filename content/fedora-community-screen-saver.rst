@@ -3,10 +3,10 @@ Fedora Community screen saver
 :date: 2009-10-31 07:43
 :author: ankur
 :category: Tech
-:tags: Fedora, Fedora community
-:tags: Fedora, Fedora community
-:tags: Fedora, Fedora community
-:tags: Fedora, Fedora community
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: fedora-community-screen-saver
 
 As the heading says, I was thinking of packaging a screen saver with

@@ -3,7 +3,7 @@ Fedora : PackageKit change
 :date: 2009-11-20 04:52
 :author: ankur
 :category: Tech
-:tags: Fedora 12, PackageKit, PolicyKit
+:tags: Fedora
 :slug: fedora-packagekit-change
 
 Not a lot of people seem aware of this. This is from the announce list.

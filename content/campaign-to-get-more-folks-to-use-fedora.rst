@@ -3,10 +3,10 @@ Campaign to get more folks to use Fedora
 :date: 2009-08-18 17:37
 :author: ankur
 :category: Tech
-:tags: Fedora 11
-:tags: Fedora 11
-:tags: Fedora 11
-:tags: Fedora 11
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: campaign-to-get-more-folks-to-use-fedora
 
 So, two of us, Ambassadors here at Manipal are starting a sort of a

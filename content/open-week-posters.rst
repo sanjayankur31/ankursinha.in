@@ -3,10 +3,10 @@ Open Week : Posters
 :date: 2009-03-13 10:25
 :author: ankur
 :category: Tech
-:tags: Fedora, hackathon, Install Fest, LUG Manipal, manipal, OpenWeek, posters
-:tags: Fedora, hackathon, Install Fest, LUG Manipal, manipal, OpenWeek, posters
-:tags: Fedora, hackathon, Install Fest, LUG Manipal, manipal, OpenWeek, posters
-:tags: Fedora, hackathon, Install Fest, LUG Manipal, manipal, OpenWeek, posters
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: open-week-posters
 
 Posters that we intend to put up at the OpenWeek .. Hope you people like

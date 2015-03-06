@@ -3,14 +3,14 @@ What have I been up to in Fedora lately?
 :date: 2013-08-29 11:29
 :author: ankur
 :category: Tech
-:tags: apac, Fedora, fedora-medical, Groovy, packaging, QA, ROS, updates-testing
-:tags: apac, Fedora, fedora-medical, Groovy, packaging, QA, ROS, updates-testing
-:tags: apac, Fedora, fedora-medical, Groovy, packaging, QA, ROS, updates-testing
-:tags: apac, Fedora, fedora-medical, Groovy, packaging, QA, ROS, updates-testing
-:tags: apac, Fedora, fedora-medical, Groovy, packaging, QA, ROS, updates-testing
-:tags: apac, Fedora, fedora-medical, Groovy, packaging, QA, ROS, updates-testing
-:tags: apac, Fedora, fedora-medical, Groovy, packaging, QA, ROS, updates-testing
-:tags: apac, Fedora, fedora-medical, Groovy, packaging, QA, ROS, updates-testing
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: what-have-i-been-up-to-in-fedora-lately
 
 The general stuff

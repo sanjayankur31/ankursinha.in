@@ -3,7 +3,7 @@ Amarok + missing Global shortcuts..
 :date: 2009-02-15 08:40
 :author: ankur
 :category: Tech
-:tags: amarok, bug, global short cuts, music
+:tags: amarok, bug, , music
 :slug: amarok-missing-global-shortcuts
 
 Just updated my system today. All Amarok global shortcuts just stopped

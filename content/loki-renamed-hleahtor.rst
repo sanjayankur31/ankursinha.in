@@ -3,10 +3,10 @@ loki renamed "hleahtor"
 :date: 2010-07-17 22:54
 :author: ankur
 :category: Tech
-:tags: Fedora, hleahtor, linux, loki, programming
-:tags: Fedora, hleahtor, linux, loki, programming
-:tags: Fedora, hleahtor, linux, loki, programming
-:tags: Fedora, hleahtor, linux, loki, programming
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: loki-renamed-hleahtor
 
 I finally got down to work.

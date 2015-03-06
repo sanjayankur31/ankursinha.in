@@ -3,10 +3,10 @@ Fedora and journal writing
 :date: 2013-06-23 22:53
 :author: ankur
 :category: Tech
-:tags: almanah, diary, Fedora, FOSS, Journal, journler, lifeograph, linux, Open Source, rednotebook, research, robojournal, text
-:tags: almanah, diary, Fedora, FOSS, Journal, journler, lifeograph, linux, Open Source, rednotebook, research, robojournal, text
-:tags: almanah, diary, Fedora, FOSS, Journal, journler, lifeograph, linux, Open Source, rednotebook, research, robojournal, text
-:tags: almanah, diary, Fedora, FOSS, Journal, journler, lifeograph, linux, Open Source, rednotebook, research, robojournal, text
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: fedora-and-journal-writing
 
 I've kept a journal for a long time. Initially, I used to write in a

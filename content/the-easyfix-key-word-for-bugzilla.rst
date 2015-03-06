@@ -3,10 +3,10 @@ The "easyfix" key word for bugzilla
 :date: 2012-02-23 20:46
 :author: ankur
 :category: Tech
-:tags: bugzilla, easyfix, Fedora, freenode, IRC
-:tags: bugzilla, easyfix, Fedora, freenode, IRC
-:tags: bugzilla, easyfix, Fedora, freenode, IRC
-:tags: bugzilla, easyfix, Fedora, freenode, IRC
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: the-easyfix-key-word-for-bugzilla
 
 I've been a package maintainer for quite a while now. Yet, it was just

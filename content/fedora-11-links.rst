@@ -3,7 +3,7 @@ Fedora 11 links..
 :date: 2009-05-02 10:00
 :author: ankur
 :category: Tech
-:tags: Fedora10
+:tags: Fedora
 :slug: fedora-11-links
 
 Have been busy lately.. Endsems coming up.. Here's a post on links to

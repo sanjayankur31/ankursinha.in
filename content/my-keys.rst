@@ -3,10 +3,10 @@ My keys
 :date: 2011-10-14 18:02
 :author: ankur
 :category: Tech
-:tags: Evolution, Fedora, gpg, keys, ssh
-:tags: Evolution, Fedora, gpg, keys, ssh
-:tags: Evolution, Fedora, gpg, keys, ssh
-:tags: Evolution, Fedora, gpg, keys, ssh
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: my-keys
 
 |http://www.indiatalkies.com/images/success-key-8522s.jpg|

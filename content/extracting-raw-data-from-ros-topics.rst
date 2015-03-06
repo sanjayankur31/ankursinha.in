@@ -3,7 +3,7 @@ Extracting raw data from ros topics
 :date: 2013-04-07 15:22
 :author: ankur
 :category: Research
-:tags: messages, PR2, robotics research, ROS, rosbag, rostopics, rqt_bag
+:tags: , PR2, robotics research, ROS, rosbag, rostopics, rqt_bag
 :slug: extracting-raw-data-from-ros-topics
 
 Recently, I needed to extract raw data that we had collected from the

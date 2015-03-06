@@ -3,14 +3,14 @@ Fedora GSoC: Week 12
 :date: 2011-07-17 19:38
 :author: ankur
 :category: Tech
-:tags: Fedora, fedora-medical, gsoc
-:tags: Fedora, fedora-medical, gsoc
-:tags: Fedora, fedora-medical, gsoc
-:tags: Fedora, fedora-medical, gsoc
-:tags: Fedora, fedora-medical, gsoc
-:tags: Fedora, fedora-medical, gsoc
-:tags: Fedora, fedora-medical, gsoc
-:tags: Fedora, fedora-medical, gsoc
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: fedora-gsoc-week-12
 
 `Kradview`_ and `freediams`_ look like they're on the road to being

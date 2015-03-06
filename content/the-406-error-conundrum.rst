@@ -3,10 +3,10 @@ The 406 error conundrum!
 :date: 2013-08-30 13:34
 :author: ankur
 :category: Tech
-:tags: Fedora, httplib2, mod_security, Planet, python, venus, wordpress
-:tags: Fedora, httplib2, mod_security, Planet, python, venus, wordpress
-:tags: Fedora, httplib2, mod_security, Planet, python, venus, wordpress
-:tags: Fedora, httplib2, mod_security, Planet, python, venus, wordpress
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: the-406-error-conundrum
 
 Some of you may have noticed that my blog wasn't coming up on the planet

@@ -3,10 +3,10 @@ I'm going to FUDCon Kuala Lumpur! Are you?
 :date: 2012-04-25 15:17
 :author: ankur
 :category: Tech
-:tags: Fedora, fudcon, kuala lumpur
-:tags: Fedora, fudcon, kuala lumpur
-:tags: Fedora, fudcon, kuala lumpur
-:tags: Fedora, fudcon, kuala lumpur
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: im-going-to-fudcon-kuala-lumpur-are-you
 
 |I'm going to FUDCon KL!|

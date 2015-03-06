@@ -3,10 +3,10 @@ Of laptops and workstations
 :date: 2013-04-04 11:01
 :author: ankur
 :category: Tech
-:tags: Fedora, laptop, workstation
-:tags: Fedora, laptop, workstation
-:tags: Fedora, laptop, workstation
-:tags: Fedora, laptop, workstation
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: of-laptops-and-workstations
 
 I absolutely love my laptop. I spend pretty much my entire day at my

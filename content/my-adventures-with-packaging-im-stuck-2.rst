@@ -3,10 +3,10 @@ My adventures with Packaging.. I'm Stuck :(
 :date: 2009-05-10 21:06
 :author: ankur
 :category: Tech
-:tags: Fedo, Fedora, packaging
-:tags: Fedo, Fedora, packaging
-:tags: Fedo, Fedora, packaging
-:tags: Fedo, Fedora, packaging
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: my-adventures-with-packaging-im-stuck-2
 
 Well.. Here it is.. Good and bad news.. The packaging went smoothly..

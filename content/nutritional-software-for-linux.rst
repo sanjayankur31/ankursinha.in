@@ -3,14 +3,14 @@ nutritional software for Linux
 :date: 2010-07-17 14:18
 :author: ankur
 :category: Tech
-:tags: DMAK, euphoria programming language, Fedora, fedora packaging, linux, Nut, nutritional software, tapeworm
-:tags: DMAK, euphoria programming language, Fedora, fedora packaging, linux, Nut, nutritional software, tapeworm
-:tags: DMAK, euphoria programming language, Fedora, fedora packaging, linux, Nut, nutritional software, tapeworm
-:tags: DMAK, euphoria programming language, Fedora, fedora packaging, linux, Nut, nutritional software, tapeworm
-:tags: DMAK, euphoria programming language, Fedora, fedora packaging, linux, Nut, nutritional software, tapeworm
-:tags: DMAK, euphoria programming language, Fedora, fedora packaging, linux, Nut, nutritional software, tapeworm
-:tags: DMAK, euphoria programming language, Fedora, fedora packaging, linux, Nut, nutritional software, tapeworm
-:tags: DMAK, euphoria programming language, Fedora, fedora packaging, linux, Nut, nutritional software, tapeworm
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: nutritional-software-for-linux
 
 We coders/developers/geeks are lazy. It's no secret. We like to get

@@ -3,10 +3,10 @@ Fedora 20 Elections: FAmSCo and Board town halls confirmed
 :date: 2013-06-04 23:30
 :author: ankur
 :category: Tech
-:tags: board, elections, famsco, Fedora, freenode, town-halls, voting
-:tags: board, elections, famsco, Fedora, freenode, town-halls, voting
-:tags: board, elections, famsco, Fedora, freenode, town-halls, voting
-:tags: board, elections, famsco, Fedora, freenode, town-halls, voting
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: fedora-20-elections-famsco-and-board-town-halls-confirmed
 
 I've just finished sending out e-mails to the nominees confirming the

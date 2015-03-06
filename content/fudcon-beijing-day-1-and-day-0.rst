@@ -3,10 +3,10 @@ FUDCon Beijing - Day -1 and Day 0
 :date: 2014-05-29 09:51
 :author: ankur
 :category: Tech
-:tags: beijing, Fedora, fudcon, fudpub
-:tags: beijing, Fedora, fudcon, fudpub
-:tags: beijing, Fedora, fudcon, fudpub
-:tags: beijing, Fedora, fudcon, fudpub
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: fudcon-beijing-day-1-and-day-0
 
 The journey to Beijing

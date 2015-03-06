@@ -3,14 +3,14 @@ A new Dell Vostro 3400 Laptop
 :date: 2010-12-01 11:36
 :author: ankur
 :category: misc
-:tags: Dell, fedora 14, laptop
-:tags: Dell, fedora 14, laptop
-:tags: Dell, fedora 14, laptop
-:tags: Dell, fedora 14, laptop
-:tags: Dell, fedora 14, laptop
-:tags: Dell, fedora 14, laptop
-:tags: Dell, fedora 14, laptop
-:tags: Dell, fedora 14, laptop
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: a-new-dell-vostro-3400-laptop
 
 I've just gotten over the phone with Dell Sales. I've almost ordered my

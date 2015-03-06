@@ -3,10 +3,10 @@ Compiling the cp210x module for use with the NAO
 :date: 2012-08-23 12:00
 :author: ankur
 :category: Tech
-:tags: Fedora, kernel, kernel-module, nao, robots
-:tags: Fedora, kernel, kernel-module, nao, robots
-:tags: Fedora, kernel, kernel-module, nao, robots
-:tags: Fedora, kernel, kernel-module, nao, robots
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: compiling-the-cp210x-module-for-use-with-the-nao
 
 I've been recently working on trying to get a `NavChip`_\ to work with

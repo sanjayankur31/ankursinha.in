@@ -3,10 +3,10 @@ Fedora 11 Podcast Series : Podcast 4 : Kernel mode setting with Adam Jackson
 :date: 2009-05-19 14:18
 :author: ankur
 :category: Tech
-:tags: Fedora 11 Podcast
-:tags: Fedora 11 Podcast
-:tags: Fedora 11 Podcast
-:tags: Fedora 11 Podcast
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: fedora-11-podcast-series-podcast-4-kernel-mode-setting-with-adam-jackson
 
 **Kernel Mode Setting with Adam Jackson**

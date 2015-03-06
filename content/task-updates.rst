@@ -3,10 +3,10 @@ Task updates
 :date: 2011-04-16 15:22
 :author: ankur
 :category: Tech
-:tags: Fedora, gcj, gsoc, pondicherry
-:tags: Fedora, gcj, gsoc, pondicherry
-:tags: Fedora, gcj, gsoc, pondicherry
-:tags: Fedora, gcj, gsoc, pondicherry
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: task-updates
 
 I've been trying to change my workflows/schedules etc. to fit in more

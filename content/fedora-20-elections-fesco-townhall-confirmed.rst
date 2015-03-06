@@ -3,10 +3,10 @@ Fedora 20 Elections: FESCo townhall confirmed
 :date: 2013-05-31 10:28
 :author: ankur
 :category: Tech
-:tags: elections, Fedora, fesco, townhall
-:tags: elections, Fedora, fesco, townhall
-:tags: elections, Fedora, fesco, townhall
-:tags: elections, Fedora, fesco, townhall
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: fedora-20-elections-fesco-townhall-confirmed
 
 The `nominees`_ have all marked their preferences on whenisgood. At the

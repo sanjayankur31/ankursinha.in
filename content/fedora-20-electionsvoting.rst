@@ -3,7 +3,7 @@ Fedora 20 elections:Voting!
 :date: 2013-06-16 20:06
 :author: ankur
 :category: Tech
-:tags: Board, elections, FAmSCo, Fedora, FESCo
+:tags: Fedora
 :slug: fedora-20-electionsvoting
 
 The `Fedora 20 election`_ cycle enters the final voting phase tomorrow!  (June 17 at 00:00 UTC)! To vote, please head to the Fedora `voting application`_ and vote for your preferred `FAmSCo`_, `FESCo`_ and `Fedora Board`_ candidates.

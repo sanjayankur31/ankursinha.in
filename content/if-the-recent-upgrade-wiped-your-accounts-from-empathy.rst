@@ -3,14 +3,14 @@ If the recent upgrade "wiped" your accounts from Empathy
 :date: 2010-07-21 19:48
 :author: ankur
 :category: Tech
-:tags: accounts, bugzilla, Empathy, fedora 13, fix, selinux, telepathy-mission-control
-:tags: accounts, bugzilla, Empathy, fedora 13, fix, selinux, telepathy-mission-control
-:tags: accounts, bugzilla, Empathy, fedora 13, fix, selinux, telepathy-mission-control
-:tags: accounts, bugzilla, Empathy, fedora 13, fix, selinux, telepathy-mission-control
-:tags: accounts, bugzilla, Empathy, fedora 13, fix, selinux, telepathy-mission-control
-:tags: accounts, bugzilla, Empathy, fedora 13, fix, selinux, telepathy-mission-control
-:tags: accounts, bugzilla, Empathy, fedora 13, fix, selinux, telepathy-mission-control
-:tags: accounts, bugzilla, Empathy, fedora 13, fix, selinux, telepathy-mission-control
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: if-the-recent-upgrade-wiped-your-accounts-from-empathy
 
 The recent upgrade caused my Empathy client to somehow forget the

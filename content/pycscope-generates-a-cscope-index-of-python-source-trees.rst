@@ -3,10 +3,10 @@ pycscope - Generates a cscope index of Python source trees
 :date: 2012-03-24 19:23
 :author: ankur
 :category: Tech
-:tags: cscope, Fedora, pycscope, python, vim
-:tags: cscope, Fedora, pycscope, python, vim
-:tags: cscope, Fedora, pycscope, python, vim
-:tags: cscope, Fedora, pycscope, python, vim
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: pycscope-generates-a-cscope-index-of-python-source-trees
 
 I've `submitted a package review`_ for `PyCscope`_ which is

@@ -3,10 +3,10 @@ Fedora 12: After release stuff
 :date: 2009-11-18 08:04
 :author: ankur
 :category: Tech
-:tags: Fedora, Fedora 12
-:tags: Fedora, Fedora 12
-:tags: Fedora, Fedora 12
-:tags: Fedora, Fedora 12
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: fedora-12-after-release-stuff
 
 So, F12's been released. Was awesome to see 580+ people on #fedora

@@ -3,7 +3,7 @@ Fedora India meeting minutes
 :date: 2009-11-22 14:36
 :author: ankur
 :category: Tech
-:tags: Fedora India, LUG Manipal
+:tags: Fedora
 :slug: fedora-india-meeting-minutes
 
 From my post to the mailing lists:

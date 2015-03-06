@@ -3,10 +3,10 @@ Presentations for FUDCon KL
 :date: 2012-05-11 16:40
 :author: ankur
 :category: Tech
-:tags: Fedora, fudcon-kl
-:tags: Fedora, fudcon-kl
-:tags: Fedora, fudcon-kl
-:tags: Fedora, fudcon-kl
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: presentations-for-fudcon-kl
 
 I've gotten down to making my presentations. After all, there's only a

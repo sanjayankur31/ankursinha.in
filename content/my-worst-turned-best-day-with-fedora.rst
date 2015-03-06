@@ -3,10 +3,10 @@ My worst turned best day with Fedora
 :date: 2009-08-01 05:58
 :author: ankur
 :category: Tech
-:tags: Fedora 11, Presto
-:tags: Fedora 11, Presto
-:tags: Fedora 11, Presto
-:tags: Fedora 11, Presto
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: my-worst-turned-best-day-with-fedora
 
 Okay, so I finally decided to take it up a notch.

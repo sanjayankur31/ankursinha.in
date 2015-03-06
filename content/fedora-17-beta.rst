@@ -3,10 +3,10 @@ Fedora 17 beta
 :date: 2012-04-14 12:33
 :author: ankur
 :category: Tech
-:tags: broadcom, Fedora17, kernel, linux, RPMFusion, udisks2, USB, wireless
-:tags: broadcom, Fedora17, kernel, linux, RPMFusion, udisks2, USB, wireless
-:tags: broadcom, Fedora17, kernel, linux, RPMFusion, udisks2, USB, wireless
-:tags: broadcom, Fedora17, kernel, linux, RPMFusion, udisks2, USB, wireless
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: fedora-17-beta
 
 To maintain tradition, I installed beta on my system yesterday. Fedora

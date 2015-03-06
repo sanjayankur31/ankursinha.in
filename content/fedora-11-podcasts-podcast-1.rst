@@ -3,10 +3,10 @@ Fedora 11 Podcasts : Podcast 1
 :date: 2009-05-12 14:38
 :author: ankur
 :category: Tech
-:tags: Fedora 11 Podcast
-:tags: Fedora 11 Podcast
-:tags: Fedora 11 Podcast
-:tags: Fedora 11 Podcast
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: fedora-11-podcasts-podcast-1
 
 The First podcast in the Fedora 11 Podcast series can be found `here`_

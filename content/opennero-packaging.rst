@@ -3,10 +3,10 @@ OpenNero packaging
 :date: 2011-12-04 13:05
 :author: ankur
 :category: Tech
-:tags: artificial intelligence, Fedora, machine-learning, opennero, RPM
-:tags: artificial intelligence, Fedora, machine-learning, opennero, RPM
-:tags: artificial intelligence, Fedora, machine-learning, opennero, RPM
-:tags: artificial intelligence, Fedora, machine-learning, opennero, RPM
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: opennero-packaging
 
 OpenNero!

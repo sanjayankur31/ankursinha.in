@@ -3,14 +3,14 @@ Fedora GSoC: Week 7
 :date: 2011-06-14 14:09
 :author: ankur
 :category: Tech
-:tags: Fedora, fedora-medical, gsoc
-:tags: Fedora, fedora-medical, gsoc
-:tags: Fedora, fedora-medical, gsoc
-:tags: Fedora, fedora-medical, gsoc
-:tags: Fedora, fedora-medical, gsoc
-:tags: Fedora, fedora-medical, gsoc
-:tags: Fedora, fedora-medical, gsoc
-:tags: Fedora, fedora-medical, gsoc
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: fedora-gsoc-week-7
 
 This one's a little later than usual. I've been travelling and just

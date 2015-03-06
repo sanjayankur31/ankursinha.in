@@ -3,10 +3,10 @@ xchat-gnome..What can it be?
 :date: 2009-02-11 14:40
 :author: ankur
 :category: Tech
-:tags: bug, bugzilla, Fedora, GNOME, IRC, linux, X server
-:tags: bug, bugzilla, Fedora, GNOME, IRC, linux, X server
-:tags: bug, bugzilla, Fedora, GNOME, IRC, linux, X server
-:tags: bug, bugzilla, Fedora, GNOME, IRC, linux, X server
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: xchat-gnomewhat-can-it-be
 
 Another wierd experience..

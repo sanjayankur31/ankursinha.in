@@ -3,10 +3,10 @@ Trashing from the terminal : non destructively!
 :date: 2010-11-03 18:00
 :author: ankur
 :category: Tech
-:tags: Fedora, linux, rm
-:tags: Fedora, linux, rm
-:tags: Fedora, linux, rm
-:tags: Fedora, linux, rm
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: trashing-from-the-terminal-non-destructively
 
 I've got this habit of using rm and Shift + delete when I come across a

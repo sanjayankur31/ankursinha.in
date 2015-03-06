@@ -3,10 +3,10 @@ Are you a newbie looking to contribute to Fedora? Look at Easyfix!
 :date: 2012-04-26 15:13
 :author: ankur
 :category: Tech
-:tags: contribute, easyfix, Fedora
-:tags: contribute, easyfix, Fedora
-:tags: contribute, easyfix, Fedora
-:tags: contribute, easyfix, Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: are-you-a-newbie-looking-to-contribute-to-fedora
 
 I've often been asked,"I'm new to FOSS. How do I begin contributing? I

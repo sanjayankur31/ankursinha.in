@@ -3,10 +3,10 @@ Learning more on vim
 :date: 2010-06-11 13:56
 :author: ankur
 :category: Tech
-:tags: Fedora, linux, outlining, programming, reording, vim
-:tags: Fedora, linux, outlining, programming, reording, vim
-:tags: Fedora, linux, outlining, programming, reording, vim
-:tags: Fedora, linux, outlining, programming, reording, vim
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: learning-more-on-vim
 
 I've been using vim since I began using Fedora/Linux. Today I came

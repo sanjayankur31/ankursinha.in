@@ -3,10 +3,10 @@ More mpd madness!
 :date: 2012-04-30 19:43
 :author: ankur
 :category: Tech
-:tags: android, droidmpdclient, Fedora, mpd, ncmpc, ncmpcpp
-:tags: android, droidmpdclient, Fedora, mpd, ncmpc, ncmpcpp
-:tags: android, droidmpdclient, Fedora, mpd, ncmpc, ncmpcpp
-:tags: android, droidmpdclient, Fedora, mpd, ncmpc, ncmpcpp
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: more-mpd-madness
 
 I've switched to `ncmpcpp`_ from `ncmpc`_. They're pretty similar, both

@@ -3,7 +3,7 @@ My first app : A command line client for twitter
 :date: 2009-05-14 08:59
 :author: ankur
 :category: Tech
-:tags: C, command line client, curl-devel, libxml2, ncurses, twitter
+:tags: C, command line ent, curl-devel, libxml2, ncurses, twitter
 :slug: my-first-app-a-command-line-client-for-twitter
 
 I've been coding in C for sometime. Been working on a command line app

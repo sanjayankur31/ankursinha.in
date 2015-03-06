@@ -3,10 +3,10 @@ meh... flash on 64bit , for chromium
 :date: 2010-07-08 11:36
 :author: ankur
 :category: Tech
-:tags: chrome, chromium, Fedora, firefox, flash x86_64, linux, nspluginwrapper
-:tags: chrome, chromium, Fedora, firefox, flash x86_64, linux, nspluginwrapper
-:tags: chrome, chromium, Fedora, firefox, flash x86_64, linux, nspluginwrapper
-:tags: chrome, chromium, Fedora, firefox, flash x86_64, linux, nspluginwrapper
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: meh-flash-on-64bit-for-chromium
 
 There's an ongoing `discussion on 64bit flash on the fedora-test list`_.

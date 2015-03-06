@@ -3,14 +3,14 @@ Fedora 20: first impressions and more
 :date: 2013-09-18 17:30
 :author: ankur
 :category: Tech
-:tags: alpha, Fedora, fedora20, hiesenbug
-:tags: alpha, Fedora, fedora20, hiesenbug
-:tags: alpha, Fedora, fedora20, hiesenbug
-:tags: alpha, Fedora, fedora20, hiesenbug
-:tags: alpha, Fedora, fedora20, hiesenbug
-:tags: alpha, Fedora, fedora20, hiesenbug
-:tags: alpha, Fedora, fedora20, hiesenbug
-:tags: alpha, Fedora, fedora20, hiesenbug
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: fedora-20-first-impressions-and-more
 
 [caption id="attachment\_1445" align="aligncenter" width="638"]\ |I

@@ -3,7 +3,7 @@ Fedora article for the LUGM Magazine
 :date: 2009-02-17 08:49
 :author: ankur
 :category: Tech
-:tags: Fedora, LUGM
+:tags: Fedora
 :slug: fedora-article-for-the-lugm-magazine
 
 I've been working on an article on Fedora to be included in the first

@@ -3,10 +3,10 @@ Test from blogtk
 :date: 2012-02-19 18:53
 :author: ankur
 :category: Tech
-:tags: blogtk, Fedora, GNOME, wordpress
-:tags: blogtk, Fedora, GNOME, wordpress
-:tags: blogtk, Fedora, GNOME, wordpress
-:tags: blogtk, Fedora, GNOME, wordpress
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: test-from-blogtk
 
 I've been having trouble with the wordpress web interface lately. It

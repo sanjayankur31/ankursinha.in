@@ -3,14 +3,14 @@ Backing up and restoring Gnotes in F-13
 :date: 2010-05-10 22:14
 :author: ankur
 :category: Tech
-:tags: fedora 13, Gnote
-:tags: fedora 13, Gnote
-:tags: fedora 13, Gnote
-:tags: fedora 13, Gnote
-:tags: fedora 13, Gnote
-:tags: fedora 13, Gnote
-:tags: fedora 13, Gnote
-:tags: fedora 13, Gnote
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: backing-up-and-restoring-gnotes-in-f-13
 
 I'm just putting this out here. I think most are already aware of this.

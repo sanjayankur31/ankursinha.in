@@ -3,10 +3,10 @@ Fedora 20 Elections: Board town hall logs
 :date: 2013-06-14 17:30
 :author: ankur
 :category: Tech
-:tags: elections. board, Fedora, town-hall
-:tags: elections. board, Fedora, town-hall
-:tags: elections. board, Fedora, town-hall
-:tags: elections. board, Fedora, town-hall
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: fedora-20-elections-board-town-hall-logs
 
 | /\* For the .log.html \*/

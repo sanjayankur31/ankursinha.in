@@ -3,10 +3,10 @@ A new Fedora project
 :date: 2009-11-26 09:34
 :author: ankur
 :category: Tech
-:tags: Fedora, Fedora tour
-:tags: Fedora, Fedora tour
-:tags: Fedora, Fedora tour
-:tags: Fedora, Fedora tour
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: a-new-fedora-project
 
 A brainwave is all it takes.  My room mate just reinstalled his Windows

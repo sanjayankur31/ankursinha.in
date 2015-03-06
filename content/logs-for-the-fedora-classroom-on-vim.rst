@@ -3,7 +3,7 @@ Logs for the Fedora classroom on VIM
 :date: 2011-12-14 03:44
 :author: ankur
 :category: Tech
-:tags: Fedora, fedora-classroom, vim
+:tags: Fedora
 :slug: logs-for-the-fedora-classroom-on-vim
 
 We had a longer than expected lesson! Almost two hours! Here are the

@@ -3,10 +3,10 @@ Yin and yang: dd and testdisk
 :date: 2013-05-28 13:07
 :author: ankur
 :category: Tech
-:tags: data-recovery, dd, disk, drive, fdisk, Fedora, linux, partition, testdisk
-:tags: data-recovery, dd, disk, drive, fdisk, Fedora, linux, partition, testdisk
-:tags: data-recovery, dd, disk, drive, fdisk, Fedora, linux, partition, testdisk
-:tags: data-recovery, dd, disk, drive, fdisk, Fedora, linux, partition, testdisk
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: yin-and-yang-dd-and-testdisk
 
 Well, almost.

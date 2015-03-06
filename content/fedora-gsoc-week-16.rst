@@ -3,14 +3,14 @@ Fedora GSoC: Week 16
 :date: 2011-08-15 16:12
 :author: ankur
 :category: Tech
-:tags: Fedora, fedora-medical, gsoc
-:tags: Fedora, fedora-medical, gsoc
-:tags: Fedora, fedora-medical, gsoc
-:tags: Fedora, fedora-medical, gsoc
-:tags: Fedora, fedora-medical, gsoc
-:tags: Fedora, fedora-medical, gsoc
-:tags: Fedora, fedora-medical, gsoc
-:tags: Fedora, fedora-medical, gsoc
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: fedora-gsoc-week-16
 
 Week 16! Woah! That seems like a loong time :D

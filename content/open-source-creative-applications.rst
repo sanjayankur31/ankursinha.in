@@ -3,10 +3,10 @@ Open source creative applications
 :date: 2012-05-28 23:30
 :author: ankur
 :category: Tech
-:tags: creative-apps, Fedora, FOSS, fudconkl2012
-:tags: creative-apps, Fedora, FOSS, fudconkl2012
-:tags: creative-apps, Fedora, FOSS, fudconkl2012
-:tags: creative-apps, Fedora, FOSS, fudconkl2012
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: open-source-creative-applications
 
 I've been meaning to write this post for quite a while now. Ever since I

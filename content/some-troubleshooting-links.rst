@@ -3,10 +3,10 @@ Some troubleshooting links
 :date: 2010-11-29 21:27
 :author: ankur
 :category: Tech
-:tags: aliases, Fedora, IRC, irssi, troubleshooting
-:tags: aliases, Fedora, IRC, irssi, troubleshooting
-:tags: aliases, Fedora, IRC, irssi, troubleshooting
-:tags: aliases, Fedora, IRC, irssi, troubleshooting
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: some-troubleshooting-links
 
 Most of us who hang around on **#fedora** have a number of **aliases**

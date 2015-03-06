@@ -3,10 +3,10 @@ Time and task tracking
 :date: 2013-12-16 01:15
 :author: ankur
 :category: Tech
-:tags: bijiben, Evolution, Fedora, gnome-shell-extension, gtg, hamster-time-tracker, leechblock, planner, taskjuggler
-:tags: bijiben, Evolution, Fedora, gnome-shell-extension, gtg, hamster-time-tracker, leechblock, planner, taskjuggler
-:tags: bijiben, Evolution, Fedora, gnome-shell-extension, gtg, hamster-time-tracker, leechblock, planner, taskjuggler
-:tags: bijiben, Evolution, Fedora, gnome-shell-extension, gtg, hamster-time-tracker, leechblock, planner, taskjuggler
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: time-and-task-tracking
 
 Being a research student is really tough. I mean **tough**. The most

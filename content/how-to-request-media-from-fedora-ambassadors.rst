@@ -3,10 +3,10 @@ How to request media from Fedora Ambassadors
 :date: 2010-07-30 10:20
 :author: ankur
 :category: Tech
-:tags: Fedora, Fedora Ambassadors, free media
-:tags: Fedora, Fedora Ambassadors, free media
-:tags: Fedora, Fedora Ambassadors, free media
-:tags: Fedora, Fedora Ambassadors, free media
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: how-to-request-media-from-fedora-ambassadors
 
 In the wake of a long thread on the Fedora India mailing list, I've

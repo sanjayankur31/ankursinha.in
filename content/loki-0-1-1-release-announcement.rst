@@ -3,10 +3,10 @@ loki-0.1.1 release announcement
 :date: 2010-06-20 13:13
 :author: ankur
 :category: Tech
-:tags: comics, Fedora, libconfig, libcurl, linux, loki, questionable content, xkcd
-:tags: comics, Fedora, libconfig, libcurl, linux, loki, questionable content, xkcd
-:tags: comics, Fedora, libconfig, libcurl, linux, loki, questionable content, xkcd
-:tags: comics, Fedora, libconfig, libcurl, linux, loki, questionable content, xkcd
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: loki-0-1-1-release-announcement
 
 We had shortly discussed an app that notifies the user of a new comic

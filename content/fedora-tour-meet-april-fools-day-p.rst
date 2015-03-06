@@ -3,10 +3,10 @@ fedora-tour meet @ April fools day :P
 :date: 2010-03-31 19:51
 :author: ankur
 :category: Tech
-:tags: Fedora, Fedora Project, Fedora tour
-:tags: Fedora, Fedora Project, Fedora tour
-:tags: Fedora, Fedora Project, Fedora tour
-:tags: Fedora, Fedora Project, Fedora tour
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: fedora-tour-meet-april-fools-day-p
 
 thomasj, subfusc and me met up for a quick meet a few minutes back. It

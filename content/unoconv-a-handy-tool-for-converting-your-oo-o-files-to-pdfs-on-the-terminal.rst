@@ -3,10 +3,10 @@ unoconv : a handy tool for converting your OO.o files to pdfs on the terminal
 :date: 2010-11-29 02:36
 :author: ankur
 :category: misc
-:tags: evince, Fedora, OpenOffice.org, pdf, unoconv
-:tags: evince, Fedora, OpenOffice.org, pdf, unoconv
-:tags: evince, Fedora, OpenOffice.org, pdf, unoconv
-:tags: evince, Fedora, OpenOffice.org, pdf, unoconv
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: unoconv-a-handy-tool-for-converting-your-oo-o-files-to-pdfs-on-the-terminal
 
 I prefer reading a pdf in evince than the .doc or .od? in OO.o. Evince

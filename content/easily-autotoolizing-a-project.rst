@@ -3,14 +3,14 @@ Easily autotoolizing a project
 :date: 2011-08-28 16:17
 :author: ankur
 :category: Tech
-:tags: autotoolize, Fedora, fedora-classroom
-:tags: autotoolize, Fedora, fedora-classroom
-:tags: autotoolize, Fedora, fedora-classroom
-:tags: autotoolize, Fedora, fedora-classroom
-:tags: autotoolize, Fedora, fedora-classroom
-:tags: autotoolize, Fedora, fedora-classroom
-:tags: autotoolize, Fedora, fedora-classroom
-:tags: autotoolize, Fedora, fedora-classroom
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: easily-autotoolizing-a-project
 
 `Here's`_ a great\ `fedora classroom`_ `Siddhesh`_ had taken quite a

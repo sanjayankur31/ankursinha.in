@@ -3,7 +3,7 @@ USB confusion
 :date: 2009-05-17 10:17
 :author: ankur
 :category: Tech
-:tags: Fedora10
+:tags: Fedora
 :slug: usb-cofusion
 
 My USB ports have been working slow. Really slow.. The speeds even

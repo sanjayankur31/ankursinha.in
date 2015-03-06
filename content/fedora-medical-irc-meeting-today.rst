@@ -3,14 +3,14 @@ Fedora medical IRC meeting today
 :date: 2013-09-03 10:28
 :author: ankur
 :category: Tech
-:tags: Fedora, fedora-medical, IRC, meeting, SIG
-:tags: Fedora, fedora-medical, IRC, meeting, SIG
-:tags: Fedora, fedora-medical, IRC, meeting, SIG
-:tags: Fedora, fedora-medical, IRC, meeting, SIG
-:tags: Fedora, fedora-medical, IRC, meeting, SIG
-:tags: Fedora, fedora-medical, IRC, meeting, SIG
-:tags: Fedora, fedora-medical, IRC, meeting, SIG
-:tags: Fedora, fedora-medical, IRC, meeting, SIG
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: fedora-medical-irc-meeting-today
 
 A `fedora-medical`_ IRC meeting will be held in #fedora-meeting/-1/-2

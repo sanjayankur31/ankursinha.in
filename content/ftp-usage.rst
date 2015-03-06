@@ -3,10 +3,10 @@ FTP usage
 :date: 2011-10-04 01:34
 :author: ankur
 :category: Tech
-:tags: android, Fedora, ftp, Gnote, tomdroid
-:tags: android, Fedora, ftp, Gnote, tomdroid
-:tags: android, Fedora, ftp, Gnote, tomdroid
-:tags: android, Fedora, ftp, Gnote, tomdroid
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: ftp-usage
 
 |image0|\ |image1| |image2|

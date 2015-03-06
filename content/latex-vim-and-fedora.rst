@@ -3,10 +3,10 @@ LaTeX, vim and Fedora
 :date: 2012-03-13 00:55
 :author: ankur
 :category: Tech
-:tags: beamer, Fedora, latex, texlive, vim, vim-latex
-:tags: beamer, Fedora, latex, texlive, vim, vim-latex
-:tags: beamer, Fedora, latex, texlive, vim, vim-latex
-:tags: beamer, Fedora, latex, texlive, vim, vim-latex
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: latex-vim-and-fedora
 
 I'm a vim junkie (In spite of Sindre's numerous events to convert me

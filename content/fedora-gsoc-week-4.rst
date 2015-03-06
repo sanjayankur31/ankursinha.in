@@ -3,14 +3,14 @@ Fedora GSoC : Week 4
 :date: 2011-05-22 00:30
 :author: ankur
 :category: Tech
-:tags: Fedora, fedora-medical, FreeDiams, FreeMedForms, openEMR
-:tags: Fedora, fedora-medical, FreeDiams, FreeMedForms, openEMR
-:tags: Fedora, fedora-medical, FreeDiams, FreeMedForms, openEMR
-:tags: Fedora, fedora-medical, FreeDiams, FreeMedForms, openEMR
-:tags: Fedora, fedora-medical, FreeDiams, FreeMedForms, openEMR
-:tags: Fedora, fedora-medical, FreeDiams, FreeMedForms, openEMR
-:tags: Fedora, fedora-medical, FreeDiams, FreeMedForms, openEMR
-:tags: Fedora, fedora-medical, FreeDiams, FreeMedForms, openEMR
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: fedora-gsoc-week-4
 
 Hello and welcome to the weekly news! I, FranciscoD, shall share with

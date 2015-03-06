@@ -3,10 +3,10 @@ Evolution-rss
 :date: 2010-12-27 22:53
 :author: ankur
 :category: Tech
-:tags: Evolution, Fedora, GNOME, RSS
-:tags: Evolution, Fedora, GNOME, RSS
-:tags: Evolution, Fedora, GNOME, RSS
-:tags: Evolution, Fedora, GNOME, RSS
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: evolution-rss
 
  

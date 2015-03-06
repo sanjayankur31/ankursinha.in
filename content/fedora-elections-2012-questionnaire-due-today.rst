@@ -3,14 +3,14 @@ Fedora elections 2012 questionnaire due today!!
 :date: 2012-05-22 09:03
 :author: ankur
 :category: Tech
-:tags: Fedora, fedora-board, fedora-elections, fedora-famsco, fedora-fesco
-:tags: Fedora, fedora-board, fedora-elections, fedora-famsco, fedora-fesco
-:tags: Fedora, fedora-board, fedora-elections, fedora-famsco, fedora-fesco
-:tags: Fedora, fedora-board, fedora-elections, fedora-famsco, fedora-fesco
-:tags: Fedora, fedora-board, fedora-elections, fedora-famsco, fedora-fesco
-:tags: Fedora, fedora-board, fedora-elections, fedora-famsco, fedora-fesco
-:tags: Fedora, fedora-board, fedora-elections, fedora-famsco, fedora-fesco
-:tags: Fedora, fedora-board, fedora-elections, fedora-famsco, fedora-fesco
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: fedora-elections-2012-questionnaire-due-today
 
 The topic says is all! A gentle reminder that the answers to

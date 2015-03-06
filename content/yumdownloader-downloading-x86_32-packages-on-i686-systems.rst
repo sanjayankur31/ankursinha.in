@@ -3,14 +3,14 @@ yumdownloader: downloading x86_64 packages on i686 systems
 :date: 2012-04-04 14:48
 :author: ankur
 :category: Tech
-:tags: Fedora, fedora-electronics-lab, yum
-:tags: Fedora, fedora-electronics-lab, yum
-:tags: Fedora, fedora-electronics-lab, yum
-:tags: Fedora, fedora-electronics-lab, yum
-:tags: Fedora, fedora-electronics-lab, yum
-:tags: Fedora, fedora-electronics-lab, yum
-:tags: Fedora, fedora-electronics-lab, yum
-:tags: Fedora, fedora-electronics-lab, yum
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: yumdownloader-downloading-x86_32-packages-on-i686-systems
 
 Note: This is at best, a hack.

@@ -3,14 +3,14 @@ why fedora-tour won't be a Fedora 14 feature
 :date: 2010-07-08 13:35
 :author: ankur
 :category: Tech
-:tags: clutter, Fedora, fedora 14, Fedora tour, nouveau, pyclutter
-:tags: clutter, Fedora, fedora 14, Fedora tour, nouveau, pyclutter
-:tags: clutter, Fedora, fedora 14, Fedora tour, nouveau, pyclutter
-:tags: clutter, Fedora, fedora 14, Fedora tour, nouveau, pyclutter
-:tags: clutter, Fedora, fedora 14, Fedora tour, nouveau, pyclutter
-:tags: clutter, Fedora, fedora 14, Fedora tour, nouveau, pyclutter
-:tags: clutter, Fedora, fedora 14, Fedora tour, nouveau, pyclutter
-:tags: clutter, Fedora, fedora 14, Fedora tour, nouveau, pyclutter
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: why-fedora-tour-wont-be-a-fedora-14-feature
 
 Frankly, we're working pretty slow. That's the reason, we're not going

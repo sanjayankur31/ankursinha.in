@@ -3,10 +3,10 @@ fedora : using pastebins
 :date: 2011-01-11 08:58
 :author: ankur
 :category: Tech
-:tags: Fedora, fpaste, nautilus, pastebin, pastebinit
-:tags: Fedora, fpaste, nautilus, pastebin, pastebinit
-:tags: Fedora, fpaste, nautilus, pastebin, pastebinit
-:tags: Fedora, fpaste, nautilus, pastebin, pastebinit
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: fedora-using-pastebins
 
 I recently read this `blog post`_ which describes how to paste to the

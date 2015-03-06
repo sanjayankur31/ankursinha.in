@@ -3,10 +3,10 @@ FUDCon India Pune: Day 2
 :date: 2011-11-07 15:37
 :author: ankur
 :category: Tech
-:tags: COEP, Fedora, FOSS, fudconin11, latex, pune, RPM
-:tags: COEP, Fedora, FOSS, fudconin11, latex, pune, RPM
-:tags: COEP, Fedora, FOSS, fudconin11, latex, pune, RPM
-:tags: COEP, Fedora, FOSS, fudconin11, latex, pune, RPM
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: fudcon-india-pune-day-2
 
 Day 2 was hectic! I had all 4 of my talks scheduled, three of them in

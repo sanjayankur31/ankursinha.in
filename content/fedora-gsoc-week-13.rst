@@ -3,14 +3,14 @@ Fedora GSoC: week 13
 :date: 2011-07-25 22:57
 :author: ankur
 :category: Tech
-:tags: Fedora, fedora-medical
-:tags: Fedora, fedora-medical
-:tags: Fedora, fedora-medical
-:tags: Fedora, fedora-medical
-:tags: Fedora, fedora-medical
-:tags: Fedora, fedora-medical
-:tags: Fedora, fedora-medical
-:tags: Fedora, fedora-medical
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: fedora-gsoc-week-13
 
 I only worked 4 days this week. I had to rush back to college for my

@@ -3,7 +3,7 @@ How awesome is this??
 :date: 2009-08-05 17:26
 :author: ankur
 :category: Tech
-:tags: delta rpms, Fedora 11, update, yum, yum presto
+:tags: Fedora
 :slug: how-awesome-is-this
 
 **AWESOME AWESOME AWESOME!!!** That's all I can say..

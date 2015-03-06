@@ -3,7 +3,7 @@ FUDCon Beijing - Day 2
 :date: 2014-06-03 11:19
 :author: ankur
 :category: Tech
-:tags: beijing, Fedora, fudcon, GNOME
+:tags: Fedora
 :slug: fudcon-beijing-day-2
 
 Pre-lunch - Richard Stallman's talk

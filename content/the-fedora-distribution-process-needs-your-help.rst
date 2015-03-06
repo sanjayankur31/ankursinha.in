@@ -3,10 +3,10 @@ The fedora distribution process needs your help!
 :date: 2010-11-23 00:36
 :author: ankur
 :category: Tech
-:tags: ambassadors, distribution, Fedora
-:tags: ambassadors, distribution, Fedora
-:tags: ambassadors, distribution, Fedora
-:tags: ambassadors, distribution, Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: the-fedora-distribution-process-needs-your-help
 
 Hello!! Do you send out fedora media to people? Do you distribute fedora

@@ -3,10 +3,10 @@ Using SURFmex with Octave
 :date: 2012-08-22 07:47
 :author: ankur
 :category: Tech
-:tags: Fedora, octave, surf
-:tags: Fedora, octave, surf
-:tags: Fedora, octave, surf
-:tags: Fedora, octave, surf
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: using-surfmex-with-octave-3
 
 This isn't so much as for others as it's a "note to self".

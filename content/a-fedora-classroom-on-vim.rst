@@ -3,14 +3,14 @@ A Fedora Classroom on VIM.
 :date: 2011-12-09 19:44
 :author: ankur
 :category: Tech
-:tags: Fedora, fedora-classroom, freenode, vim
-:tags: Fedora, fedora-classroom, freenode, vim
-:tags: Fedora, fedora-classroom, freenode, vim
-:tags: Fedora, fedora-classroom, freenode, vim
-:tags: Fedora, fedora-classroom, freenode, vim
-:tags: Fedora, fedora-classroom, freenode, vim
-:tags: Fedora, fedora-classroom, freenode, vim
-:tags: Fedora, fedora-classroom, freenode, vim
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: a-fedora-classroom-on-vim
 
 I intend to hold a classroom session on **VIM** on **Tuesday, December

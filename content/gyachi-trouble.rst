@@ -3,10 +3,10 @@ GyachI trouble
 :date: 2009-07-06 10:38
 :author: ankur
 :category: Tech
-:tags: Fedora, GyachI, Yahoo messenger
-:tags: Fedora, GyachI, Yahoo messenger
-:tags: Fedora, GyachI, Yahoo messenger
-:tags: Fedora, GyachI, Yahoo messenger
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: gyachi-trouble
 
 I was happy using GyachI for my Yahoo messenger needs. Ran outa luck.

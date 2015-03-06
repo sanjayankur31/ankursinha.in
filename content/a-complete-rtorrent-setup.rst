@@ -3,7 +3,7 @@ A complete rtorrent setup
 :date: 2011-02-23 14:31
 :author: ankur
 :category: Tech
-:tags: Fedora, rssdler, rtorrent
+:tags: Fedora
 :slug: a-complete-rtorrent-setup
 
 I wrote a  `blog post`_ recently which gave an overview of how you can

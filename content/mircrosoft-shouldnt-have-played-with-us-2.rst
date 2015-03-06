@@ -3,10 +3,10 @@ Microsoft shouldn't have played with us
 :date: 2009-11-25 05:35
 :author: ankur
 :category: Tech
-:tags: Fedora, Mocrosoft
-:tags: Fedora, Mocrosoft
-:tags: Fedora, Mocrosoft
-:tags: Fedora, Mocrosoft
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: mircrosoft-shouldnt-have-played-with-us-2
 
 Personally, I'm a FOSS lover. But that doesn't make me a "Microsoft

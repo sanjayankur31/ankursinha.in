@@ -3,10 +3,10 @@ A remote mini FAD
 :date: 2011-01-24 13:39
 :author: ankur
 :category: Tech
-:tags: fad, Fedora, wiki
-:tags: fad, Fedora, wiki
-:tags: fad, Fedora, wiki
-:tags: fad, Fedora, wiki
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: a-remote-mini-fad
 
 A few of us `got together a few days back to edit up`_ and show some

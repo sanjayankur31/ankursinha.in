@@ -3,14 +3,14 @@ Minutes from last night's Fedora Medical IRC meeting
 :date: 2013-09-04 09:23
 :author: ankur
 :category: Tech
-:tags: Fedora, fedora-medical, rpm-packaging
-:tags: Fedora, fedora-medical, rpm-packaging
-:tags: Fedora, fedora-medical, rpm-packaging
-:tags: Fedora, fedora-medical, rpm-packaging
-:tags: Fedora, fedora-medical, rpm-packaging
-:tags: Fedora, fedora-medical, rpm-packaging
-:tags: Fedora, fedora-medical, rpm-packaging
-:tags: Fedora, fedora-medical, rpm-packaging
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: minutes-from-last-nights-fedora-medical-irc-meeting
 
 Summary

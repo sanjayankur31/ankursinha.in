@@ -3,14 +3,14 @@ An interesting thread:
 :date: 2010-07-09 19:21
 :author: ankur
 :category: misc
-:tags: fedora 13, GNUCash, mailing list
-:tags: fedora 13, GNUCash, mailing list
-:tags: fedora 13, GNUCash, mailing list
-:tags: fedora 13, GNUCash, mailing list
-:tags: fedora 13, GNUCash, mailing list
-:tags: fedora 13, GNUCash, mailing list
-:tags: fedora 13, GNUCash, mailing list
-:tags: fedora 13, GNUCash, mailing list
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: an-intereting-thread
 
 I've just started using `GNUCash`_ for my meagre accounting needs. I

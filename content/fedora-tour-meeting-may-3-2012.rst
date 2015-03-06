@@ -3,7 +3,7 @@ Fedora Tour meeting May 3 2012
 :date: 2012-05-04 01:22
 :author: ankur
 :category: Tech
-:tags: Fedora, Fedora-tour
+:tags: Fedora
 :slug: fedora-tour-meeting-may-3-2012
 
 Well, I missed the meeting. My network decided it didn't want me to

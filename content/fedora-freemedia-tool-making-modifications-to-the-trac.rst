@@ -3,10 +3,10 @@ fedora freemedia tool: making modifications to the trac?
 :date: 2012-02-17 12:28
 :author: ankur
 :category: Tech
-:tags: api, cURL, curlpp, Fedora, freemedia, libcurl, trac
-:tags: api, cURL, curlpp, Fedora, freemedia, libcurl, trac
-:tags: api, cURL, curlpp, Fedora, freemedia, libcurl, trac
-:tags: api, cURL, curlpp, Fedora, freemedia, libcurl, trac
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: fedora-freemedia-tool-making-modifications-to-the-trac
 
 I got a feature request for the `free media tool`_ that I've been

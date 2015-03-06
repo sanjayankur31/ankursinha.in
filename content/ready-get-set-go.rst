@@ -3,10 +3,10 @@ Ready! Get set!! Go!!!
 :date: 2012-05-15 18:04
 :author: ankur
 :category: Tech
-:tags: Fedora, fudconkl2012
-:tags: Fedora, fudconkl2012
-:tags: Fedora, fudconkl2012
-:tags: Fedora, fudconkl2012
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: ready-get-set-go
 
 |image0|

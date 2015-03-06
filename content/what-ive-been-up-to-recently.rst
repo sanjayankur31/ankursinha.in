@@ -3,14 +3,14 @@ What I've been up to recently
 :date: 2012-03-11 17:51
 :author: ankur
 :category: Tech
-:tags: Fedora, Fedora tour, fedora-freemedia, fedora-videos
-:tags: Fedora, Fedora tour, fedora-freemedia, fedora-videos
-:tags: Fedora, Fedora tour, fedora-freemedia, fedora-videos
-:tags: Fedora, Fedora tour, fedora-freemedia, fedora-videos
-:tags: Fedora, Fedora tour, fedora-freemedia, fedora-videos
-:tags: Fedora, Fedora tour, fedora-freemedia, fedora-videos
-:tags: Fedora, Fedora tour, fedora-freemedia, fedora-videos
-:tags: Fedora, Fedora tour, fedora-freemedia, fedora-videos
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: what-ive-been-up-to-recently
 
 Most recently, I did my laundry ;). The transition from a college

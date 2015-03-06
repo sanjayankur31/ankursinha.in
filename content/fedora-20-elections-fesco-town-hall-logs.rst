@@ -3,7 +3,7 @@ Fedora 20 elections: FESCo town hall logs
 :date: 2013-06-11 04:21
 :author: ankur
 :category: Tech
-:tags: elections, Fedora
+:tags: Fedora
 :slug: fedora-20-elections-fesco-town-hall-logs
 
 ** The meetbot logs are archived at: http://meetbot.fedoraproject.org/fedora-townhall/2013-06-10/.** Just

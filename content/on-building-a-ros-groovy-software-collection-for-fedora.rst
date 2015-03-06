@@ -3,10 +3,10 @@ On building a ROS Groovy Software collection for Fedora
 :date: 2013-08-27 23:47
 :author: ankur
 :category: Tech
-:tags: bloom, catkin, Fedora, fuerte, Groovy, hydro, mock, packaging, ROS, RPM, SCL
-:tags: bloom, catkin, Fedora, fuerte, Groovy, hydro, mock, packaging, ROS, RPM, SCL
-:tags: bloom, catkin, Fedora, fuerte, Groovy, hydro, mock, packaging, ROS, RPM, SCL
-:tags: bloom, catkin, Fedora, fuerte, Groovy, hydro, mock, packaging, ROS, RPM, SCL
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: on-building-a-ros-groovy-software-collection-for-fedora
 
 ROS currently has two stable versions: `Fuerte`_ and `Groovy`_; with

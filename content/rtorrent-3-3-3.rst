@@ -3,10 +3,10 @@ rtorrent
 :date: 2009-11-20 19:54
 :author: ankur
 :category: Tech
-:tags: Fedora, Fedora 12 Constantine, linux, rtorrent
-:tags: Fedora, Fedora 12 Constantine, linux, rtorrent
-:tags: Fedora, Fedora 12 Constantine, linux, rtorrent
-:tags: Fedora, Fedora 12 Constantine, linux, rtorrent
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: rtorrent-3-3-3
 
 So, I'm basically a terminal user. If I could do everything from the

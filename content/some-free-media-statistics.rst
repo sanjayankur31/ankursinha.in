@@ -3,10 +3,10 @@ Some free media statistics
 :date: 2010-09-05 20:32
 :author: ankur
 :category: Tech
-:tags: Fedora, free media, statistics
-:tags: Fedora, free media, statistics
-:tags: Fedora, free media, statistics
-:tags: Fedora, free media, statistics
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: some-free-media-statistics
 
 I was housekeeping the new free media tickets from India this morning.

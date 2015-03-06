@@ -3,7 +3,7 @@ Adding version control to nautilus
 :date: 2013-03-14 04:37
 :author: ankur
 :category: Tech
-:tags: Fedora, git, nautilus, rabbitvcs
+:tags: Fedora
 :slug: adding-version-control-to-nautilus
 
 On my `previous blog post`_, a comment pointed out that nautilus has

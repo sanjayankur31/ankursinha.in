@@ -3,14 +3,14 @@ Article collector page
 :date: 2009-05-13 06:26
 :author: ankur
 :category: Tech
-:tags: Fedora, fedora news, Fedora Project, fedora reviews
-:tags: Fedora, fedora news, Fedora Project, fedora reviews
-:tags: Fedora, fedora news, Fedora Project, fedora reviews
-:tags: Fedora, fedora news, Fedora Project, fedora reviews
-:tags: Fedora, fedora news, Fedora Project, fedora reviews
-:tags: Fedora, fedora news, Fedora Project, fedora reviews
-:tags: Fedora, fedora news, Fedora Project, fedora reviews
-:tags: Fedora, fedora news, Fedora Project, fedora reviews
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: article-collector-page
 
 Recently `Rahul and Paul had discussed`_ what they could do to

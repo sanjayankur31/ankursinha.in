@@ -3,10 +3,10 @@ GNUnify 2010 at Pune
 :date: 2010-03-06 09:30
 :author: ankur
 :category: Tech
-:tags: Fedora, FOSS, GNUnify 2010
-:tags: Fedora, FOSS, GNUnify 2010
-:tags: Fedora, FOSS, GNUnify 2010
-:tags: Fedora, FOSS, GNUnify 2010
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: gnunify-2010-at-pune
 
 I'm pretty late with this one. All thanks to the excessive work that's

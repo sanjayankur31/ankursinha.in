@@ -3,14 +3,14 @@ fedora hosts fedora-tour ;)
 :date: 2009-12-19 11:57
 :author: ankur
 :category: Tech
-:tags: Fedora 12, fedora 13, Fedora tour, fedorahosted.org, git, pygtk
-:tags: Fedora 12, fedora 13, Fedora tour, fedorahosted.org, git, pygtk
-:tags: Fedora 12, fedora 13, Fedora tour, fedorahosted.org, git, pygtk
-:tags: Fedora 12, fedora 13, Fedora tour, fedorahosted.org, git, pygtk
-:tags: Fedora 12, fedora 13, Fedora tour, fedorahosted.org, git, pygtk
-:tags: Fedora 12, fedora 13, Fedora tour, fedorahosted.org, git, pygtk
-:tags: Fedora 12, fedora 13, Fedora tour, fedorahosted.org, git, pygtk
-:tags: Fedora 12, fedora 13, Fedora tour, fedorahosted.org, git, pygtk
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: fedora-hosts-fedora-tour
 
 `fedora-tour`_ has been given its `fedora-hosted space`_!!

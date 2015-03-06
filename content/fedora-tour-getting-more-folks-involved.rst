@@ -3,10 +3,10 @@ Fedora tour : getting more folks involved
 :date: 2010-04-12 23:05
 :author: ankur
 :category: Tech
-:tags: Fedora, Fedora Project, Fedora tour, pyclutter
-:tags: Fedora, Fedora Project, Fedora tour, pyclutter
-:tags: Fedora, Fedora Project, Fedora tour, pyclutter
-:tags: Fedora, Fedora Project, Fedora tour, pyclutter
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: fedora-tour-getting-more-folks-involved
 
 So, there's a `FAD planned at Pune`_ towards the end of May. If you look

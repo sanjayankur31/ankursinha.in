@@ -3,10 +3,10 @@ Presto won't make it to F11
 :date: 2009-05-02 14:02
 :author: ankur
 :category: Tech
-:tags: Fedora, Fedora Project, yum presto
-:tags: Fedora, Fedora Project, yum presto
-:tags: Fedora, Fedora Project, yum presto
-:tags: Fedora, Fedora Project, yum presto
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: presto-wont-make-it-to-f11-2
 
 "Sad Panda" as Paul refers to it. Presto won't make it to F11. It's sad

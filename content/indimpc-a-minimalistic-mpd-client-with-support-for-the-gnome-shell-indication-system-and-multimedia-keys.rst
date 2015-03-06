@@ -3,10 +3,10 @@ indimpc: A minimalistic MPD client with support for the gnome-shell indication s
 :date: 2011-12-07 20:38
 :author: ankur
 :category: Tech
-:tags: Fedora, indimpc, mpd
-:tags: Fedora, indimpc, mpd
-:tags: Fedora, indimpc, mpd
-:tags: Fedora, indimpc, mpd
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: indimpc-a-minimalistic-mpd-client-with-support-for-the-gnome-shell-indication-system-and-multimedia-keys
 
 I've packaged up `indimpc`_ for Fedora. The tar does not have a license

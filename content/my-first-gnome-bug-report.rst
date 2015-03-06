@@ -3,10 +3,10 @@ My first gnome bug report
 :date: 2010-05-11 10:25
 :author: ankur
 :category: Tech
-:tags: Evolution, Fedora
-:tags: Evolution, Fedora
-:tags: Evolution, Fedora
-:tags: Evolution, Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: my-first-gnome-bug-report
 
 I filed my first gnome bug report today. Until now, I was limited to

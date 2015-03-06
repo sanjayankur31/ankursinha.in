@@ -3,10 +3,10 @@ Updating all your fedora package git directories
 :date: 2012-02-23 20:34
 :author: ankur
 :category: Tech
-:tags: Fedora, git, Packages, update
-:tags: Fedora, git, Packages, update
-:tags: Fedora, git, Packages, update
-:tags: Fedora, git, Packages, update
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: updating-all-your-fedora-package-git-directories
 
 Most package maintainers already know this (*or use something way

@@ -3,14 +3,14 @@ Fedora GSoC: Week 15
 :date: 2011-08-07 14:22
 :author: ankur
 :category: Tech
-:tags: Fedora, fedora-gsoc, fedora-medical, gsoc
-:tags: Fedora, fedora-gsoc, fedora-medical, gsoc
-:tags: Fedora, fedora-gsoc, fedora-medical, gsoc
-:tags: Fedora, fedora-gsoc, fedora-medical, gsoc
-:tags: Fedora, fedora-gsoc, fedora-medical, gsoc
-:tags: Fedora, fedora-gsoc, fedora-medical, gsoc
-:tags: Fedora, fedora-gsoc, fedora-medical, gsoc
-:tags: Fedora, fedora-gsoc, fedora-medical, gsoc
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: fedora-gsoc-week-15
 
 Woah! Week 15!

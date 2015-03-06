@@ -3,7 +3,7 @@ F11 to release on 2nd of June
 :date: 2009-05-20 04:52
 :author: ankur
 :category: Tech
-:tags: Fedora11, Fedora
+:tags: Fedora
 :slug: f11-to-release-on-2nd-of-june
 
 From Jesse's post on the list..

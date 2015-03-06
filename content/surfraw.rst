@@ -3,10 +3,10 @@ surfraw
 :date: 2010-07-10 02:30
 :author: ankur
 :category: Tech
-:tags: Fedora, surfraw
-:tags: Fedora, surfraw
-:tags: Fedora, surfraw
-:tags: Fedora, surfraw
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: surfraw
 
 I just came across `surfraw`_. It's awesome!

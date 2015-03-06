@@ -3,7 +3,7 @@ Fedora 20 elections: FAmSCo townhall logs
 :date: 2013-06-12 07:34
 :author: ankur
 :category: Tech
-:tags: elections, Fedora
+:tags: Fedora
 :slug: fedora-20-elections-famsco-townhall-logs
 
 ** Complete logs archived here http://meetbot.fedoraproject.org/fedora-townhall/2013-06-11/**

@@ -3,10 +3,10 @@ I did 19 review requests this past year!
 :date: 2011-01-12 11:16
 :author: ankur
 :category: Tech
-:tags: Fedora, packaging, review
-:tags: Fedora, packaging, review
-:tags: Fedora, packaging, review
-:tags: Fedora, packaging, review
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: i-did-19-review-requests-this-past-year
 
 Woah! That's not a bad number at all. `Here's`_ the complete report that

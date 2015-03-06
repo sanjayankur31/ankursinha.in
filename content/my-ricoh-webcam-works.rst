@@ -3,14 +3,14 @@ My ricoh webcam works!!!!
 :date: 2010-06-27 16:38
 :author: ankur
 :category: Tech
-:tags: Fedora 10, fedora 13, ricoh webcam, RPMFusion
-:tags: Fedora 10, fedora 13, ricoh webcam, RPMFusion
-:tags: Fedora 10, fedora 13, ricoh webcam, RPMFusion
-:tags: Fedora 10, fedora 13, ricoh webcam, RPMFusion
-:tags: Fedora 10, fedora 13, ricoh webcam, RPMFusion
-:tags: Fedora 10, fedora 13, ricoh webcam, RPMFusion
-:tags: Fedora 10, fedora 13, ricoh webcam, RPMFusion
-:tags: Fedora 10, fedora 13, ricoh webcam, RPMFusion
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: my-ricoh-webcam-works
 
 I have a ricoh webcam inbuilt in my dv6000 laptop. I had an awful time

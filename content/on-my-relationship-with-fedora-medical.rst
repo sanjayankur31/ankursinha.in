@@ -3,14 +3,14 @@ On my relationship with fedora medical
 :date: 2012-02-16 16:35
 :author: ankur
 :category: Tech
-:tags: Fedora, fedora-medical, gsoc2011
-:tags: Fedora, fedora-medical, gsoc2011
-:tags: Fedora, fedora-medical, gsoc2011
-:tags: Fedora, fedora-medical, gsoc2011
-:tags: Fedora, fedora-medical, gsoc2011
-:tags: Fedora, fedora-medical, gsoc2011
-:tags: Fedora, fedora-medical, gsoc2011
-:tags: Fedora, fedora-medical, gsoc2011
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: on-my-relationship-with-fedora-medical
 
 **Of late, I've had to deal with the fact that people believe that the

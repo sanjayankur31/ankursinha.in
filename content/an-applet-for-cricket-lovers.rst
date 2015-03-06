@@ -3,10 +3,10 @@ An applet for cricket lovers
 :date: 2010-05-12 08:25
 :author: ankur
 :category: Tech
-:tags: cricket, Fedora, GNOME applet, linux
-:tags: cricket, Fedora, GNOME applet, linux
-:tags: cricket, Fedora, GNOME applet, linux
-:tags: cricket, Fedora, GNOME applet, linux
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: an-applet-for-cricket-lovers
 
 Arun has already `blogged`_ about this. This is a more "technical" post

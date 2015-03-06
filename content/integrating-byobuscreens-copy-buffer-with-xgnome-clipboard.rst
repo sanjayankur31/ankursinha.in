@@ -3,10 +3,10 @@ Integrating byobu/screen's copy buffer with X/Gnome clipboard
 :date: 2012-06-23 17:16
 :author: ankur
 :category: Tech
-:tags: byobu, clipboard, command-line, Fedora, GNOME, linux, parcellite, screen, X
-:tags: byobu, clipboard, command-line, Fedora, GNOME, linux, parcellite, screen, X
-:tags: byobu, clipboard, command-line, Fedora, GNOME, linux, parcellite, screen, X
-:tags: byobu, clipboard, command-line, Fedora, GNOME, linux, parcellite, screen, X
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: integrating-byobuscreens-copy-buffer-with-xgnome-clipboard
 
 I use `byobu`_ with a `screen`_ backend on xterm. I've been trying to

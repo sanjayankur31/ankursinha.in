@@ -3,10 +3,10 @@ NEURON simulator on Fedora
 :date: 2014-02-18 07:58
 :author: ankur
 :category: Tech
-:tags: computational neuroscience, computational-modelling, copr, Fedora, research
-:tags: computational neuroscience, computational-modelling, copr, Fedora, research
-:tags: computational neuroscience, computational-modelling, copr, Fedora, research
-:tags: computational neuroscience, computational-modelling, copr, Fedora, research
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: neuron-simulator-on-fedora
 
 I've been meaning to package up NEURON for Fedora for a while now. From

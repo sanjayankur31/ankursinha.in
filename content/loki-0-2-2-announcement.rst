@@ -3,14 +3,14 @@ loki-0.2.2 announcement
 :date: 2010-06-29 23:57
 :author: ankur
 :category: Tech
-:tags: fedora 13, libconfig, libcurl, libnotify, loki, web comics, xkcd, yum
-:tags: fedora 13, libconfig, libcurl, libnotify, loki, web comics, xkcd, yum
-:tags: fedora 13, libconfig, libcurl, libnotify, loki, web comics, xkcd, yum
-:tags: fedora 13, libconfig, libcurl, libnotify, loki, web comics, xkcd, yum
-:tags: fedora 13, libconfig, libcurl, libnotify, loki, web comics, xkcd, yum
-:tags: fedora 13, libconfig, libcurl, libnotify, loki, web comics, xkcd, yum
-:tags: fedora 13, libconfig, libcurl, libnotify, loki, web comics, xkcd, yum
-:tags: fedora 13, libconfig, libcurl, libnotify, loki, web comics, xkcd, yum
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: loki-0-2-2-announcement
 
 `I recently announced the availability of loki-0.1.1`_, the first

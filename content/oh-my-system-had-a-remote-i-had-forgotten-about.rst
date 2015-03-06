@@ -3,10 +3,10 @@ Oh! my system had a remote I had forgotten about!!
 :date: 2010-08-28 16:16
 :author: ankur
 :category: Tech
-:tags: Fedora, linux, remote controller
-:tags: Fedora, linux, remote controller
-:tags: Fedora, linux, remote controller
-:tags: Fedora, linux, remote controller
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: oh-my-system-had-a-remote-i-had-forgotten-about
 
 [caption id="attachment\_407" align="aligncenter" width="283"

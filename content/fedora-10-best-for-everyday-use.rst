@@ -3,10 +3,10 @@ Fedora 10 : best for everyday use.. :)
 :date: 2009-05-12 07:00
 :author: ankur
 :category: misc
-:tags: Fedora, Fedora 10, Fedora Project
-:tags: Fedora, Fedora 10, Fedora Project
-:tags: Fedora, Fedora 10, Fedora Project
-:tags: Fedora, Fedora 10, Fedora Project
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: fedora-10-best-for-everyday-use
 
 From

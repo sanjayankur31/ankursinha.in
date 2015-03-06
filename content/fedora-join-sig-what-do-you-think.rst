@@ -3,14 +3,14 @@ Fedora Join SIG: what do you think?
 :date: 2012-06-14 18:01
 :author: ankur
 :category: Tech
-:tags: Fedora, Fedora community, fedora-join
-:tags: Fedora, Fedora community, fedora-join
-:tags: Fedora, Fedora community, fedora-join
-:tags: Fedora, Fedora community, fedora-join
-:tags: Fedora, Fedora community, fedora-join
-:tags: Fedora, Fedora community, fedora-join
-:tags: Fedora, Fedora community, fedora-join
-:tags: Fedora, Fedora community, fedora-join
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: fedora-join-sig-what-do-you-think
 
 .. raw:: html

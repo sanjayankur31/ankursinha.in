@@ -3,10 +3,10 @@ Learnt a little more..
 :date: 2009-03-18 02:52
 :author: ankur
 :category: Tech
-:tags: betckna font, bugzilla, Fedora, Font packaging, mock
-:tags: betckna font, bugzilla, Fedora, Font packaging, mock
-:tags: betckna font, bugzilla, Fedora, Font packaging, mock
-:tags: betckna font, bugzilla, Fedora, Font packaging, mock
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: learnt-a-little-more
 
 I've taken another small step with my font packaging.

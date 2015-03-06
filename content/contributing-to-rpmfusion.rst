@@ -3,10 +3,10 @@ Contributing to RPMFusion
 :date: 2011-01-07 09:40
 :author: ankur
 :category: Tech
-:tags: Fedora, FretsOnFire, RPMFusion
-:tags: Fedora, FretsOnFire, RPMFusion
-:tags: Fedora, FretsOnFire, RPMFusion
-:tags: Fedora, FretsOnFire, RPMFusion
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: contributing-to-rpmfusion
 
 I've had "contribute to RPMFusion" on my TODO list for a while now. I've

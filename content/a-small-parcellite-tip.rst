@@ -3,10 +3,10 @@ A small parcellite tip
 :date: 2012-03-21 01:52
 :author: ankur
 :category: Tech
-:tags: bug, Fedora, parcellite, sourceforge, X server
-:tags: bug, Fedora, parcellite, sourceforge, X server
-:tags: bug, Fedora, parcellite, sourceforge, X server
-:tags: bug, Fedora, parcellite, sourceforge, X server
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: a-small-parcellite-tip
 
 .. raw:: html

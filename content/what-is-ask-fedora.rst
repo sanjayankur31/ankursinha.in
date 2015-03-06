@@ -3,14 +3,14 @@ What is Ask Fedora?
 :date: 2011-09-30 15:43
 :author: ankur
 :category: Tech
-:tags: ask-fedora, Fedora
-:tags: ask-fedora, Fedora
-:tags: ask-fedora, Fedora
-:tags: ask-fedora, Fedora
-:tags: ask-fedora, Fedora
-:tags: ask-fedora, Fedora
-:tags: ask-fedora, Fedora
-:tags: ask-fedora, Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
+:tags: Fedora
 :slug: what-is-ask-fedora
 
 `Ask fedora`_ is a question-answer style user forum where everyone can
