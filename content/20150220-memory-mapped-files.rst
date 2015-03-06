@@ -109,7 +109,6 @@ objects:
 
 ::
 
-
     std::vector<boost::iostreams::mapped_file_source> raster_data_source_E;     std::ostringstream converter;
 
     for (unsigned int i = 0; i < parameters.mpi\_ranks; ++i)
@@ -121,7 +120,6 @@ objects:
     raster\_data\_source\_E.emplace\_back(boost::iostreams::mapped\_file\_source());
     raster\_data\_source\_E[i].open(converter.str());
     }
-
 
 Now, we have the files mapped. Let's say my files have data from 0 to
 3600 seconds. I need to count the firing rate of my neurons at 2000
@@ -138,7 +136,6 @@ respectively.
 My implementations look like this:
 
 ::
-
 
     /* 
      * ===  FUNCTION  ======================================================================
@@ -158,7 +155,6 @@ My implementations look like this:
         unsigned long int step = 0;
         unsigned long int sizeofstruct = sizeof(struct spikeEvent_type);
         struct spikeEvent_type *currentRecord = NULL;
-
 
         /*  start of last record */
         spikesStart =  (char *)openMapSource.data();
@@ -214,7 +210,6 @@ My implementations look like this:
         return currentSpike;
     }       /* -----  end of function binary_upper_bound  ----- */
 
-
     /* 
      * ===  FUNCTION  ======================================================================
      *         Name:  binary_lower_bound
@@ -233,7 +228,6 @@ My implementations look like this:
         unsigned long int step = 0;
         unsigned long int sizeofstruct = sizeof(struct spikeEvent_type);
         struct spikeEvent_type *currentRecord = NULL;
-
 
         /*  start of last record */
         spikesStart =  (char *)openMapSource.data();

@@ -15,7 +15,6 @@ Here's how I went about it:
 The kickstart file looks like this (I install KDE on my eeepc to keep in
 touch with it. I use gnome on my main system):
 
-
 .. code-block:: bash
 
     #version=DEVEL
@@ -54,7 +53,6 @@ I used two pen drives. One for the installer, and another to provide the
 kickstart. Get the UUID of your pen drive using the **'blkid'** command.
 This will be required.
 
-
 To make the kickstart available to your eeepc during installation, hit
 ESCAPE when you get to the installer screen. You'll be dropped to a
 **boot:** prompt.
@@ -62,7 +60,6 @@ ESCAPE when you get to the installer screen. You'll be dropped to a
 .. code-block:: bash
 
     linux ks=hd:UUID=:/
-
 
 Tha'ts all really. Sit back, or go take a walk. When you get back, you
 have Fedora ready to use!

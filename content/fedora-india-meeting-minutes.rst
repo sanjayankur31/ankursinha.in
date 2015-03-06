@@ -40,7 +40,6 @@ From my post to the mailing lists:
     16. rtnpro (1)
     17. yevlempy (1)
 
-
     There were two topics on the agenda as posted on the mailing list:
     - F12 release events
     - Tamil team

@@ -29,7 +29,6 @@ task. It's `available`_ in the Fedora repositories for Fedora 20+:
 
     A vit screenshot.
 
-
 Task warrior server
 -------------------
 
@@ -135,7 +134,6 @@ the same thing. To edit it by hand, I did:
     taskd.ca=/home/asinha/.task/ca.cert.pem
     taskd.trust=yes
 
-
 If I'd used the ``task config`` command, it'd be this:
 
 .. code-block:: bash
@@ -192,7 +190,6 @@ my Mirakel configuration file looks like this:
     # PLACE CONTENTS OF ~/.task/ca.cert.pem here
     -----END CERTIFICATE-----
 
-
 Once your configuration file is ready, place it on your android
 device and add a new Mirakel user using this file:
 
@@ -207,9 +204,7 @@ device and add a new Mirakel user using this file:
     :target: {filename}/images/2014-07-31-04.39.19.png
     :alt: Mirakel screenshot
 
-
     Mirakel screenshot
-
 
 It'll add a new user. You can then play around with the settings and set
 up your sync frequency etc. These steps are quite clearly documented
@@ -227,7 +222,6 @@ Now, you have Mirakel up and running:
     :alt: Mirakel screenshot 2
 
     Mirakel screenshot 2
-
 
 A couple of things to keep in mind
 ----------------------------------

@@ -18,7 +18,6 @@ time, we'd like an established web developer to come in and help us
 reduce the learning time and get down to the implementation as soon as
 possible. 
 
-
 **Are you a web developer? **
 
 **Do you have some free cycles? **

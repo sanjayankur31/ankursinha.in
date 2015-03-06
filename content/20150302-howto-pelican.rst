@@ -26,5 +26,4 @@ Requirements
 
 - Your favourite text editor
 
-
 .. _Fedora: http://fedoraproject.org 
