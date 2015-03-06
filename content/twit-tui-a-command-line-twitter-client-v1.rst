@@ -14,10 +14,10 @@ teach myself app. development. I've reached a stage where I'm going to
 stop adding to it. Here are the features that I've implemented in it.
 They seem enough :)
 
-| - Status updates recieve/send/delete/reply/retweet
-|  - Direct messages send/receive/delete
-|  - autologin ( a simple conf file is needed )
-|  - proxy support (i haven't had time to test this)
+- Status updates recieve/send/delete/reply/retweet
+- Direct messages send/receive/delete
+- autologin ( a simple conf file is needed )
+- proxy support (i haven't had time to test this)
 
 There are more features that could have been included. I'm leaving them
 for the future ( if i have the time and interest ).
@@ -36,7 +36,5 @@ Please read the README before proceeding.
 The tar :
 http://ankursinha.fedorapeople.org/twit_tui/twit_tui-1.0.tar.bz2
 
-| **I'm looking forward to advice and tips from all coders who give it a
-try.. Learning is the actual intention here ...
-**
-|  Cheers :)
+**I'm looking forward to advice and tips from all coders who give it a try. Learning is the actual intention here.**
+Cheers :)
