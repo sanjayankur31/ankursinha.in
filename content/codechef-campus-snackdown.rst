@@ -12,8 +12,8 @@ Here's a mail I got from CodeChef . The contest is only for Indian
 students this time, and weirdly enough falls right in between my end sem
 exams. :(
 
-    | Hi Ankur,
-    |  I’m writing to let you know about the**`CodeChef Campus
+    Hi Ankur,
+    I’m writing to let you know about the**`CodeChef Campus
     SnackDown`_**, our biggest contest ever, specifically for Indian
     college students.
 
@@ -40,7 +40,7 @@ exams. :(
     · Prizes of Rs 3 lakhs in cash to be won!!
 
     So go ahead and ask your members to register their teams
-    here:\ http://www.codechef.com/teams/register/SNACKDWN
+    here:http://www.codechef.com/teams/register/SNACKDWN
 
     We have given the details about the contest on our blog:
     http://blog.codechef.com/2009/10/27/the-super-gigantic-mega-announcement/
