@@ -4,22 +4,13 @@ VIM Classroom for beginners repeat for APAC
 :author: ankur
 :category: Tech
 :tags: Fedora, fedora-classroom, vim
-:tags: Fedora, fedora-classroom, vim
-:tags: Fedora, fedora-classroom, vim
-:tags: Fedora, fedora-classroom, vim
-:tags: Fedora, fedora-classroom, vim
-:tags: Fedora, fedora-classroom, vim
-:tags: Fedora, fedora-classroom, vim
-:tags: Fedora, fedora-classroom, vim
 :slug: vim-classroom-for-beginners-repeat-for-apac
 
 Hi there!
 
-| As promised, I'm going to repeat the **VIM class for beginners**
-tomorrow at
-|  **2100 IST (1530 UTC)** to suit APAC. I'm going to cover more or less
-the
-|  same points I covered in the initial class. Please try and make it :)
+As promised, I'm going to repeat the **VIM class for beginners** tomorrow at
+**2100 IST (1530 UTC)** to suit APAC. I'm going to cover more or less
+the same points I covered in the initial class. Please try and make it :)
 
 **The venue of course, is #fedora-classroom on Freenode.**
 
