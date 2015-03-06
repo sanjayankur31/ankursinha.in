@@ -2,7 +2,7 @@ Announcing: Fedora Join SIG!
 ############################
 :date: 2012-06-16 02:24
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, fedora-join
 :tags: Fedora, fedora-join
 :tags: Fedora, fedora-join

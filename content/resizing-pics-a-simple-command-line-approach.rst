@@ -2,7 +2,7 @@ Resizing pics : A simple command line approach
 ##############################################
 :date: 2010-11-06 18:17
 :author: ankur
-:category: FOSS
+:category: Tech
 :slug: resizing-pics-a-simple-command-line-approach
 
 First install the required package:

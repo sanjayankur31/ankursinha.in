@@ -2,7 +2,7 @@ Article collector page
 ######################
 :date: 2009-05-13 06:26
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, fedora news, Fedora Project, fedora reviews
 :tags: Fedora, fedora news, Fedora Project, fedora reviews
 :tags: Fedora, fedora news, Fedora Project, fedora reviews

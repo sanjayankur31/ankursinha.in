@@ -2,7 +2,7 @@ Evolution user dir change
 #########################
 :date: 2011-01-07 09:38
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Evolution, Fedora
 :tags: Evolution, Fedora
 :tags: Evolution, Fedora

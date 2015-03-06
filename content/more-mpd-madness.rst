@@ -2,7 +2,7 @@ More mpd madness!
 #################
 :date: 2012-04-30 19:43
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: android, droidmpdclient, Fedora, mpd, ncmpc, ncmpcpp
 :tags: android, droidmpdclient, Fedora, mpd, ncmpc, ncmpcpp
 :tags: android, droidmpdclient, Fedora, mpd, ncmpc, ncmpcpp

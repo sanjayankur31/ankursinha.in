@@ -2,7 +2,7 @@ Nomination period for fedora elections closes today! Have you nominated yet?!
 #############################################################################
 :date: 2012-11-13 05:06
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: board, elections, famsco, Fedora, fesco, nominations, questionnaire
 :tags: board, elections, famsco, Fedora, fesco, nominations, questionnaire
 :tags: board, elections, famsco, Fedora, fesco, nominations, questionnaire

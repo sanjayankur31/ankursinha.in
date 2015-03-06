@@ -2,7 +2,7 @@ If the recent upgrade "wiped" your accounts from Empathy
 ########################################################
 :date: 2010-07-21 19:48
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: accounts, bugzilla, Empathy, fedora 13, fix, selinux, telepathy-mission-control
 :tags: accounts, bugzilla, Empathy, fedora 13, fix, selinux, telepathy-mission-control
 :tags: accounts, bugzilla, Empathy, fedora 13, fix, selinux, telepathy-mission-control

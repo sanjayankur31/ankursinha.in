@@ -2,7 +2,7 @@ Fedora 20: first impressions and more
 #####################################
 :date: 2013-09-18 17:30
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: alpha, Fedora, fedora20, hiesenbug
 :tags: alpha, Fedora, fedora20, hiesenbug
 :tags: alpha, Fedora, fedora20, hiesenbug

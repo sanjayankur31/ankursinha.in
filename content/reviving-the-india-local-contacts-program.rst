@@ -2,7 +2,7 @@ Reviving the India Local Contacts program
 #########################################
 :date: 2011-12-07 20:55
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, Fedora Ambassadors, Fedora India, local-contacts
 :tags: Fedora, Fedora Ambassadors, Fedora India, local-contacts
 :tags: Fedora, Fedora Ambassadors, Fedora India, local-contacts

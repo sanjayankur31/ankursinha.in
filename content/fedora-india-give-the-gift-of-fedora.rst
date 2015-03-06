@@ -2,7 +2,7 @@ Fedora India : Give the gift of Fedora!
 #######################################
 :date: 2010-09-23 21:35
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, free media, join
 :tags: Fedora, free media, join
 :tags: Fedora, free media, join

@@ -2,7 +2,7 @@ threecovers
 ###########
 :date: 2009-02-10 14:15
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: amarok, cover manager, linux
 :slug: threecovers
 

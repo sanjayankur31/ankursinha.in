@@ -2,7 +2,7 @@ My first FAD ever!
 ##################
 :date: 2010-06-01 22:28
 :author: ankur
-:category: FOSS
+:category: Tech
 :slug: my-first-fad-ever
 
 I've been around the Fedora Community for a while now.  It's been almost

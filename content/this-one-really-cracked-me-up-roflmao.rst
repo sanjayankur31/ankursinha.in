@@ -2,7 +2,7 @@ This one really cracked me up. roflmao
 ######################################
 :date: 2009-10-04 06:22
 :author: ankur
-:category: FOSS
+:category: Tech
 :slug: this-one-really-cracked-me-up-roflmao
 
 Its been a really  long time since I came across one of these.. Couldn't

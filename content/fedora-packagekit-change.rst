@@ -2,7 +2,7 @@ Fedora : PackageKit change
 ##########################
 :date: 2009-11-20 04:52
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora 12, PackageKit, PolicyKit
 :tags: Fedora 12, PackageKit, PolicyKit
 :tags: Fedora 12, PackageKit, PolicyKit

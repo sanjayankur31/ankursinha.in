@@ -2,7 +2,7 @@ Reminder: Questionnaire and nomination dead lines
 #################################################
 :date: 2013-05-22 12:36
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: elections, famsco, Fedora, fedora-board, fedora20, fesco, naming, questionnaire
 :tags: elections, famsco, Fedora, fedora-board, fedora20, fesco, naming, questionnaire
 :tags: elections, famsco, Fedora, fedora-board, fedora20, fesco, naming, questionnaire

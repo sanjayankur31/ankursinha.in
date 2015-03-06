@@ -2,7 +2,7 @@ Fedora 11 links..
 #################
 :date: 2009-05-02 10:00
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, Fedora 10, Fedora Project, Leonidus, new release, reign
 :tags: Fedora, Fedora 10, Fedora Project, Leonidus, new release, reign
 :tags: Fedora, Fedora 10, Fedora Project, Leonidus, new release, reign

@@ -2,7 +2,7 @@ fedora-freemedia-tool version 0.2alpha
 ######################################
 :date: 2012-02-16 01:01
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: autotools, boost, C, curlpp, Fedora, fedora-freemedia, git, ImageMagick, sqlite
 :tags: autotools, boost, C, curlpp, Fedora, fedora-freemedia, git, ImageMagick, sqlite
 :tags: autotools, boost, C, curlpp, Fedora, fedora-freemedia, git, ImageMagick, sqlite

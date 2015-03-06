@@ -2,7 +2,7 @@ Learning more on vim
 ####################
 :date: 2010-06-11 13:56
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, linux, outlining, programming, reording, vim
 :tags: Fedora, linux, outlining, programming, reording, vim
 :tags: Fedora, linux, outlining, programming, reording, vim

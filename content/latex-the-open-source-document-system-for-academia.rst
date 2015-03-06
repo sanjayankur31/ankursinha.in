@@ -2,7 +2,7 @@ LaTeX: the open source document system for academia
 ###################################################
 :date: 2011-11-03 00:21
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: fudcon, latex, pune
 :slug: latex-the-open-source-document-system-for-academia
 

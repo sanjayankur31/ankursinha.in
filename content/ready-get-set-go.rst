@@ -2,7 +2,7 @@ Ready! Get set!! Go!!!
 ######################
 :date: 2012-05-15 18:04
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, fudconkl2012
 :tags: Fedora, fudconkl2012
 :tags: Fedora, fudconkl2012

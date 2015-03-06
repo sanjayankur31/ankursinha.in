@@ -2,7 +2,7 @@ The "easyfix" key word for bugzilla
 ###################################
 :date: 2012-02-23 20:46
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: bugzilla, easyfix, Fedora, freenode, IRC
 :tags: bugzilla, easyfix, Fedora, freenode, IRC
 :tags: bugzilla, easyfix, Fedora, freenode, IRC

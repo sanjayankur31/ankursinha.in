@@ -2,7 +2,7 @@ Using SURFmex with Octave
 #########################
 :date: 2012-08-22 07:47
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, octave, surf
 :tags: Fedora, octave, surf
 :tags: Fedora, octave, surf

@@ -2,7 +2,7 @@ Compiling the cp210x module for use with the NAO
 ################################################
 :date: 2012-08-23 12:00
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, kernel, kernel-module, nao, robots
 :tags: Fedora, kernel, kernel-module, nao, robots
 :tags: Fedora, kernel, kernel-module, nao, robots

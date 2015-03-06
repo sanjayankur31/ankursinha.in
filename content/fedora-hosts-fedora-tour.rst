@@ -2,7 +2,7 @@ fedora hosts fedora-tour ;)
 ###########################
 :date: 2009-12-19 11:57
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora 12, fedora 13, Fedora tour, fedorahosted.org, git, pygtk
 :tags: Fedora 12, fedora 13, Fedora tour, fedorahosted.org, git, pygtk
 :tags: Fedora 12, fedora 13, Fedora tour, fedorahosted.org, git, pygtk

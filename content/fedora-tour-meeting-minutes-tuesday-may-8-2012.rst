@@ -2,7 +2,7 @@ Fedora Tour meeting minutes: Tuesday May 8 2012
 ###############################################
 :date: 2012-05-09 15:14
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, Fedora tour
 :tags: Fedora, Fedora tour
 :tags: Fedora, Fedora tour

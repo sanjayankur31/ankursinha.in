@@ -2,7 +2,7 @@ FUDCon Kuala Lumpur: Day -1, 0, 1
 #################################
 :date: 2012-05-20 10:32
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, fudconkl2012
 :tags: Fedora, fudconkl2012
 :tags: Fedora, fudconkl2012

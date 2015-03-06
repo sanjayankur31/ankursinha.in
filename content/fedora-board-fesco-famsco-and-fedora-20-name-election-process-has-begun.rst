@@ -2,7 +2,7 @@ Fedora Board, FESCo, FAmSCo and Fedora 20 name election process has begun!
 ##########################################################################
 :date: 2013-05-15 13:36
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: board, famsco, Fedora, fedora20, fesco, governance, naming, nominations, voting
 :tags: board, famsco, Fedora, fedora20, fesco, governance, naming, nominations, voting
 :tags: board, famsco, Fedora, fedora20, fesco, governance, naming, nominations, voting

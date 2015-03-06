@@ -2,7 +2,7 @@ I did 19 review requests this past year!
 ########################################
 :date: 2011-01-12 11:16
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, packaging, review
 :tags: Fedora, packaging, review
 :tags: Fedora, packaging, review

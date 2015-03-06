@@ -2,7 +2,7 @@ Minutes from last night's Fedora Medical IRC meeting
 ####################################################
 :date: 2013-09-04 09:23
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, fedora-medical, rpm-packaging
 :tags: Fedora, fedora-medical, rpm-packaging
 :tags: Fedora, fedora-medical, rpm-packaging

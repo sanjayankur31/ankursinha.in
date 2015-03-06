@@ -2,7 +2,7 @@ Gnome 3.12 (3.11.90) on Fedora 20: A peek!
 ##########################################
 :date: 2014-02-21 05:31
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, gnome-3.12
 :tags: Fedora, gnome-3.12
 :tags: Fedora, gnome-3.12

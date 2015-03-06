@@ -2,7 +2,7 @@ loki renamed "hleahtor"
 #######################
 :date: 2010-07-17 22:54
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, hleahtor, linux, loki, programming
 :tags: Fedora, hleahtor, linux, loki, programming
 :tags: Fedora, hleahtor, linux, loki, programming

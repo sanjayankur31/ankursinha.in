@@ -2,7 +2,7 @@ The 406 error conundrum!
 ########################
 :date: 2013-08-30 13:34
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, httplib2, mod_security, Planet, python, venus, wordpress
 :tags: Fedora, httplib2, mod_security, Planet, python, venus, wordpress
 :tags: Fedora, httplib2, mod_security, Planet, python, venus, wordpress

@@ -2,7 +2,7 @@
 #####################
 :date: 2010-03-14 12:52
 :author: ankur
-:category: FOSS
+:category: Tech
 :slug: hello-world-again
 
 The title is significant, since I've been off blogging for quite a

@@ -2,7 +2,7 @@ nautilus-pastebin now in fedora
 ###############################
 :date: 2010-05-05 22:26
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, fpaste, nautilus, nautilus-extension, nautilus-pastebin, RPM
 :tags: Fedora, fpaste, nautilus, nautilus-extension, nautilus-pastebin, RPM
 :tags: Fedora, fpaste, nautilus, nautilus-extension, nautilus-pastebin, RPM

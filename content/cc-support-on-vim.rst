@@ -2,7 +2,7 @@ CC++ support on VIM
 ###################
 :date: 2010-11-01 15:58
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: C, programming, vim
 :slug: cc-support-on-vim
 

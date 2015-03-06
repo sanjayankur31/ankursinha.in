@@ -2,7 +2,7 @@ Fedora 20 elections: FESCo town hall logs
 #########################################
 :date: 2013-06-11 04:21
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: elections, Fedora, fesco, freenode, town-hall
 :tags: elections, Fedora, fesco, freenode, town-hall
 :tags: elections, Fedora, fesco, freenode, town-hall

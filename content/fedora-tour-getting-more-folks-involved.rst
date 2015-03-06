@@ -2,7 +2,7 @@ Fedora tour : getting more folks involved
 #########################################
 :date: 2010-04-12 23:05
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, Fedora Project, Fedora tour, pyclutter
 :tags: Fedora, Fedora Project, Fedora tour, pyclutter
 :tags: Fedora, Fedora Project, Fedora tour, pyclutter

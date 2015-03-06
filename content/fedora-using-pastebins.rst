@@ -2,7 +2,7 @@ fedora : using pastebins
 ########################
 :date: 2011-01-11 08:58
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, fpaste, nautilus, pastebin, pastebinit
 :tags: Fedora, fpaste, nautilus, pastebin, pastebinit
 :tags: Fedora, fpaste, nautilus, pastebin, pastebinit

@@ -2,7 +2,7 @@ If your wireless stops working after the kernel update
 ######################################################
 :date: 2011-08-13 17:55
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, wireless
 :tags: Fedora, wireless
 :tags: Fedora, wireless

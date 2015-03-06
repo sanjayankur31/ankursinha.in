@@ -2,7 +2,7 @@ This is not a rant.
 ###################
 :date: 2011-12-08 03:43
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, Fedora India
 :tags: Fedora, Fedora India
 :tags: Fedora, Fedora India

@@ -2,7 +2,7 @@ Fedora Ambassadors' survey
 ##########################
 :date: 2011-12-08 10:12
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: ambassadors, Fedora, survey
 :tags: ambassadors, Fedora, survey
 :tags: ambassadors, Fedora, survey

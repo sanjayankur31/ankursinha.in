@@ -2,7 +2,7 @@ Twit_tui.. made some improvements
 #################################
 :date: 2009-05-24 19:13
 :author: ankur
-:category: FOSS
+:category: Tech
 :slug: twit_tui-made-some-improvements
 
 Well, I can't keep myself from coding even during my endsems.. Got just

@@ -2,7 +2,7 @@ The status of free media program in India: A quick update
 #########################################################
 :date: 2012-02-08 13:02
 :author: ankur
-:category: FOSS
+:category: Tech
 :slug: the-status-of-free-media-program-in-india-a-quick-update
 
 -  Active contributors(as per `this page`_\ listing): **20**

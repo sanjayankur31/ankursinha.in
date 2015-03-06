@@ -2,7 +2,7 @@ A Fedora Classroom on VIM.
 ##########################
 :date: 2011-12-09 19:44
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, fedora-classroom, freenode, vim
 :tags: Fedora, fedora-classroom, freenode, vim
 :tags: Fedora, fedora-classroom, freenode, vim

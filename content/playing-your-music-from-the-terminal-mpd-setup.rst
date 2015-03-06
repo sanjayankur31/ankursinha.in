@@ -2,7 +2,7 @@ Playing your music from the terminal : mpd setup
 ################################################
 :date: 2011-02-26 15:06
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: linux, mpd, ncmpc
 :slug: playing-your-music-from-the-terminal-mpd-setup
 

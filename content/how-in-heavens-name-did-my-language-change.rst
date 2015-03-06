@@ -2,7 +2,7 @@ How in heaven's name did my language change?
 ############################################
 :date: 2011-10-05 18:40
 :author: ankur
-:category: FOSS
+:category: Tech
 :slug: how-in-heavens-name-did-my-language-change
 
 I checked for an update. FF7 was available. I ran yum update. On reboot,

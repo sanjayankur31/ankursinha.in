@@ -2,7 +2,7 @@ Free Media statistics for the month of September
 ################################################
 :date: 2010-09-30 15:36
 :author: ankur
-:category: FOSS
+:category: Tech
 :slug: free-media-statistics-for-the-month-of-september
 
 Fulfilled Tickets:

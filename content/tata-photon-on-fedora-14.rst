@@ -2,7 +2,7 @@ Tata Photon+ on Fedora 14
 #########################
 :date: 2011-02-10 19:53
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: linux, tataphoton
 :slug: tata-photon-on-fedora-14
 

@@ -2,7 +2,7 @@ How I came about learning awk
 #############################
 :date: 2011-02-03 15:36
 :author: ankur
-:category: FOSS
+:category: Tech
 :slug: how-i-came-about-learning-awk
 
 Well, at current, I'm interning at the `IISc`_, as a research intern. A

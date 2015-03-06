@@ -2,7 +2,7 @@ The F12 beta experience!
 ########################
 :date: 2009-11-04 11:49
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, Fedora 11 Leonidas, Fedora 12 beta, Fedora 12 Constantine, Network Manager, Rawhide
 :tags: Fedora, Fedora 11 Leonidas, Fedora 12 beta, Fedora 12 Constantine, Network Manager, Rawhide
 :tags: Fedora, Fedora 11 Leonidas, Fedora 12 beta, Fedora 12 Constantine, Network Manager, Rawhide

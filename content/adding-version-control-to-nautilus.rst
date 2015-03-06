@@ -2,7 +2,7 @@ Adding version control to nautilus
 ##################################
 :date: 2013-03-14 04:37
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, git, nautilus, rabbitvcs
 :tags: Fedora, git, nautilus, rabbitvcs
 :tags: Fedora, git, nautilus, rabbitvcs

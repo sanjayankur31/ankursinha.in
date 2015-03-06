@@ -2,7 +2,7 @@ Unavailable till the end of July
 ################################
 :date: 2012-07-07 15:41
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, unavailable
 :tags: Fedora, unavailable
 :tags: Fedora, unavailable

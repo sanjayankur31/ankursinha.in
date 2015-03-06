@@ -2,7 +2,7 @@ What have I been upto?
 ######################
 :date: 2012-08-09 18:55
 :author: ankur
-:category: FOSS
+:category: Tech
 :slug: what-have-i-been-upto
 
 Quite a bit actually! I've recently moved to Sydney to pursue a Masters

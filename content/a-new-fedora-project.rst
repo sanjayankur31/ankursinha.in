@@ -2,7 +2,7 @@ A new Fedora project
 ####################
 :date: 2009-11-26 09:34
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, Fedora tour
 :tags: Fedora, Fedora tour
 :tags: Fedora, Fedora tour

@@ -3,7 +3,7 @@
 
 :date: 2015-03-02 10:39
 :tags: Pelican, Wordpress
-:category: FOSS
+:category: Tech
 :slug: howto-pelican
 :author: ankur
 :lang: en

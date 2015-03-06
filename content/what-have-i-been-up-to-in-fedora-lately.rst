@@ -2,7 +2,7 @@ What have I been up to in Fedora lately?
 ########################################
 :date: 2013-08-29 11:29
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: apac, Fedora, fedora-medical, Groovy, packaging, QA, ROS, updates-testing
 :tags: apac, Fedora, fedora-medical, Groovy, packaging, QA, ROS, updates-testing
 :tags: apac, Fedora, fedora-medical, Groovy, packaging, QA, ROS, updates-testing

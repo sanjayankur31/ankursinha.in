@@ -2,7 +2,7 @@ Installing the openni_camera ros groovy package on Fedora 18
 ############################################################
 :date: 2013-04-08 15:09
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: build, catkin, fedora18, openni_camera, PR2, ros-groovy
 :tags: build, catkin, fedora18, openni_camera, PR2, ros-groovy
 :tags: build, catkin, fedora18, openni_camera, PR2, ros-groovy

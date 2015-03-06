@@ -2,7 +2,7 @@ On building a ROS Groovy Software collection for Fedora
 #######################################################
 :date: 2013-08-27 23:47
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: bloom, catkin, Fedora, fuerte, Groovy, hydro, mock, packaging, ROS, RPM, SCL
 :tags: bloom, catkin, Fedora, fuerte, Groovy, hydro, mock, packaging, ROS, RPM, SCL
 :tags: bloom, catkin, Fedora, fuerte, Groovy, hydro, mock, packaging, ROS, RPM, SCL

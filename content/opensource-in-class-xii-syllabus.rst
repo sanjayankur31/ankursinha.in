@@ -2,7 +2,7 @@ OpenSource in class XII syllabus !!
 ###################################
 :date: 2009-05-22 09:25
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: linux, OpenSource
 :slug: opensource-in-class-xii-syllabus
 

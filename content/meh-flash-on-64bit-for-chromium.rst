@@ -2,7 +2,7 @@ meh... flash on 64bit , for chromium
 ####################################
 :date: 2010-07-08 11:36
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: chrome, chromium, Fedora, firefox, flash x86_64, linux, nspluginwrapper
 :tags: chrome, chromium, Fedora, firefox, flash x86_64, linux, nspluginwrapper
 :tags: chrome, chromium, Fedora, firefox, flash x86_64, linux, nspluginwrapper

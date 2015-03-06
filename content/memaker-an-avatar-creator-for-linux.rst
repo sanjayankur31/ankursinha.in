@@ -2,7 +2,7 @@ MeMaker - an avatar creator for linux
 #####################################
 :date: 2011-01-11 08:12
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, memaker
 :tags: Fedora, memaker
 :tags: Fedora, memaker

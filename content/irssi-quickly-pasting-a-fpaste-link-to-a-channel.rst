@@ -2,7 +2,7 @@ irssi : quickly pasting an fpaste link to a channel
 ###################################################
 :date: 2010-12-03 18:21
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: exec, Fedora, fpaste, IRC, irssi
 :tags: exec, Fedora, fpaste, IRC, irssi
 :tags: exec, Fedora, fpaste, IRC, irssi

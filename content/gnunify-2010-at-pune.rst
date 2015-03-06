@@ -2,7 +2,7 @@ GNUnify 2010 at Pune
 ####################
 :date: 2010-03-06 09:30
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, FOSS, GNUnify 2010
 :tags: Fedora, FOSS, GNUnify 2010
 :tags: Fedora, FOSS, GNUnify 2010

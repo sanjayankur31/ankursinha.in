@@ -2,7 +2,7 @@ nutritional software for Linux
 ##############################
 :date: 2010-07-17 14:18
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: DMAK, euphoria programming language, Fedora, fedora packaging, linux, Nut, nutritional software, tapeworm
 :tags: DMAK, euphoria programming language, Fedora, fedora packaging, linux, Nut, nutritional software, tapeworm
 :tags: DMAK, euphoria programming language, Fedora, fedora packaging, linux, Nut, nutritional software, tapeworm

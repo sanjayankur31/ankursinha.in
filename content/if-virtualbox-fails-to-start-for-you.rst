@@ -2,7 +2,7 @@ If VirtualBox fails to start for you ...
 ########################################
 :date: 2010-11-03 23:01
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, glibc, linux, VirtualBox
 :tags: Fedora, glibc, linux, VirtualBox
 :tags: Fedora, glibc, linux, VirtualBox

@@ -2,7 +2,7 @@ My first batch of free media for the month
 ##########################################
 :date: 2011-03-09 19:07
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, freemedia
 :tags: Fedora, freemedia
 :tags: Fedora, freemedia

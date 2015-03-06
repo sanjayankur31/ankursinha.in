@@ -2,7 +2,7 @@ Fedora Tour needs web developers
 ################################
 :date: 2012-04-20 16:20
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, Fedora tour, web application
 :tags: Fedora, Fedora tour, web application
 :tags: Fedora, Fedora tour, web application

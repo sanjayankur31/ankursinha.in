@@ -2,7 +2,7 @@ Fedora 20 elections:Voting!
 ###########################
 :date: 2013-06-16 20:06
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: board, elections, famsco, Fedora, fesco, range-voting, voting
 :tags: board, elections, famsco, Fedora, fesco, range-voting, voting
 :tags: board, elections, famsco, Fedora, fesco, range-voting, voting

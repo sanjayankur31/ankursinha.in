@@ -2,7 +2,7 @@ An applet for cricket lovers
 ############################
 :date: 2010-05-12 08:25
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: cricket, Fedora, GNOME applet, linux
 :tags: cricket, Fedora, GNOME applet, linux
 :tags: cricket, Fedora, GNOME applet, linux

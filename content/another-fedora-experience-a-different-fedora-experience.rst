@@ -2,7 +2,7 @@ Another Fedora experience, a different Fedora experience
 ########################################################
 :date: 2010-09-27 18:26
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, free media
 :tags: Fedora, free media
 :tags: Fedora, free media

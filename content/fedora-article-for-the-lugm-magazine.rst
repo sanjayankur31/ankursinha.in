@@ -2,7 +2,7 @@ Fedora article for the LUGM Magazine
 ####################################
 :date: 2009-02-17 08:49
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, Fedora Project, linux, LUGM, Open Source, Red Hat Inc.
 :tags: Fedora, Fedora Project, linux, LUGM, Open Source, Red Hat Inc.
 :tags: Fedora, Fedora Project, linux, LUGM, Open Source, Red Hat Inc.

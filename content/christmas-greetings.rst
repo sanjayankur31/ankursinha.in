@@ -2,7 +2,7 @@ Christmas Greetings!!
 #####################
 :date: 2009-12-25 12:37
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: 2010, Chrismas
 :slug: christmas-greetings
 

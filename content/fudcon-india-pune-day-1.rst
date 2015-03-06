@@ -2,7 +2,7 @@ FUDCon India Pune: Day 1
 ########################
 :date: 2011-11-04 17:40
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, fudcon, pune
 :tags: Fedora, fudcon, pune
 :tags: Fedora, fudcon, pune

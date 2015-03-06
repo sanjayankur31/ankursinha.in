@@ -2,7 +2,7 @@ LaTeX, vim and Fedora
 #####################
 :date: 2012-03-13 00:55
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: beamer, Fedora, latex, texlive, vim, vim-latex
 :tags: beamer, Fedora, latex, texlive, vim, vim-latex
 :tags: beamer, Fedora, latex, texlive, vim, vim-latex

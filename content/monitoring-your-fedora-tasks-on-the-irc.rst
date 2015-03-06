@@ -2,7 +2,7 @@ Monitoring your Fedora tasks on the IRC
 #######################################
 :date: 2013-08-26 23:02
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: fedmsg, Fedora, freenode, gnome-shell, irssi
 :tags: fedmsg, Fedora, freenode, gnome-shell, irssi
 :tags: fedmsg, Fedora, freenode, gnome-shell, irssi

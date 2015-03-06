@@ -2,7 +2,7 @@ Fedora Community screen saver
 #############################
 :date: 2009-10-31 07:43
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, Fedora community
 :tags: Fedora, Fedora community
 :tags: Fedora, Fedora community

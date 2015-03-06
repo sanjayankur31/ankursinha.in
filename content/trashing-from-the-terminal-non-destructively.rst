@@ -2,7 +2,7 @@ Trashing from the terminal : non destructively!
 ###############################################
 :date: 2010-11-03 18:00
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, linux, rm
 :tags: Fedora, linux, rm
 :tags: Fedora, linux, rm

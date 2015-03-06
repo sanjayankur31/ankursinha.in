@@ -2,7 +2,7 @@ Freemedia in Australia
 ######################
 :date: 2013-02-10 16:59
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: australia, Fedora, freemedia
 :tags: australia, Fedora, freemedia
 :tags: australia, Fedora, freemedia

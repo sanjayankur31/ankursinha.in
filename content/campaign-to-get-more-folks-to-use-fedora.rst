@@ -2,7 +2,7 @@ Campaign to get more folks to use Fedora
 ########################################
 :date: 2009-08-18 17:37
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora 11
 :tags: Fedora 11
 :tags: Fedora 11

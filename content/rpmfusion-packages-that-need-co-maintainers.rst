@@ -2,7 +2,7 @@ RPMFusion packages that need co-maintainers
 ###########################################
 :date: 2011-10-16 17:38
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, RPMFusion
 :tags: Fedora, RPMFusion
 :tags: Fedora, RPMFusion

@@ -2,7 +2,7 @@ Codechef Campus SnackDown
 #########################
 :date: 2009-11-06 13:26
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Codechef
 :slug: codechef-campus-snackdown
 

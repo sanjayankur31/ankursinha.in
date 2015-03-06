@@ -2,7 +2,7 @@ vim : copying to the system clipboard
 #####################################
 :date: 2010-11-28 11:32
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: clipboard, Fedora, gnome-terminal, vim, vim-enhanced, xterm
 :tags: clipboard, Fedora, gnome-terminal, vim, vim-enhanced, xterm
 :tags: clipboard, Fedora, gnome-terminal, vim, vim-enhanced, xterm

@@ -2,7 +2,7 @@ Fedora 12: After release stuff
 ##############################
 :date: 2009-11-18 08:04
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, Fedora 12
 :tags: Fedora, Fedora 12
 :tags: Fedora, Fedora 12

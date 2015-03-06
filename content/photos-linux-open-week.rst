@@ -2,7 +2,7 @@ Photos : Linux Open Week
 ########################
 :date: 2009-03-31 16:40
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, Install Fest, linux, LUGManipal, Open Week
 :tags: Fedora, Install Fest, linux, LUGManipal, Open Week
 :tags: Fedora, Install Fest, linux, LUGManipal, Open Week

@@ -2,7 +2,7 @@ Evolution-rss
 #############
 :date: 2010-12-27 22:53
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Evolution, Fedora, GNOME, RSS
 :tags: Evolution, Fedora, GNOME, RSS
 :tags: Evolution, Fedora, GNOME, RSS

@@ -2,7 +2,7 @@ Yin and yang: dd and testdisk
 #############################
 :date: 2013-05-28 13:07
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: data-recovery, dd, disk, drive, fdisk, Fedora, linux, partition, testdisk
 :tags: data-recovery, dd, disk, drive, fdisk, Fedora, linux, partition, testdisk
 :tags: data-recovery, dd, disk, drive, fdisk, Fedora, linux, partition, testdisk

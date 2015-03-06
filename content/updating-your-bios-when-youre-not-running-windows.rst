@@ -2,7 +2,7 @@ Updating your BIOS when you're not running Windows
 ##################################################
 :date: 2012-11-06 13:42
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: bios, bugzilla, Dell, freedos, linux, rescue, software, suspend
 :slug: updating-your-bios-when-youre-not-running-windows
 

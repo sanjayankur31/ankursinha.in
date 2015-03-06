@@ -2,7 +2,7 @@ F 15 turns on hot russian girls?!?
 ##################################
 :date: 2011-05-25 12:01
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, random
 :tags: Fedora, random
 :tags: Fedora, random

@@ -2,7 +2,7 @@ Open Week teaser:
 #################
 :date: 2009-02-09 17:53
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, Install Fest, linux, LUG Manipal, Packages, Planet fedora
 :tags: Fedora, Install Fest, linux, LUG Manipal, Packages, Planet fedora
 :tags: Fedora, Install Fest, linux, LUG Manipal, Packages, Planet fedora

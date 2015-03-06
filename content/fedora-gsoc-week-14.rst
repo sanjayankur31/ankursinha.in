@@ -2,7 +2,7 @@ Fedora GSoC: Week 14
 ####################
 :date: 2011-08-01 12:25
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, fedora-gsoc, fedora-medical, gsoc, RPM
 :tags: Fedora, fedora-gsoc, fedora-medical, gsoc, RPM
 :tags: Fedora, fedora-gsoc, fedora-medical, gsoc, RPM

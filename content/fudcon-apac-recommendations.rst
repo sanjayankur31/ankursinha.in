@@ -2,7 +2,7 @@ FUDCon APAC Recommendations
 ###########################
 :date: 2012-02-25 14:37
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: apac, Fedora, Fedora Ambassadors, fudcon
 :tags: apac, Fedora, Fedora Ambassadors, fudcon
 :tags: apac, Fedora, Fedora Ambassadors, fudcon

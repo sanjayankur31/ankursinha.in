@@ -2,7 +2,7 @@ Task updates
 ############
 :date: 2011-04-16 15:22
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, gcj, gsoc, pondicherry
 :tags: Fedora, gcj, gsoc, pondicherry
 :tags: Fedora, gcj, gsoc, pondicherry

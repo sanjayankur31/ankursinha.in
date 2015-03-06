@@ -2,7 +2,7 @@ Setting up rygel on your Fedora system
 ######################################
 :date: 2013-05-12 15:51
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: android, dlna, Fedora, firewalld, rygel, totem, upnp
 :tags: android, dlna, Fedora, firewalld, rygel, totem, upnp
 :tags: android, dlna, Fedora, firewalld, rygel, totem, upnp

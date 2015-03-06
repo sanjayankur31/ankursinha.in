@@ -2,7 +2,7 @@ Contributing to RPMFusion
 #########################
 :date: 2011-01-07 09:40
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, FretsOnFire, RPMFusion
 :tags: Fedora, FretsOnFire, RPMFusion
 :tags: Fedora, FretsOnFire, RPMFusion

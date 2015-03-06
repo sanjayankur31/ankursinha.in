@@ -2,7 +2,7 @@ A small Ask Fedora update and request for more community participation
 ######################################################################
 :date: 2013-06-03 14:13
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: askfedora, Fedora, forum, troubleshooting
 :tags: askfedora, Fedora, forum, troubleshooting
 :tags: askfedora, Fedora, forum, troubleshooting

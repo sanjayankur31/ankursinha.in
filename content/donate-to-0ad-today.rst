@@ -2,7 +2,7 @@ Donate to 0ad today!
 ####################
 :date: 2013-09-19 23:13
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: 0ad, age of empires, donate, Fedora, game development
 :tags: 0ad, age of empires, donate, Fedora, game development
 :tags: 0ad, age of empires, donate, Fedora, game development

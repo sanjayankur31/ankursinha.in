@@ -2,7 +2,7 @@ On the new xps format - hell
 ############################
 :date: 2010-12-28 12:56
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: format, linux, OpenOffice.org, pdf, xps
 :slug: on-the-new-xps-format-hell
 

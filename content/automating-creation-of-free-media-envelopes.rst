@@ -2,7 +2,7 @@ Automating creation of Free media envelopes
 ###########################################
 :date: 2011-04-19 15:59
 :author: ankur
-:category: FOSS
+:category: Tech
 :slug: automating-creation-of-free-media-envelopes
 
 I've accepted a lot of requests this month. It's because Rahul sent me

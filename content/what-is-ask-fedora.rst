@@ -2,7 +2,7 @@ What is Ask Fedora?
 ###################
 :date: 2011-09-30 15:43
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: ask-fedora, Fedora
 :tags: ask-fedora, Fedora
 :tags: ask-fedora, Fedora

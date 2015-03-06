@@ -2,7 +2,7 @@ WTF??? C++ ??
 #############
 :date: 2009-05-23 13:21
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: C, linux
 :slug: wtf-c
 

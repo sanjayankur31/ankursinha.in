@@ -2,7 +2,7 @@ Fedora Elections questionnaire responses are up!!
 #################################################
 :date: 2012-05-23 22:59
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: famsco, Fedora, fedora-board, fedora-elections, fesco
 :tags: famsco, Fedora, fedora-board, fedora-elections, fesco
 :tags: famsco, Fedora, fedora-board, fedora-elections, fesco

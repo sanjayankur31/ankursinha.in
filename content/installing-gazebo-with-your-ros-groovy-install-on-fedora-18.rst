@@ -2,7 +2,7 @@ Installing gazebo with your ros groovy install on Fedora 18
 ###########################################################
 :date: 2013-04-08 22:04
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, gazebo, PR2, ROS, simulator, yum
 :tags: Fedora, gazebo, PR2, ROS, simulator, yum
 :tags: Fedora, gazebo, PR2, ROS, simulator, yum

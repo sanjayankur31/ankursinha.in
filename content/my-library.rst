@@ -2,7 +2,7 @@ My library
 ##########
 :date: 2012-02-18 18:28
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: alexandria, books
 :slug: my-library
 

@@ -2,7 +2,7 @@ Keyboard shortcuts to control mpd
 #################################
 :date: 2011-06-20 12:45
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, gnome-shell, mpc, mpd, ncmpc
 :tags: Fedora, gnome-shell, mpc, mpd, ncmpc
 :tags: Fedora, gnome-shell, mpc, mpd, ncmpc

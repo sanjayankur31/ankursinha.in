@@ -2,7 +2,7 @@ mpdE (0.0.2 release): A daemon that picks the currently playing song from mpd an
 ################################################################################################################
 :date: 2011-09-03 10:49
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Empathy, mpd, telepathy-glib
 :slug: mpde-0-0-2-release-a-daemon-that-picks-the-currently-playing-song-from-mpd-and-sets-it-as-your-empathy-status
 

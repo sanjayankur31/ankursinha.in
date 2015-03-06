@@ -2,7 +2,7 @@ A small parcellite tip
 ######################
 :date: 2012-03-21 01:52
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: bug, Fedora, parcellite, sourceforge, X server
 :tags: bug, Fedora, parcellite, sourceforge, X server
 :tags: bug, Fedora, parcellite, sourceforge, X server

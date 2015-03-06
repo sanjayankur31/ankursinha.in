@@ -2,7 +2,7 @@ FUDCon India Pune: Booklet
 ##########################
 :date: 2011-10-19 10:58
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: booklet, COEP, Fedora, fudcon, inkscape, pune
 :tags: booklet, COEP, Fedora, fudcon, inkscape, pune
 :tags: booklet, COEP, Fedora, fudcon, inkscape, pune

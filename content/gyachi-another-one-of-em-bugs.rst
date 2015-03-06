@@ -2,7 +2,7 @@ GyachI. Another one of 'em bugs??
 #################################
 :date: 2009-07-07 11:59
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: bugzilla, GyachI
 :slug: gyachi-another-one-of-em-bugs
 

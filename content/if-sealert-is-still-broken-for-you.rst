@@ -2,7 +2,7 @@ if sealert is still broken for you
 ##################################
 :date: 2011-07-04 08:13
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, report-gtk, sealert, selinux
 :tags: Fedora, report-gtk, sealert, selinux
 :tags: Fedora, report-gtk, sealert, selinux

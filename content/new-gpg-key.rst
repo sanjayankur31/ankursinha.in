@@ -2,7 +2,7 @@ New GPG key
 ###########
 :date: 2013-05-29 19:38
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: gpg
 :slug: new-gpg-key
 

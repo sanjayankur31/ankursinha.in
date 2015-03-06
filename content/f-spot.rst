@@ -2,7 +2,7 @@ F-spot ..
 #########
 :date: 2009-07-04 09:33
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: F-spot, Fedora, linux
 :tags: F-spot, Fedora, linux
 :tags: F-spot, Fedora, linux

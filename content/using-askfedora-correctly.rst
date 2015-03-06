@@ -2,7 +2,7 @@ Using askfedora correctly
 #########################
 :date: 2012-02-02 10:02
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: askfedora, Fedora
 :tags: askfedora, Fedora
 :tags: askfedora, Fedora

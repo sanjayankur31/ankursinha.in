@@ -2,7 +2,7 @@ FUDCon Beijing - Day -1 and Day 0
 #################################
 :date: 2014-05-29 09:51
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: beijing, Fedora, fudcon, fudpub
 :tags: beijing, Fedora, fudcon, fudpub
 :tags: beijing, Fedora, fudcon, fudpub

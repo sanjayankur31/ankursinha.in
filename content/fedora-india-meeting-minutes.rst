@@ -2,7 +2,7 @@ Fedora India meeting minutes
 ############################
 :date: 2009-11-22 14:36
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora India, linux, LUG Manipal, meetbot
 :tags: Fedora India, linux, LUG Manipal, meetbot
 :tags: Fedora India, linux, LUG Manipal, meetbot

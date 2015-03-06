@@ -2,7 +2,7 @@ Unix : the  "working set" algorithm
 ###################################
 :date: 2010-12-04 23:04
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Demand Paging, LRU, operating systems, Unix, Working set
 :slug: unix-the-working-set-algorithm
 

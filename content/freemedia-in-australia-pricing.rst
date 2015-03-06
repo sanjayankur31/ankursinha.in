@@ -2,7 +2,7 @@ Freemedia in Australia: Pricing
 ###############################
 :date: 2013-02-22 07:02
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, freemedia
 :tags: Fedora, freemedia
 :tags: Fedora, freemedia

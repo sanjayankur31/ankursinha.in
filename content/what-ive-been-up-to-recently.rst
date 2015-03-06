@@ -2,7 +2,7 @@ What I've been up to recently
 #############################
 :date: 2012-03-11 17:51
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, Fedora tour, fedora-freemedia, fedora-videos
 :tags: Fedora, Fedora tour, fedora-freemedia, fedora-videos
 :tags: Fedora, Fedora tour, fedora-freemedia, fedora-videos

@@ -2,7 +2,7 @@ Byobu and mc
 ############
 :date: 2012-05-24 22:14
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: byobu, Fedora, mc, midnight-commander, screen, tmux
 :tags: byobu, Fedora, mc, midnight-commander, screen, tmux
 :tags: byobu, Fedora, mc, midnight-commander, screen, tmux

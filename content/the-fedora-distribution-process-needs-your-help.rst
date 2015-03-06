@@ -2,7 +2,7 @@ The fedora distribution process needs your help!
 ################################################
 :date: 2010-11-23 00:36
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: ambassadors, distribution, Fedora
 :tags: ambassadors, distribution, Fedora
 :tags: ambassadors, distribution, Fedora

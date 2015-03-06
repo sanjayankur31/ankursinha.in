@@ -2,7 +2,7 @@ My ricoh webcam works!!!!
 #########################
 :date: 2010-06-27 16:38
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora 10, fedora 13, ricoh webcam, RPMFusion
 :tags: Fedora 10, fedora 13, ricoh webcam, RPMFusion
 :tags: Fedora 10, fedora 13, ricoh webcam, RPMFusion

@@ -2,7 +2,7 @@ Logs for the Fedora classroom on VIM
 ####################################
 :date: 2011-12-14 03:44
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, fedora-classroom, vim
 :tags: Fedora, fedora-classroom, vim
 :tags: Fedora, fedora-classroom, vim

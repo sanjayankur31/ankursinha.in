@@ -2,7 +2,7 @@ Fedora medical IRC meeting today
 ################################
 :date: 2013-09-03 10:28
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, fedora-medical, IRC, meeting, SIG
 :tags: Fedora, fedora-medical, IRC, meeting, SIG
 :tags: Fedora, fedora-medical, IRC, meeting, SIG

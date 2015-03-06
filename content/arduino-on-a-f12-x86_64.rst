@@ -2,7 +2,7 @@ Arduino on a F12 x86_64
 #######################
 :date: 2009-12-29 17:43
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: arduino, Fedora 12
 :tags: arduino, Fedora 12
 :tags: arduino, Fedora 12

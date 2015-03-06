@@ -2,7 +2,7 @@ VIM Classroom for beginners repeat for APAC
 ###########################################
 :date: 2012-01-17 00:13
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, fedora-classroom, vim
 :tags: Fedora, fedora-classroom, vim
 :tags: Fedora, fedora-classroom, vim

@@ -2,7 +2,7 @@ Turning your gnome-screensaver on and off with a single click!
 ##############################################################
 :date: 2011-01-14 10:52
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, gconf-editor, gconftool-2, GNOME
 :tags: Fedora, gconf-editor, gconftool-2, GNOME
 :tags: Fedora, gconf-editor, gconftool-2, GNOME

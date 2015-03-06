@@ -2,7 +2,7 @@ cURL or libcurl for the app?? Noob doubts..
 ###########################################
 :date: 2009-05-15 08:04
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: cURL, curl-devel, twit_tui
 :slug: curl-or-libcurl-for-the-app-noob-doubts
 

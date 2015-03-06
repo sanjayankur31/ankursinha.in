@@ -2,7 +2,7 @@ Folding in vim
 ##############
 :date: 2011-02-16 17:56
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: linux, vim
 :slug: folding-in-vim
 

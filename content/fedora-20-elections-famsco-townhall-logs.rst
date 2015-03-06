@@ -2,7 +2,7 @@ Fedora 20 elections: FAmSCo townhall logs
 #########################################
 :date: 2013-06-12 07:34
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: elections, famsco, Fedora, logs, townhall
 :tags: elections, famsco, Fedora, logs, townhall
 :tags: elections, famsco, Fedora, logs, townhall

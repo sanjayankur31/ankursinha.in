@@ -2,7 +2,7 @@ Fedora within Fedora :D
 #######################
 :date: 2010-06-03 17:13
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, fedora 13, VirtualBox
 :tags: Fedora, fedora 13, VirtualBox
 :tags: Fedora, fedora 13, VirtualBox

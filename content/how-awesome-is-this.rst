@@ -2,7 +2,7 @@ How awesome is this??
 #####################
 :date: 2009-08-05 17:26
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: delta rpms, Fedora 11, update, yum, yum presto
 :tags: delta rpms, Fedora 11, update, yum, yum presto
 :tags: delta rpms, Fedora 11, update, yum, yum presto

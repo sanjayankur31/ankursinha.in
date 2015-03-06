@@ -2,7 +2,7 @@ Playing OpenArena after a long time..
 #####################################
 :date: 2010-05-13 16:44
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, fedora 13, GNOME, Linux games, OpenArena
 :tags: Fedora, fedora 13, GNOME, Linux games, OpenArena
 :tags: Fedora, fedora 13, GNOME, Linux games, OpenArena

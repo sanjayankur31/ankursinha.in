@@ -2,7 +2,7 @@ Presentations for FUDCon KL
 ###########################
 :date: 2012-05-11 16:40
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, fudcon-kl
 :tags: Fedora, fudcon-kl
 :tags: Fedora, fudcon-kl

@@ -2,7 +2,7 @@ pycscope - Generates a cscope index of Python source trees
 ##########################################################
 :date: 2012-03-24 19:23
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: cscope, Fedora, pycscope, python, vim
 :tags: cscope, Fedora, pycscope, python, vim
 :tags: cscope, Fedora, pycscope, python, vim

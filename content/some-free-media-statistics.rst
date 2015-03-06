@@ -2,7 +2,7 @@ Some free media statistics
 ##########################
 :date: 2010-09-05 20:32
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, free media, statistics
 :tags: Fedora, free media, statistics
 :tags: Fedora, free media, statistics

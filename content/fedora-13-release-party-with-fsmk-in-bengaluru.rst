@@ -2,7 +2,7 @@ Fedora 13 release party with FSMK in Bengaluru
 ##############################################
 :date: 2010-06-05 22:56
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, Fedora Release party
 :tags: Fedora, Fedora Release party
 :tags: Fedora, Fedora Release party

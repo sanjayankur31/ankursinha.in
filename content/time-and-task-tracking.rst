@@ -2,7 +2,7 @@ Time and task tracking
 ######################
 :date: 2013-12-16 01:15
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: bijiben, Evolution, Fedora, gnome-shell-extension, gtg, hamster-time-tracker, leechblock, planner, taskjuggler
 :tags: bijiben, Evolution, Fedora, gnome-shell-extension, gtg, hamster-time-tracker, leechblock, planner, taskjuggler
 :tags: bijiben, Evolution, Fedora, gnome-shell-extension, gtg, hamster-time-tracker, leechblock, planner, taskjuggler

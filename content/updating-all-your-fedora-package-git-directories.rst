@@ -2,7 +2,7 @@ Updating all your fedora package git directories
 ################################################
 :date: 2012-02-23 20:34
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, git, Packages, update
 :tags: Fedora, git, Packages, update
 :tags: Fedora, git, Packages, update

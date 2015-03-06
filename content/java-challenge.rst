@@ -2,7 +2,7 @@ Java challenge!!
 ################
 :date: 2009-05-19 06:01
 :author: ankur
-:category: FOSS
+:category: Tech
 :slug: java-challenge
 
 So, I was going through my Java test papers (I have my endsem coming

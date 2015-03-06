@@ -2,7 +2,7 @@ Reminder: Fedora 20 election nominations and questionnaire close today!
 #######################################################################
 :date: 2013-05-25 13:33
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: board, elections, famsco, Fedora, fesco, questionnaire
 :tags: board, elections, famsco, Fedora, fesco, questionnaire
 :tags: board, elections, famsco, Fedora, fesco, questionnaire

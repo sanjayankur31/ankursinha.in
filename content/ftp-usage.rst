@@ -2,7 +2,7 @@ FTP usage
 #########
 :date: 2011-10-04 01:34
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: android, Fedora, ftp, Gnote, tomdroid
 :tags: android, Fedora, ftp, Gnote, tomdroid
 :tags: android, Fedora, ftp, Gnote, tomdroid

@@ -2,7 +2,7 @@ FUDCon Beijing - Day 2
 ######################
 :date: 2014-06-03 11:19
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: beijing, Fedora, fudcon, GNOME
 :tags: beijing, Fedora, fudcon, GNOME
 :tags: beijing, Fedora, fudcon, GNOME

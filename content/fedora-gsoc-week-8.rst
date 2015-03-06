@@ -2,7 +2,7 @@ Fedora GSoC: Week 8
 ###################
 :date: 2011-06-18 20:07
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, gsoc
 :tags: Fedora, gsoc
 :tags: Fedora, gsoc

@@ -2,7 +2,7 @@ Solution to Problem 1
 #####################
 :date: 2009-02-20 12:34
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Bitwise, C Programming
 :slug: solution-to-problem-1
 

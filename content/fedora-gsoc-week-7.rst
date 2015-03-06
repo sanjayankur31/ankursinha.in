@@ -2,7 +2,7 @@ Fedora GSoC: Week 7
 ###################
 :date: 2011-06-14 14:09
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, fedora-medical, gsoc
 :tags: Fedora, fedora-medical, gsoc
 :tags: Fedora, fedora-medical, gsoc

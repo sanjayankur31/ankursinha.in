@@ -2,7 +2,7 @@ Cast your vote!
 ###############
 :date: 2012-04-29 22:44
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: famsco, Fedora, fedora-board, fedora-elections, fesco
 :tags: famsco, Fedora, fedora-board, fedora-elections, fesco
 :tags: famsco, Fedora, fedora-board, fedora-elections, fesco

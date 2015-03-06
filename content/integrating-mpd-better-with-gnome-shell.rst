@@ -2,7 +2,7 @@ Integrating mpd better with Gnome Shell
 #######################################
 :date: 2013-02-17 19:02
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, gnome-shell, gnome-shell-extension-media-player-indicator, linux, mpd, mpdris2, mpris2, multimedia keys, music, music applications
 :tags: Fedora, gnome-shell, gnome-shell-extension-media-player-indicator, linux, mpd, mpdris2, mpris2, multimedia keys, music, music applications
 :tags: Fedora, gnome-shell, gnome-shell-extension-media-player-indicator, linux, mpd, mpdris2, mpris2, multimedia keys, music, music applications

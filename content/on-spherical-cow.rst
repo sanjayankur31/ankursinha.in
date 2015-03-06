@@ -2,7 +2,7 @@ On "Spherical Cow"
 ##################
 :date: 2012-05-03 18:18
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: codename, Fedora, fedora18, mooooo, spherical-cow
 :tags: codename, Fedora, fedora18, mooooo, spherical-cow
 :tags: codename, Fedora, fedora18, mooooo, spherical-cow

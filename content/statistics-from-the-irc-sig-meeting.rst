@@ -2,7 +2,7 @@ Statistics from the IRC sig meeting
 ###################################
 :date: 2011-01-27 22:54
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, IRC, statistics
 :tags: Fedora, IRC, statistics
 :tags: Fedora, IRC, statistics

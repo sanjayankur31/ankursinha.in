@@ -2,7 +2,7 @@ My adventures with packaging : Moving on from Fonts to apps
 ###########################################################
 :date: 2009-05-08 19:29
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, Packages, panini, specfile
 :tags: Fedora, Packages, panini, specfile
 :tags: Fedora, Packages, panini, specfile

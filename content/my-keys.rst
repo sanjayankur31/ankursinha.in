@@ -2,7 +2,7 @@ My keys
 #######
 :date: 2011-10-14 18:02
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Evolution, Fedora, gpg, keys, ssh
 :tags: Evolution, Fedora, gpg, keys, ssh
 :tags: Evolution, Fedora, gpg, keys, ssh

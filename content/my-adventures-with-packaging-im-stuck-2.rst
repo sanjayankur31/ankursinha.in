@@ -2,7 +2,7 @@ My adventures with Packaging.. I'm Stuck :(
 ###########################################
 :date: 2009-05-10 21:06
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedo, Fedora, packaging
 :tags: Fedo, Fedora, packaging
 :tags: Fedo, Fedora, packaging

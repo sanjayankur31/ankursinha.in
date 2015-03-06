@@ -2,7 +2,7 @@ Fedora Elections: Nomination period has begun!
 ##############################################
 :date: 2012-05-09 11:01
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: elections, Fedora
 :tags: elections, Fedora
 :tags: elections, Fedora

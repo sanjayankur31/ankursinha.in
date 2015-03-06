@@ -2,7 +2,7 @@ Easily autotoolizing a project
 ##############################
 :date: 2011-08-28 16:17
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: autotoolize, Fedora, fedora-classroom
 :tags: autotoolize, Fedora, fedora-classroom
 :tags: autotoolize, Fedora, fedora-classroom

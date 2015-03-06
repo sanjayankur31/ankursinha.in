@@ -2,7 +2,7 @@ Fedora and journal writing
 ##########################
 :date: 2013-06-23 22:53
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: almanah, diary, Fedora, FOSS, Journal, journler, lifeograph, linux, Open Source, rednotebook, research, robojournal, text
 :tags: almanah, diary, Fedora, FOSS, Journal, journler, lifeograph, linux, Open Source, rednotebook, research, robojournal, text
 :tags: almanah, diary, Fedora, FOSS, Journal, journler, lifeograph, linux, Open Source, rednotebook, research, robojournal, text

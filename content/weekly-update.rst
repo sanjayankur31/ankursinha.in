@@ -2,7 +2,7 @@ Weekly update
 #############
 :date: 2010-09-03 23:24
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: chicken, Fedora, Fedora tour, food, github, identi.ca, Journal, nvidia, twitter
 :tags: chicken, Fedora, Fedora tour, food, github, identi.ca, Journal, nvidia, twitter
 :tags: chicken, Fedora, Fedora tour, food, github, identi.ca, Journal, nvidia, twitter

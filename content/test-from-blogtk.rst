@@ -2,7 +2,7 @@ Test from blogtk
 ################
 :date: 2012-02-19 18:53
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: blogtk, Fedora, GNOME, wordpress
 :tags: blogtk, Fedora, GNOME, wordpress
 :tags: blogtk, Fedora, GNOME, wordpress

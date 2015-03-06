@@ -2,7 +2,7 @@ Installing Fedora 17 on my EEEpc using a kickstart!
 ###################################################
 :date: 2012-05-13 19:15
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: eeepc, Fedora, kickstart
 :slug: installing-fedora-17-on-my-eeepc-using-a-kickstart
 

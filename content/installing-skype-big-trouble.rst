@@ -2,7 +2,7 @@ Installing skype: big trouble!!
 ###############################
 :date: 2009-11-18 17:24
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora 12, Skype
 :tags: Fedora 12, Skype
 :tags: Fedora 12, Skype

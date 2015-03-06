@@ -2,7 +2,7 @@ Fedora 11 Media for LUGs in India
 #################################
 :date: 2009-05-21 05:31
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, Fedora Project, LUG India, LUGManipal
 :tags: Fedora, Fedora Project, LUG India, LUGManipal
 :tags: Fedora, Fedora Project, LUG India, LUGManipal

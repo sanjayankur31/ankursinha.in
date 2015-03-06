@@ -2,7 +2,7 @@ First commit for twit_tui on github.
 ####################################
 :date: 2009-07-07 17:36
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: C, cURL, Fedora, github, linux, twitter, twit_tui
 :tags: C, cURL, Fedora, github, linux, twitter, twit_tui
 :tags: C, cURL, Fedora, github, linux, twitter, twit_tui

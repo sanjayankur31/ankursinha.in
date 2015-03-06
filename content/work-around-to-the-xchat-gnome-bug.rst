@@ -2,7 +2,7 @@ Work Around to the xchat-gnome bug
 ##################################
 :date: 2009-02-11 18:02
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: bugzilla, Fedora, transparency, workaround, X server, xchat-gnome
 :tags: bugzilla, Fedora, transparency, workaround, X server, xchat-gnome
 :tags: bugzilla, Fedora, transparency, workaround, X server, xchat-gnome

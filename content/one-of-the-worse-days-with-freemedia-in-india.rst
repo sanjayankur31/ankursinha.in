@@ -2,7 +2,7 @@ One of the worse days with freemedia in India
 #############################################
 :date: 2012-04-25 11:30
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, freemedia, moron
 :tags: Fedora, freemedia, moron
 :tags: Fedora, freemedia, moron

@@ -2,7 +2,7 @@ FUDCon Kuala Lumpur Day 2
 #########################
 :date: 2012-05-23 23:48
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, Fedora Ambassadors, fudconkl2012
 :tags: Fedora, Fedora Ambassadors, fudconkl2012
 :tags: Fedora, Fedora Ambassadors, fudconkl2012

@@ -2,7 +2,7 @@ My worst turned best day with Fedora
 ####################################
 :date: 2009-08-01 05:58
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora 11, Presto
 :tags: Fedora 11, Presto
 :tags: Fedora 11, Presto

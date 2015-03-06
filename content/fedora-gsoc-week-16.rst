@@ -2,7 +2,7 @@ Fedora GSoC: Week 16
 ####################
 :date: 2011-08-15 16:12
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, fedora-medical, gsoc
 :tags: Fedora, fedora-medical, gsoc
 :tags: Fedora, fedora-medical, gsoc

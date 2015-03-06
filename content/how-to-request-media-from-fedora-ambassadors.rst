@@ -2,7 +2,7 @@ How to request media from Fedora Ambassadors
 ############################################
 :date: 2010-07-30 10:20
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, Fedora Ambassadors, free media
 :tags: Fedora, Fedora Ambassadors, free media
 :tags: Fedora, Fedora Ambassadors, free media

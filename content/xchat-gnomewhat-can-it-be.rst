@@ -2,7 +2,7 @@ xchat-gnome..What can it be?
 ############################
 :date: 2009-02-11 14:40
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: bug, bugzilla, Fedora, GNOME, IRC, linux, X server
 :tags: bug, bugzilla, Fedora, GNOME, IRC, linux, X server
 :tags: bug, bugzilla, Fedora, GNOME, IRC, linux, X server

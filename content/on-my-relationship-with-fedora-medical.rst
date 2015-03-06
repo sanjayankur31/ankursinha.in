@@ -2,7 +2,7 @@ On my relationship with fedora medical
 ######################################
 :date: 2012-02-16 16:35
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, fedora-medical, gsoc2011
 :tags: Fedora, fedora-medical, gsoc2011
 :tags: Fedora, fedora-medical, gsoc2011

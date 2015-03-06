@@ -2,7 +2,7 @@ I AM GOING TO FUDCon INDIA 2011: Are you!?
 ##########################################
 :date: 2011-10-11 14:37
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, fudcon india pune
 :tags: Fedora, fudcon india pune
 :tags: Fedora, fudcon india pune

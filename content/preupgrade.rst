@@ -2,7 +2,7 @@ Preupgrade
 ##########
 :date: 2009-05-06 08:05
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora 11, LUGManipal, Preupgrade
 :tags: Fedora 11, LUGManipal, Preupgrade
 :tags: Fedora 11, LUGManipal, Preupgrade

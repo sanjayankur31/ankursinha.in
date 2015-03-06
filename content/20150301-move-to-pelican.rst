@@ -3,7 +3,7 @@ Moved my blog to Pelican
 
 :date: 2015-03-01 21:15
 :tags: Pelican, Wordpress
-:category: FOSS
+:category: Tech
 :slug: moved-to-pelican
 :author: ankur
 :lang: en

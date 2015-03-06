@@ -2,7 +2,7 @@ Updating byobu
 ##############
 :date: 2012-04-25 14:38
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: byobu, Fedora, update
 :tags: byobu, Fedora, update
 :tags: byobu, Fedora, update

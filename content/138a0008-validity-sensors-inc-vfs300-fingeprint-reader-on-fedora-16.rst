@@ -2,7 +2,7 @@
 ######################################################################
 :date: 2012-03-23 15:21
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, libfprint, validity fingerprint
 :slug: 138a0008-validity-sensors-inc-vfs300-fingeprint-reader-on-fedora-16
 

@@ -2,7 +2,7 @@ Fedora GSoC : Week 3
 ####################
 :date: 2011-05-15 20:19
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, fedora-medical, gsoc
 :tags: Fedora, fedora-medical, gsoc
 :tags: Fedora, fedora-medical, gsoc

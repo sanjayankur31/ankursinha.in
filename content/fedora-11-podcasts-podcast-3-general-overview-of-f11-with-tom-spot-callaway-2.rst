@@ -2,7 +2,7 @@ Fedora 11 Podcasts : Podcast 3 "General Overview of F11 with Tom 'Spot' Callaway
 #################################################################################
 :date: 2009-05-18 15:25
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora 11, Fedora 11 Podcast, linux
 :tags: Fedora 11, Fedora 11 Podcast, linux
 :tags: Fedora 11, Fedora 11 Podcast, linux

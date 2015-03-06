@@ -2,7 +2,7 @@ I saw the code of DEATH in action!
 ##################################
 :date: 2009-11-22 04:09
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: linux
 :slug: i-saw-the-code-of-death-in-action
 

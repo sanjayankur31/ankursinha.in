@@ -2,7 +2,7 @@ fpaste : A simple tool for posting info onto fpaste.org
 #######################################################
 :date: 2009-08-15 05:56
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: bodhi, Fedora, fedora cvs, fpaste, fpaste.org, newpackage, pkgdb
 :tags: bodhi, Fedora, fedora cvs, fpaste, fpaste.org, newpackage, pkgdb
 :tags: bodhi, Fedora, fedora cvs, fpaste, fpaste.org, newpackage, pkgdb

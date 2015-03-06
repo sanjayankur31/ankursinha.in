@@ -2,7 +2,7 @@ why fedora-tour won't be a Fedora 14 feature
 ############################################
 :date: 2010-07-08 13:35
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: clutter, Fedora, fedora 14, Fedora tour, nouveau, pyclutter
 :tags: clutter, Fedora, fedora 14, Fedora tour, nouveau, pyclutter
 :tags: clutter, Fedora, fedora 14, Fedora tour, nouveau, pyclutter

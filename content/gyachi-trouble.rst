@@ -2,7 +2,7 @@ GyachI trouble
 ##############
 :date: 2009-07-06 10:38
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, GyachI, Yahoo messenger
 :tags: Fedora, GyachI, Yahoo messenger
 :tags: Fedora, GyachI, Yahoo messenger

@@ -2,7 +2,7 @@ Beamer: making hand outs for your presentations
 ###############################################
 :date: 2012-10-07 15:55
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: beamer, hand-outs, latex, presentation
 :slug: beamer-making-hand-outs-for-your-presentations
 

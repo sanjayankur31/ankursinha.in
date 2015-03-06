@@ -2,7 +2,7 @@ Gnote, Snowy, Tomdroid
 ######################
 :date: 2012-02-14 16:31
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: django, Fedora, GNOME, Gnote, python, snowy, tomboy, tomdroid
 :tags: django, Fedora, GNOME, Gnote, python, snowy, tomboy, tomdroid
 :tags: django, Fedora, GNOME, Gnote, python, snowy, tomboy, tomdroid

@@ -2,7 +2,7 @@ Fedora elections 2012 questionnaire due today!!
 ###############################################
 :date: 2012-05-22 09:03
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, fedora-board, fedora-elections, fedora-famsco, fedora-fesco
 :tags: Fedora, fedora-board, fedora-elections, fedora-famsco, fedora-fesco
 :tags: Fedora, fedora-board, fedora-elections, fedora-famsco, fedora-fesco

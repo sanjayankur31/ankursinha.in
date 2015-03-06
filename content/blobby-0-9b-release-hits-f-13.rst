@@ -2,7 +2,7 @@ blobby 0.9b release hits F-13
 #############################
 :date: 2010-06-24 00:09
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: blobby volley 2, fedora 13, Linux games
 :tags: blobby volley 2, fedora 13, Linux games
 :tags: blobby volley 2, fedora 13, Linux games

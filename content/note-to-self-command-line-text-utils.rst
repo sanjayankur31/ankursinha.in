@@ -2,7 +2,7 @@ Note to self : command line text utils
 ######################################
 :date: 2010-11-22 15:56
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: linux, text utilities, vim
 :slug: note-to-self-command-line-text-utils
 

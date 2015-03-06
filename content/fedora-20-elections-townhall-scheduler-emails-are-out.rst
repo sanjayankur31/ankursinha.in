@@ -2,7 +2,7 @@ Fedora 20 elections: Townhall scheduler emails are out
 ######################################################
 :date: 2013-05-27 17:26
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: elections, Fedora, moderator, townhalls, voting
 :tags: elections, Fedora, moderator, townhalls, voting
 :tags: elections, Fedora, moderator, townhalls, voting

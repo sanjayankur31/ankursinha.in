@@ -2,7 +2,7 @@ Fedora 11 Podcasts : Podcast 2 "PackageKit in F11"
 ##################################################
 :date: 2009-05-14 14:16
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora 11 Podcast, Fedora Project, linux, PackageKit
 :tags: Fedora 11 Podcast, Fedora Project, linux, PackageKit
 :tags: Fedora 11 Podcast, Fedora Project, linux, PackageKit

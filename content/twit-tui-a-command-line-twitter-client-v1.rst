@@ -2,7 +2,7 @@ Twit-tui : A command line twitter client v1
 ###########################################
 :date: 2009-06-17 16:35
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: cli, linux, twit-tui, twitter
 :slug: twit-tui-a-command-line-twitter-client-v1
 

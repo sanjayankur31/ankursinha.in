@@ -2,7 +2,7 @@ Fedora 11 Podcasts : Podcast 1
 ##############################
 :date: 2009-05-12 14:38
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora 11 Podcast
 :tags: Fedora 11 Podcast
 :tags: Fedora 11 Podcast

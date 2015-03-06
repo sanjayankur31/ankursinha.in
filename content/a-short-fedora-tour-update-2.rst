@@ -2,7 +2,7 @@ A short "Fedora tour" update
 ############################
 :date: 2010-04-08 18:55
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, Fedora tour
 :tags: Fedora, Fedora tour
 :tags: Fedora, Fedora tour

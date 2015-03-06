@@ -2,7 +2,7 @@ Fedora 20 Elections: FESCo townhall confirmed
 #############################################
 :date: 2013-05-31 10:28
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: elections, Fedora, fesco, townhall
 :tags: elections, Fedora, fesco, townhall
 :tags: elections, Fedora, fesco, townhall

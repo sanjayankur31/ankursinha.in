@@ -2,7 +2,7 @@ Some troubleshooting links
 ##########################
 :date: 2010-11-29 21:27
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: aliases, Fedora, IRC, irssi, troubleshooting
 :tags: aliases, Fedora, IRC, irssi, troubleshooting
 :tags: aliases, Fedora, IRC, irssi, troubleshooting

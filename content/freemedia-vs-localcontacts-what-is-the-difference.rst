@@ -2,7 +2,7 @@ Freemedia vs LocalContacts: what is the difference?
 ###################################################
 :date: 2011-12-09 14:07
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, freemedia, localcontacts
 :tags: Fedora, freemedia, localcontacts
 :tags: Fedora, freemedia, localcontacts

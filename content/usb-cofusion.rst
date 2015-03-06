@@ -2,7 +2,7 @@ USB cofusion
 ############
 :date: 2009-05-17 10:17
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora 10, linux, USB
 :tags: Fedora 10, linux, USB
 :tags: Fedora 10, linux, USB

@@ -2,7 +2,7 @@ Change in behaviour of livecd-tools: Testing required
 #####################################################
 :date: 2012-04-19 12:57
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, Fedora17, livecd-tools, USB
 :tags: Fedora, Fedora17, livecd-tools, USB
 :tags: Fedora, Fedora17, livecd-tools, USB

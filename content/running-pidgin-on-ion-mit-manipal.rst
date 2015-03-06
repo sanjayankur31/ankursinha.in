@@ -2,7 +2,7 @@ Running Pidgin on ION @ MIT Manipal
 ###################################
 :date: 2009-11-01 05:45
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: ION, linux, LUG Manipal, Pidgin
 :slug: running-pidgin-on-ion-mit-manipal
 

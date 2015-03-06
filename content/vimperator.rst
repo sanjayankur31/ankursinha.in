@@ -2,7 +2,7 @@ vimperator
 ##########
 :date: 2011-09-24 17:08
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: add on, firefox, linux, vim, vimperator
 :slug: vimperator
 

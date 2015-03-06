@@ -2,7 +2,7 @@ ROS/RPM IRC workshop series
 ###########################
 :date: 2014-04-06 23:56
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, fudcon-beijing, ROS, RPM, workshop
 :tags: Fedora, fudcon-beijing, ROS, RPM, workshop
 :tags: Fedora, fudcon-beijing, ROS, RPM, workshop

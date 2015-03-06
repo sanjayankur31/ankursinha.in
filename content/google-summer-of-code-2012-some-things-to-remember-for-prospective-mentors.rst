@@ -2,7 +2,7 @@ Google Summer of Code 2012: Some "things to remember" for prospective mentors
 #############################################################################
 :date: 2012-03-02 10:46
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, gsoc2012
 :tags: Fedora, gsoc2012
 :tags: Fedora, gsoc2012

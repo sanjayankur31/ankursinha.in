@@ -2,7 +2,7 @@ System crash : away for 10 days
 ###############################
 :date: 2010-11-12 21:03
 :author: ankur
-:category: FOSS
+:category: Tech
 :slug: system-crash-away-for-10-days
 
 As the title reads, my system crashed in the morning today. It's not the

@@ -2,7 +2,7 @@ A complete rtorrent setup
 #########################
 :date: 2011-02-23 14:31
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, linux, queue management, RSS, rssdler, rtorrent
 :tags: Fedora, linux, queue management, RSS, rssdler, rtorrent
 :tags: Fedora, linux, queue management, RSS, rssdler, rtorrent

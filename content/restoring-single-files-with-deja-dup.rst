@@ -2,7 +2,7 @@ Restoring single files with deja-dup
 ####################################
 :date: 2011-08-13 16:48
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: deja-dup, GNOME, restore
 :slug: restoring-single-files-with-deja-dup
 

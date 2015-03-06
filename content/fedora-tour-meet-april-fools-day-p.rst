@@ -2,7 +2,7 @@ fedora-tour meet @ April fools day :P
 #####################################
 :date: 2010-03-31 19:51
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, Fedora Project, Fedora tour
 :tags: Fedora, Fedora Project, Fedora tour
 :tags: Fedora, Fedora Project, Fedora tour

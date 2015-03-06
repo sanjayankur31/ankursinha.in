@@ -2,7 +2,7 @@ Amarok + missing Global shortcuts..
 ###################################
 :date: 2009-02-15 08:40
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: amarok, bug, global short cuts, music
 :slug: amarok-missing-global-shortcuts
 

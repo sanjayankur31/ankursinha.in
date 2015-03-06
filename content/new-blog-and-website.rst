@@ -2,7 +2,7 @@ New blog and website
 ####################
 :date: 2013-04-06 16:10
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: blog, hosting, wordpress
 :slug: new-blog-and-website
 

@@ -2,7 +2,7 @@ rtorrent
 ########
 :date: 2009-11-20 19:54
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, Fedora 12 Constantine, linux, rtorrent
 :tags: Fedora, Fedora 12 Constantine, linux, rtorrent
 :tags: Fedora, Fedora 12 Constantine, linux, rtorrent

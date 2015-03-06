@@ -2,7 +2,7 @@ Oh! my system had a remote I had forgotten about!!
 ##################################################
 :date: 2010-08-28 16:16
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, linux, remote controller
 :tags: Fedora, linux, remote controller
 :tags: Fedora, linux, remote controller

@@ -2,7 +2,7 @@ Setting up irssi on Fedora.
 ###########################
 :date: 2010-12-05 15:54
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, freenode, IRC, irssi, screen
 :tags: Fedora, freenode, IRC, irssi, screen
 :tags: Fedora, freenode, IRC, irssi, screen

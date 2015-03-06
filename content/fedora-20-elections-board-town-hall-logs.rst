@@ -2,7 +2,7 @@ Fedora 20 Elections: Board town hall logs
 #########################################
 :date: 2013-06-14 17:30
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: elections. board, Fedora, town-hall
 :tags: elections. board, Fedora, town-hall
 :tags: elections. board, Fedora, town-hall

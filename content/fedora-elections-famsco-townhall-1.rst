@@ -2,7 +2,7 @@ Fedora Elections: FAmSCo townhall #1
 ####################################
 :date: 2012-05-27 19:45
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: famsco, Fedora, fedora-elections
 :tags: famsco, Fedora, fedora-elections
 :tags: famsco, Fedora, fedora-elections

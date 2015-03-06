@@ -2,7 +2,7 @@ Tablets on F12
 ##############
 :date: 2009-12-16 11:04
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora 12, tablet, wizardpen
 :tags: Fedora 12, tablet, wizardpen
 :tags: Fedora 12, tablet, wizardpen

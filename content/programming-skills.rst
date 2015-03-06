@@ -2,7 +2,7 @@ Programming skills..
 ####################
 :date: 2009-02-19 17:26
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: C Programming
 :slug: programming-skills
 

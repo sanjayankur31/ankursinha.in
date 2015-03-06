@@ -2,7 +2,7 @@ I'm going to FUDCon Kuala Lumpur! Are you?
 ##########################################
 :date: 2012-04-25 15:17
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, fudcon, kuala lumpur
 :tags: Fedora, fudcon, kuala lumpur
 :tags: Fedora, fudcon, kuala lumpur

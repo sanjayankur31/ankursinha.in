@@ -2,7 +2,7 @@ wiley2bibtex: Converting onlinelibrary.wiley citations to BibTeX
 ################################################################
 :date: 2011-01-07 09:38
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: bibtex, latex, linux, wiley
 :slug: wiley2bibtex-converting-onlinelibrary-wiley-citations-to-bibtex
 

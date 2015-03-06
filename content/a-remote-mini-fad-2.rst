@@ -2,7 +2,7 @@ A remote mini FAD 2
 ###################
 :date: 2011-01-25 19:18
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: fad, Fedora
 :tags: fad, Fedora
 :tags: fad, Fedora

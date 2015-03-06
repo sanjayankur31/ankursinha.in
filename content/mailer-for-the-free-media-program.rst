@@ -2,7 +2,7 @@ Mailer for the Free media program
 #################################
 :date: 2010-09-23 00:54
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, free media, mailer
 :tags: Fedora, free media, mailer
 :tags: Fedora, free media, mailer

@@ -2,7 +2,7 @@ Fedora GSoC: Report
 ###################
 :date: 2011-08-20 13:21
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: fedora-gsoc, fedora-medical
 :tags: fedora-gsoc, fedora-medical
 :tags: fedora-gsoc, fedora-medical

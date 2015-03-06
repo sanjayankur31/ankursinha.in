@@ -2,7 +2,7 @@ loki-0.2.2 announcement
 #######################
 :date: 2010-06-29 23:57
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: fedora 13, libconfig, libcurl, libnotify, loki, web comics, xkcd, yum
 :tags: fedora 13, libconfig, libcurl, libnotify, loki, web comics, xkcd, yum
 :tags: fedora 13, libconfig, libcurl, libnotify, loki, web comics, xkcd, yum

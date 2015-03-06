@@ -2,7 +2,7 @@ surfraw
 #######
 :date: 2010-07-10 02:30
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, surfraw
 :tags: Fedora, surfraw
 :tags: Fedora, surfraw

@@ -2,7 +2,7 @@ pyclutter woes : a speed bump :|
 ################################
 :date: 2009-12-26 18:49
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora 12, Fedora tour, linux, pyclutter
 :tags: Fedora 12, Fedora tour, linux, pyclutter
 :tags: Fedora 12, Fedora tour, linux, pyclutter

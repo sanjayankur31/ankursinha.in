@@ -2,7 +2,7 @@ Getting your tablet to work on F13 using WizardPen
 ##################################################
 :date: 2010-09-22 20:07
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Fedora, tablet, wizardpen
 :tags: Fedora, tablet, wizardpen
 :tags: Fedora, tablet, wizardpen

@@ -2,7 +2,7 @@ evolution-remove-duplicates for F14
 ###################################
 :date: 2011-01-07 10:32
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Evolution, Fedora, plugin
 :tags: Evolution, Fedora, plugin
 :tags: Evolution, Fedora, plugin

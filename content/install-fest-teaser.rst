@@ -2,7 +2,7 @@ Install fest Teaser:
 ####################
 :date: 2009-02-16 04:29
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: Cambridge, Fedora, Fedora 10, Install Fest, linux, LUG Manipal, LUGM
 :tags: Cambridge, Fedora, Fedora 10, Install Fest, linux, LUG Manipal, LUGM
 :tags: Cambridge, Fedora, Fedora 10, Install Fest, linux, LUG Manipal, LUGM

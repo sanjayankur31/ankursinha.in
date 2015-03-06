@@ -2,7 +2,7 @@ fedora tour mockups
 ###################
 :date: 2010-01-21 19:32
 :author: ankur
-:category: FOSS
+:category: Tech
 :tags: clutter, Fedora, fedora design team, Fedora tour, fedora-hosted, GNOME, kde, pyclutter, python
 :tags: clutter, Fedora, fedora design team, Fedora tour, fedora-hosted, GNOME, kde, pyclutter, python
 :tags: clutter, Fedora, fedora design team, Fedora tour, fedora-hosted, GNOME, kde, pyclutter, python
