@@ -3,32 +3,26 @@ Fedora 20 elections:Voting!
 :date: 2013-06-16 20:06
 :author: ankur
 :category: Tech
-:tags: board, elections, famsco, Fedora, fesco, range-voting, voting
-:tags: board, elections, famsco, Fedora, fesco, range-voting, voting
-:tags: board, elections, famsco, Fedora, fesco, range-voting, voting
-:tags: board, elections, famsco, Fedora, fesco, range-voting, voting
+:tags: Board, elections, FAmSCo, Fedora, FESCo
 :slug: fedora-20-electionsvoting
 
-The `Fedora 20 election`_ cycle enters the final voting phase tomorrow!
-(June 17 at 00:00 UTC)! To vote, please head to the Fedora `voting
-application`_ and vote for your preferred `FAmSCo`_, `FESCo`_ and
-`Fedora Board`_ candidates.
+The `Fedora 20 election`_ cycle enters the final voting phase tomorrow!  (June 17 at 00:00 UTC)! To vote, please head to the Fedora `voting application`_ and vote for your preferred `FAmSCo`_, `FESCo`_ and `Fedora Board`_ candidates.
 
-== Method ==
- Fedora follows the range voting method. This is `described in detail
-in the Fedora documentation`_.
+Method
+------
+Fedora follows the range voting method. This is `described in detail in the Fedora documentation`_.
 
-== Voting period ==
- The voting will begin at `00:00 UTC on June 17, 2013`_ and cease at
-`23:59 UTC on June 23, 2013`_ as per the `election schedule`_.
+Voting period
+-------------
+The voting will begin at `00:00 UTC on June 17, 2013`_ and cease at `23:59 UTC on June 23, 2013`_ as per the `election schedule`_.
 
-== Eligibility ==
- You must have signed the `CLA`_ in order to be able to vote for any
-of the three governing bodies. Additionally, you must be part of one
-other group to vote for your FESCo and FAmSCo candidates.
+Eligibility
+-----------
+You must have signed the `CLA`_ in order to be able to vote for any of the three governing bodies. Additionally, you must be part of one other group to vote for your FESCo and FAmSCo candidates.
 
-== Town hall logs ==
- Logs from the recently held town hall sessions are `archived here`_
+Town hall logs
+--------------
+Logs from the recently held town hall sessions are `archived here`_
 
 Please do vote!
 
