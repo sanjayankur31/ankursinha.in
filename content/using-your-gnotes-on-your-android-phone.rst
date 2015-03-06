@@ -6,7 +6,9 @@ Using your gnotes on your android phone
 :tags: android, ftp, Gnote, nautilus, swiftp, tomdroid
 :slug: using-your-gnotes-on-your-android-phone
 
-|image0|    |image1|      |image2|
+|image0|
+|image1|
+|image2|
 
 I recently came across this tutorial which dealt with `using Gnote to
 unclutter one's daily note`_\ s. It really is a great post. I adopted
@@ -60,9 +62,6 @@ Notes:
 .. _Tomdroid: https://launchpad.net/tomdroid
 .. _swiFTP.: http://code.google.com/p/swiftp/
 
-.. |image0| image:: http://dodoincfedora.files.wordpress.com/2011/09/gnote.png
-   :target: http://dodoincfedora.files.wordpress.com/2011/09/gnote.png
-.. |image1| image:: http://dodoincfedora.files.wordpress.com/2011/09/swiftp.jpg
-   :target: http://dodoincfedora.files.wordpress.com/2011/09/swiftp.jpg
-.. |image2| image:: http://dodoincfedora.files.wordpress.com/2011/09/tomdroid.jpg
-   :target: http://dodoincfedora.files.wordpress.com/2011/09/tomdroid.jpg
+.. |image0| image:: {filename}/images/gnote.png
+.. |image1| image:: {filename}/images/swiftp.jpg
+.. |image2| image:: {filename}/images/tomdroid.jpg
