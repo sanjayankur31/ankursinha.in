@@ -23,18 +23,20 @@ This hasn't changed anything.. The app. still doesn't start.
 
 The error :
 
-    | The program 'xchat-gnome' received an X Window System error.
-    |  This probably reflects a bug in the program.
-    |  The error was 'BadImplementation (server does not implement
+.. code-block:: bash
+
+    The program 'xchat-gnome' received an X Window System error.
+    This probably reflects a bug in the program.
+    The error was 'BadImplementation (server does not implement
     operation)'.
-    |  (Details: serial 536 error\_code 17 request\_code 147 minor\_code
+    (Details: serial 536 error\_code 17 request\_code 147 minor\_code
     5)
-    |  (Note to programmers: normally, X errors are reported
+    (Note to programmers: normally, X errors are reported
     asynchronously;
-    |  that is, you will receive the error a while after causing it.
-    |  To debug your program, run it with the --sync command line
-    |  option to change this behavior. You can then get a meaningful
-    |  backtrace from your debugger if you break on the gdk\_x\_error()
+    that is, you will receive the error a while after causing it.
+    To debug your program, run it with the --sync command line
+    option to change this behavior. You can then get a meaningful
+    backtrace from your debugger if you break on the gdk\_x\_error()
     function.)
 
 Even the --sync option gives the same thing. :(
