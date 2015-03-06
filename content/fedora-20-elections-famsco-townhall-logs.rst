@@ -3,33 +3,12 @@ Fedora 20 elections: FAmSCo townhall logs
 :date: 2013-06-12 07:34
 :author: ankur
 :category: Tech
-:tags: elections, famsco, Fedora, logs, townhall
-:tags: elections, famsco, Fedora, logs, townhall
-:tags: elections, famsco, Fedora, logs, townhall
-:tags: elections, famsco, Fedora, logs, townhall
+:tags: elections, Fedora
 :slug: fedora-20-elections-famsco-townhall-logs
 
-| /\* For the .log.html \*/
-|  pre { /\*line-height: 125%;\*/
-|  white-space: pre-wrap; }
-|  body { background: #f0f0f0; }
+** Complete logs archived here http://meetbot.fedoraproject.org/fedora-townhall/2013-06-11/**
 
-| body .tm { color: #007020 } /\* time \*/
-|  body .nk { color: #062873; font-weight: bold } /\* nick, regular \*/
-|  body .nka { color: #007020; font-weight: bold } /\* action nick \*/
-|  body .ac { color: #00A000 } /\* action line \*/
-|  body .hi { color: #4070a0 } /\* hilights \*/
-|  /\* Things to make particular MeetBot commands stick out \*/
-|  body .topic { color: #007020; font-weight: bold }
-|  body .topicline { color: #000080; font-weight: bold }
-|  body .cmd { color: #007020; font-weight: bold }
-|  body .cmdline { font-weight: bold }
-
-**
- Complete logs archived here
-http://meetbot.fedoraproject.org/fedora-townhall/2013-06-11/**
-
-::
+.. code-block:: irc
 
     20:01:21 <FranciscoD> #startmeeting Fedora 20 elections: FAmSCo townhall
     20:01:21 <zodbot> Meeting started Tue Jun 11 20:01:21 2013 UTC.  The chair is FranciscoD. Information about MeetBot at http://wiki.debian.org/MeetBot.
@@ -209,4 +188,3 @@ http://meetbot.fedoraproject.org/fedora-townhall/2013-06-11/**
     21:17:13 <FranciscoD> I wish you all the best of luck. May the votes be with you ;)
     21:17:17 <FranciscoD> #endmeeting
 
-/
