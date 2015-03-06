@@ -4,9 +4,6 @@ FUDCon Beijing - Day 1
 :author: ankur
 :category: Tech
 :tags: ansible, beijing, conary, Fedora, fudcon, puppet, ROS
-:tags: ansible, beijing, conary, Fedora, fudcon, puppet, ROS
-:tags: ansible, beijing, conary, Fedora, fudcon, puppet, ROS
-:tags: ansible, beijing, conary, Fedora, fudcon, puppet, ROS
 :slug: fudcon-beijing-day-1
 
 Registration and getting started!
@@ -21,7 +18,7 @@ with our IDs, t-shirts, swag and the rest.
 
    <figure>
 
-|20140524\_101528|
+|20140524_101528|
 
 .. raw:: html
 
@@ -41,7 +38,7 @@ My tag
 
    <figure>
 
-|20140524\_124140|
+|20140524_124140|
 
 .. raw:: html
 
@@ -68,7 +65,7 @@ the conference. The hall was quite full, which was really good to see.
 
    <figure>
 
-|20140524\_092837|
+|20140524_092837|
 
 .. raw:: html
 
@@ -95,7 +92,7 @@ using.
 
    <figure>
 
-|20140524\_101342|
+|20140524_101342|
 
 .. raw:: html
 
@@ -115,7 +112,7 @@ Tobias speaking about Gnome 3.12+
 
    <figure>
 
-|20140524\_102833|
+|20140524_102833|
 
 .. raw:: html
 
@@ -141,7 +138,7 @@ The Fedora track was in conference room 8.
 
    <figure>
 
-|20140524\_110059|
+|20140524_110059|
 
 .. raw:: html
 
@@ -164,7 +161,7 @@ Fedora Videos
 
    <figure>
 
-|20140524\_111627|
+|20140524_111627|
 
 .. raw:: html
 
@@ -204,7 +201,7 @@ quite large).
 
    <figure>
 
-|20140524\_114638|
+|20140524_114638|
 
 .. raw:: html
 
@@ -244,7 +241,7 @@ information for new comers.
 
    <figure>
 
-|20140524\_145346|
+|20140524_145346|
 
 .. raw:: html
 
@@ -274,7 +271,7 @@ started with infra.
 
    <figure>
 
-|20140524\_142850|
+|20140524_142850|
 
 .. raw:: html
 
@@ -305,7 +302,7 @@ said he expects to work a lot more with Fedora in the future.
 
    <figure>
 
-|20140524\_162205|
+|20140524_162205|
 
 .. raw:: html
 
@@ -335,7 +332,7 @@ few interesting comments and questions.
 
    <figure>
 
-|IMG\_9778|
+|IMG_9778|
 
 .. raw:: html
 
@@ -399,29 +396,29 @@ day.
 .. _rpm os-tree: http://rpm-ostree.cloud.fedoraproject.org/
 .. _Mexican pub: http://4sq.com/QpYraP
 
-.. |20140524\_101528image:: https://farm3.staticflickr.com/2934/14100564210_84a6393167.jpg
+.. |20140524_101528| image:: https://farm3.staticflickr.com/2934/14100564210_84a6393167.jpg
    :target: https://www.flickr.com/photos/30402562@N07/14100564210
-.. |20140524\_124140image:: https://farm3.staticflickr.com/2938/14100560158_5faa5ebfb3.jpg
+.. |20140524_124140| image:: https://farm3.staticflickr.com/2938/14100560158_5faa5ebfb3.jpg
    :target: https://www.flickr.com/photos/30402562@N07/14100560158
-.. |20140524\_092837image:: https://farm6.staticflickr.com/5581/14307375633_9d3c0406e3.jpg
+.. |20140524_092837| image:: https://farm6.staticflickr.com/5581/14307375633_9d3c0406e3.jpg
    :target: https://www.flickr.com/photos/30402562@N07/14307375633
-.. |20140524\_101342image:: https://farm3.staticflickr.com/2915/14264066346_02e0f98d69.jpg
+.. |20140524_101342| image:: https://farm3.staticflickr.com/2915/14264066346_02e0f98d69.jpg
    :target: https://www.flickr.com/photos/30402562@N07/14264066346
-.. |20140524\_102833image:: https://farm3.staticflickr.com/2910/14283867301_358816371b.jpg
+.. |20140524_102833| image:: https://farm3.staticflickr.com/2910/14283867301_358816371b.jpg
    :target: https://www.flickr.com/photos/30402562@N07/14283867301
-.. |20140524\_110059image:: https://farm6.staticflickr.com/5120/14307385503_3cf5ee7d15.jpg
+.. |20140524_110059| image:: https://farm6.staticflickr.com/5120/14307385503_3cf5ee7d15.jpg
    :target: https://www.flickr.com/photos/30402562@N07/14307385503
-.. |20140524\_111627image:: https://farm3.staticflickr.com/2928/14264073396_35aae28051.jpg
+.. |20140524_111627| image:: https://farm3.staticflickr.com/2928/14264073396_35aae28051.jpg
    :target: https://www.flickr.com/photos/30402562@N07/14264073396
-.. |20140524\_114638image:: https://farm6.staticflickr.com/5489/14285194142_bd54009771.jpg
+.. |20140524_114638| image:: https://farm6.staticflickr.com/5489/14285194142_bd54009771.jpg
    :target: https://www.flickr.com/photos/30402562@N07/14285194142
-.. |20140524\_145346image:: https://farm6.staticflickr.com/5114/14100562788_29e5e8d6af.jpg
+.. |20140524_145346| image:: https://farm6.staticflickr.com/5114/14100562788_29e5e8d6af.jpg
    :target: https://www.flickr.com/photos/30402562@N07/14100562788
-.. |20140524\_142850image:: https://farm4.staticflickr.com/3782/14100561678_0d46b51e2c.jpg
+.. |20140524_142850| image:: https://farm4.staticflickr.com/3782/14100561678_0d46b51e2c.jpg
    :target: https://www.flickr.com/photos/30402562@N07/14100561678
-.. |20140524\_162205image:: https://farm3.staticflickr.com/2912/14307392283_e00747d4e2.jpg
+.. |20140524_162205| image:: https://farm3.staticflickr.com/2912/14307392283_e00747d4e2.jpg
    :target: https://www.flickr.com/photos/30402562@N07/14307392283
-.. |IMG\_9778image:: https://farm4.staticflickr.com/3791/14133276138_b94ddfa6fa.jpg
+.. |IMG_9778| image:: https://farm4.staticflickr.com/3791/14133276138_b94ddfa6fa.jpg
    :target: https://www.flickr.com/photos/30402562@N07/14133276138
-.. |2014-05-24image:: https://farm3.staticflickr.com/2931/14340199283_57d85baacc.jpg
+.. |2014-05-24| image:: https://farm3.staticflickr.com/2931/14340199283_57d85baacc.jpg
    :target: https://www.flickr.com/photos/30402562@N07/14340199283
