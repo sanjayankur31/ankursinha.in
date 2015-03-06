@@ -3,10 +3,7 @@ Fedora Ambassadors' survey
 :date: 2011-12-08 10:12
 :author: ankur
 :category: Tech
-:tags: ambassadors, Fedora, survey
-:tags: ambassadors, Fedora, survey
-:tags: ambassadors, Fedora, survey
-:tags: ambassadors, Fedora, survey
+:tags: Fedora
 :slug: fedora-ambassadors-survey
 
 I've made a small survey I request everyone to fill up. It has 3
@@ -17,12 +14,12 @@ difficulties they're facing while carrying out ambassador activities.
 Once we have the data, we will have a better chance of finding efficient
 solutions to these issues.
 
-| The survey:
-| 
+The survey:
+
 https://docs.google.com/spreadsheet/viewform?formkey=dFN3emtQdEhVMGdKTXNWX0lWdkVXUmc6MQ
 
-| The results (publicly viewable):
-| 
+The results (publicly viewable):
+
 https://docs.google.com/spreadsheet/ccc?key=0Al73WBsvtlGodFN3emtQdEhVMGdKTXNWX0lWdkVXUmc
 
 Please do fill it up! Thanks!
