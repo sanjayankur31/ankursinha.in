@@ -3,10 +3,7 @@ Weekly update
 :date: 2010-09-03 23:24
 :author: ankur
 :category: Tech
-:tags: chicken, Fedora, Fedora tour, food, github, identi.ca, Journal, nvidia, twitter
-:tags: chicken, Fedora, Fedora tour, food, github, identi.ca, Journal, nvidia, twitter
-:tags: chicken, Fedora, Fedora tour, food, github, identi.ca, Journal, nvidia, twitter
-:tags: chicken, Fedora, Fedora tour, food, github, identi.ca, Journal, nvidia, twitter
+:tags: Fedora
 :slug: weekly-update
 
 **This week till 3/9/10.**
@@ -107,15 +104,9 @@ teaching, maintaining it would be uninteresting for me.
 I've hung around on the IRC, #fedora. fenris02 / Ayakashi gave me a
 cookie the other day for being helpful :D
 
-    .. raw:: html
-
-       <div id="_mcePaste">
+.. code-block:: irc
 
     10:16  \* Ayakashi hands FranciscoD a cookie
-
-    .. raw:: html
-
-       </div>
 
 I made new friends on the IRC/identi.ca too. (Our mutual love for Fedora
 was the binding energy :P)
@@ -135,15 +126,17 @@ and surprise surprise,  pyclutter segfaulted on it too . The server is
 our last hope. Otherwise, we'll be waiting for the `bug`_ to get fixed
 to continue any development of the front end whatsoever.
 
-    | 15:57 -!- Subfusc [~sin@150.7.120.252] has joined #fedora-tour
-    |  17:18 < Subfusc> FranciscoD, the tour segfaults on my new compy
+.. code-block:: irc
+
+    15:57 -!- Subfusc [~sin@150.7.120.252] has joined #fedora-tour
+    17:18 < Subfusc> FranciscoD, the tour segfaults on my new compy
     to, and it should run on intel graphics
-    |  18:21 < FranciscoD> Subfusc: yeah, lets hope it does
-    |  18:21 < FranciscoD> whats the conf of your new lappy? nvidia?
-    |  18:23 < Subfusc> no
-    |  18:23 < Subfusc> its some nvidia optimus crap
-    |  18:23 < Subfusc> should run intel drivers
-    |  19:10 -!- Subfusc [~sin@150.7.120.252] has quit [Remote host
+    18:21 < FranciscoD> Subfusc: yeah, lets hope it does
+    18:21 < FranciscoD> whats the conf of your new lappy? nvidia?
+    18:23 < Subfusc> no
+    18:23 < Subfusc> its some nvidia optimus crap
+    18:23 < Subfusc> should run intel drivers
+    19:10 -!- Subfusc [~sin@150.7.120.252] has quit [Remote host
     closed the connection]
 
 **Fun and frolic**
@@ -183,7 +176,7 @@ doing this.\ *That's all folks! Good night!***
 .. _fedoraforum.org and was told to use a SATA/IDE to USB converter + qemu to set up fedora on the hard drive and then plug it back into the desktop server: http://forums.fedoraforum.org/showthread.php?t=250691
 .. _I've posted on the fedora user's mailing list for info there: http://lists.fedoraproject.org/pipermail/users/2010-September/382235.html
 .. _`UPDATE: Apparently my hard disk is fried. (Sucks!)`: http://lists.fedoraproject.org/pipermail/users/2010-September/382252.html
-.. _previous post: http://dodoincfedora.wordpress.com/2010/08/28/oh-my-system-had-a-remote-i-had-forgotten-about/
+.. _previous post: ankursinha.in/2010/08/28/oh-my-system-had-a-remote-i-had-forgotten-about/
 .. _thread: http://lists.fedoraproject.org/pipermail/ambassadors/2010-September/015462.html
 .. _Susmit says he'll make changes whenever he can find the time: http://lists.fedoraproject.org/pipermail/ambassadors/2010-September/015468.html
 .. _Oh! By the way, the free media form is open for this month and requests have started to come in.: https://admin.fedoraproject.org/mailman/private/freemedia/2010-September/021240.html
