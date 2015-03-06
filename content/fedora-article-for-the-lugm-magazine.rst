@@ -3,10 +3,7 @@ Fedora article for the LUGM Magazine
 :date: 2009-02-17 08:49
 :author: ankur
 :category: Tech
-:tags: Fedora, Fedora Project, linux, LUGM, Open Source, Red Hat Inc.
-:tags: Fedora, Fedora Project, linux, LUGM, Open Source, Red Hat Inc.
-:tags: Fedora, Fedora Project, linux, LUGM, Open Source, Red Hat Inc.
-:tags: Fedora, Fedora Project, linux, LUGM, Open Source, Red Hat Inc.
+:tags: Fedora, LUGM
 :slug: fedora-article-for-the-lugm-magazine
 
 I've been working on an article on Fedora to be included in the first
@@ -56,14 +53,14 @@ feel free to point out any corrections / edits.
     The quote clearly underlines the thinking and theme that went into
     the creation of the Fedora project.
 
-    | The Fedora operating system is used all over the world by millions
+    The Fedora operating system is used all over the world by millions
     of open source enthusiasts. As on 26th of January 2008, there were
     11,997,237 connections to the Fedora repositories. Among other well
     known users, NASA, Roadrunner (the number one supercomputer in the
     world) and various derivatives such as Red Hat and OLPC (One Laptop
     Per Child) are noteworthy. Linux creator Linus Torvalds is a Fedora
     user.
-    |  The Fedora project has four basic foundations, the 4 Fs, its
+    The Fedora project has four basic foundations, the 4 Fs, its
     corner stones. Freedom, Friends, Features and First are the core
     values that govern us.
 
@@ -124,12 +121,12 @@ feel free to point out any corrections / edits.
     Various FADs (Fedora Activity Days) held at college fests and Open
     Source meets are miniature versions of the FUDCon.
 
-    | The Fedora operating system itself is currently in its 10th cycle.
+    The Fedora operating system itself is currently in its 10th cycle.
     F10 Cambridge is the current release while F11 Leonidus lurks under
     development. Fedora is released bi-annually. The quick release cycle
     is aimed at quick innovation. Fedora is a RPM based distribution. I
     will not cover the history or working of the RPM in this article.
-    |  Fedora provides a huge amount of Open Source software to its
+    Fedora provides a huge amount of Open Source software to its
     users. This comes under the F that says “features” . All software
     provided by Fedora is Open Source. The Open Source nature is a must.
     No software in the Fedora DVD, Live CD releases or repositories are
@@ -140,11 +137,11 @@ feel free to point out any corrections / edits.
     It is beyond the scope of this article to cover the software
     available. It would require an Encyclopedia to discuss them all.
 
-    | Fedora is known for its commitment to Open Source. The community
+    Fedora is known for its commitment to Open Source. The community
     is proud to release an OS that is stable while also maintaining its
     status as the showcase for the newest that the Linux world has to
     offer.
-    |  If you believe in the same core values as we do, join us!! Be a
+    If you believe in the same core values as we do, join us!! Be a
     part of the community and help us in our endeavor to spread Open
     Source software around the globe.
 
