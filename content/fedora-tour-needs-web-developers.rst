@@ -4,12 +4,9 @@ Fedora Tour needs web developers
 :author: ankur
 :category: Tech
 :tags: Fedora, Fedora tour, web application
-:tags: Fedora, Fedora tour, web application
-:tags: Fedora, Fedora tour, web application
-:tags: Fedora, Fedora tour, web application
 :slug: fedora-tour-needs-web-developers
 
-Well, the title says it all. `Fedora Tou`_\ r, which we recently decided
+Well, the title says it all. `Fedora Tour`_, which we recently decided
 to make a web application needs web developers. Ironic eh? The thing is:
 none of the current Fedora Tour team members have ever done web
 development before. We're learning, but the changes with HTML5, CSS3 and
@@ -22,10 +19,7 @@ possible. 
 
 **Do you have some free cycles? **
 
-**Do you want to work on a brand new, \*awesome\* project? **
-
-**
-**
+**Do you want to work on a brand new, awesome project? **
 
 **Give us a shout today!!**
 
@@ -36,7 +30,7 @@ channels, so you can also catch me personally if you want. My nick is
 
 The `wiki page for fedora tour`_ contains all the info you'd need.
 
-.. _Fedora Tou: https://fedorahosted.org/fedora-tour/
+.. _Fedora Tour: https://fedorahosted.org/fedora-tour/
 .. _#fedora-tour on Freenode: http://webchat.freenode.net/?channels=#fedora-tour
 .. _mailing list: https://fedorahosted.org/mailman/listinfo/fedora-tour
 .. _wiki page for fedora tour: https://fedorahosted.org/fedora-tour/
