@@ -3,37 +3,16 @@ Fedora 20 elections: FESCo town hall logs
 :date: 2013-06-11 04:21
 :author: ankur
 :category: Tech
-:tags: elections, Fedora, fesco, freenode, town-hall
-:tags: elections, Fedora, fesco, freenode, town-hall
-:tags: elections, Fedora, fesco, freenode, town-hall
-:tags: elections, Fedora, fesco, freenode, town-hall
+:tags: elections, Fedora
 :slug: fedora-20-elections-fesco-town-hall-logs
 
-| /\* For the .log.html \*/
-|  pre { /\*line-height: 125%;\*/
-|  white-space: pre-wrap; }
-|  body { background: #f0f0f0; }
-
-| body .tm { color: #007020 } /\* time \*/
-|  body .nk { color: #062873; font-weight: bold } /\* nick, regular \*/
-|  body .nka { color: #007020; font-weight: bold } /\* action nick \*/
-|  body .ac { color: #00A000 } /\* action line \*/
-|  body .hi { color: #4070a0 } /\* hilights \*/
-|  /\* Things to make particular MeetBot commands stick out \*/
-|  body .topic { color: #007020; font-weight: bold }
-|  body .topicline { color: #000080; font-weight: bold }
-|  body .cmd { color: #007020; font-weight: bold }
-|  body .cmdline { font-weight: bold }
-
-**
- The meetbot logs are archived at:
-http://meetbot.fedoraproject.org/fedora-townhall/2013-06-10/.** Just
+** The meetbot logs are archived at: http://meetbot.fedoraproject.org/fedora-townhall/2013-06-10/.** Just
 pasting them here to save you that one click :)
 
 I'm most grateful to everyone who made it, the candidates, and the
 community members who asked them questions. Have a good read:
 
-::
+.. code-block:: irc
 
     17:06:17 <FranciscoD> #startmeeting Fedora 20: FESCo townhall
     17:06:17 <zodbot> Meeting started Mon Jun 10 17:06:17 2013 UTC.  The chair is FranciscoD. Information about MeetBot at http://wiki.debian.org/MeetBot.
