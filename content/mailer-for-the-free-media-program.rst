@@ -3,10 +3,7 @@ Mailer for the Free media program
 :date: 2010-09-23 00:54
 :author: ankur
 :category: Tech
-:tags: Fedora, free media, mailer
-:tags: Fedora, free media, mailer
-:tags: Fedora, free media, mailer
-:tags: Fedora, free media, mailer
+:tags: Fedora, free-media
 :slug: mailer-for-the-free-media-program
 
 A `mailer`_ exists for the Free media program. `Joe`_ had made this
@@ -19,17 +16,26 @@ almost empty (Can you folks tell me how to populate the interior??) All
 the SVG sources can be found `here`_ at my fedorapeople space. Comments
 welcome.
 
-|The outside portion of the Mailer|\ ``_
 
-|The inside of the mailer|
+.. figure:: {filename}/images/mailer-out.png
+    :align: center
+    :height: 800px
+    :scale: 25%
+    :target: {filename}/images/mailer-out.png
+    :alt: Mailer out
+
+    Mailer out
+
+.. figure:: {filename}/images/mailer-in.png
+    :align: center
+    :height: 800px
+    :scale: 25%
+    :target: {filename}/images/mailer-in.png
+    :alt: Mailer in
+
+    Mailer in
 
 .. _mailer: http://ascenseur.fedorapeople.org/fedora_mailer_new.otg
 .. _Joe: http://fedoraproject.org/wiki/User:Ascenseur
-.. _Since I got my tablet working: http://dodoincfedora.wordpress.com/2010/09/22/getting-your-tablet-to-work-on-f13-using-wizardpen/
+.. _Since I got my tablet working: ankursinha.in/2010/09/22/getting-your-tablet-to-work-on-f13-using-wizardpen/
 .. _here: http://ankursinha.fedorapeople.org/mailer/
-.. _: http://dodoincfedora.files.wordpress.com/2010/09/mailer-in.png
-
-.. |The outside portion of the Mailer| image:: http://dodoincfedora.files.wordpress.com/2010/09/mailer-out.png?w=212
-   :target: http://dodoincfedora.files.wordpress.com/2010/09/mailer-out.png
-.. |The inside of the mailer| image:: http://dodoincfedora.files.wordpress.com/2010/09/mailer-in.png?w=212
-   :target: http://dodoincfedora.files.wordpress.com/2010/09/mailer-in.png
