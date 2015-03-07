@@ -4,33 +4,21 @@ Research Profile
 :author: ankur
 :slug: research-profile
 
-Biography
----------
+I'm still working on getting my doctorate in Computer Science. My research interests include plasticity, associative memory, recurrent spiking neural networks, bio-mimetic robotics. There are quite a few other topics I muse about but I general haven't the time to actually research them at the moment.
 
-I am currently a PhD candidate at the Biocomputation laboratory at the
-University of Hertfordshire under the supervision of `Dr. Volker
-Steuber`_.
+PhD candidate at Herts
+----------------------
+
+I am currently a PhD candidate at the Biocomputation laboratory at the University of Hertfordshire. I study the capacity of associative memory in networks and the effect that plasticity has on it.
+
+Supervisor: `Dr. Volker Steuber`_
 
 Masters by Research: UTS, Sydney
 --------------------------------
 
-I have recently submitted my Masters thesis for examination as part of
-my enrolment at the University of Technology, Sydney as a Masters by
-research student. The title of my thesis was "Bio inspired navigation in
-a mobile dynamic environment." I studied and modelled neuron sets that
-are related to navigation in the mammalian brain. I worked on head
-direction cells, place cells, grid cells and boundary cells.
+I have recently submitted my Masters thesis for examination as part of my enrolment at the University of Technology, Sydney as a Masters by research student. The title of my thesis was "Bio inspired navigation in a mobile dynamic environment." I studied and modelled neuron sets that are related to navigation in the mammalian brain. I worked on head direction cells, place cells, grid cells and boundary cells.
 
 Supervisor: `Dr. Jack Wang`_
-
-Research interests
-------------------
-
--  Neuro-mimetic systems
--  Computational modelling of neuron sets
--  Bio-mimetic navigation
--  Synaptic learning
--  Biological systems for robots
 
 Academic resume
 ---------------
@@ -48,9 +36,6 @@ Publications
    organizing population of grid cells" - accepted and to be presented
    at `ICANN 2014`_, Hamburg, Germany.
    `(Preprint) <http://ankursinha.in/files/research/01-ICANN14-GridCells/main.pdf>`__
-#. Sinha, A. & Wang, J. - "Modelling head direction cells - A review" -
-   submitted to Neural Computation for consideration. Currently under
-   review.
 
 The ROS source code that was used in these papers is now available at
 https://github.com/sanjayankur31/bionav. Please do cite the papers if
