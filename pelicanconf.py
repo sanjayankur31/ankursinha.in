@@ -32,8 +32,9 @@ THEME = 'voidy-bootstrap'
 
 PLUGIN_PATH = 'pelican-plugins'
 #PLUGINS = ['post_stats', 'render_math', 'sitemap', 'better_figures_and_images']
+#RESPONSIVE_IMAGES = False
 PLUGINS = ['post_stats', 'render_math', 'sitemap',]
-RESPONSIVE_IMAGES = False
+PYGMENTS_RST_OPTIONS = {'classprefix': 'pgcss', 'linenos': 'table'}
 
 
 # Blogroll
