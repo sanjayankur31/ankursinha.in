@@ -9,7 +9,6 @@ I'm Ankur.
 I'm a F/LOSS enthusiast and volunteer at the Fedora Project. Please take a look at my `Fedora  Users' Page`_ for more info.
 
 I'm also a PhD candidate in the area of computational neuroscience at the University of Hertfordshire.
-`here`_.
 
 Other Links
 ~~~~~~~~~~~
@@ -27,8 +26,13 @@ Other Links
 License
 ~~~~~~~
 
-|Creative Commons License|
-ankursinha.in by Ankur Sinha is licensed under a `Creative Commons Attribution 4.0 International License`_ unless otherwise specified.
+.. figure:: http://i.creativecommons.org/l/by/4.0/88x31.png
+    :align: center
+    :target: http://creativecommons.org/licenses/by/4.0/
+
+    ankursinha.in by Ankur Sinha is licensed under a 
+    `Creative Commons Attribution 4.0 International License`_ 
+    unless otherwise specified.
 
 .. _Fedora  Users' Page: https://fedoraproject.org/wiki/User:Ankursinha
 .. _here: http://ankursinha.in/wp/research/
@@ -40,6 +44,3 @@ ankursinha.in by Ankur Sinha is licensed under a `Creative Commons Attribution 4
 .. _Twitter: http://twitter.com/sanjay_ankur
 .. _last.fm: http://www.last.fm/user/sanjay_ankur/
 .. _Creative Commons Attribution 4.0 International License: http://creativecommons.org/licenses/by/4.0/
-
-.. |Creative Commons License| image:: http://i.creativecommons.org/l/by/4.0/88x31.png
-   :target: http://creativecommons.org/licenses/by/4.0/
