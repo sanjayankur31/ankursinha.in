@@ -41,7 +41,9 @@ PYGMENTS_RST_OPTIONS = {'classprefix': 'pgcss', 'linenos': 'table'}
 LINKS =  (('Fedora', 'http://fedoraproject.org'),)
 
 # Social widget
-SOCIAL = (('Google+', 'https://plus.google.com/105107988864522484597/about',
+SOCIAL = (('Goodreads', 'https://www.goodreads.com/user/show/32360473-ankur',
+           'fa fa-book fa-fw fa-lg'),
+          ('Google+', 'https://plus.google.com/105107988864522484597/about',
            'fa fa-google-plus-square fa-fw fa-lg'),
           ('Twitter', 'https://twitter.com/sanjay_ankur',
            'fa fa-twitter-square fa-fw fa-lg'),
@@ -49,6 +51,12 @@ SOCIAL = (('Google+', 'https://plus.google.com/105107988864522484597/about',
            'fa fa-facebook-square fa-fw fa-lg'),
           ('GitHub', 'http://github.com/sanjayankur31',
            'fa fa-github-square fa-fw fa-lg'),
+          ('Last.fm', 'http://www.last.fm/user/sanjay_ankur',
+           'fa fa-lastfm-square fa-fw fa-lg'),
+          ('Foursquare', 'https://foursquare.com/sanjay_ankur/',
+           'fa fa-foursquare fa-fw fa-lg'),
+          ('Flickr', 'https://www.flickr.com/people/30402562@N07/',
+           'fa fa-flickr fa-fw fa-lg'),
           )
 
 DEFAULT_PAGINATION = 10

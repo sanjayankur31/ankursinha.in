@@ -40,7 +40,7 @@ License
 .. _Fedora  Users' Page: https://fedoraproject.org/wiki/User:Ankursinha
 .. _Goodreads: https://www.goodreads.com/sanjay_ankur
 .. _Github profile: https://github.com/sanjayankur31/
-.. _Flickr: http://www.flickr.com/people/sanjay_ankur/
+.. _Flickr: https://www.flickr.com/people/30402562@N07/
 .. _Facebook: http://www.facebook.com/sanjay.ankur
 .. _Google+: https://plus.google.com/105107988864522484597/about
 .. _Twitter: http://twitter.com/sanjay_ankur
