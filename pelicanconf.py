@@ -43,6 +43,8 @@ LINKS =  (('Fedora', 'http://fedoraproject.org'),)
 # Social widget
 SOCIAL = (('Goodreads', 'https://www.goodreads.com/user/show/32360473-ankur',
            'fa fa-book fa-fw fa-lg'),
+          ('Scholar', 'http://scholar.google.co.in/citations?user=919ScZEAAAAJ&hl=en',
+           'fa fa-google fa-fw fa-lg'),
           ('Google+', 'https://plus.google.com/105107988864522484597/about',
            'fa fa-google-plus-square fa-fw fa-lg'),
           ('Twitter', 'https://twitter.com/sanjay_ankur',
