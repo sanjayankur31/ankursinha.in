@@ -20,10 +20,10 @@ I have recently submitted my Masters thesis for examination as part of my enrolm
 
 Supervisor: `Dr. Jack Wang`_
 
-Academic resume
+Resume
 ---------------
 
-My academic resume can be found `here`_.
+My resume can be found `here`_.
 
 Publications
 ------------
@@ -50,7 +50,7 @@ Achievements/ Awards
 
 .. _Dr. Volker Steuber: http://homepages.stca.herts.ac.uk/~comqvs/
 .. _Dr. Jack Wang: http://www.uts.edu.au/staff/jianguo.wang
-.. _here: http://ankursinha.in/files/research/resume.pdf
+.. _here: http://ankursinha.in/files/misc/resume.pdf
 .. _IJCNN 2014: http://www.ieee-wcci2014.org/
 .. _(Preprint): http://ankursinha.in/files/research/00-IJCNN14-HDCells/PID3182361.pdf
 .. _ICANN 2014: http://icann2014.org/

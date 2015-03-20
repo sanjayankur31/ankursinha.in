@@ -11,6 +11,10 @@ I'm also a F/LOSS enthusiast and volunteer at the Fedora Project. Please take a 
 
 I thoroughly enjoy food, almost all kinds of music (although I tend to generally stick to Rock), and books - I can read all day. I enjoy tinkering with new technology and drinking beer while watching Football too, of course! You can learn more about me through the links below.
 
+Resume
+---------------
+
+My resume can be found `here`_.
 
 Other Links
 ~~~~~~~~~~~
@@ -38,6 +42,7 @@ License
     unless otherwise specified.
 
 .. _Fedora  Users' Page: https://fedoraproject.org/wiki/User:Ankursinha
+.. _here: http://ankursinha.in/files/misc/resume.pdf
 .. _Goodreads: https://www.goodreads.com/sanjay_ankur
 .. _Github profile: https://github.com/sanjayankur31/
 .. _Flickr: https://www.flickr.com/people/30402562@N07/
