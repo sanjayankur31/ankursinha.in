@@ -152,7 +152,7 @@ figure it out, please write a blog post documenting it for Fedora.
 
 Cheers!
 
-.. _had blogged on how one can use gtg and hamster-time-tracker to manage their tasks: http://ankursinha.in/wp/2013/12/16/time-and-task-tracking/
+.. _had blogged on how one can use gtg and hamster-time-tracker to manage their tasks: http://ankursinha.in/blog/2013/12/16/time-and-task-tracking.html
 .. _threebean: https://fedoraproject.org/wiki/User:Ralph
 .. _time sheet: http://threebean.org/timesheets/latest.html
 .. _here: http://taskwarrior.org/docs/

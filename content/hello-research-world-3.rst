@@ -99,7 +99,7 @@ any thing from my report, please do cite it).
 I'm now engaged in making some contribution to the field. I'll post
 again when there's something worth reporting. Cheers!
 
-.. _post on journal writing: http://ankursinha.in/wp/2013/06/23/fedora-and-journal-writing/
+.. _post on journal writing: http://ankursinha.in/blog/2013/06/23/fedora-and-journal-writing.html
 .. _**head direction cells**: http://en.wikipedia.org/wiki/Head_direction_cells
 .. _SLAM: http://en.wikipedia.org/wiki/Simultaneous_localization_and_mapping
 .. _inertial navigation: http://en.wikipedia.org/wiki/Inertial_navigation_system

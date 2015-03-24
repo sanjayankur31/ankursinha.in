@@ -240,7 +240,7 @@ logs accesses, syncs and errors too.
 
 EDIT: Updated generation portion.
 
-.. _documented using task warrior to manage your tasks recently: http://ankursinha.in/wp/2014/04/09/managing-tasks-and-generating-timesheets-using-taskwarrior/
+.. _documented using task warrior to manage your tasks recently: http://ankursinha.in/blog/2014/04/09/managing-tasks-and-generating-timesheets-using-taskwarrior.html
 .. _Mirakel: http://mirakel.azapps.de/index.html
 .. _available: https://admin.fedoraproject.org/pkgdb/package/vit/
 .. _review request: https://bugzilla.redhat.com/show_bug.cgi?id=1066573

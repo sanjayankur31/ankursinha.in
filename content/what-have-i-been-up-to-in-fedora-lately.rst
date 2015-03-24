@@ -125,5 +125,5 @@ e-mail and I'll help you get started.**
 .. _Ambassadors: http://fedoraproject.org/wiki/Ambassadors
 .. _Fedora Join SIG: https://fedoraproject.org/wiki/Fedora_Join_SIG
 .. _Fedora medical SIG: https://fedoraproject.org/wiki/SIGs/FedoraMedical
-.. _previous blog post: http://ankursinha.in/wp/2013/08/27/on-building-a-ros-groovy-software-collection-for-fedora/
+.. _previous blog post: http://ankursinha.in/blog/2013/08/27/on-building-a-ros-groovy-software-collection-for-fedora.html
 .. _video for Ask Fedora: https://fedorahosted.org/design-team/ticket/285
