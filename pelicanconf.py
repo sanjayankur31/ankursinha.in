@@ -8,7 +8,10 @@ SITETAG = u'neuroscience/fedora/musings ...'
 #SITEURL = 'http://ankursinha.in/blog/'
 TWITTER_USERNAME = 'sanjay_ankur'
 
-STATIC_PATHS = ['images']
+STATIC_PATHS = ['images', 'extras/favicon.ico']
+EXTRA_PATH_METADATA = {
+    'extras/favicon.ico': {'path':'favicon.ico'}
+}
 ARTICLE_PATHS = ['']
 ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{date:%d}/{slug}.html'
 ARTICLE_URL = '{date:%Y}/{date:%m}/{date:%d}/{slug}.html'
