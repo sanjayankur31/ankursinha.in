@@ -1,0 +1,73 @@
+On chilli
+###########
+:date: 2015-03-29 15:13
+:author: ankur
+:category: misc
+:tags: food
+:slug: on-chilli
+
+.. image:: {filename}/images/green-chilli.jpg
+    :align: center
+    :height: 800px
+    :scale: 50 %
+    :target: {filename}/images/green-chilli.jpg
+    :alt: Green chilli
+
+Since I moved away from India a few years ago, I've been exposed to many new cuisines. Some of these are quite bland in comparison to Indian food. I'm not saying I don't like them, they're just relatively tasteless - I'm just not used to it, like people aren't used to the spicy food that I tend to eat. 
+
+Recently, one of my lab mates, who really cannot handle spice at all, said to me,"Your tastes sensors must be dead! How can you eat this stuff? It causes pain!" She wasn't joking. She wasn't sarcastic either. Unfortunately, she was serious - I felt like she seemed to think that we were all idiots for eating spicy food - that it was somehow self-destructive of us.  I was only mildly offended and I chose not to retort. People are allowed to have their opinions, after all. This got me thinking, though. **Why do we Indians eat spicy food? Why do chillies even exist?** I finally got down to looking into it today. In a couple of hours, this is what I've found. (I know I'm using Wikipedia as a reference, but I'm not writing a research paper here!)
+
+Spices are healthy
+------------------
+Now, chillies are only one of the many spices that are used in Indian food. `Here's a long list of them all`_. In general, as `this Quora answer`_ documents, spices have antimicrobial properties - they help us stay healthy. 
+
+The further addition of chillies makes food hotter, which makes one sweat, which helps regulate body temperature in a hot climate. People eat hot food to handle the heat. This is coherent with the fact that food in the southern Indian state of Andhra Pradesh is on average hotter than what I ate as a resident of the northern states of Bihar, Jharkhand and Uttarakhand - as the map below shows, southern states have higher average temperatures `(taken from mapsofindia.com)`_.
+
+.. figure:: {filename}/images/india-map-annualtemperature.jpg
+    :align: center
+    :height: 800px
+    :scale: 50 %
+    :target: {filename}/images/india-map-annualtemperature.jpg
+    :alt: India average annual temperature map
+
+    India average annual temperature map
+
+What makes chillies hot?
+------------------------
+A class of chemicals called *Capsaicinoids* `(wikipedia page for Capsaicinoids)`_ are responsible for the pungency of chillies. Again, this class of chemicals is produced in order to combat microbial attacks as `this research paper`_ documents - the pungency of chillies is most likely an adaptive response to selection by a microbial pathogen, the *Fusarium* fungus. Another reason for the production of this class of chemicals, as the Wikipedia article states, is that the pain receptor in birds does not respond to them the way our pain receptors do. Birds, unlike us mammals, do not have molars and the seeds that they eat go through their digestive tracts unharmed. |endozoochory_italics|_. The seeds we eat aren't so lucky. The pungency, therefore, is supposed to keep us from eating these fruits, leaving them for the birds. Well, that didn't exactly work out as planned, did it?
+
+How is hotness measured?
+-------------------------
+Interesting question, isn't it? A curry that's mild for me could be quite hot for someone else, and vice versa. How do we measure hotness as a standard measure? One scale is referred to as the `Scoville Scale`_. This requires humans to test the pungency and does not produce the most consistent results as a consequence. Nevertheless, it seems to be used widely used. Other methods do exist, but I couldn't find many sites that used their units. I'm not sure what restaurants mean when they have a dish marked as "two peppers" on the menu, though. Maybe I'll ask them next time.
+
+
+Which is the hottest chilli?
+----------------------------
+This is what I'd actually set out to ascertain. I bought "rocket chillies" from ASDA and while they looked exactly like Indian chillies, they weren't nearly hot. I'd added six of them to my curry the other day and it still seemed bland. Recently, I went to a Asian grocery store which had Asian green chillies. These were much hotter, the way I like them. So, what was the difference between the two? They were probably different species altogether. I haven't been able to track down either of the two types of chillies I used. ASDA doesn't state it on the packet and the owner of the grocery store doesn't know exactly where they come from.
+
+Anyway, the hottest chilli as of today is the `Carolina Reaper`_ from South Caroline in the USA. I'm not sure I'll try this one. `This list`_ also compares it to a jalapeño pepper. The Carolina Reaper is **440** times hotter than a jalapeño pepper. 
+
+In India, the common green chilli is referred to as "hari mirch" ("hari" literally means "green" and "mirch" literally means "chilli"). I haven't been able to find an accurate Scoville value for it. `This website says 15,000`_. `This one says 5,000`_. There are `different types of hari mirch`_ too and I don't quite know which we used. One of the peppers in India, was the hottest for a while - the `Bhut jolokia`_. Maybe I'll give that a try when I go home next.
+
+Anyway, when you do go out with your Indian friends, tread lightly - `this 9gag post`_ sort of sums it up. One of my British mates here ordered a Chicken Madras and requested it extra hot. She managed to finish it, but it took her a few glasses of water to deal with it once she'd eaten and left her red faced. 
+
+Here's a `recipe for Chilli Chicken`_ that you can try out. 
+
+
+
+.. _this 9gag post: http://9gag.com/gag/aArgQ6d
+.. _Here's a long list of them all: http://en.wikipedia.org/wiki/List_of_Indian_spices
+.. _endozoochory_italics: http://en.wikipedia.org/wiki/Seed_dispersal#By_animals
+.. |endozoochory_italics| replace:: They can then germinate when dispersed (this is called *endozoochory*)
+.. _this Quora answer: http://qr.ae/QmAL7
+.. _(taken from mapsofindia.com): http://www.mapsofindia.com/maps/india/annualtemperature.htm
+.. _(wikipedia page for Capsaicinoids): https://en.wikipedia.org/wiki/Capsaicin
+.. _this research paper: http://www.pnas.org/content/105/33/11808.short
+.. _Scoville Scale: https://en.wikipedia.org/wiki/Scoville_scale
+.. _Carolina Reaper: https://en.wikipedia.org/wiki/Carolina_Reaper
+.. _This list: http://www.scottrobertsweb.com/scoville-scale/?view=peppers
+.. _This website says 15,000: http://www.indiacurry.com/spice/sz001aboutchili.htm
+.. _This one says 5,000: http://pepperheadsforlife.com/the-scoville-scale/
+.. _Bhut jolokia: http://en.wikipedia.org/wiki/Bhut_jolokia
+.. _different types of hari mirch: http://www.indianspices.com/html/s06231ch.htm
+.. _recipe for Chilli Chicken: http://indianhealthyrecipes.com/chilli-chicken-dry-recipe-indo-chinese-style/
