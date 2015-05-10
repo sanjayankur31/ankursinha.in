@@ -33,7 +33,7 @@ DEFAULT_LANG = u'en'
 
 THEME = 'voidy-bootstrap'
 
-PLUGIN_PATH = 'pelican-plugins'
+PLUGIN_PATHS = ['pelican-plugins']
 #PLUGINS = ['post_stats', 'render_math', 'sitemap', 'better_figures_and_images']
 #RESPONSIVE_IMAGES = False
 PLUGINS = ['post_stats', 'render_math', 'sitemap',]
