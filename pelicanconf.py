@@ -62,8 +62,6 @@ SOCIAL = (('Goodreads', 'https://www.goodreads.com/user/show/32360473-ankur',
            'fa fa-foursquare fa-fw fa-lg'),
           ('Flickr', 'https://www.flickr.com/people/30402562@N07/',
            'fa fa-flickr fa-fw fa-lg'),
-          ('Instagram', 'https://instagram.com/sanjay.ankur/',
-           'fa fa-instagram fa-fw fa-lg'),
           )
 
 DEFAULT_PAGINATION = 10
