@@ -28,6 +28,7 @@ Other Links
 -  `last.fm`_
 -  sanjay\_ankur on Skype
 -  sanjay\_ankur on Ekiga
+-  `Instagram`_
 
 License
 ~~~~~~~
@@ -51,3 +52,4 @@ License
 .. _Twitter: http://twitter.com/sanjay_ankur
 .. _last.fm: http://www.last.fm/user/sanjay_ankur/
 .. _Creative Commons Attribution 4.0 International License: http://creativecommons.org/licenses/by/4.0/
+.. _Instagram: https://instagram.com/sanjay.ankur/
