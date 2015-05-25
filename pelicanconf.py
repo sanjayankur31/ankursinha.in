@@ -86,5 +86,6 @@ SITEMAP = {
 CUSTOM_ARTICLE_FOOTERS = ('sharing.html',)
 CUSTOM_SCRIPTS_ARTICLE = "sharing_scripts.html"
 
+STYLESHEET_FILES = ("use-opensans.css", "voidybootstrap.css", "pygment.css")
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
