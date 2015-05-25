@@ -5,7 +5,7 @@ Appstream data for RPMFusion
 :category: Tech
 :tags: Fedora, Community
 :slug: appdata-for-rpmfusion
-:summary: I am trying to get appstream data form rpmfusion packages
+:summary: I am trying to generate and provide appstream data for packages in the RPMFusion repository.
 
 If you've been keeping up with `Fedora 22`_ and the workstation_, you'll know that Richard and the workstation SIG has been working hard to try and fix appstream_ data files for applications - so that users are exposed to more software in `Gnome Software`_.
 
