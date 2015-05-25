@@ -2,7 +2,7 @@ I'm on strike too!
 ##################
 :date: 2012-01-18 12:40
 :author: ankur
-:category: misc
+:category: Other
 :tags: Events
 :slug: im-on-strike-too
 

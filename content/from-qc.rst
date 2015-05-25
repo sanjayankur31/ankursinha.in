@@ -2,7 +2,7 @@ From QC
 #######
 :date: 2010-07-31 09:11
 :author: ankur
-:category: misc
+:category: Other
 :tags: Social
 :slug: from-qc
 

@@ -2,7 +2,7 @@ Work in progress
 ################
 :date: 2010-09-16 19:00
 :author: ankur
-:category: misc
+:category: Other
 :slug: work-in-progress
 
 Just a screen shot of what I've been trying to do with

@@ -2,7 +2,7 @@ the good, @#$%^&* people!!!
 ###########################
 :date: 2009-07-17 05:12
 :author: ankur
-:category: misc
+:category: Other
 :tags: Rant
 :slug: the-good-people
 

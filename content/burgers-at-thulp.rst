@@ -2,7 +2,7 @@ Burgers at thulp!
 #################
 :date: 2012-02-12 14:51
 :author: ankur
-:category: misc
+:category: Other
 :slug: burgers-at-thulp
 
 .. raw:: html

@@ -2,7 +2,7 @@ Tata Photon+ users : Something you should know
 ##############################################
 :date: 2011-03-15 13:03
 :author: ankur
-:category: misc
+:category: Other
 :slug: tata-photon-users-something-you-should-know
 
 Yes, your talk time is carried forward when you recharge to increase

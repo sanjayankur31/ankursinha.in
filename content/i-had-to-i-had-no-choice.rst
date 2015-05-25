@@ -2,7 +2,7 @@ I had to, I had no choice
 #########################
 :date: 2010-09-10 12:02
 :author: ankur
-:category: misc
+:category: Other
 :slug: i-had-to-i-had-no-choice
 
 I really had no choice. I really wanted to stick to nouveau for my

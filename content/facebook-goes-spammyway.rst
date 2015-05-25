@@ -2,7 +2,7 @@ Facebook goes spammyway?
 ########################
 :date: 2009-05-23 19:52
 :author: ankur
-:category: misc
+:category: Other
 :tags: Social
 :slug: facebook-goes-spammyway
 

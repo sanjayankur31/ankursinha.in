@@ -2,7 +2,7 @@ yum doesn't help when you're hungry
 ###################################
 :date: 2010-07-17 14:39
 :author: ankur
-:category: misc
+:category: Other
 :slug: yum-doesnt-help-when-youre-hungry
 
 ::

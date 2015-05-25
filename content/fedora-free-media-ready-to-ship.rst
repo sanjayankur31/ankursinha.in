@@ -2,7 +2,7 @@ Fedora free media ready to ship
 ###############################
 :date: 2012-01-24 12:54
 :author: ankur
-:category: misc
+:category: Other
 :slug: fedora-free-media-ready-to-ship
 
 .. raw:: html

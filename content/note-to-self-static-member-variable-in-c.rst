@@ -2,7 +2,7 @@ Note to self: static member variable in C++
 ###########################################
 :date: 2011-02-07 20:34
 :author: ankur
-:category: misc
+:category: Other
 :tags: Programming
 :slug: note-to-self-static-member-variable-in-c
 

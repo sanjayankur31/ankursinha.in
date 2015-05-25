@@ -2,7 +2,7 @@ Day 1 at the IISc
 #################
 :date: 2010-05-20 15:22
 :author: ankur
-:category: misc
+:category: Other
 :tags: Events
 :slug: day-1-at-the-iisc
 

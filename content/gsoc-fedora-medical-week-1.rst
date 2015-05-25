@@ -2,7 +2,7 @@ GSoC : Fedora Medical week 1
 ############################
 :date: 2011-05-02 06:09
 :author: ankur
-:category: misc
+:category: Other
 :slug: gsoc-fedora-medical-week-1
 
 So\ `my proposal`_ for the GSoC got selected this year. I'm working with

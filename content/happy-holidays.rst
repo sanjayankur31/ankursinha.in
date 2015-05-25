@@ -2,7 +2,7 @@ Happy holidays!
 ###############
 :date: 2011-12-24 19:00
 :author: ankur
-:category: misc
+:category: Other
 :tags: Social
 :slug: happy-holidays
 

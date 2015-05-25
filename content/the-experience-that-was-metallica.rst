@@ -2,7 +2,7 @@ The experience that was Metallica
 #################################
 :date: 2011-10-31 12:32
 :author: ankur
-:category: misc
+:category: Other
 :tags: Music
 :slug: the-experience-that-was-metallica
 

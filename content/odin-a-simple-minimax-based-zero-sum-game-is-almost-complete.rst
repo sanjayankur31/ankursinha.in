@@ -2,7 +2,7 @@ odin (a simple minimax based zero sum game) is almost complete
 ##############################################################
 :date: 2010-11-18 16:06
 :author: ankur
-:category: misc
+:category: Other
 :tags: AI
 :slug: odin-a-simple-minimax-based-zero-sum-game-is-almost-complete
 

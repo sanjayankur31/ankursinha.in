@@ -2,7 +2,7 @@ HOGGburger
 ##########
 :date: 2012-01-25 15:16
 :author: ankur
-:category: misc
+:category: Other
 :slug: hoggburger
 
 .. raw:: html

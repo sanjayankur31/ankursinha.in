@@ -2,7 +2,7 @@ On chilli
 ###########
 :date: 2015-03-29 15:13
 :author: ankur
-:category: misc
+:category: Other
 :tags: Food
 :slug: on-chilli
 

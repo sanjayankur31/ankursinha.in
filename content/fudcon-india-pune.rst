@@ -2,7 +2,7 @@ FUDCon India Pune
 #################
 :date: 2011-11-07 21:18
 :author: ankur
-:category: misc
+:category: Other
 :slug: fudcon-india-pune
 
 .. raw:: html

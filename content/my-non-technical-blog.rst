@@ -2,7 +2,7 @@ My non technical blog
 #####################
 :date: 2010-11-29 20:01
 :author: ankur
-:category: misc
+:category: Other
 :slug: my-non-technical-blog
 
 I had initially begun with my non technical `blog`_. After a while, I

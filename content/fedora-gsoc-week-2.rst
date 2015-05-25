@@ -2,7 +2,7 @@ Fedora GSoC : week 2
 ####################
 :date: 2011-05-09 00:29
 :author: ankur
-:category: misc
+:category: Other
 :slug: fedora-gsoc-week-2
 
 This week was slow from the GSoC perspective. My tasks were to

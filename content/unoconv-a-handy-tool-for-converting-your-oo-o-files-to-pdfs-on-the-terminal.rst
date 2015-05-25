@@ -2,7 +2,7 @@ unoconv : a handy tool for converting your OO.o files to pdfs on the terminal
 #############################################################################
 :date: 2010-11-29 02:36
 :author: ankur
-:category: misc
+:category: Other
 :tags: Fedora
 :slug: unoconv-a-handy-tool-for-converting-your-oo-o-files-to-pdfs-on-the-terminal
 

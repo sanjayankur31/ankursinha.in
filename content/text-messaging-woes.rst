@@ -2,7 +2,7 @@ Text messaging woes
 ###################
 :date: 2010-11-28 14:40
 :author: ankur
-:category: misc
+:category: Other
 :tags: Rant
 :slug: text-messaging-woes
 

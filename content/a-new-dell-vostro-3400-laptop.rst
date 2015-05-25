@@ -2,7 +2,7 @@ A new Dell Vostro 3400 Laptop
 #############################
 :date: 2010-12-01 11:36
 :author: ankur
-:category: misc
+:category: Other
 :tags: Fedora
 :slug: a-new-dell-vostro-3400-laptop
 

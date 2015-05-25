@@ -2,7 +2,7 @@ Fedora 10 : best for everyday use.. :)
 ######################################
 :date: 2009-05-12 07:00
 :author: ankur
-:category: misc
+:category: Other
 :tags: Fedora
 :slug: fedora-10-best-for-everyday-use
 

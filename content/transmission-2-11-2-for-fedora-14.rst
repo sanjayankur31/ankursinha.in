@@ -2,7 +2,7 @@ transmission-2.11-2 for Fedora 14
 #################################
 :date: 2010-11-10 01:31
 :author: ankur
-:category: misc
+:category: Other
 :tags: Fedora
 :slug: transmission-2-11-2-for-fedora-14
 

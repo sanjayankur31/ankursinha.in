@@ -2,7 +2,7 @@ An interesting thread:
 ######################
 :date: 2010-07-09 19:21
 :author: ankur
-:category: misc
+:category: Other
 :tags: Fedora
 :slug: an-intereting-thread
 

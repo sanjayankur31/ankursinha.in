@@ -2,7 +2,7 @@ Out for the month :(
 ####################
 :date: 2010-11-23 17:53
 :author: ankur
-:category: misc
+:category: Other
 :slug: out-for-the-month
 
 I `recently posted`_ that I'd be out for a week with a fried

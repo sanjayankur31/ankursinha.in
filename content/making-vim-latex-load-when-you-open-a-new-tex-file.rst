@@ -2,7 +2,7 @@ making vim-latex load when you open a new tex file
 ##################################################
 :date: 2010-11-23 20:43
 :author: ankur
-:category: misc
+:category: Other
 :tags: Fedora
 :slug: making-vim-latex-load-when-you-open-a-new-tex-file
 

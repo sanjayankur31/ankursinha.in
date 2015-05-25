@@ -2,7 +2,7 @@ End of dormant spree
 ####################
 :date: 2010-08-22 08:19
 :author: ankur
-:category: misc
+:category: Other
 :slug: end-of-dormant-spree
 
 I've been just a teenee bit busy in the past few days. (Exams and other

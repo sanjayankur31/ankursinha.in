@@ -2,7 +2,7 @@ Good news!! Delta is here!!
 ###########################
 :date: 2009-05-10 21:18
 :author: ankur
-:category: misc
+:category: Other
 :tags: Fedora
 :slug: good-news-delta-is-here
 
