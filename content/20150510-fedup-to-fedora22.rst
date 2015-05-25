@@ -4,6 +4,7 @@ Fedup to Fedora 22 - works like a charm!
 :author: ankur
 :category: Tech
 :tags: Fedora
+:summary: Using FedUp to upgrade to Fedora 22 works flawlessly.
 
 `Fedora 22`_ is right around the corner. Some of us, the greedy ones, can't wait to get our hands on the new goodies. I've already gone ahead and moved three of my systems to Fedora 22! It's brilliant! I'm a Gnome 3 user - and the `new Gnome 3.16`_ has some great improvements that make it even better to use!
 

@@ -5,6 +5,7 @@ On chilli
 :category: Other
 :tags: Food
 :slug: on-chilli
+:summary: On why chillies exist, why people eat them and whether their hottness can be measured.
 
 .. image:: {filename}/images/green-chilli.jpg
     :align: center
