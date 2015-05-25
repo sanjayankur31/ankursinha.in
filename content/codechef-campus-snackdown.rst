@@ -3,7 +3,7 @@ Codechef Campus SnackDown
 :date: 2009-11-06 13:26
 :author: ankur
 :category: Tech
-:tags: Codechef
+:tags: Events
 :slug: codechef-campus-snackdown
 
 Okay, this post is to do with my life out of the Fedora community.

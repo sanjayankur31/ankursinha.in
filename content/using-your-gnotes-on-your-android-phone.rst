@@ -3,7 +3,7 @@ Using your gnotes on your android phone
 :date: 2011-09-30 01:18
 :author: ankur
 :category: Tech
-:tags: android, ftp, Gnote, nautilus, swiftp, tomdroid
+:tags: Android
 :slug: using-your-gnotes-on-your-android-phone
 
 |image0|

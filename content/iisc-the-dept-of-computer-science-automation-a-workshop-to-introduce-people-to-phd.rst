@@ -3,7 +3,7 @@ IISc- The Dept. of Computer Science & Automation : A workshop to introduce peopl
 :date: 2010-07-02 18:25
 :author: ankur
 :category: misc
-:tags: IISC, PhD, 
+:tags: Events
 :slug: iisc-the-dept-of-computer-science-automation-a-workshop-to-introduce-people-to-phd
 
 The Department of Computer Science and Automation at the Indian

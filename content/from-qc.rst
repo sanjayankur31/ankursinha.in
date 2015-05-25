@@ -3,7 +3,7 @@ From QC
 :date: 2010-07-31 09:11
 :author: ankur
 :category: misc
-:tags: questionable content, web comics
+:tags: Social
 :slug: from-qc
 
 Thought I'd read up some `QC`_ (I don't feel like working at the

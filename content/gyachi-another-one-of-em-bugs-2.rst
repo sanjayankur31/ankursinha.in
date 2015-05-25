@@ -3,7 +3,7 @@ GyachI. Another one of 'em bugs??
 :date: 2009-07-07 11:59
 :author: ankur
 :category: Tech
-:tags: bugzilla, GyachI
+:tags: Linux
 :slug: gyachi-another-one-of-em-bugs-2
 
 I \*think\* I've unearthed another one of 'em bugs. Here it is.

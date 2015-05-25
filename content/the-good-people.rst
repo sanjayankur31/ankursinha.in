@@ -3,7 +3,7 @@ the good, @#$%^&* people!!!
 :date: 2009-07-17 05:12
 :author: ankur
 :category: misc
-:tags: Bengal Bandh, Rant
+:tags: Rant
 :slug: the-good-people
 
 Folks, this is just a rant!!

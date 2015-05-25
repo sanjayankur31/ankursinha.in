@@ -2,8 +2,8 @@ Keep your cool. Always.
 #######################
 :date: 2010-11-09 13:50
 :author: ankur
-:category: misc
-:tags: general. etiquette, mailing list
+:category: Life
+:tags: Community
 :slug: keep-your-cool-always
 
 Declaration: This post is not directed at any one person in particular.

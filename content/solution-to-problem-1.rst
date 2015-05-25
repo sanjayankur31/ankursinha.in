@@ -3,7 +3,7 @@ Solution to Problem 1
 :date: 2009-02-20 12:34
 :author: ankur
 :category: Tech
-:tags: Bitwise, C Programming
+:tags: Programming
 :slug: solution-to-problem-1
 
 Well, I thought a lot about how to help Spidey, even peeked at the hint

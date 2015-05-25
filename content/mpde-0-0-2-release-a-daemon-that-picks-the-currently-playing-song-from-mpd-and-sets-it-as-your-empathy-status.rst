@@ -3,7 +3,7 @@ mpdE (0.0.2 release): A daemon that picks the currently playing song from mpd an
 :date: 2011-09-03 10:49
 :author: ankur
 :category: Tech
-:tags: Empathy, mpd, telepathy-glib
+:tags: Linux, Music
 :slug: mpde-0-0-2-release-a-daemon-that-picks-the-currently-playing-song-from-mpd-and-sets-it-as-your-empathy-status
 
 I use `Empathy`_. I also use `mpd`_. Now, the players I used earlier,

@@ -3,7 +3,7 @@ Extracting small chunks of data from EXTREMELY LARGE files - say hello to memory
 :date: 2015-02-20 18:12
 :author: ankur
 :category: Research
-:tags: auryn, neurons, spikes
+:tags: Programming, Computational neuroscience
 :slug: extracting-small-chunks-of-data-from-extremely-large-files-say-hello-to-memory-mapped-files
 
 The story so far ...

@@ -3,7 +3,7 @@ Note to self: static member variable in C++
 :date: 2011-02-07 20:34
 :author: ankur
 :category: misc
-:tags: C
+:tags: Programming
 :slug: note-to-self-static-member-variable-in-c
 
 So you don't go banging your head around the next time you try to use a

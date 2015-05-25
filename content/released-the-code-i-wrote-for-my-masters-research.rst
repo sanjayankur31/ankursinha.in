@@ -3,7 +3,7 @@ Released the code I wrote for my masters research
 :date: 2014-06-25 08:38
 :author: ankur
 :category: Research
-:tags: attractor-networks, bio mimetic navigation, cognitive-maps, computational neuroscience, grid-cells, head direction cells, hippocampus, neurons, neuroscience, place-cells, ROS
+:tags: Computational neuroscience, Robotics
 :slug: released-the-code-i-wrote-for-my-masters-research
 
 In this week's research group meeting, I asked my supervisor if I could

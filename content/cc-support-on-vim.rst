@@ -3,7 +3,7 @@ CC++ support on VIM
 :date: 2010-11-01 15:58
 :author: ankur
 :category: Tech
-:tags: C, programming, vim
+:tags: Programming, Vim
 :slug: cc-support-on-vim
 
 I'm a regular vim user. Recently I came across the c-vim package which

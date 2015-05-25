@@ -3,7 +3,7 @@ My library
 :date: 2012-02-18 18:28
 :author: ankur
 :category: Tech
-:tags: alexandria, books
+:tags: Books
 :slug: my-library
 
 I use Alexandria for keeping a record of all the books I buy/read/loan.

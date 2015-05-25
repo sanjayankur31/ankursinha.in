@@ -3,7 +3,7 @@ Day 1 at the IISc
 :date: 2010-05-20 15:22
 :author: ankur
 :category: misc
-:tags: IISC, misc
+:tags: Events
 :slug: day-1-at-the-iisc
 
 Today is Day 1 of my 2 month internship at the IISc.

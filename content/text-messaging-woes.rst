@@ -3,7 +3,7 @@ Text messaging woes
 :date: 2010-11-28 14:40
 :author: ankur
 :category: misc
-:tags: Rant, text messaging
+:tags: Rant
 :slug: text-messaging-woes
 
 **Yes, it's a rant.**

@@ -2,8 +2,8 @@ How I got my first (semi) black eye
 ###################################
 :date: 2012-03-21 00:25
 :author: ankur
-:category: misc
-:tags: life, random
+:category: Life
+:tags: Sports
 :slug: how-i-got-my-first-semi-black-eye
 
 Dear life,

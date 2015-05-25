@@ -3,7 +3,7 @@ Restoring single files with deja-dup
 :date: 2011-08-13 16:48
 :author: ankur
 :category: Tech
-:tags: deja-dup, GNOME, 
+:tags: GNOME, Linux
 :slug: restoring-single-files-with-deja-dup
 
 Yes. I understand you wouldn't want to restore all your XXGBs of data to

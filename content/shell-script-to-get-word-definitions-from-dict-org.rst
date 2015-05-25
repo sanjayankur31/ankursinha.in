@@ -2,8 +2,8 @@ shell script to get word definitions from dict.org
 ##################################################
 :date: 2010-12-01 00:18
 :author: ankur
-:category: misc
-:tags: bash, dict.org, dictionalry lookup, shell script
+:category: Tech
+:tags: Bash
 :slug: shell-script-to-get-word-definitions-from-dict-org
 
 Edit : There's a list of\ `command line clients for dict.org here`_

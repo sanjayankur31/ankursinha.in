@@ -3,7 +3,7 @@ I'm on strike too!
 :date: 2012-01-18 12:40
 :author: ankur
 :category: misc
-:tags: sopa strike
+:tags: Events
 :slug: im-on-strike-too
 
 [vimeo http://www.vimeo.com/31100268 w=400&h=225]

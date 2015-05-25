@@ -3,7 +3,7 @@ odin (a simple minimax based zero sum game) is almost complete
 :date: 2010-11-18 16:06
 :author: ankur
 :category: misc
-:tags: artificial intelligence, C, glib, Minimax
+:tags: AI
 :slug: odin-a-simple-minimax-based-zero-sum-game-is-almost-complete
 
 I have been working on odin, on and off this semester as my

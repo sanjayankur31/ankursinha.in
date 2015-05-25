@@ -3,7 +3,7 @@ On chilli
 :date: 2015-03-29 15:13
 :author: ankur
 :category: misc
-:tags: food
+:tags: Food
 :slug: on-chilli
 
 .. image:: {filename}/images/green-chilli.jpg

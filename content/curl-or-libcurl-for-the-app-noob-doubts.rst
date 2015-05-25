@@ -3,7 +3,7 @@ cURL or libcurl for the app?? Noob doubts..
 :date: 2009-05-15 08:04
 :author: ankur
 :category: Tech
-:tags: cURL, curl-devel, twit_tui
+:tags: Programming
 :slug: curl-or-libcurl-for-the-app-noob-doubts
 
 My app has to get the xml from the twitter api for which i use libcurl

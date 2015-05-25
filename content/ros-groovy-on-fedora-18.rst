@@ -3,7 +3,7 @@ ROS groovy on Fedora 18
 :date: 2013-03-28 04:33
 :author: ankur
 :category: Tech
-:tags: Groovy, PR2, Robotics, robotics research, ROS
+:tags: Robotics
 :slug: ros-groovy-on-fedora-18
 
 |ros-groovy|

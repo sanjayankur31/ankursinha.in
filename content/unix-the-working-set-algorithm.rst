@@ -3,7 +3,7 @@ Unix : the  "working set" algorithm
 :date: 2010-12-04 23:04
 :author: ankur
 :category: Tech
-:tags: Demand Paging, LRU, operating systems, Unix, Working set
+:tags: Unix
 :slug: unix-the-working-set-algorithm
 
 I took my end semester exam today on the design of the\ `Unix operating

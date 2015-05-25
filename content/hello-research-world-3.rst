@@ -3,7 +3,7 @@ Hello research world!
 :date: 2013-10-03 15:57
 :author: ankur
 :category: Research
-:tags: bio mimetic navigation, biological modelling, computational neuroscience, head direction cells, neuroscience, research, Robotics
+:tags: Computational neuroscience
 :slug: hello-research-world-3
 
 It's been just about a year since I started my research career as a

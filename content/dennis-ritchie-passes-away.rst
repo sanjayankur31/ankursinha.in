@@ -3,7 +3,7 @@ Dennis Ritchie passes away.
 :date: 2011-10-13 12:30
 :author: ankur
 :category: Tech
-:tags: C, ritchie, Unix
+:tags: Programming
 :slug: dennis-ritchie-passes-away
 
 Thank you **dmr** Sir for your numerous contributions. You will always

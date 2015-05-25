@@ -3,7 +3,7 @@ mutex vs semaphore : the toilet example
 :date: 2010-12-04 11:33
 :author: ankur
 :category: Tech
-:tags: mutex, operating systems, semaphore
+:tags: Operating systems
 :slug: mutex-vs-semaphore-the-toilet-example
 
 Came across `this page`_ while surfing/reading around on the internet.

@@ -3,7 +3,7 @@ Programming skills..
 :date: 2009-02-19 17:26
 :author: ankur
 :category: Tech
-:tags: C Programming
+:tags: Programming
 :slug: programming-skills
 
 Im still a noob at programming.. I get these questions from places and

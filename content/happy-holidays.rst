@@ -3,7 +3,7 @@ Happy holidays!
 :date: 2011-12-24 19:00
 :author: ankur
 :category: misc
-:tags: holidays
+:tags: Social
 :slug: happy-holidays
 
 [caption id="" align="aligncenter" width="500" caption="Merry Christmas!

@@ -2,7 +2,7 @@ My first ever parking ticket
 ############################
 :date: 2011-01-14 10:17
 :author: ankur
-:category: misc
+:category: Life
 :tags: Bangalore
 :slug: my-first-ever-parking-ticket
 
