@@ -3,7 +3,7 @@ Playing your music from the terminal : mpd setup
 :date: 2011-02-26 15:06
 :author: ankur
 :category: Tech
-:tags: linux, mpd, ncmpc
+:tags: Linux
 :slug: playing-your-music-from-the-terminal-mpd-setup
 
 I love using the terminal. In my `last post`_, I detailed using rtorrent

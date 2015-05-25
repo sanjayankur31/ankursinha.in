@@ -3,7 +3,7 @@ Using torrent RSS feeds with rtorrent
 :date: 2011-02-21 02:20
 :author: ankur
 :category: Tech
-:tags: bittorrent, linux, RSS, rtorrent. rssdler
+:tags: Linux
 :slug: using-torrent-rss-feeds-with-rtorrent
 
 I was going through the `rtorrent wiki`_ looking for what else I could

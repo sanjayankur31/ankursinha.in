@@ -3,7 +3,7 @@ threecovers
 :date: 2009-02-10 14:15
 :author: ankur
 :category: Tech
-:tags: amarok, cover manager, linux
+:tags: Linux
 :slug: threecovers
 
 Okay.. Now this is really really  weird.. :(

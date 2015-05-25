@@ -3,7 +3,7 @@ I saw the code of DEATH in action!
 :date: 2009-11-22 04:09
 :author: ankur
 :category: Tech
-:tags: linux
+:tags: Linux
 :slug: i-saw-the-code-of-death-in-action
 
 For those who aren't aware,

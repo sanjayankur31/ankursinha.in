@@ -3,7 +3,7 @@ wiley2bibtex: Converting onlinelibrary.wiley citations to BibTeX
 :date: 2011-01-07 09:38
 :author: ankur
 :category: Tech
-:tags: bibtex, latex, linux, wiley
+:tags: Linux
 :slug: wiley2bibtex-converting-onlinelibrary-wiley-citations-to-bibtex
 
 I have recently been busy helping my elder sister with her literature

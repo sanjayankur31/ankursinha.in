@@ -3,7 +3,7 @@ On the new xps format - hell
 :date: 2010-12-28 12:56
 :author: ankur
 :category: Tech
-:tags: , linux, OpenOffice.org, pdf, xps
+:tags: Linux
 :slug: on-the-new-xps-format-hell
 
 Apparently, there's a new document format in the air. It's called "xps".

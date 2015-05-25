@@ -3,7 +3,7 @@ Twit-tui : A command line twitter client v1
 :date: 2009-06-17 16:35
 :author: ankur
 :category: Tech
-:tags: , linux, twit-tui, twitter
+:tags: Linux
 :slug: twit-tui-a-command-line-twitter-client-v1
 
 Ha!! It's finally done..

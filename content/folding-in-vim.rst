@@ -3,7 +3,7 @@ Folding in vim
 :date: 2011-02-16 17:56
 :author: ankur
 :category: Tech
-:tags: linux, vim
+:tags: Linux
 :slug: folding-in-vim
 
 Some vim links, so they're easy to find the next time I need them:

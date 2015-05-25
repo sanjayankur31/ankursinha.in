@@ -3,7 +3,7 @@ Note to self : command line text utils
 :date: 2010-11-22 15:56
 :author: ankur
 :category: Tech
-:tags: linux, text utilities, vim
+:tags: Linux
 :slug: note-to-self-command-line-text-utils
 
 #. vim spell check support

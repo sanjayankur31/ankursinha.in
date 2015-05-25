@@ -3,7 +3,7 @@ OpenSource in class XII syllabus !!
 :date: 2009-05-22 09:25
 :author: ankur
 :category: Tech
-:tags: linux, OpenSource
+:tags: Linux
 :slug: opensource-in-class-xii-syllabus
 
 A great, great mail at the Ambassador's mailing list. A big step in the

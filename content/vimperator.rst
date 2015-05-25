@@ -3,7 +3,7 @@ vimperator
 :date: 2011-09-24 17:08
 :author: ankur
 :category: Tech
-:tags: , firefox, linux, vim, vimperator
+:tags: Linux
 :slug: vimperator
 
 I'm a keyboard guy: I don't like to move my hands off the keyboard to

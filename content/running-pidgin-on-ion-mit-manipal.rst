@@ -3,7 +3,7 @@ Running Pidgin on ION @ MIT Manipal
 :date: 2009-11-01 05:45
 :author: ankur
 :category: Tech
-:tags: ION, linux, LUG Manipal, Pidgin
+:tags: Linux
 :slug: running-pidgin-on-ion-mit-manipal
 
 One of the LUGManipal folks has written a "how to get Pidgin working on

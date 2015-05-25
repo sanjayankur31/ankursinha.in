@@ -3,7 +3,7 @@ WTF??? C++ ??
 :date: 2009-05-23 13:21
 :author: ankur
 :category: Tech
-:tags: C, linux
+:tags: Linux
 :slug: wtf-c
 
 okay.. OOOkay.. This has really taken my lights out..I don't know much

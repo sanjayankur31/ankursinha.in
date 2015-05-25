@@ -3,7 +3,7 @@ Tata Photon+ on Fedora 14
 :date: 2011-02-10 19:53
 :author: ankur
 :category: Tech
-:tags: linux, tataphoton
+:tags: Linux
 :slug: tata-photon-on-fedora-14
 
 All right!! I read a lot of posts etc. which wanted me to use wvdial and
