@@ -1,0 +1,160 @@
+So long, and thanks for all the fish.
+#####################################
+:date: 2015-05-25 14:07
+:author: ankur
+:category: Other
+:tags: Books, Social
+:slug: so-long-and-thanks-for-all-the-fish
+:summary: A little about the hitchhikers guide to the galaxy on Towel Day.
+
+.. raw:: html
+
+    <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="4" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://instagram.com/p/3Gajf3hy5h/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_top">&#34;So long, and thanks for all the fish.&#34; #towelday http://towelday.org</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by Ankur Sinha (@sanjay.ankur) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-05-25T09:41:11+00:00">May 25, 2015 at 2:41am PDT</time></p></div></blockquote>
+    <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+
+|
+|
+
+If you didn't already know, today is "`Towel Day`_". If that doesn't give you ideas, you probably haven't read "**The hitchhikers guide to the galaxy**" yet. Well, then, before you read this post any further, you'd better get yourself a copy! *No, I'm not pulling one over you*! Firstly, it's a book you *really* should read, and secondly, probably less importantly, this post contains spoilers. In case you intend to be stubborn and read on, I'll mark paragraphs with spoilers and you can try and skip them. It'll probably make the post quite incoherent, but then, that's what you get for not listening to me, isn't it?
+
+I've read quite a few books. I tend to stick to detective fiction - whodunits, locked room mysteries; science fiction - Asimov and friends; and, of course, a bit of philosophy. All of these genres appeal to me for many reasons, and one out of the plethora is that they give me things to think about - food for thought. It's rather obvious when it comes to detective fiction - understanding how Poirot or Dr. Fell or Holmes OR Bryant and May get to their conclusions is fascinating - I always end up trying to workout the chain of events myself. My affection towards science fiction comes from a rather wistful dream of witnessing true AI. Even though many have thought about it, and quite a few share my dream, the current state of research doesn't give us much hope. It is, after all, an incredibly difficult task to accomplish. We may get a collection of systems to recognise cats, but we're not very close to true AI - a conscious AI. Of course, there are many issues to consider here - especially ethical ones. On the last genre, a lot of people I meet seem to think that philosophy is for fools - that it's just a bunch of people sitting around and thinking of things that don't apply to life. Well, it isn't true. If you read and understand different philosophies, you'll notice a change in yourself - it changes the way you think, and it changes the way you act.
+
+Anyway, back to Towel Day! Towel Day is an annual celebration on the 25th of May (today!). It is a tribute to `Douglas Adams`_ - who wrote "`The hitchhikers guide to the galaxy`_" in 1979. The book is remarkable - unlike any that you'll read. It is obviously a humorous book (all knowing Wikipedia classifies it as "comedy science fiction") - and it tells the story of the strangest chain of (unearthly) events that one could experience. On this day, people remember Douglas Adams by carrying a towel with them - wherever they go. Why a towel? Well, the book explains it so (**spoiler alert!**):
+
+
+    Just about the most massively useful thing any interstellar Hitchhiker can carry. Partly it has great practical value. You can wrap it around you for warmth as you bound across the cold moons of Jaglan Beta; you can lie on it on the brilliant marble-sanded beaches of Santraginus V, inhaling the heady sea vapours; you can sleep under it beneath the stars which shine so redly on the desert world of Kakrafoon; use it to sail a miniraft down the slow heavy River Moth; wet it for use in hand-to-hand combat; wrap it round your head to ward off noxious fumes or avoid the gaze of the Ravenous Bugblatter Beast of Traal (a mind-bogglingly stupid animal, it assumes that if you can't see it, it can't see you -- daft as a brush, but very very ravenous); you can wave your towel in emergencies as a distress signal, and of course you can dry yourself off with it if it still seems to be clean enough.
+
+    More importantly, a towel has immense psychological value. For some reason, if a strag (strag: nonhitchhiker) discovers that a hitchhiker has his towel with him, he will automatically assume that he is also in possession of a toothbrush, washcloth, soap, tin of biscuits, flask, compass, map, ball of string, gnat spray, wet-weather gear, space suit etc., etc. Furthermore, the strag will then happily lend the hitchhiker any of these or a dozen other items that the hitchhiker might accidentally have "lost." What the strag will think is that any man who can hitch the length and breadth of the Galaxy, rough it, slum it, struggle against terrible odds, win through and still knows where his towel is, is clearly a man to be reckoned with.
+
+    Hence a phrase which has passed into hitch hiking slang, as in "Hey, you sass that hoopy Ford Prefect? There's a frood who really knows where his towel is."
+
+    -- Douglas Adams - The hitchhikers guide to the galaxy.
+
+Now, the beauty of a book, any book, is that every person that reads it has his own, very personal, understanding of the text. Two people may read the exact same part of a book, but the way they'll imagine it, the way they paint their word pictures, is different. People also take away different things from books. Some take away facts, some take away lessons, and so on, and some just enjoy the book and don't take away anything at all. The hitchhikers guide to the galaxy gave me ample food for thought - I took away quite a bit. I won't discuss it all because this isn't a book report, but I will give one example that stays with me even today. Hopefully, by the end of this post, you'll want to read the book yourself - whether it's to enjoy it, or because you're looking for fresh things to think about - isn't that why we're human - because we think - and because we think, we need more material to think about - curiosity - is completely up to you.
+
+**Spoiler alert**!
+
+There's a part in the books where *they* turn up at the "Restaurant at the End of the Universe". The end of the universe, it is, but not in space, *it is the end of the universe in time*. At this restaurant, they have a rather interesting experience:
+
+    He sat down.
+    The waiter approached.
+
+    'Would you like to see the menu?' he said, 'or would you like meet the Dish of the Day?'
+
+    'Huh?' said Ford.
+
+    'Huh?' said Arthur.
+
+    'Huh?' said Trillian.
+
+    'That's cool,' said Zaphod, 'we'll meet the meat.'
+
+    < snip >
+
+    A large dairy animal approached Zaphod Beeblebrox's table, 
+    a large fat meaty quadruped of the bovine type with
+    large watery eyes, small horns and what might almost have
+    been an ingratiating smile on its lips.
+
+    'Good evening', it lowed and sat back heavily on its haunches, 
+    'I am the main Dish of the Day. May I interest you in the parts 
+    of my body?' 
+
+    It harrumphed and gurgled a bit, wriggled its hind quarters in 
+    to a more comfortable position and gazed peacefully at them.
+
+    Its gaze was met by looks of startled bewilderment from
+    Arthur and Trillian, a resigned shrug from Ford Prefect and
+    naked hunger from Zaphod Beeblebrox.
+
+    'Something off the shoulder perhaps?' suggested the animal, 
+    'Braised in a white wine sauce?'
+
+    'Er, your shoulder?' said Arthur in a horrified whisper.
+
+    'But naturally my shoulder, sir,' mooed the animal contentedly, 
+    'nobody else's is mine to offer.'
+
+    Zaphod leapt to his feet and started prodding and feeling
+    the animal's shoulder appreciatively.
+
+    'Or the rump is very good,' murmured the animal. 'I've been 
+    exercising it and eating plenty of grain, so there's a lot
+    of good meat there.' 
+
+    It gave a mellow grunt, gurgled again and started to chew 
+    the cud. It swallowed the cud again.
+
+    'Or a casserole of me perhaps?' it added.
+
+    'You mean this animal actually wants us to eat it?' whispered 
+    Trillian to Ford.
+
+    'Me?' said Ford, with a glazed look in his eyes, 'I don't mean 
+    anything.'
+
+    'That's absolutely horrible,' exclaimed Arthur, 'the most revolting 
+    thing I've ever heard.'
+
+    'What's the problem Earthman?' said Zaphod, now transferring his 
+    attention to the animal's enormous rump.
+
+    'I just don't want to eat an animal that's standing there
+    inviting me to,' said Arthur, 'It's heartless.'
+
+    'Better than eating an animal that doesn't want to be
+    eaten,' said Zaphod.
+
+    'That's not the point,' Arthur protested. Then he thought about it 
+    for a moment. 'Alright,' he said, 'maybe it is the point. I don't 
+    care, I'm not going to think about it now. I'll just ... er ... I 
+    think I'll just have a green salad,' he muttered.
+
+    'May I urge you to consider my liver?' asked the animal,
+    'it must be very rich and tender by now, I've been force-feeding 
+    myself for months.'
+
+    'A green salad,' said Arthur emphatically.
+
+    'A green salad?' said the animal, rolling his eyes disapprovingly 
+    at Arthur.
+
+    'Are you going to tell me,' said Arthur, 'that I shouldn't have 
+    green salad?'
+
+    'Well,' said the animal, 'I know many vegetables that are
+    very clear on that point. Which is why it was eventually
+    decided to cut through the while tangled problem and breed
+    an animal that actually wanted to be eaten and was capable of
+    saying so clearly and distinctly. And here I am.'
+
+    It managed a very slight bow.
+
+    'Glass of water please,' said Arthur.
+
+    'Look,' said Zaphod, 'we want to eat, we don't want to make 
+    a meal of the issues. Four rare stakes please, and hurry.
+    We haven't eaten in five hundred and seventy-six thousand
+    million years.'
+
+    The animal staggered to its feet. It gave a mellow gurgle.
+    'A very wise choice, sir, if I may say so. Very good,' it
+    said, 'I'll just nip off and shoot myself.'
+
+    He turned and gave a friendly wink to Arthur.
+    'Don't worry, sir,' he said, 'I'll be very humane.'
+
+    It waddled unhurriedly off to the kitchen.
+
+    -- Douglas Adams - The hitchhikers guide to the galaxy.
+
+It is a hilarious, somewhat disturbing, episode, but it makes you think - well, it makes me think - *hopefully it makes you think*. What would you do? Would you eat an animal that goal of who's life is to become your meal? Why would you? **Why would you not**? If you do eat meat, you're probably eating an animal that didn't want to be eaten - is that better or worse than this scenario? I do have an answer, but I'm going to keep it to myself. You don't need to think about this at all if you don't want to - I'm not holding a gun to your head here - I have already met someone that admonished me for asking her this question - and I don't feel like being reprimanded again for thinking freely any time soon.
+
+On this day, this is my minuscule tribute to Douglas Adams, who, even though I haven't the pleasure of having met in person, I regard a great, free, mind - you are on the Internet and the internet does not forget. 
+
+*"So long, and thanks for all the fish."*
+
+.. _Towel Day: http://towelday.org
+.. _Douglas Adams: http://www.douglasadams.com/
+.. _The hitchhikers guide to the galaxy: http://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy
