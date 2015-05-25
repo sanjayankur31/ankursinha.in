@@ -4,9 +4,6 @@ Turning your gnome-screensaver on and off with a single click!
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: turning-your-gnome-screensaver-on-and-off-with-a-single-click
 
 Recently, I found myself wondering what the easiest, laziest way of

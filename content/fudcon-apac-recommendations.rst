@@ -4,9 +4,6 @@ FUDCon APAC Recommendations
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: fudcon-apac-recommendations
 
 Hello Fedorians!

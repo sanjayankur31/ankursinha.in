@@ -4,9 +4,6 @@ Trashing from the terminal : non destructively!
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: trashing-from-the-terminal-non-destructively
 
 I've got this habit of using rm and Shift + delete when I come across a

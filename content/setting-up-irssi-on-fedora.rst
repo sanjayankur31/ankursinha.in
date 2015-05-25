@@ -4,9 +4,6 @@ Setting up irssi on Fedora.
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: setting-up-irssi-on-fedora
 
 There are a lot of IRC clients that one can use. The more frequently

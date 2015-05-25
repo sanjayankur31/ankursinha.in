@@ -4,9 +4,6 @@ Installing gazebo with your ros groovy install on Fedora 18
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: installing-gazebo-with-your-ros-groovy-install-on-fedora-18
 
 I need to use the `PR2-simulator package`_ on my groovy installation.

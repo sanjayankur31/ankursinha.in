@@ -4,9 +4,6 @@ Photos : Linux Open Week
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: photos-linux-open-week
 
 | hi,

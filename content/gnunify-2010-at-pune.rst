@@ -4,9 +4,6 @@ GNUnify 2010 at Pune
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: gnunify-2010-at-pune
 
 I'm pretty late with this one. All thanks to the excessive work that's

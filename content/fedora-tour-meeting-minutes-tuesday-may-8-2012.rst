@@ -4,9 +4,6 @@ Fedora Tour meeting minutes: Tuesday May 8 2012
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: fedora-tour-meeting-minutes-tuesday-may-8-2012
 
 The tour's moving forward. Slowly, but it is moving. We had a quick

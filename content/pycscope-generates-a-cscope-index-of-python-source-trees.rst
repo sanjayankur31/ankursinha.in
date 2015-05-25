@@ -4,9 +4,6 @@ pycscope - Generates a cscope index of Python source trees
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: pycscope-generates-a-cscope-index-of-python-source-trees
 
 I've `submitted a package review`_ for `PyCscope`_ which is

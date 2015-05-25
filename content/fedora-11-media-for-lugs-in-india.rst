@@ -4,9 +4,6 @@ Fedora 11 Media for LUGs in India
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: fedora-11-media-for-lugs-in-india
 
 Good news.. !!

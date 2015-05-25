@@ -4,9 +4,6 @@ loki renamed "hleahtor"
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: loki-renamed-hleahtor
 
 I finally got down to work.

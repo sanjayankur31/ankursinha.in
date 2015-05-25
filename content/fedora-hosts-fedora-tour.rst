@@ -4,13 +4,6 @@ fedora hosts fedora-tour ;)
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: fedora-hosts-fedora-tour
 
 `fedora-tour`_ has been given its `fedora-hosted space`_!!

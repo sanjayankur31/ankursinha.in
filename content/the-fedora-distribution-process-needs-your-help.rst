@@ -4,9 +4,6 @@ The fedora distribution process needs your help!
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: the-fedora-distribution-process-needs-your-help
 
 Hello!! Do you send out fedora media to people? Do you distribute fedora

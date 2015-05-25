@@ -4,9 +4,6 @@ A remote mini FAD
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: a-remote-mini-fad
 
 A few of us `got together a few days back to edit up`_ and show some

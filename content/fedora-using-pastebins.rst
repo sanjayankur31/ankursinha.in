@@ -4,9 +4,6 @@ fedora : using pastebins
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: fedora-using-pastebins
 
 I recently read this `blog post`_ which describes how to paste to the

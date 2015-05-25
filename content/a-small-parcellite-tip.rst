@@ -4,9 +4,6 @@ A small parcellite tip
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: a-small-parcellite-tip
 
 .. raw:: html
@@ -24,7 +21,6 @@ with a small memory footprint for those who like simplicity.*
 
    <div>
 
-*
 *
 
 .. raw:: html

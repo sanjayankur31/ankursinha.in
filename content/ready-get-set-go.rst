@@ -4,9 +4,6 @@ Ready! Get set!! Go!!!
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: ready-get-set-go
 
 |image0|

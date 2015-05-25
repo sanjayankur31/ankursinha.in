@@ -4,9 +4,6 @@ An applet for cricket lovers
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: an-applet-for-cricket-lovers
 
 Arun has already `blogged`_ about this. This is a more "technical" post

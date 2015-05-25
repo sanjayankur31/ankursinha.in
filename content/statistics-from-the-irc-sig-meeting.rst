@@ -4,9 +4,6 @@ Statistics from the IRC sig meeting
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: statistics-from-the-irc-sig-meeting
 
 Worth having a look

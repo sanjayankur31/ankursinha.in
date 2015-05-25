@@ -4,9 +4,6 @@ Preupgrade
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: preupgrade
 
 I wrote this post for the `LUGManipal`_ blog. This post is meant to be

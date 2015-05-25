@@ -4,13 +4,6 @@ Fedora GSoC: Week 6
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: fedora-gsoc-week-6
 
 Since `dcm4che-test`_ was approved last week, I spent most of the week

@@ -4,13 +4,6 @@ Fedora Elections questionnaire responses are up!!
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: fedora-elections-questionnaire-responses-are-up
 
 You asked the questions, and they have been answered! The responses to

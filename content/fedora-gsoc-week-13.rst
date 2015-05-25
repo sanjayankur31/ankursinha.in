@@ -4,13 +4,6 @@ Fedora GSoC: week 13
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: fedora-gsoc-week-13
 
 I only worked 4 days this week. I had to rush back to college for my

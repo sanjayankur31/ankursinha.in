@@ -4,13 +4,6 @@ why fedora-tour won't be a Fedora 14 feature
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: why-fedora-tour-wont-be-a-fedora-14-feature
 
 Frankly, we're working pretty slow. That's the reason, we're not going

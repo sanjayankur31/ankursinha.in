@@ -4,13 +4,6 @@ On "Spherical Cow"
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: on-spherical-cow
 
 .. raw:: html

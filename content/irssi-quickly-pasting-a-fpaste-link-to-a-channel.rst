@@ -4,9 +4,6 @@ irssi : quickly pasting an fpaste link to a channel
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: irssi-quickly-pasting-a-fpaste-link-to-a-channel
 
 I recently posted my\ `list of irssi aliases`_ that come handy on the

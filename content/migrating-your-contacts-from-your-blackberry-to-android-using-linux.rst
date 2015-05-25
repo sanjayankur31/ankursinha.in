@@ -4,9 +4,6 @@ Migrating your contacts from your Blackberry to Android using Linux
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: migrating-your-contacts-from-your-blackberry-to-android-using-linux
 
 I got my father an Android today: an HTC Explorer. (The Blackberry 3G

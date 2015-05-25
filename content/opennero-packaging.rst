@@ -4,9 +4,6 @@ OpenNero packaging
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: opennero-packaging
 
 OpenNero!

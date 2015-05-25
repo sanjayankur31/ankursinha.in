@@ -4,9 +4,6 @@ FUDCon India Pune: Day 2
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: fudcon-india-pune-day-2
 
 Day 2 was hectic! I had all 4 of my talks scheduled, three of them in

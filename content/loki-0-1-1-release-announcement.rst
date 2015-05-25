@@ -4,9 +4,6 @@ loki-0.1.1 release announcement
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: loki-0-1-1-release-announcement
 
 We had shortly discussed an app that notifies the user of a new comic

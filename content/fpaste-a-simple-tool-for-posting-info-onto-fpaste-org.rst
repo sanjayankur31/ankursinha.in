@@ -4,13 +4,6 @@ fpaste : A simple tool for posting info onto fpaste.org
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: fpaste-a-simple-tool-for-posting-info-onto-fpaste-org
 
 Hi folks,

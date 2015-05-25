@@ -4,13 +4,6 @@ Fedora Board, FESCo, FAmSCo and Fedora 20 name election process has begun!
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: fedora-board-fesco-famsco-and-fedora-20-name-election-process-has-begun
 
 `Robyn's just announced that the election process for the Fedora Board,

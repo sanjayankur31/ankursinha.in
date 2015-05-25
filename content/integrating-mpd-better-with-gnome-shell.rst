@@ -4,9 +4,6 @@ Integrating mpd better with Gnome Shell
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: integrating-mpd-better-with-gnome-shell
 
 I personally like Gnome3 quite a bit. It works really well for me.

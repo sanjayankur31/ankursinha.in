@@ -4,13 +4,6 @@ Announcing: Fedora Join SIG!
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: announcing-fedora-join-sig
 
 We've all run into people who are interested in contributing. Quite a

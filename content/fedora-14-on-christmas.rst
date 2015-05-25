@@ -4,13 +4,6 @@ Fedora 14 on Christmas!!
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: fedora-14-on-christmas
 
 **"Somethings are meant to happen".**

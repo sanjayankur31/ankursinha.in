@@ -4,9 +4,6 @@ Byobu and mc
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: byobu-and-mc
 
 |midnight commander on byobu|

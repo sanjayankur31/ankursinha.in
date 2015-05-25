@@ -4,9 +4,6 @@ Updating all your fedora package git directories
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: updating-all-your-fedora-package-git-directories
 
 Most package maintainers already know this (*or use something way
@@ -35,8 +32,6 @@ folders:
      1 files changed, 4 insertions(+), 1 deletions(-)
     remote: Counting objects: 20, done.
     remote: Compressing objects: 100% (17/17), done.
-    ..
-    ..
     ..
 
 Moments later, all of them are up to date.

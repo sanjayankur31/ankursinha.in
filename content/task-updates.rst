@@ -4,9 +4,6 @@ Task updates
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: task-updates
 
 I've been trying to change my workflows/schedules etc. to fit in more

@@ -4,9 +4,6 @@ Gnote, Snowy, Tomdroid
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: gnote-snowy-tomdroid
 
 I had `earlier posted on keeping your notes in sync with your android

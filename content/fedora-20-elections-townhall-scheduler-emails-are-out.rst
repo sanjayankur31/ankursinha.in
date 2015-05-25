@@ -4,9 +4,6 @@ Fedora 20 elections: Townhall scheduler emails are out
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: fedora-20-elections-townhall-scheduler-emails-are-out
 
 I just finished sending out the emails requesting nominees to fill out

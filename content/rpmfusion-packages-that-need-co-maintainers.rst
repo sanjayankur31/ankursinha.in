@@ -4,9 +4,6 @@ RPMFusion packages that need co-maintainers
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: rpmfusion-packages-that-need-co-maintainers
 
 |RPMFusion|

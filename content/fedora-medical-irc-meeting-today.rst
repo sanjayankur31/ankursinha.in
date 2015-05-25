@@ -4,13 +4,6 @@ Fedora medical IRC meeting today
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: fedora-medical-irc-meeting-today
 
 A `fedora-medical`_ IRC meeting will be held in #fedora-meeting/-1/-2

@@ -4,13 +4,6 @@ blobby 0.9b release hits F-13
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: blobby-0-9b-release-hits-f-13
 
 `Blobby volley 2`_ recently saw its 0.9b release. It truly is

@@ -4,9 +4,6 @@ My adventures with packaging : Moving on from Fonts to apps
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: my-adventures-with-packaging-moving-on-from-fonts-to-apps
 
 I finally decided to take the step. I've packaged 4-5 fonts, and I think

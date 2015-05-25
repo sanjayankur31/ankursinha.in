@@ -4,13 +4,6 @@ Fedora GSoC: Week 10
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: fedora-gsoc-week-10
 
 Like I had said, I didn't try to package any new applications this week.

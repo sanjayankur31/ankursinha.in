@@ -4,9 +4,6 @@ Work Around to the xchat-gnome bug
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: work-around-to-the-xchat-gnome-bug
 
 I posted on fedoraforum.org and got a workaround for the xchat-gnome

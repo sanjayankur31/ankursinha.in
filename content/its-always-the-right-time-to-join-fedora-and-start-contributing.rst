@@ -4,13 +4,6 @@ It's always the right time to join Fedora and start contributing!
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: its-always-the-right-time-to-join-fedora-and-start-contributing
 
 It always is! *Always*! **ALWAYS!** ***ALWAYS!***

@@ -4,9 +4,6 @@ FUDCon India Pune: Day 1
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: fudcon-india-pune-day-1
 
 It's been amazing! I've

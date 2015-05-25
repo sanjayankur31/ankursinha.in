@@ -4,9 +4,6 @@ rtorrent
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: rtorrent-3-3-3
 
 So, I'm basically a terminal user. If I could do everything from the

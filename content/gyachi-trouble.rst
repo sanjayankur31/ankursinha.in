@@ -4,9 +4,6 @@ GyachI trouble
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: gyachi-trouble
 
 I was happy using GyachI for my Yahoo messenger needs. Ran outa luck.

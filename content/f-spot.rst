@@ -4,9 +4,6 @@ F-spot ..
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: f-spot
 
 I've been getting a lot of this error lately while uploading photos to

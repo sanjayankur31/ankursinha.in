@@ -4,9 +4,6 @@ Learning more on vim
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: learning-more-on-vim
 
 I've been using vim since I began using Fedora/Linux. Today I came

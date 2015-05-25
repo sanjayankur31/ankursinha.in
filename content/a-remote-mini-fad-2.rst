@@ -4,9 +4,6 @@ A remote mini FAD 2
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: a-remote-mini-fad-2
 
 We did quite a lot of work at the first `remote mini FAD`_. Fortunately,

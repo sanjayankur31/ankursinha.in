@@ -4,13 +4,6 @@ Open Week teaser:
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: open-week-teaser
 
 The LUG Manipal, of which I am a part, is holding a "Linux OpenWeek"

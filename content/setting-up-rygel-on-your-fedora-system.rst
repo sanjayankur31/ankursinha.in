@@ -4,9 +4,6 @@ Setting up rygel on your Fedora system
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: setting-up-rygel-on-your-fedora-system
 
 |rygel|

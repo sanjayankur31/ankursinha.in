@@ -4,9 +4,6 @@ My first gnome bug report
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: my-first-gnome-bug-report
 
 I filed my first gnome bug report today. Until now, I was limited to

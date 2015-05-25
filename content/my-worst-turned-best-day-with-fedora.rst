@@ -4,9 +4,6 @@ My worst turned best day with Fedora
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: my-worst-turned-best-day-with-fedora
 
 Okay, so I finally decided to take it up a notch.

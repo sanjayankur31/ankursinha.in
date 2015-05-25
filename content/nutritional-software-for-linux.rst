@@ -4,13 +4,6 @@ nutritional software for Linux
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: nutritional-software-for-linux
 
 We coders/developers/geeks are lazy. It's no secret. We like to get

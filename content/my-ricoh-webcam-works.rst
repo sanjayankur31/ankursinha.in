@@ -4,13 +4,6 @@ My ricoh webcam works!!!!
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: my-ricoh-webcam-works
 
 I have a ricoh webcam inbuilt in my dv6000 laptop. I had an awful time

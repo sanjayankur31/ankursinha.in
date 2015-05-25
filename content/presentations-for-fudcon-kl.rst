@@ -4,9 +4,6 @@ Presentations for FUDCon KL
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: presentations-for-fudcon-kl
 
 I've gotten down to making my presentations. After all, there's only a

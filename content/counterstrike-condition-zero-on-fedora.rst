@@ -4,9 +4,6 @@ Counterstrike : Condition Zero on Fedora !
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: counterstrike-condition-zero-on-fedora
 
 It's been a really really long time since I played on my system last.

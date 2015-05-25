@@ -4,9 +4,6 @@ Campaign to get more folks to use Fedora
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: campaign-to-get-more-folks-to-use-fedora
 
 So, two of us, Ambassadors here at Manipal are starting a sort of a

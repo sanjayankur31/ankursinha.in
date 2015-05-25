@@ -4,9 +4,6 @@ If your wireless stops working after the kernel update
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: if-your-wireless-stops-working-after-the-kernel-update
 
 ... as root, run this in a terminal: echo "blacklist bcma" >>

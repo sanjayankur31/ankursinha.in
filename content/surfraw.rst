@@ -4,9 +4,6 @@ surfraw
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: surfraw
 
 I just came across `surfraw`_. It's awesome!

@@ -4,13 +4,6 @@ Cast your vote!
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: cast-your-vote
 
 Well, eventually, that is. There's a lot to do before you can cast your

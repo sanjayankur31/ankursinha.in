@@ -4,9 +4,6 @@ FUDCon India Pune: Booklet
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: fudcon-india-pune-booklet
 
 |image0|

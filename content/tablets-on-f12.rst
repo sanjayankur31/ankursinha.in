@@ -4,9 +4,6 @@ Tablets on F12
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: tablets-on-f12
 
 Ma just got me a new tablet :) Well, it said Windows vista and mac on

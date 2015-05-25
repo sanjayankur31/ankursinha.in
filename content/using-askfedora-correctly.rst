@@ -4,13 +4,6 @@ Using askfedora correctly
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: using-askfedora-correctly
 
 I'm the one of the moderators of `askfedora`_. Of late, I've seen a lot

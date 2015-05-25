@@ -4,9 +4,6 @@ Integrating byobu/screen's copy buffer with X/Gnome clipboard
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: integrating-byobuscreens-copy-buffer-with-xgnome-clipboard
 
 I use `byobu`_ with a `screen`_ backend on xterm. I've been trying to

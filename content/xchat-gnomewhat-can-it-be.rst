@@ -4,9 +4,6 @@ xchat-gnome..What can it be?
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: xchat-gnomewhat-can-it-be
 
 Another wierd experience..

@@ -4,9 +4,6 @@ NEURON simulator on Fedora
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: neuron-simulator-on-fedora
 
 I've been meaning to package up NEURON for Fedora for a while now. From

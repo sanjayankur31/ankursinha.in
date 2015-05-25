@@ -4,9 +4,6 @@ The F12 beta experience!
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: the-f12-beta-experience
 
 Just got my system upto F 12 today (11.92 actually).

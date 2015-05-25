@@ -4,9 +4,6 @@ meh... flash on 64bit , for chromium
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: meh-flash-on-64bit-for-chromium
 
 There's an ongoing `discussion on 64bit flash on the fedora-test list`_.

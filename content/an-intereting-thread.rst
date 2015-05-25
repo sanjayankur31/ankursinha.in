@@ -4,13 +4,6 @@ An interesting thread:
 :author: ankur
 :category: misc
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: an-intereting-thread
 
 I've just started using `GNUCash`_ for my meagre accounting needs. I

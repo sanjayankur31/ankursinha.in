@@ -4,9 +4,6 @@ ROS/RPM IRC workshop series
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: rosrpm-irc-workshop-series
 
 I intend to take a ROS RPM packaging session at the upcoming `FUDCon

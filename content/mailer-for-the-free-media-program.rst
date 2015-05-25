@@ -16,7 +16,6 @@ almost empty (Can you folks tell me how to populate the interior??) All
 the SVG sources can be found `here`_ at my fedorapeople space. Comments
 welcome.
 
-
 .. figure:: {filename}/images/mailer-out.png
     :align: center
     :height: 800px

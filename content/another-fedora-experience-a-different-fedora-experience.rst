@@ -46,7 +46,6 @@ community and he graciously agreed.
     > yous 
     > "xxxxx xxxxxxx"
     > 
-    > 
 
 I've of course, removed names and other details that I thought should
 not be posted in public.

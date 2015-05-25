@@ -4,9 +4,6 @@ Test from blogtk
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: test-from-blogtk
 
 I've been having trouble with the wordpress web interface lately. It

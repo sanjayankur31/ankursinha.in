@@ -4,13 +4,6 @@ Reminder: Questionnaire and nomination dead lines
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: reminder-questionnaire-and-nomination-dead-lines
 
 A gentle reminder on the deadlines for the elections:

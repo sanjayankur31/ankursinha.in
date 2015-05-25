@@ -4,9 +4,6 @@ Going F13 beta!
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: going-f13-beta
 
 I had wanted to swipe my system clean for almost two years now but the

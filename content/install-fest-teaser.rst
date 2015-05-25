@@ -4,9 +4,6 @@ Install fest Teaser:
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: install-fest-teaser
 
 We've hopefully managed to get through exams successfully  :D

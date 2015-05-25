@@ -4,9 +4,6 @@ Open Week : Posters
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: open-week-posters
 
 Posters that we intend to put up at the OpenWeek .. Hope you people like

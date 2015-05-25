@@ -4,9 +4,6 @@ Arduino on a F12 x86_64
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: arduino-on-a-f12-x86_64
 
 I just started playing around with `arduino`_ boards.  There's a F11

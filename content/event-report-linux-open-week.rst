@@ -4,9 +4,6 @@ Event Report : Linux Open Week
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: event-report-linux-open-week
 
 The Open Week came to an end today. It was a busy week, and met with

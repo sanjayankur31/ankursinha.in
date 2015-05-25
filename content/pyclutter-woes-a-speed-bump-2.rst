@@ -4,9 +4,6 @@ pyclutter woes : a speed bump :|
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: pyclutter-woes-a-speed-bump-2
 
 Every task has some bottle-necks to overcome. The fedora-tour is no

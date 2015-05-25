@@ -4,9 +4,6 @@ Offline installs  => death !!
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: offline-installs-death
 
 I've just come off #fedora..

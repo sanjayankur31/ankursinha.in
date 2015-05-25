@@ -4,9 +4,6 @@ FTP usage
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: ftp-usage
 
 |image0|\ |image1| |image2|

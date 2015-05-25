@@ -4,13 +4,6 @@ What I've been up to recently
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: what-ive-been-up-to-recently
 
 Most recently, I did my laundry ;). The transition from a college

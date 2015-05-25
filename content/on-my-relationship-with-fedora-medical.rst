@@ -4,13 +4,6 @@ On my relationship with fedora medical
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: on-my-relationship-with-fedora-medical
 
 **Of late, I've had to deal with the fact that people believe that the

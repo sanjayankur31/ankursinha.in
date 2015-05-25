@@ -4,9 +4,6 @@ Fedora 13 release party with FSMK in Bengaluru
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: fedora-13-release-party-with-fsmk-in-bengaluru
 
 F13 just released a while back. An awesome release that's being

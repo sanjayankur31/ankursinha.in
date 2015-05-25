@@ -4,9 +4,6 @@ A qemu quickie!
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: a-qemu-quickie
 
 This one's intended for myself actually. I keep forgetting how to use

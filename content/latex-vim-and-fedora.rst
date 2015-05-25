@@ -4,9 +4,6 @@ LaTeX, vim and Fedora
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: latex-vim-and-fedora
 
 I'm a vim junkie (In spite of Sindre's numerous events to convert me
@@ -21,7 +18,6 @@ reasons behind my love for LaTeX:
 -  Takes care of the dirty work: You need to work on the subject matter,
    it takes care of the formatting for you!
 -  Free software license: \ http://www.latex-project.org/lppl/
--  ..
 -  ..
 
 .. raw:: html

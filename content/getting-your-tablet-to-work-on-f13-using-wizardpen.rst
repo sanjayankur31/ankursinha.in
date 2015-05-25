@@ -4,9 +4,6 @@ Getting your tablet to work on F13 using WizardPen
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: getting-your-tablet-to-work-on-f13-using-wizardpen
 
 As a lot of you would remember, HAL was dropped in favour of udev in

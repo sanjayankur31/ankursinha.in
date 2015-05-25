@@ -4,9 +4,6 @@ Monitoring your Fedora tasks on the IRC
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: monitoring-your-fedora-tasks-on-the-irc
 
 This is probably common knowledge by now, but I thought I'd put it up

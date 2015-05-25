@@ -4,9 +4,6 @@ Evolution user dir change
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: evolution-user-dir-change
 
 Evolution has moved to using the `XDG standard`_ for user directories.

@@ -4,9 +4,6 @@ F 15 turns on hot russian girls?!?
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: f-15-turns-on-hot-russian-girls
 
 It's not spam, I promise. Read for yourself

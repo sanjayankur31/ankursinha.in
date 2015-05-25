@@ -4,9 +4,6 @@ Updating byobu
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: updating-byobu
 
 `Byobu`_ in fedora hasn't been updated in a while. The current fedora

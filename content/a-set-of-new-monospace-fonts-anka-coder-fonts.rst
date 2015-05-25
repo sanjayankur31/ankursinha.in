@@ -4,9 +4,6 @@ A set of new monospace fonts: Anka-Coder fonts
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: a-set-of-new-monospace-fonts-anka-coder-fonts
 
 I was looking to well, "beautify" my system a little. I get these urges

@@ -4,9 +4,6 @@ Fedora 20 Elections: FAmSCo and Board town halls confirmed
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: fedora-20-elections-famsco-and-board-town-halls-confirmed
 
 I've just finished sending out e-mails to the nominees confirming the

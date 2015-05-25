@@ -4,9 +4,6 @@ Fedora 20 Elections: FESCo townhall confirmed
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: fedora-20-elections-fesco-townhall-confirmed
 
 The `nominees`_ have all marked their preferences on whenisgood. At the

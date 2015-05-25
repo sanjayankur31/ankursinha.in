@@ -4,9 +4,6 @@ Using SURFmex with Octave
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: using-surfmex-with-octave-3
 
 This isn't so much as for others as it's a "note to self".

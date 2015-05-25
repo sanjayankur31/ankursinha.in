@@ -4,9 +4,6 @@ An informal get together @forum food court, Koramangla on Saturday, 11am
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: an-informal-get-together-forum-food-court-koramangla-on-saturday-11am
 
 |Burger|

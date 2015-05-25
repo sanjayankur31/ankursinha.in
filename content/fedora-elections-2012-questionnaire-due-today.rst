@@ -4,13 +4,6 @@ Fedora elections 2012 questionnaire due today!!
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: fedora-elections-2012-questionnaire-due-today
 
 The topic says is all! A gentle reminder that the answers to

@@ -4,9 +4,6 @@ One of the worse days with freemedia in India
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: one-of-the-worse-days-with-freemedia-in-india
 
 The quotes will say it all:

@@ -4,9 +4,6 @@ Fedora India : Give the gift of Fedora!
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: fedora-india-give-the-gift-of-fedora
 
 |image0|\ In spite of a large contribution from the Fedora India Free

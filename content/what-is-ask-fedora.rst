@@ -4,13 +4,6 @@ What is Ask Fedora?
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: what-is-ask-fedora
 
 `Ask fedora`_ is a question-answer style user forum where everyone can

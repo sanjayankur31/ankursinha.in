@@ -4,9 +4,6 @@ Fedora 11 Podcasts : Podcast 1
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: fedora-11-podcasts-podcast-1
 
 The First podcast in the Fedora 11 Podcast series can be found `here`_

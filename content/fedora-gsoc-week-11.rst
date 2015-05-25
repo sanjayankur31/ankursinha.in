@@ -4,13 +4,6 @@ Fedora GSoC: Week 11
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: fedora-gsoc-week-11
 
 The project is steadily building up, brick by brick. Aeskulap was

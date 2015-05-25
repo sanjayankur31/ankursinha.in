@@ -4,9 +4,6 @@ FUDCon Kuala Lumpur Day 2
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: fudcon-kuala-lumpur-day-2
 
 |DSC03616|

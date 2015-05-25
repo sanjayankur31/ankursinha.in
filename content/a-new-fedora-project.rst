@@ -4,9 +4,6 @@ A new Fedora project
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: a-new-fedora-project
 
 A brainwave is all it takes.  My room mate just reinstalled his Windows

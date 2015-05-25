@@ -4,9 +4,6 @@ Fedora 19 and a few bugs I've run into
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: fedora-19-and-a-few-bugs-ive-run-into
 
 [caption id="" align="aligncenter" width="210"]\ |Fedora 19 alpha

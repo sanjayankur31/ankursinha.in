@@ -4,9 +4,6 @@ Fedora 10 : best for everyday use.. :)
 :author: ankur
 :category: misc
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: fedora-10-best-for-everyday-use
 
 From

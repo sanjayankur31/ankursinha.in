@@ -4,13 +4,6 @@ Fedora GSoC : Week 3
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: fedora-gsoc-week-3
 
 SO! We are picking up steam! This week was way more constructive than

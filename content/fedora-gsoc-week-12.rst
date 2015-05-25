@@ -4,13 +4,6 @@ Fedora GSoC: Week 12
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: fedora-gsoc-week-12
 
 `Kradview`_ and `freediams`_ look like they're on the road to being

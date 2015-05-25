@@ -4,9 +4,6 @@ Nomination period for fedora elections closes today! Have you nominated yet?!
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: nomination-period-for-fedora-elections-closes-today-have-you-nominated-yet
 
 Attention all fedorians!

@@ -4,9 +4,6 @@ Microsoft shouldn't have played with us
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: mircrosoft-shouldnt-have-played-with-us
 
 Personally, I'm a FOSS lover. But that doesn't make me a "Microsoft

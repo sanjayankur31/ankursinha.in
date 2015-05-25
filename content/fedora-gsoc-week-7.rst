@@ -4,13 +4,6 @@ Fedora GSoC: Week 7
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: fedora-gsoc-week-7
 
 This one's a little later than usual. I've been travelling and just

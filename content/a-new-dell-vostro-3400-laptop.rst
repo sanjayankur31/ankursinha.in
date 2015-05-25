@@ -4,13 +4,6 @@ A new Dell Vostro 3400 Laptop
 :author: ankur
 :category: misc
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: a-new-dell-vostro-3400-laptop
 
 I've just gotten over the phone with Dell Sales. I've almost ordered my

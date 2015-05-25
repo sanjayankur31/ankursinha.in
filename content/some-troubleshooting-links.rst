@@ -4,9 +4,6 @@ Some troubleshooting links
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: some-troubleshooting-links
 
 Most of us who hang around on **#fedora** have a number of **aliases**

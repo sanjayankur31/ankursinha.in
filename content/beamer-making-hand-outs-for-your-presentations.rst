@@ -77,7 +77,6 @@ the lack of a document class definition):
 
     .....
     ..
-    ..
     ...
     end{document}
 

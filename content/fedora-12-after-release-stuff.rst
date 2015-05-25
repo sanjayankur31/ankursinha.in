@@ -4,9 +4,6 @@ Fedora 12: After release stuff
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: fedora-12-after-release-stuff
 
 So, F12's been released. Was awesome to see 580+ people on #fedora

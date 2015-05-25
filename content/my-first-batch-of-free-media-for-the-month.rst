@@ -4,9 +4,6 @@ My first batch of free media for the month
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: my-first-batch-of-free-media-for-the-month
 
 I've run out of media already! Until I can get more, these are the lucky

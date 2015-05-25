@@ -4,9 +4,6 @@ Compiling the cp210x module for use with the NAO
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: compiling-the-cp210x-module-for-use-with-the-nao
 
 I've been recently working on trying to get a `NavChip`_\ to work with

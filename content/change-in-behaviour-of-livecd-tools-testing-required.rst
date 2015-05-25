@@ -4,9 +4,6 @@ Change in behaviour of livecd-tools: Testing required
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: change-in-behaviour-of-livecd-tools-testing-required
 
 .. raw:: html

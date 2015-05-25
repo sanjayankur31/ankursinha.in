@@ -4,13 +4,6 @@ A Fedora Classroom on VIM.
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: a-fedora-classroom-on-vim
 
 I intend to hold a classroom session on **VIM** on **Tuesday, December

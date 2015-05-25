@@ -4,9 +4,6 @@ Google Summer of Code 2012: Some "things to remember" for prospective mentors
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: google-summer-of-code-2012-some-things-to-remember-for-prospective-mentors
 
 To start with, the **`organization application deadline is March 9`_**,

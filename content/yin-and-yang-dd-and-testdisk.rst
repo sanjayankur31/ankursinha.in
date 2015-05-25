@@ -4,9 +4,6 @@ Yin and yang: dd and testdisk
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: yin-and-yang-dd-and-testdisk
 
 Well, almost.

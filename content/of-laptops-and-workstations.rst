@@ -4,9 +4,6 @@ Of laptops and workstations
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: of-laptops-and-workstations
 
 I absolutely love my laptop. I spend pretty much my entire day at my

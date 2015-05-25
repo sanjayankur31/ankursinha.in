@@ -77,7 +77,6 @@ up here : http://ankursinha.fedorapeople.org/misc/problem1.c*
     if(graph[j][k] == 1)
     node\_link\_count[j]++;
     }
-    }
 
     max = node\_link\_count[0];
 
@@ -97,7 +96,6 @@ up here : http://ankursinha.fedorapeople.org/misc/problem1.c*
     printf("%d ",j);
 
     printf("n");
-    }
     }
 
     exit(EXIT\_SUCCESS);

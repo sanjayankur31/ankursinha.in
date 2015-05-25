@@ -4,9 +4,6 @@ evolution-remove-duplicates for F14
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: evolution-remove-duplicates-for-f14
 
 Fedora 15 will see evolution 2.92 which has the remove-duplicates in it.

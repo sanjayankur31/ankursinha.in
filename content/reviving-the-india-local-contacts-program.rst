@@ -4,9 +4,6 @@ Reviving the India Local Contacts program
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: reviving-the-india-local-contacts-program
 
 I'm trying to revive the local contacts program in India. Interested?

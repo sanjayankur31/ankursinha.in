@@ -4,13 +4,6 @@ Fedora Elections: FAmSCo townhall #1
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: fedora-elections-famsco-townhall-1
 
 It's time for stage two of the `Fedora Elections`_: The townhalls! The

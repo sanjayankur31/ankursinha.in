@@ -4,13 +4,6 @@ A small Ask Fedora update and request for more community participation
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: a-small-askfedora-update
 
 |ask-fedora|

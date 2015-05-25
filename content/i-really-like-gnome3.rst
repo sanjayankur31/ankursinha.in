@@ -4,9 +4,6 @@ I really like Gnome3
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: i-really-like-gnome3
 
 The subject says it all. Since Gnome3 was released, or even in the

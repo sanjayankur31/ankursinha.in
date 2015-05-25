@@ -4,13 +4,6 @@ Easily autotoolizing a project
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: easily-autotoolizing-a-project
 
 `Here's`_ a great\ `fedora classroom`_ `Siddhesh`_ had taken quite a

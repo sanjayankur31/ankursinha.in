@@ -4,9 +4,6 @@ The "easyfix" key word for bugzilla
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: the-easyfix-key-word-for-bugzilla
 
 I've been a package maintainer for quite a while now. Yet, it was just
@@ -16,7 +13,6 @@ I ran into it:
 ::
 
     20:27  Is there a way to identify fedora bugs on bugzilla which can be dealt by people with basic knowledge of fedora and open source concepts....something like gnome-love for gnome
-    ..
     ..
     20:34  cc__: look for the 'easyfix' keyword in bugzilla.
     20:34  https://bugzilla.redhat.com/buglist.cgi?keywords=easyfix&query_format=advanced&keywords_type=allwords&bug_status=NEW&bug_status=ASSIGNED&classification=Fedora

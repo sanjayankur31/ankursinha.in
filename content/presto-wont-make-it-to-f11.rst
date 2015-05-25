@@ -4,9 +4,6 @@ Presto won't make it to F11
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: presto-wont-make-it-to-f11
 
 "Sad Panda" as Paul refers to it. Presto won't make it to F11. It's sad

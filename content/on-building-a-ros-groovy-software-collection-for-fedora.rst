@@ -4,9 +4,6 @@ On building a ROS Groovy Software collection for Fedora
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: on-building-a-ros-groovy-software-collection-for-fedora
 
 ROS currently has two stable versions: `Fuerte`_ and `Groovy`_; with

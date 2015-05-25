@@ -4,9 +4,6 @@ Fedora Community screen saver
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: fedora-community-screen-saver
 
 As the heading says, I was thinking of packaging a screen saver with

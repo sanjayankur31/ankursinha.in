@@ -4,9 +4,6 @@ nautilus-pastebin now in fedora
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: nautilus-pastebin-now-in-fedora
 
 After `fpaste`_, I've managed to package `nautilus-pastebin`_ and

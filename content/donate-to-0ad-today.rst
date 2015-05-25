@@ -4,9 +4,6 @@ Donate to 0ad today!
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: donate-to-0ad-today
 
 [caption id="" align="aligncenter" width="960"]\ |image0| Kill them

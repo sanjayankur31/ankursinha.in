@@ -4,9 +4,6 @@ How to request media from Fedora Ambassadors
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: how-to-request-media-from-fedora-ambassadors
 
 In the wake of a long thread on the Fedora India mailing list, I've

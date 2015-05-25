@@ -4,9 +4,6 @@ My keys
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: my-keys
 
 |http://www.indiatalkies.com/images/success-key-8522s.jpg|

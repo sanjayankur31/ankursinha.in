@@ -4,9 +4,6 @@ Fedora 17 beta
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: fedora-17-beta
 
 To maintain tradition, I installed beta on my system yesterday. Fedora

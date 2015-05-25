@@ -4,9 +4,6 @@ First commit for twit_tui on github.
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: first-commit-for-twit_tui-on-github
 
 I logged into `github`_ for the first time and put twit\_tui up there.

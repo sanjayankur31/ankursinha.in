@@ -4,9 +4,6 @@ Fedora Elections: Nomination period has begun!
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: fedora-elections-nomination-period-has-begun
 
 So, who are you nominating this cycle? We have the following elections
@@ -99,7 +96,6 @@ to hold:
 
    <div>
 
-*
 *
 
 .. raw:: html

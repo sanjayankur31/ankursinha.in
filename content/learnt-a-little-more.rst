@@ -4,9 +4,6 @@ Learnt a little more..
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: learnt-a-little-more
 
 I've taken another small step with my font packaging.

@@ -4,9 +4,6 @@ My adventures with Packaging.. I'm Stuck :(
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: my-adventures-with-packaging-im-stuck-2
 
 Well.. Here it is.. Good and bad news.. The packaging went smoothly..

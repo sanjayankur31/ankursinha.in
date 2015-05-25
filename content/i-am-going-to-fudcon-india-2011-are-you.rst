@@ -4,9 +4,6 @@ I AM GOING TO FUDCon INDIA 2011: Are you!?
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: i-am-going-to-fudcon-india-2011-are-you
 
  

@@ -4,13 +4,6 @@ Fedora GSoC: Week 16
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: fedora-gsoc-week-16
 
 Week 16! Woah! That seems like a loong time :D

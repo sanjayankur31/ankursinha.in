@@ -4,13 +4,6 @@ Fedora 20: first impressions and more
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: fedora-20-first-impressions-and-more
 
 [caption id="attachment\_1445" align="aligncenter" width="638"]\ |I

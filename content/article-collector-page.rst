@@ -4,13 +4,6 @@ Article collector page
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: article-collector-page
 
 Recently `Rahul and Paul had discussed`_ what they could do to

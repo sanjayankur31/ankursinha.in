@@ -4,9 +4,6 @@ Reminder: Fedora 20 election nominations and questionnaire close today!
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: reminder-fedora-20-election-nominations-and-questionnaire-close-today
 
 Yep! **TODAY!!** If you haven't added your nomination yet, or haven't

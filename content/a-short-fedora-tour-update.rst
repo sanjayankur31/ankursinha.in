@@ -4,9 +4,6 @@ A short "Fedora tour" update
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: a-short-fedora-tour-update
 
 The fedora-tour is finally picking up speed with Subfusc and me

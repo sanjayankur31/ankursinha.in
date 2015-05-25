@@ -4,9 +4,6 @@ Fedora and journal writing
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: fedora-and-journal-writing
 
 I've kept a journal for a long time. Initially, I used to write in a

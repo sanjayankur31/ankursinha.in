@@ -4,9 +4,6 @@ vim : copying to the system clipboard
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: vim-copying-to-the-system-clipboard
 
 Copying a file off vim to paste some place is sometimes a problem. If

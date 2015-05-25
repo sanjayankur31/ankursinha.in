@@ -4,9 +4,6 @@ Some free media statistics
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: some-free-media-statistics
 
 I was housekeeping the new free media tickets from India this morning.

@@ -4,13 +4,6 @@ loki-0.2.2 announcement
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: loki-0-2-2-announcement
 
 `I recently announced the availability of loki-0.1.1`_, the first

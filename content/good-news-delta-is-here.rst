@@ -4,9 +4,6 @@ Good news!! Delta is here!!
 :author: ankur
 :category: misc
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: good-news-delta-is-here
 
 Ah, `planet fedora`_ just made my day.. or night.. This post from Josh

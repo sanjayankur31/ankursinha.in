@@ -4,9 +4,6 @@ Installing skype: big trouble!!
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: installing-skype-big-trouble
 
 ah, simple, yum install skype-2.1.0.47-fc10.i586.rpm should do it for

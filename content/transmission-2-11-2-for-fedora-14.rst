@@ -4,13 +4,6 @@ transmission-2.11-2 for Fedora 14
 :author: ankur
 :category: misc
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: transmission-2-11-2-for-fedora-14
 
 Transmission-2.12 is going to be released in a few days. However, it's

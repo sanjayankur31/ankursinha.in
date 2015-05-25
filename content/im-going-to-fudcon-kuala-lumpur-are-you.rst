@@ -4,9 +4,6 @@ I'm going to FUDCon Kuala Lumpur! Are you?
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: im-going-to-fudcon-kuala-lumpur-are-you
 
 |I'm going to FUDCon KL!|

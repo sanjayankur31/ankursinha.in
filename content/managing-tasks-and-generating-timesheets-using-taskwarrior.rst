@@ -4,9 +4,6 @@ Managing tasks and generating timesheets using taskwarrior
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: managing-tasks-and-generating-timesheets-using-taskwarrior
 
 A while back, I `had blogged on how one can use gtg and
@@ -54,26 +51,21 @@ from **task**:
     /usr/bin/task work_report $filter end.after:$start
      
     echo
-    echo
     echo " -- Upcoming tasks -- "
     /usr/bin/task next $filter
      
-    echo
     echo
     echo " -- Blocked tasks -- "
     /usr/bin/task blocked $filter
 
     echo
-    echo
     echo " -- Blocking tasks -- "
     /usr/bin/task blocking $filter
 
     echo
-    echo
     echo " -- Summary -- "
     /usr/bin/task summary $filter
      
-    echo
     echo
     echo " -- History -- "
     /usr/bin/task history $filter

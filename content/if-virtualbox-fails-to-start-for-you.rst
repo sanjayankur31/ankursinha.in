@@ -4,9 +4,6 @@ If VirtualBox fails to start for you ...
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: if-virtualbox-fails-to-start-for-you
 
 Look at this \ https://bugzilla.rpmfusion.org/show_bug.cgi?id=1465

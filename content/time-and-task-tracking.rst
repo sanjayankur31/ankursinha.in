@@ -4,9 +4,6 @@ Time and task tracking
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: time-and-task-tracking
 
 Being a research student is really tough. I mean **tough**. The most

@@ -4,9 +4,6 @@ fedora freemedia tool: making modifications to the trac?
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: fedora-freemedia-tool-making-modifications-to-the-trac
 
 I got a feature request for the `free media tool`_ that I've been

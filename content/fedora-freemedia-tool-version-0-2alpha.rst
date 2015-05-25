@@ -4,13 +4,6 @@ fedora-freemedia-tool version 0.2alpha
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: fedora-freemedia-tool-version-0-2alpha
 
 I've managed to get most of the functionality coded up. Here's what

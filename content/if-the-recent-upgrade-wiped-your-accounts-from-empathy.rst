@@ -4,13 +4,6 @@ If the recent upgrade "wiped" your accounts from Empathy
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: if-the-recent-upgrade-wiped-your-accounts-from-empathy
 
 The recent upgrade caused my Empathy client to somehow forget the

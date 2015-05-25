@@ -4,9 +4,6 @@ Fedora tour : getting more folks involved
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: fedora-tour-getting-more-folks-involved
 
 So, there's a `FAD planned at Pune`_ towards the end of May. If you look

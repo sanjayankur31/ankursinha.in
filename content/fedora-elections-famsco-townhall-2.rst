@@ -4,13 +4,6 @@ Fedora Elections: FAmSCo townhall #2
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: fedora-elections-famsco-townhall-2
 
 **The second session of the FAmSCo townhall will be held later today,

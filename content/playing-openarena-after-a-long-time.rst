@@ -4,13 +4,6 @@ Playing OpenArena after a long time..
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: playing-openarena-after-a-long-time
 
 All I want to say today is "I SUCK AT OPEN ARENA!"

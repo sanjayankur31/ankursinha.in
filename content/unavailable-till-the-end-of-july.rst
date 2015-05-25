@@ -4,9 +4,6 @@ Unavailable till the end of July
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: unavailable-till-the-end-of-july
 
 I'm due to join university to start my masters course later this month.

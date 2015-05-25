@@ -4,9 +4,6 @@ Oh! my system had a remote I had forgotten about!!
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: oh-my-system-had-a-remote-i-had-forgotten-about
 
 [caption id="attachment\_407" align="aligncenter" width="283"

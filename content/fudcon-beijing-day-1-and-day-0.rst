@@ -4,9 +4,6 @@ FUDCon Beijing - Day -1 and Day 0
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: fudcon-beijing-day-1-and-day-0
 
 The journey to Beijing

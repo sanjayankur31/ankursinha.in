@@ -4,9 +4,6 @@ Freemedia in Australia: Pricing
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: freemedia-in-australia-pricing
 
 |2013-02-22 12.25.52|

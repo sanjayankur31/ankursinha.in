@@ -4,13 +4,6 @@ Fedora within Fedora :D
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: fedora-within-fedora-d
 
 I just finished installing a F13 i386 on VirtualBox to use for testing

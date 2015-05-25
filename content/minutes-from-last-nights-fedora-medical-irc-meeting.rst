@@ -4,13 +4,6 @@ Minutes from last night's Fedora Medical IRC meeting
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: minutes-from-last-nights-fedora-medical-irc-meeting
 
 Summary

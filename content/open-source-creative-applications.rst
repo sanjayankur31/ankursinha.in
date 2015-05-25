@@ -4,9 +4,6 @@ Open source creative applications
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: open-source-creative-applications
 
 I've been meaning to write this post for quite a while now. Ever since I

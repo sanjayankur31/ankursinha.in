@@ -4,9 +4,6 @@ Fedora 11 Podcasts : Podcast 2 "PackageKit in F11"
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: fedora-11-podcasts-podcast-2-packagekit-in-f11-2
 
 From Pauls page :

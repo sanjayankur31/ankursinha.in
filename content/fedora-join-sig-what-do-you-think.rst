@@ -4,13 +4,6 @@ Fedora Join SIG: what do you think?
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: fedora-join-sig-what-do-you-think
 
 .. raw:: html

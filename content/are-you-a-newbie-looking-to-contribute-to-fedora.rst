@@ -4,9 +4,6 @@ Are you a newbie looking to contribute to Fedora? Look at Easyfix!
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: are-you-a-newbie-looking-to-contribute-to-fedora
 
 I've often been asked,"I'm new to FOSS. How do I begin contributing? I

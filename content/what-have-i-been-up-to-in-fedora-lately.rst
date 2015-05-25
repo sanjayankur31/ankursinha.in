@@ -4,13 +4,6 @@ What have I been up to in Fedora lately?
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: what-have-i-been-up-to-in-fedora-lately
 
 The general stuff

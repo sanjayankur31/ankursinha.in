@@ -4,9 +4,6 @@ fedora-tour meet @ April fools day :P
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: fedora-tour-meet-april-fools-day-p
 
 thomasj, subfusc and me met up for a quick meet a few minutes back. It

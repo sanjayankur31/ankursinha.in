@@ -4,9 +4,6 @@ Freemedia in Australia
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: freemedia-in-australia
 
 I haven't been active with the Freemedia programme since moving to

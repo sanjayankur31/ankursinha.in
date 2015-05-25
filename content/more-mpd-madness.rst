@@ -4,9 +4,6 @@ More mpd madness!
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: more-mpd-madness
 
 I've switched to `ncmpcpp`_ from `ncmpc`_. They're pretty similar, both

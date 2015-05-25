@@ -4,9 +4,6 @@ Evolution-rss
 :author: ankur
 :category: Tech
 :tags: Fedora
-:tags: Fedora
-:tags: Fedora
-:tags: Fedora
 :slug: evolution-rss
 
  
