@@ -5,6 +5,7 @@ FUDCon Beijing - Day 1
 :category: Tech
 :tags: Fedora
 :slug: fudcon-beijing-day-1
+:summary: Short notes from the first day of the Fedora Users and Developers Conference (FUDCon) in Beijing.
 
 Registration and getting started!
 ---------------------------------

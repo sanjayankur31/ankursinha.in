@@ -4,6 +4,7 @@ Be careful: Not everyone is good
 :author: ankur
 :category: Life
 :slug: be-careful-not-everyone-is-good
+:summary: A horrid experience involving a giant, drunk, aggressive, foul mouthed racist.
 
 I've never written any thing personal on my blog. I reserve events
 concerning my personal life for my friends, my family, my journal.

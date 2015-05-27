@@ -5,6 +5,7 @@ ROS/RPM IRC workshop series
 :category: Tech
 :tags: Fedora
 :slug: rosrpm-irc-workshop-series
+:summary: I plan to take some workshops dealing with the robot operating system (ROS) and rpm packaging for Fedora.
 
 I intend to take a ROS RPM packaging session at the upcoming `FUDCon
 at Beijing in May`_.  With that in mind, I'd like to take a couple of

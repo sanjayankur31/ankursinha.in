@@ -7,6 +7,7 @@ Moved my blog to Pelican
 :slug: moved-to-pelican
 :author: ankur
 :lang: en
+:summary: Shared hosting has limited resources, and Wordpress is heavy. The solution? A brilliant static blog using Pelican!
 
 For a while now, I've been having trouble with my shared hosting and the wordpres instance I was using. I hadn't realised how limited the resources of a shared hosting set up are. It used to work just fine and then my blog started going down regularly. After a lengthy conversation with the support team, and no resolution, I decided to move to a static page based blog. Of the many options, I decided on Pelican_. It's really easy to set up and of course the site is now super quick to load. 
 

@@ -5,6 +5,7 @@ FUDCon Beijing - Day 2
 :category: Tech
 :tags: Fedora
 :slug: fudcon-beijing-day-2
+:summary: Short notes from the second day of the Fedora Users and Developers Conference (FUDCon) in Beijing.
 
 Pre-lunch - Richard Stallman's talk
 -----------------------------------

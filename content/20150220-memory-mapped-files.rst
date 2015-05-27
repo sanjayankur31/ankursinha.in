@@ -5,6 +5,7 @@ Extracting small chunks of data from EXTREMELY LARGE files - say hello to memory
 :category: Research
 :tags: Programming, Computational neuroscience
 :slug: extracting-small-chunks-of-data-from-extremely-large-files-say-hello-to-memory-mapped-files
+:summary: Memory mapped files are brilliant when you need to extract tiny bits of data from files that are much much larger than the total memory your system has.
 
 The story so far ...
 ~~~~~~~~~~~~~~~~~~~~

@@ -7,6 +7,7 @@
 :slug: howto-pelican
 :author: ankur
 :lang: en
+:summary: A quick note on how you can set up a static blog like mine using Pelican.
 
 In my last post, I mentioned that I had moved to a Pelican based blog. In this post, I'll document how I did this, for myself as a future reference and for others that might be looking for a resource. **Yet another howto**.
 

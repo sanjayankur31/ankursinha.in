@@ -5,6 +5,7 @@ Released the code I wrote for my masters research
 :category: Research
 :tags: Computational neuroscience, Robotics
 :slug: released-the-code-i-wrote-for-my-masters-research
+:summary: The code I wrote for my masters research is now available on my Github account.
 
 In this week's research group meeting, I asked my supervisor if I could
 finally release the source code that I'd written during my masters for
