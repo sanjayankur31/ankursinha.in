@@ -41,7 +41,8 @@ PYGMENTS_RST_OPTIONS = {'classprefix': 'pgcss', 'linenos': 'table'}
 
 
 # Blogroll
-LINKS =  (('Fedora', 'http://fedoraproject.org'),)
+LINKS =  (('Fedora', 'http://fedoraproject.org'),
+          ('All Feeds', 'http://ankursinha.in/blog/feeds/'),)
 
 # Social widget
 SOCIAL = (('Goodreads', 'https://www.goodreads.com/user/show/32360473-ankur',
