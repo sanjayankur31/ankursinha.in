@@ -41,7 +41,9 @@ PYGMENTS_RST_OPTIONS = {'classprefix': 'pgcss', 'linenos': 'table'}
 
 
 # Blogroll
-LINKS =  (('Fedora', 'http://fedoraproject.org'),
+LINKS =  (('UH Biocomputation', 'http://homepages.stca.herts.ac.uk/~nngroup/index.php'),
+          ('OCNS', 'https://ocns.memberclicks.net/'),
+          ('Fedora Project', 'http://fedoraproject.org'),
           ('All Feeds', 'http://ankursinha.in/blog/feeds/'),)
 
 # Social widget
