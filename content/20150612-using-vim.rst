@@ -1,0 +1,48 @@
+Using Vim for C++ development efficiently
+#########################################
+:date: 2015-06-12 17:31
+:author: ankur
+:category: Tech
+:tags: Fedora, Programming, Linux
+:summary: Vim is a great editor. Here are some tips and plugins that I've collected over the years that will help you use it better while writing C++ code.
+:status: draft
+
+Vim is truly a great editor. (Before you begin to yell, so is Emacs.) I've used Vim for quite a while now, and have collected certain plugins over time to improve my workflow. This post just collates this information - it's all take from various sources on the internet and I shall endeavour to provide references at the end of the page.
+
+Touch typing
+------------
+
+Perhaps the most critical feature of Vim is that it enables touch typists to work extremely efficiently. If you don't know what touch typing is, now is a great time to learn. See those two protrusions on the F and J letters of your keyboard? They're there for a reason - that way you know where you "home row" is all the time. Vim is designed in a way that ensures that you never have to lift your hands off the home row. I hate moving my hand to use the mouse too, and I'll briefly discuss what I do to reduce mouse usage to a minimum too. A great tool available on most Linux distributions is "gtypist". It has sets of exercises that teach you to touch type. On a Fedora system, you can install it by using DNF:
+
+.. code:: bash
+
+    sudo dnf install gtypist
+
+Vim modes and switching between them
+------------------------------------
+
+Vim has three main modes that are used frequently - you should use vimtutor to learn them and how to use them efficiently:
+- Insert mode: where it's basically a simple text editor - only use this when you're writing text, not for moving, not for copy pasting, not for anything, only when you enter text.
+- Command mode: where you can use Vim commands to do things - move around efficiently, find, replace, copy, paste, run recorded command sequences, save, quit, and so on.
+- Last line mode: similar to command mode, but instead of using keyboard short cuts to run commands, you write them on a command prompt
+
+
+
+When Vim starts, you're in command mode. To move to insert mode, you simply press "i" and start typing. To move from command mode to last line mode, you press ":". This brings up a ":" on the last line and you can enter commands there, like ":wq" which is used to save(w) and quit(q) the file. 
+
+Moving from insert mode back to command mode requires you to press Esc (escape). Now, this annoyed me, because escape isn't near the home row, but there is a historical reason for this. The good news is that *you don't have to use Esc* to get out of insert mode, you can use one of the many *alternatives* - Ctrl +C, or Ctrl+[ and so on.
+
+
+
+
+References
+----------
+
+- `Touch typing`_
+- `Gtypist`_
+- vimtutor_
+
+
+.. _Touch typing: https://en.wikipedia.org/wiki/Touch_typing
+.. _Gtypist: https://apps.fedoraproject.org/packages/gtypist
+.. _vimtutor: http://vim.wikia.com/wiki/Tutorial
