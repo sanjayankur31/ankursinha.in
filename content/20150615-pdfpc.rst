@@ -1,0 +1,35 @@
+pdfpc - A presenter console with multi-monitor support for PDF files
+####################################################################
+:date: 2015-06-15 17:31
+:author: ankur
+:category: Tech
+:tags: Fedora, Linux
+:summary: I was looking for a pdf viewer that supported multiple monitors. pdfpc fits just right.
+:slug: pdfpc
+
+I had a presentation to make and while `LaTeX and Beamer`_ make it very easy to make multi-monitor presentations `with notes`_ and so on, I couldn't find a PDF viewer for Linux that would project the files correctly. Evince doesn't seem to have the feature, and none of the other ones I tried had it either. After some looking, I found pdfpc. It works really well and is actively developed. `Take a look at the website here`_. I've packaged it for Fedora already but haven't submitted a review ticket yet. While I do, and the new package ticket is reviewed and the package installable from the Fedora repositories, you can get it from the `copr repository here`_.
+
+.. code:: bash
+
+    $ sudo dnf enable copr ankursinha/pdfpc
+    $ sudo dnf install pdfpc
+
+    # To use it
+    $ pdfpc pdfpc-demo.pdf
+
+    # Also look at the man page
+    $ man pdfpc
+
+.. image:: https://pdfpc.github.io/screenshots/pdfpc-presenter.png
+    :height: 800px
+    :scale: 30%
+    :target: https://pdfpc.github.io/screenshots/pdfpc-presenter.png
+    :alt: pdfpc screenshot
+
+
+I'll update the post once the package is available in Fedora. Cheerio!
+
+.. _LaTeX and Beamer: https://www.uncg.edu/cmp/reu/presentations/Charles%20Batts%20-%20Beamer%20Tutorial.pdf
+.. _with notes: http://www.guidodiepen.nl/2009/07/creating-latex-beamer-handouts-with-notes/
+.. _Take a look at the website here: https://pdfpc.github.io/
+.. _copr repository here: https://copr.fedoraproject.org/coprs/ankursinha/pdfpc/
