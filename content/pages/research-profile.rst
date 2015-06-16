@@ -30,12 +30,12 @@ Publications
 
 #. Sinha, A. & Wang, J. - "An implementation of the path integrator
    mechanism of head direction cells for bio-mimetic navigation" -
-   accepted and to be presented at `IJCNN 2014`_, Beijing, China.
-   `(Preprint)`_
+   `IJCNN 2014`_, Beijing, China.
+   `(Preprint - IJCNN 2014)`_
 #. Sinha, A. & Wang, J. - "Bio-mimetic path integration using a self
-   organizing population of grid cells" - accepted and to be presented
-   at `ICANN 2014`_, Hamburg, Germany.
-   `(Preprint) <http://ankursinha.in/files/research/01-ICANN14-GridCells/main.pdf>`__
+   organizing population of grid cells" -
+   `ICANN 2014`_, Hamburg, Germany.
+   `(Preprint - ICANN 2014)`_
 
 The ROS source code that was used in these papers is now available at
 https://github.com/sanjayankur31/bionav. Please do cite the papers if
@@ -52,6 +52,6 @@ Achievements/ Awards
 .. _Dr. Jack Wang: http://www.uts.edu.au/staff/jianguo.wang
 .. _here: http://ankursinha.in/files/misc/resume.pdf
 .. _IJCNN 2014: http://www.ieee-wcci2014.org/
-.. _(Preprint): http://ankursinha.in/files/research/00-IJCNN14-HDCells/PID3182361.pdf
+.. _(Preprint - IJCNN 2014): http://ankursinha.in/files/research/00-IJCNN14-HDCells/PID3182361.pdf
 .. _ICANN 2014: http://icann2014.org/
-
+.. _(Preprint - ICANN 2014): http://ankursinha.in/files/research/01-ICANN14-GridCells/main.pdf
