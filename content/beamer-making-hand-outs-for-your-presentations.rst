@@ -3,7 +3,7 @@ Beamer: making hand outs for your presentations
 :date: 2012-10-07 15:55
 :author: ankur
 :category: Tech
-:tags: Latex
+:tags: LaTeX
 :slug: beamer-making-hand-outs-for-your-presentations
 
 It's often handy to create hand-outs for your presentations. (I need
