@@ -4,6 +4,11 @@ About ME
 :author: ankur
 :slug: about
 
+.. image:: {filename}/images/ankur-sinha.png
+    :alt: Me in Rome in December 2014.
+    :align: center
+    :target: {filename}/images/ankur-sinha.png
+
 I'm Ankur.
 
 I'm a PhD candidate in the area of computational neuroscience at the University of Hertfordshire.
