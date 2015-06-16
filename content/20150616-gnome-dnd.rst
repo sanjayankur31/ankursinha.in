@@ -1,0 +1,32 @@
+Fedora 22 - workstation - Gnome - Do not disturb
+################################################
+:date: 2015-06-16 21:22
+:author: ankur
+:category: Tech
+:tags: Fedora, Gnome
+:summary: The Gnome 3.16 UI redesign redid the notification area and the "Busy" switch was lost in the process. This post documents a command line way of doing it, as noted on the Fedora workstation mailing list.
+:slug: gnome-dnd-f22
+
+
+`Fedora 22`_ comes with the newest version of Gnome - 3.16. You've probably heard about this already. The new version brought quite a few shiny changes, a major one of which was a brand new notification area. You don't have a notification bar at the bottom any more, your notifications now come up at the top with the calendar. It's really neat! More information can be found `in the release notes here`_.
+
+One side effect of this new UI was that the "I'm busy" switch that was present in the lower notification bar was lost. It was quite a nifty feature. I had asked about this on the workstation mailing list and Florian replied that even though they couldn't find a nice place in the new UI to provide the switch, the actual functionality had not been removed. You can still use the following commands from the command line to set your session to "**Busy**":
+
+.. code:: bash
+
+     $ gdbus call --session --dest org.gnome.SessionManager \
+      --object-path /org/gnome/SessionManager/Presence \
+      --method org.gnome.SessionManager.Presence.SetStatus 2
+
+To set the session back to "**Active**", use this:
+
+.. code:: bash
+
+     $ gdbus call --session --dest org.gnome.SessionManager \
+      --object-path /org/gnome/SessionManager/Presence \
+      --method org.gnome.SessionManager.Presence.SetStatus 0
+
+I just tested it out, and of course, the commands work. Florian also said that if users really find the switch important, it could be added back in the UI in the future. Here's to undisturbed work! Cheers!
+
+.. _Fedora 22: http://getfedora.org
+.. _in the release notes here: https://help.gnome.org/misc/release-notes/3.16/
