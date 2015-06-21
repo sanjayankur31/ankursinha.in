@@ -114,6 +114,7 @@ github: publish
 
 newpost:
 ifdef NAME
+	git checkout -b $(DATEYYMMDD)-$(SLUG)
 	echo "$(NAME)" >  $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
 	echo -n "$(NAME)" | sed "s/./#/g" >>  $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
 	echo >>  $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
