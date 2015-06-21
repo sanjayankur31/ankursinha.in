@@ -3,7 +3,7 @@ Some Pelican tricks
 :date: 2015-06-21 01:03:35
 :author: ankur
 :category: Tech
-:tags: Bash, Blog, Pelican, Vim
+:tags: Bash, Blog, Pelican, Vim, Fedora
 :slug: some-pelican-makefile-tricks
 :summary: Some tricks I thought up last night to improve my Pelican based blogging work flow.
 
