@@ -3,7 +3,7 @@ Fedora 22 - workstation - Gnome - Do not disturb
 :date: 2015-06-16 21:22
 :author: ankur
 :category: Tech
-:tags: Fedora, Gnome
+:tags: Fedora, GNOME
 :summary: The Gnome 3.16 UI redesign redid the notification area and the "Busy" switch was lost in the process. This post documents a command line way of doing it, as noted on the Fedora workstation mailing list.
 :slug: gnome-dnd-f22
 
