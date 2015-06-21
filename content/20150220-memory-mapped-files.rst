@@ -82,7 +82,9 @@ first got the simulator to output data in binary format - where I could
 ensure that the size of each record was the same. This is really simple
 to do with a **struct**, like this:
 
-``struct spikeEvent_type {  AurynTime time;  NeuronID neuronID; };``
+.. code-block:: c
+
+    struct spikeEvent_type {  AurynTime time;  NeuronID neuronID; };
 
 As long as you're running both the read and write operations on the same
 machine, with the same compiler, you can be quite certain that the size
@@ -101,14 +103,16 @@ I use `boost's implementation of memory mapped files`_. I couldn't find
 any tutorials, but a post or two gave me the idea on how to use the API.
 So, you need this inclusion:
 
-``#include <boost/iostreams/device/mapped_file.hpp>``
+.. code-block:: c
+
+    #include <boost/iostreams/device/mapped_file.hpp>
 
 Each MPI rank produces a separate file, so I have 16 files here, since
 I use 16 ranks. Instead of sorting and merging them, I simply map them
 all. A vector, therefore appears, and holds my memory mapped file
 objects:
 
-::
+.. code-block:: c
 
     std::vector<boost::iostreams::mapped_file_source> raster_data_source_E;     std::ostringstream converter;
 
@@ -136,7 +140,7 @@ respectively.
 
 My implementations look like this:
 
-::
+.. code-block:: c
 
     /* 
      * ===  FUNCTION  ======================================================================
@@ -286,7 +290,7 @@ memory mapped files, find the chunks and store it in a vector. This is
 then sorted and the frequency of occurrence of each neuron counted -
 which is the firing rate. It looks like this:
 
-::
+.. code-block:: c
 
         /*  Fill up my vectors with neurons that fired in this period */
         for (unsigned int i = 0; i  0)
@@ -342,7 +346,7 @@ which is the firing rate. It looks like this:
 The main method where I call my many threads would look something like
 this:
 
-::
+.. code-block:: c
 
         /* To see how long it takes, which I forgot to save to add to the post */
         clock_start = clock();

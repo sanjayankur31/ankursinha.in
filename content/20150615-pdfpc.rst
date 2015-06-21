@@ -9,7 +9,7 @@ pdfpc - A presenter console with multi-monitor support for PDF files
 
 I had a presentation to make and while `LaTeX and Beamer`_ make it very easy to make multi-monitor presentations `with notes`_ and so on, I couldn't find a PDF viewer for Linux that would project the files correctly. Evince doesn't seem to have the feature, and none of the other ones I tried had it either. After some looking, I found pdfpc. It works really well and is actively developed. `Take a look at the website here`_. I've packaged it for Fedora already but haven't submitted a review ticket yet. While I do, and the new package ticket is reviewed and the package installable from the Fedora repositories, you can get it from the `copr repository here`_.
 
-.. code:: bash
+.. code-block:: bash
 
     $ sudo dnf enable copr ankursinha/pdfpc
     $ sudo dnf install pdfpc

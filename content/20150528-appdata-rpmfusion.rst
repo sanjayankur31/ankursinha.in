@@ -18,7 +18,7 @@ I've now updated the packages submitted for review to use meta data from the new
 
 If you'd like to use the terminal, you can run:
 
-.. code:: bash
+.. code-block:: bash
 
     sudo dnf install http://ankursinha.in/files/misc/rpmfusion/rpmfusion-free-appstream-data-22-4.fc22.noarch.rpm http://ankursinha.in/files/misc/rpmfusion/rpmfusion-nonfree-appstream-data-22-4.fc22.noarch.rpm
 

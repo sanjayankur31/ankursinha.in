@@ -14,7 +14,7 @@ Touch typing
 
 Perhaps the most critical feature of Vim is that it enables touch typists to work extremely efficiently. If you don't know what touch typing is, now is a great time to learn. See those two protrusions on the F and J letters of your keyboard? They're there for a reason - that way you know where you "home row" is all the time. Vim is designed in a way that ensures that you never have to lift your hands off the home row. I dislike moving my hand to use the mouse, and I'll briefly discuss what I do to reduce mouse usage to a minimum too. A great tool available on most Linux distributions is "gtypist". It has sets of exercises that teach you to touch type. On a Fedora system, you can install it by using DNF:
 
-.. code:: bash
+.. code-block:: bash
 
     sudo dnf install gtypist
 
@@ -48,7 +48,7 @@ Plugin 2 - cscope/ctags
 
 These aren't vim plug-ins, rather they are utilities that add tagging support to Vim. You can use these to find and jump to function calls, funciton and variable declarations and so on. They come in really handy, especially when you're reading code. On Fedora, you can install them using DNF:
 
-.. code:: bash
+.. code-block:: bash
 
     sudo dnf install cscope ctags
 

@@ -12,7 +12,7 @@ Fedora 22 - workstation - Gnome - Do not disturb
 
 One side effect of this new UI was that the "I'm busy" switch that was present in the lower notification bar was lost. It was quite a nifty feature. I had asked about this on the workstation mailing list and Florian replied that even though they couldn't find a nice place in the new UI to provide the switch, the actual functionality had not been removed. You can still use the following commands from the command line to set your session to "**Busy**":
 
-.. code:: bash
+.. code-block:: bash
 
      $ gdbus call --session --dest org.gnome.SessionManager \
       --object-path /org/gnome/SessionManager/Presence \
@@ -20,7 +20,7 @@ One side effect of this new UI was that the "I'm busy" switch that was present i
 
 To set the session back to "**Active**", use this:
 
-.. code:: bash
+.. code-block:: bash
 
      $ gdbus call --session --dest org.gnome.SessionManager \
       --object-path /org/gnome/SessionManager/Presence \
