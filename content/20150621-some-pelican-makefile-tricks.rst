@@ -7,7 +7,7 @@ Some Pelican tricks
 :slug: some-pelican-makefile-tricks
 :summary: Some tricks I thought up last night to improve my Pelican based blogging work flow.
 
-Pelican_ is pretty brilliant, as I've already said in `posts before`_. Recently, I was well, plain bored, decided to see if I can make my blogging workflow any more efficient. What's better than some tinkering to use up some time, eh?
+Pelican_ is pretty brilliant, as I've already said in `posts before`_. Recently, I was well, plain bored, and decided to see if I can make my blogging workflow any more efficient. What's better than some tinkering to use up some time, eh?
 
 Adding new posts using a Makefile
 ---------------------------------
