@@ -12,6 +12,7 @@ DATE := $(shell date +'%Y-%m-%d %H:%M:%S')
 DATEYYMMDD := $(shell date +'%Y%m%d')
 SLUG := $(shell echo '${NAME}' | sed -e 's/[^[:alnum:]]/-/g' | tr -s '-' | tr A-Z a-z)
 EXT ?= rst
+AUTHOR := ankur
 
 FTP_HOST=ankursinha.in
 FTP_USER=ankurhsj
@@ -119,11 +120,12 @@ ifdef NAME
 	echo -n "$(NAME)" | sed "s/./#/g" >>  $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
 	echo >>  $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
 	echo ":date: $(DATE)" >> $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
-	echo ":author: ankur" >> $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
+	echo ":author: $(AUTHOR)" >> $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
 	echo ":category: " >> $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
 	echo ":tags: " >> $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
 	echo ":slug: $(SLUG)" >> $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
 	echo ":status: draft" >> $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
+	echo ":summary: " >> $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
 	echo ""              >> $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
 	echo ""              >> $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
 	${EDITOR} ${INPUTDIR}/$(DATEYYMMDD)-${SLUG}.${EXT}
@@ -142,8 +144,9 @@ endif
 
 newpage:
 ifdef NAME
-	echo "Title: $(NAME)" >  $(PAGESDIR)/$(SLUG).$(EXT)
-	echo "Slug: $(SLUG)" >> $(PAGESDIR)/$(SLUG).$(EXT)
+	echo ":date: $(DATE)" >> $(PAGEDIR)/$(SLUG).$(EXT)
+	echo ":author: $(AUTHOR)" >> $(PAGEDIR)/$(SLUG).$(EXT)
+	echo ":slug: $(SLUG)" >> $(PAGEDIR)/$(SLUG).$(EXT)
 	echo ""              >> $(PAGESDIR)/$(SLUG).$(EXT)
 	echo ""              >> $(PAGESDIR)/$(SLUG).$(EXT)
 	${EDITOR} ${PAGESDIR}/${SLUG}.$(EXT)
