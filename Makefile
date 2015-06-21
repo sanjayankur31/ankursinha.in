@@ -115,7 +115,6 @@ github: publish
 
 newpost:
 ifdef NAME
-	git checkout -b $(DATEYYMMDD)-$(SLUG)
 	echo "$(NAME)" >  $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
 	echo -n "$(NAME)" | sed "s/./#/g" >>  $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
 	echo >>  $(INPUTDIR)/$(DATEYYMMDD)-$(SLUG).$(EXT)
@@ -163,4 +162,7 @@ else
 	@echo 'Do make editpage NAME='"'"'Page Name'"'"
 endif
 
-.PHONY: html help clean regenerate serve devserver publish ssh_upload rsync_upload dropbox_upload ftp_upload s3_upload cf_upload github newpost newpage editpost editpage
+listdrafts:
+	grep -nrH "^:status:.* draft" $(INPUTDIR)/*rst | cut -d : -f 1 | sed 's|$(BASEDIR)/||'
+
+.PHONY: html help clean regenerate serve devserver publish ssh_upload rsync_upload dropbox_upload ftp_upload s3_upload cf_upload github newpost newpage editpost editpage listdrafts
