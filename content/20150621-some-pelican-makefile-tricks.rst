@@ -84,8 +84,8 @@ An issue I recently had with Pelican is what I call "tag explosion" - I couldn't
 .. code-block:: vim
 
     " some pelican helpers
-    command! GetCategoryList :read !grep -o -h ":category:.*" content/*rst  | sed "s/:category: //" | tr ',' '\n' | sed 's/^[[:space:]]*//' | sort | uniq | sed '/^[[:space:]]*$/ d' | tr '\n' ',' | sed "s/,/, /g" | sed "s/,[[:space:]]*$//"
-    command! GetTagList :read !grep -o -h ":tags:.*" content/*rst  | sed "s/:tags: //" | tr ',' '\n' | sed 's/^[[:space:]]*//' | sort | uniq | sed '/^[[:space:]]*$/ d' | tr '\n' ',' | sed "s/,/, /g" | sed "s/,[[:space:]]*$//"
+    command! GetCategoryList :read !grep -o -h '^:category:.*' content/*rst  | sed 's/:category: //' | tr ',' '\n' | sed 's/^[[:space:]]*//' | sort | uniq | sed '/^[[:space:]]*$/ d' | tr '\n' ',' | sed 's/,/, /g' | sed 's/,[[:space:]]*$//'
+    command! GetTagList :read !grep -o -h '^:tags:.*' content/*rst  | sed 's/:tags: //' | tr ',' '\n' | sed 's/^[[:space:]]*//' | sort | uniq | sed '/^[[:space:]]*$/ d' | tr '\n' ',' | sed 's/,/, /g' | sed 's/,[[:space:]]*$//'
 
 
 This adds two commands - GetCategoryList and GetTagList which print the lists in your Vim buffer. You can then choose which ones you want - use something like `df,` to get rid of ones you don't and so on.
