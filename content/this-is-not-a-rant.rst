@@ -40,20 +40,20 @@ to the community.)
 I'm very disappointed with the response to the Local Contacts
 scheme[3]. It was supposed to be India-centric, but more foreigners have
 signed up
-than Indians! The mail was sent out to the -india and freemedia
+than Indians! The mail was sent out to the -india and free-media
 mailing lists, and I have, therefore, received more help from the
-freemedia
+free-media
 mailing list here! Out of the entire list of 31 Indian Ambassadors,
 only \*2\* have signed up (that is \*one\* person other than me). Some
 of us are
-in the free media program, other than that, no one seems interested.
+in the free-media program, other than that, no one seems interested.
 Please contribute. Spreading Fedora is the \*main\* duty of an
 ambassador.
 If you're not doing this, what are you doing? It's an earnest
 request.
 
 I'd also like to remind you that in spite of repeated requests for
-help on the freemedia front to the India list, we still have very few
+help on the free-media front to the India list, we still have very few
 active
 contributors there.
 

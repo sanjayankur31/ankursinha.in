@@ -1,4 +1,4 @@
-The status of free media program in India: A quick update
+The status of free-media program in India: A quick update
 #########################################################
 :date: 2012-02-08 13:02
 :author: ankur
@@ -14,7 +14,7 @@ The status of free media program in India: A quick update
 someone the gift of fedora today`_!**
 
 .. _this page: http://fedoraproject.org/wiki/Distribution/FreeMedia/Contributors#India_.2820.29
-.. _assigned to them currently: https://fedorahosted.org/freemedia/query?status=assigned&summary=~INDIA&group=owner&col=id&col=summary&col=status&col=version&col=time&col=changetime&order=summary
-.. _Open tickets: https://fedorahosted.org/freemedia/query?status=new&status=reopened&country=~INDIA&max=10&col=id&col=summary&col=status&col=version&col=time&col=changetime&order=priority
-.. _Accepted tickets: https://fedorahosted.org/freemedia/query?status=assigned&country=~INDIA&max=10&col=id&col=summary&col=status&col=version&col=time&col=changetime&order=priority
-.. _give someone the gift of fedora today: http://fedoraproject.org/wiki/Distribution/Freemedia/Join_freemedia
+.. _assigned to them currently: https://fedorahosted.org/free-media/query?status=assigned&summary=~INDIA&group=owner&col=id&col=summary&col=status&col=version&col=time&col=changetime&order=summary
+.. _Open tickets: https://fedorahosted.org/free-media/query?status=new&status=reopened&country=~INDIA&max=10&col=id&col=summary&col=status&col=version&col=time&col=changetime&order=priority
+.. _Accepted tickets: https://fedorahosted.org/free-media/query?status=assigned&country=~INDIA&max=10&col=id&col=summary&col=status&col=version&col=time&col=changetime&order=priority
+.. _give someone the gift of fedora today: http://fedoraproject.org/wiki/Distribution/free-media/Join_free-media

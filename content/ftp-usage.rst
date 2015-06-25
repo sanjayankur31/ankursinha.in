@@ -6,7 +6,7 @@ FTP usage
 :tags: Fedora
 :slug: ftp-usage
 
-|image0|\ |image1| |image2|
+|image0| |image1| |image2|
 
  
 

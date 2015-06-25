@@ -9,7 +9,7 @@ How to request media from Fedora Ambassadors
 In the wake of a long thread on the Fedora India mailing list, I've
 drafted a page that tries to explain the steps to be taken to request
 Fedora Media from an Ambassador. This page hopes to encourage users to
-use methods other than the free media programme (India is receiving 200
+use methods other than the free-media programme (India is receiving 200
 requests per month!). It also aims to provide a common work flow to
 users and Ambassadors.
 

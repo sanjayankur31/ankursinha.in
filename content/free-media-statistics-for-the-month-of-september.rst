@@ -1,4 +1,4 @@
-Free Media statistics for the month of September
+Free-media statistics for the month of September
 ################################################
 :date: 2010-09-30 15:36
 :author: ankur

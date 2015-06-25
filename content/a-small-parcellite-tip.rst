@@ -6,30 +6,8 @@ A small parcellite tip
 :tags: Fedora
 :slug: a-small-parcellite-tip
 
-.. raw:: html
-
-   <div>
-
-*`Parcellite`_ is a stripped down, basic-features-only clipboard manager
-with a small memory footprint for those who like simplicity.*
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <div>
-
-*
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <div>
+`Parcellite`_ is a stripped down, basic-features-only clipboard manager
+with a small memory footprint for those who like simplicity.
 
 Of late it's been annoying me: It would copy any text that I selected to
 the clipboard! I'll explain: Let us assume that I have a url on the
@@ -40,58 +18,14 @@ It's downright inefficient to have to select my previously copied item
 from the parcellite notification (I don't like to move my hands to use
 the mouse; I'm a keyboard person.). 
 
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <div>
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <div>
-
 I had thought this to be a *bug*. Instead, this turned out to be a
 *feature*. Apparently, this is how the X server manages the clipboard:
 by dumping everything you highlight on to it. The rationale behind this
 escapes me completely. 
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <div>
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <div>
 
 To get rid of this behaviour, all you need to do is stick to the GDK
 clipboard. Unselect "Use primary (Selection)" in the parcellite
 preferences. Instead of **xsel -i**, use **echo "hahhaa" \|
 parcellite**. 
 
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <div>
-
-.. raw:: html
-
-   </div>
-
-.. _Parcellite: https://community.dev.fedoraproject.org/packages/s/parcellite
+.. _Parcellite: https://bugz.fedoraproject.org/parcellite

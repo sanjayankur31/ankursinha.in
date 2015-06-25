@@ -100,7 +100,7 @@ and agree on some details. Once done, we begin to code! (yay!).
 
    <div>
 
-I haven't worked on the `freemedia tool`_ in a while. It "just works",
+I haven't worked on the `free-media tool`_ in a while. It "just works",
 and with the lack of free cycles, I haven't been able to get down to
 adding more features to it yet. 
 
@@ -151,5 +151,5 @@ I don't think I'm missing out anything here. That's all folks!
 .. _review ticket: https://bugzilla.redhat.com/show_bug.cgi?id=799701
 .. _fedora tour: http://fedorahosted.org/fedora-tour
 .. _meeting logs: https://fedorahosted.org/fedora-tour/wiki/meeting-logs
-.. _freemedia tool: //gitorious.org/fedora-freemedia-tool/fedora-freemedia-tool
+.. _free-media tool: //gitorious.org/fedora-free-media-tool/fedora-free-media-tool
 .. _Fedora GSoC: https://fedoraproject.org/wiki/GSOC_2012

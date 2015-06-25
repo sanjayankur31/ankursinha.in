@@ -1,28 +1,28 @@
-fedora-freemedia-tool version 0.2alpha
-######################################
+Fedora free-media-tool version 0.2alpha
+#######################################
 :date: 2012-02-16 01:01
 :author: ankur
 :category: Tech
 :tags: Fedora
-:slug: fedora-freemedia-tool-version-0-2alpha
+:slug: fedora-free-media-tool-version-0-2alpha
 
 I've managed to get most of the functionality coded up. Here's what
 ffmtool -h looks like now (on my system):
 
-::
+.. code-block:: bash
 
     [ankur@ankur ~]$ ffmtool -h
-    [+] Parsing available options from config file: /home/ankur/.config/fedora-freemedia-tool/config.cfg
+    [+] Parsing available options from config file: /home/ankur/.config/fedora-free-media-tool/config.cfg
     Usage: ffmt [Options] [args]...
-    A tool to assist Fedora Freemedia contributors.
+    A tool to assist Fedora free-media contributors.
     Without options, it prints pending envelopes to the current directory using default values of input and database files.
 
     Options:
       -h [ --help ]                         Print this usage message.
-      -c [ --config-file ] [=arg(=/home/ankur/.config/fedora-freemedia-tool/config.cfg)]
+      -c [ --config-file ] [=arg(=/home/ankur/.config/fedora-free-media-tool/config.cfg)]
                                             Configuration file
 
-      -d [ --database ] [=arg(=/home/ankur/.local/share/fedora-freemedia-tool/freemedia-database.db)]
+      -d [ --database ] [=arg(=/home/ankur/.local/share/fedora-free-media-tool/free-media-database.db)]
                                             Complete output file path
 
       -x [ --fas-username ] arg             FAS Username. Password will be asked if
@@ -32,7 +32,7 @@ ffmtool -h looks like now (on my system):
                                             password in plaintext on the terminal.
                                             Use with -u
 
-      -i [ --import ] [=arg(=/home/ankur/.local/share/fedora-freemedia-tool/report.csv)]
+      -i [ --import ] [=arg(=/home/ankur/.local/share/fedora-free-media-tool/report.csv)]
                                             Import data
                                             Optional argument: Complete input file
                                             path
@@ -87,7 +87,7 @@ ffmtool -h looks like now (on my system):
       -s [ --sender-add ] arg               Senders address
                                             Use % as a line limiter
 
-      -t [ --template ] [=arg(=/usr/share/fedora-freemedia-tool/Freemedia-mailer.png)]
+      -t [ --template ] [=arg(=/usr/share/fedora-free-media-tool/free-media-mailer.png)]
                                             Location of envelope template
 
       -V [ --version ] arg                  Package information: version etc.
@@ -132,17 +132,17 @@ Example usage:
 ::
 
     [ankur@ankur SPECS]$ ffmtool -u
-    [+] Parsing available options from config file: /home/ankur/.config/fedora-freemedia-tool/config.cfg
-    [+] /home/ankur/.config/fedora-freemedia-tool/ already exists. Continuing..
-    [+] /home/ankur/.local/share/fedora-freemedia-tool/ already exists. Continuing..
+    [+] Parsing available options from config file: /home/ankur/.config/fedora-free-media-tool/config.cfg
+    [+] /home/ankur/.config/fedora-free-media-tool/ already exists. Continuing..
+    [+] /home/ankur/.local/share/fedora-free-media-tool/ already exists. Continuing..
     Username: ankursinha
     Password:
       % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                      Dload  Upload   Total   Spent    Left  Speed
       0     0    0     0    0     0      0      0 --:--:--  0:00:03 --:--:--     0
     100  5815  100  5815    0     0   3152      0  0:00:01  0:00:01 --:--:--  6889
-    [+] Datafile set to: /home/ankur/.local/share/fedora-freemedia-tool/report.csv
-    [+] Databasefile set to: /home/ankur/.local/share/fedora-freemedia-tool/freemedia-database.db
+    [+] Datafile set to: /home/ankur/.local/share/fedora-free-media-tool/report.csv
+    [+] Databasefile set to: /home/ankur/.local/share/fedora-free-media-tool/free-media-database.db
     [+] Database already exists. Continuing..
     [X] File format should be:
     1.1st line is a header
@@ -159,12 +159,12 @@ Once you've gotten rid of the extra stuff from the data file:
 
 ::
 
-    [ankur@ankur fedora-freemedia-tool]$ ffmtool -i
-    [+] Parsing available options from config file: /home/ankur/.config/fedora-freemedia-tool/config.cfg
-    [+] /home/ankur/.config/fedora-freemedia-tool/ already exists. Continuing..
-    [+] /home/ankur/.local/share/fedora-freemedia-tool/ already exists. Continuing..
-    [+] Datafile set to: /home/ankur/.local/share/fedora-freemedia-tool/report.csv
-    [+] Databasefile set to: /home/ankur/.local/share/fedora-freemedia-tool/freemedia-database.db
+    [ankur@ankur fedora-free-media-tool]$ ffmtool -i
+    [+] Parsing available options from config file: /home/ankur/.config/fedora-free-media-tool/config.cfg
+    [+] /home/ankur/.config/fedora-free-media-tool/ already exists. Continuing..
+    [+] /home/ankur/.local/share/fedora-free-media-tool/ already exists. Continuing..
+    [+] Datafile set to: /home/ankur/.local/share/fedora-free-media-tool/report.csv
+    [+] Databasefile set to: /home/ankur/.local/share/fedora-free-media-tool/free-media-database.db
     [+] Database already exists. Continuing..
     [+] File seems well formatted. Proceeding to import.
     Entered worker import function..
@@ -184,19 +184,19 @@ Once you've gotten rid of the extra stuff from the data file:
     [+] Ticket 7948 already exists in table, skipping.
     [+] Ticket 7949 imported to the database.
     [+] 15 records successfully imported into database.
-    [ankur@ankur fedora-freemedia-tool]$
+    [ankur@ankur fedora-free-media-tool]$
 
 You can use the various options to look/modify ticket entries in the
 database. All this stuff will be on your local copy only. I don't see a
 reason to update the trac info yet. The best part is, you can print your
-fedora freemedia envelopes using this tool:
+fedora free-media envelopes using this tool:
 
-::
+.. code-block:: bash
 
-    [ankur@ankur fedora-freemedia-tool]$ ffmtool -l
-    [+] Parsing available options from config file: /home/ankur/.config/fedora-freemedia-tool/config.cfg
-    [+] /home/ankur/.config/fedora-freemedia-tool/ already exists. Continuing..
-    [+] /home/ankur/.local/share/fedora-freemedia-tool/ already exists. Continuing..
+    [ankur@ankur fedora-free-media-tool]$ ffmtool -l
+    [+] Parsing available options from config file: /home/ankur/.config/fedora-free-media-tool/config.cfg
+    [+] /home/ankur/.config/fedora-free-media-tool/ already exists. Continuing..
+    [+] /home/ankur/.local/share/fedora-free-media-tool/ already exists. Continuing..
     All tickets in data base (ticket numbers only): 19
     #7353
     #7710
@@ -217,22 +217,22 @@ fedora freemedia envelopes using this tool:
     #7945
     #7948
     #7949
-    [ankur@ankur fedora-freemedia-tool]$ ffmtool -p 7949 7948 7945
-    [+] Parsing available options from config file: /home/ankur/.config/fedora-freemedia-tool/config.cfg
-    [+] /home/ankur/.config/fedora-freemedia-tool/ already exists. Continuing..
-    [+] /home/ankur/.local/share/fedora-freemedia-tool/ already exists. Continuing..
-    [+] Printed envelope for ticket number 7949 to ./freemediaEnvelope7949.png.
-    [+] Printed envelope for ticket number 7948 to ./freemediaEnvelope7948.png.
-    [+] Printed envelope for ticket number 7945 to ./freemediaEnvelope7945.png.
-    [+] Datafile set to: /home/ankur/.local/share/fedora-freemedia-tool/report.csv
-    [+] Databasefile set to: /home/ankur/.local/share/fedora-freemedia-tool/freemedia-database.db
+    [ankur@ankur fedora-free-media-tool]$ ffmtool -p 7949 7948 7945
+    [+] Parsing available options from config file: /home/ankur/.config/fedora-free-media-tool/config.cfg
+    [+] /home/ankur/.config/fedora-free-media-tool/ already exists. Continuing..
+    [+] /home/ankur/.local/share/fedora-free-media-tool/ already exists. Continuing..
+    [+] Printed envelope for ticket number 7949 to ./free-mediaEnvelope7949.png.
+    [+] Printed envelope for ticket number 7948 to ./free-mediaEnvelope7948.png.
+    [+] Printed envelope for ticket number 7945 to ./free-mediaEnvelope7945.png.
+    [+] Datafile set to: /home/ankur/.local/share/fedora-free-media-tool/report.csv
+    [+] Databasefile set to: /home/ankur/.local/share/fedora-free-media-tool/free-media-database.db
     [+] Database already exists. Continuing..
     Marked ticket #7949
     Marked ticket #7948
     Marked ticket #7945
-    [ankur@ankur fedora-freemedia-tool]$ ls *.png
-    freemediaEnvelope7945.png  freemediaEnvelope7948.png  freemediaEnvelope7949.png
-    [ankur@ankur fedora-freemedia-tool]$
+    [ankur@ankur fedora-free-media-tool]$ ls *.png
+    free-mediaEnvelope7945.png  free-mediaEnvelope7948.png  free-mediaEnvelope7949.png
+    [ankur@ankur fedora-free-media-tool]$
 
 | This is what the envelope would look like:
 |  |example generated envelope|
@@ -250,11 +250,11 @@ hosted on gitorious.`_
 
 Phew! Long post, probably the longest I've ever written. Cheers!
 
-.. _Use this rpm: http://ankursinha.fedorapeople.org/fedora-freemedia-tool/fedora-freemedia-tool-0.2-1.fc16.x86_64.rpm
+.. _Use this rpm: http://ankursinha.fedorapeople.org/fedora-free-media-tool/fedora-free-media-tool-0.2-1.fc16.x86_64.rpm
 .. _this bug in curlpp.: https://bugzilla.redhat.com/show_bug.cgi?id=788639
-.. _source here: http://ankursinha.fedorapeople.org/fedora-freemedia-tool/fedora-freemedia-tool-0.2alpha.tar.gz
-.. _put up an example config file: http://ankursinha.fedorapeople.org/fedora-freemedia-tool/config.cfg
-.. _git repository is hosted on gitorious.: https://gitorious.org/fedora-freemedia-tool
+.. _source here: http://ankursinha.fedorapeople.org/fedora-free-media-tool/fedora-free-media-tool-0.2alpha.tar.gz
+.. _put up an example config file: http://ankursinha.fedorapeople.org/fedora-free-media-tool/config.cfg
+.. _git repository is hosted on gitorious.: https://gitorious.org/fedora-free-media-tool
 
-.. |example generated envelope| image:: http://ankursinha.in/wp/wp-content/uploads/2012/02/freemediaenvelope7949.png?w=212
-   :target: http://ankursinha.in/wp/wp-content/uploads/2012/02/freemediaenvelope7949.png
+.. |example generated envelope| image:: http://ankursinha.in/wp/wp-content/uploads/2012/02/free-mediaenvelope7949.png?w=212
+   :target: http://ankursinha.in/wp/wp-content/uploads/2012/02/free-mediaenvelope7949.png

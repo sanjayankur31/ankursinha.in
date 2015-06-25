@@ -1,4 +1,4 @@
-Some free media statistics
+Some free-media statistics
 ##########################
 :date: 2010-09-05 20:32
 :author: ankur
@@ -6,7 +6,7 @@ Some free media statistics
 :tags: Fedora
 :slug: some-free-media-statistics
 
-I was housekeeping the new free media tickets from India this morning.
+I was housekeeping the new free-media tickets from India this morning.
 Since I was manually going over tickets, I thought I'd spend some more
 time and collect some statistics for this month's tickets. I'm not going
 to make any deductions from these, I'll let the numbers do the taking.

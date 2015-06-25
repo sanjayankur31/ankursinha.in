@@ -6,59 +6,23 @@ Google Summer of Code 2012: Some "things to remember" for prospective mentors
 :tags: Fedora
 :slug: google-summer-of-code-2012-some-things-to-remember-for-prospective-mentors
 
-To start with, the **`organization application deadline is March 9`_**,
+To start with, the `organization application deadline is March 9`_,
 which is right around the corner. If you have some ideas for this year's
 program, it's time to get them up on the `wiki`_!
-
-.. raw:: html
-
-   <div>
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <div>
 
 I was a participant last year. Based on my experience, here are some
 things that you may want to consider when signing up as a potential
 mentor:
 
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <div>
-
 -  Do you have the time?
 -  Are you well versed with the work involving your idea?
 -  Is your idea long term or short term?
 
-.. raw:: html
-
-   <div>
-
 There must be a lot more of them, but this is all I can think of at the
 moment. I'll talk about them one by one:
 
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   </div>
-
 Do you have the time?
 ---------------------
-
-.. raw:: html
-
-   <div>
 
 This is most important IMO. You need  to have time to spare to be able
 to talk to the student, to assist him if he needs it, to look at the
@@ -74,43 +38,12 @@ if required. This is how relationships are forged in FOSS: out of
 respect for each others' work, and as you get to know each other better,
 out of respect for each other. 
 
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <div>
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <div>
-
 If you consider mentoring to be a passive role where you sit back and
 watch, please, *stay away*.
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <div>
-
-.. raw:: html
-
-   </div>
 
 Are you well versed with the work involving your idea?
 ------------------------------------------------------
 
-.. raw:: html
-
-   <div>
 
 Well, you can't know the all the tiny details, obviously. However, are
 you **qualified enough** to be able to do the task yourself? "Why?" you
@@ -123,24 +56,9 @@ someone if you yourself are ignorant of the process? Ask your self this:
 "If the student gets stuck, would I be in a position to bail him out? If
 not, do I know people who'd have time to do the same?". 
 
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <div>
-
-.. raw:: html
-
-   </div>
 
 Is your idea long term or short term?
 -------------------------------------
-
-.. raw:: html
-
-   <div>
 
 The coding period at GSoC is **May 21 to August 20**. That is three
 months of solid work. However, successful projects aren't made in three
@@ -149,22 +67,6 @@ project. They may be enhancement implementations, or bugfixes, or
 optimizations and the sort. Even though these tasks are specific, they
 have consequences in the long term for the project (rather, *they should
 have consequences in the long term*). 
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <div>
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <div>
 
 I guess what I'm asking you is: "In the long term, will the work done in
 this GSoC period be counted on?". If the answer is "Yes", you should go
@@ -178,32 +80,8 @@ responsibility than the student's. The student, who will generally be
 new to the project, is not to be assumed capable of making long term
 plans for it.
 
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <div>
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <div>
-
-.. raw:: html
-
-   </div>
-
 The gist of it all
 ------------------
-
-.. raw:: html
-
-   <div>
 
 I guess what I'm really trying to put across is the importance a mentor
 holds. A mentor can make or break a GSoC project. A mentor can make or
@@ -215,30 +93,10 @@ point them into the correct direction, be it a man page, or just google.
 As a mentor, you should have the time, the knowledge, the sincerity, the
 morals to direct your student. You are very much accountable. 
 
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <div>
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <div>
-
 Having pointed out the serious bits, **GSoC is a lot of fun**! I enjoyed
 it thoroughly last year as a student. From the fedora mentors, I hear
 they enjoyed it quite a bit too! Let's get some ideas on the board
 people!
-
-.. raw:: html
-
-   </div>
 
 .. _organization application deadline is March 9: organization%20application%20deadline%20is%20March%209
 .. _wiki: https://fedoraproject.org/wiki/Summer_coding_ideas_for_2012

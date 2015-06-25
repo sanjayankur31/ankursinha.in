@@ -1,10 +1,10 @@
-One of the worse days with freemedia in India
-#############################################
+A bad day with free-media in India
+##################################
 :date: 2012-04-25 11:30
 :author: ankur
 :category: Tech
-:tags: Fedora
-:slug: one-of-the-worse-days-with-freemedia-in-india
+:tags: Fedora, Rant
+:slug: one-of-the-worse-days-with-free-media-in-india
 
 The quotes will say it all:
 
@@ -20,7 +20,7 @@ My reply:
 
     While I agree that it's taking longer than usual to get media to
     you, I do not appreciate you pretending as if you have the right to
-    any media that freemedia sends out. If you were ready to take some,
+    any media that free-media sends out. If you were ready to take some,
     ANY trouble whatsoever, you could have gone ahead and collected
     media from an Ambassador right away! Instead, you prefer to sit at
     home and get media delivered to you, FREE of cost, without putting

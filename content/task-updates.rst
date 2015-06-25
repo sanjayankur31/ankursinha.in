@@ -30,9 +30,9 @@ questions that beat me (obviously!!), but on the whole, I've improved
 which makes me happy!
 
 `Rahul`_ from fedora India sent me a 100 DVDs which I could use to send
-out free media. As a result, I've accepted more requests (almost 20),
+out free-media. As a result, I've accepted more requests (almost 20),
 and I'll try to send them out this week before accepting more. The thing
-is, once `F15 releases`_, these F14 media won't be used for free media
+is, once `F15 releases`_, these F14 media won't be used for free-media
 any more, so I am going to finish these off before the F15 release.
 
 I tried out the gnome-shell preview on F14, and really, I like it! I'm

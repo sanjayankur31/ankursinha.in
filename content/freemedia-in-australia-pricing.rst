@@ -1,10 +1,10 @@
-Freemedia in Australia: Pricing
-###############################
+Free-media in Australia: Pricing
+################################
 :date: 2013-02-22 07:02
 :author: ankur
 :category: Tech
 :tags: Fedora
-:slug: freemedia-in-australia-pricing
+:slug: free-media-in-australia-pricing
 
 |2013-02-22 12.25.52|
 

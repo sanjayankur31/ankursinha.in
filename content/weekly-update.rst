@@ -89,11 +89,11 @@ page. `Susmit says he'll make changes whenever he can find the time`_.
 (Thank you Susmit).
 
 I also ran a
-`thread <https://admin.fedoraproject.org/mailman/private/freemedia/2010-September/021239.html>`__
-on the Free media list for a meet. That one seems to have gone sort of a
+`thread <https://admin.fedoraproject.org/mailman/private/free-media/2010-September/021239.html>`__
+on the free-media list for a meet. That one seems to have gone sort of a
 waste. :(
 
-**`Oh! By the way, the free media form is open for this month and
+**`Oh! By the way, the free-media form is open for this month and
 requests have started to come in.`_**
 
 I came across `Alice`_ on a post to the `PLUG`_ mailing list. If
@@ -179,7 +179,7 @@ doing this.\ *That's all folks! Good night!***
 .. _previous post: ankursinha.in/2010/08/28/oh-my-system-had-a-remote-i-had-forgotten-about/
 .. _thread: http://lists.fedoraproject.org/pipermail/ambassadors/2010-September/015462.html
 .. _Susmit says he'll make changes whenever he can find the time: http://lists.fedoraproject.org/pipermail/ambassadors/2010-September/015468.html
-.. _Oh! By the way, the free media form is open for this month and requests have started to come in.: https://admin.fedoraproject.org/mailman/private/freemedia/2010-September/021240.html
+.. _Oh! By the way, the free-media form is open for this month and requests have started to come in.: https://admin.fedoraproject.org/mailman/private/free-media/2010-September/021240.html
 .. _Alice: http://www.alice.org/index.php
 .. _PLUG: http://plug.org.in/
 .. _entire git reference at github: http://gitref.org/

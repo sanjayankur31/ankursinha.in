@@ -5,10 +5,17 @@ Using your gnotes on your android phone
 :category: Tech
 :tags: Android
 :slug: using-your-gnotes-on-your-android-phone
+:summary: Using Gnotes on your Android phone.
 
-|image0|
-|image1|
-|image2|
+
+.. image:: {filename}/images/gnote.png
+    :alt: Gnote icon
+
+.. image:: {filename}/images/swiftp.jpg
+    :alt: swiftp icon
+
+.. image:: {filename}/images/tomdroid.jpg
+    :alt: tomdroid icon
 
 I recently came across this tutorial which dealt with `using Gnote to
 unclutter one's daily note`_\ s. It really is a great post. I adopted
@@ -18,7 +25,7 @@ way which I'll detail below.
 
 First, install `Gnote`_. On a fedora system, this is as simple as
 
-::
+.. code-block:: bash
 
     su -c 'yum install gnote'
 
@@ -62,6 +69,3 @@ Notes:
 .. _Tomdroid: https://launchpad.net/tomdroid
 .. _swiFTP.: http://code.google.com/p/swiftp/
 
-.. |image0| image:: {filename}/images/gnote.png
-.. |image1| image:: {filename}/images/swiftp.jpg
-.. |image2| image:: {filename}/images/tomdroid.jpg

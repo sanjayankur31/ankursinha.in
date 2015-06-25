@@ -6,10 +6,12 @@ Another Fedora experience, a different Fedora experience
 :tags: Fedora
 :slug: another-fedora-experience-a-different-fedora-experience
 
-|image0|
+.. |image0| image:: {filename}/images/gift.png
+    :alt: free-media image
+    :target: {filename}/images/gift.png
 
 Hello all, I received some feed back from one of the folks whose ticket
-I had accepted this month as a part of my Free media duties. It's
+I had accepted this month as a part of my free-media duties. It's
 another amazing experience that being a member of the Fedora community
 has earned me. I requested the sender to let me share this with the
 community and he graciously agreed.
@@ -51,11 +53,9 @@ I've of course, removed names and other details that I thought should
 not be posted in public.
 
 It's a great great feeling when you receive mails like this. `Join us at
-the free media program`_ and the next mail will be in your inbox :)
+the free-media program`_ and the next mail will be in your inbox :)
 
 Have a great day!
 
-.. _Join us at the free media program: http://fedoraproject.org/wiki/Distribution/Freemedia/Join_freemedia
+.. _Join us at the free-media program: http://fedoraproject.org/wiki/Distribution/free-media/Join_free-media
 
-.. |image0| image:: {filename}/images/gift.png
-   :target: {filename}/images/gift.png

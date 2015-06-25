@@ -1,12 +1,13 @@
-Mailer for the Free media program
+Mailer for the free-media program
 #################################
 :date: 2010-09-23 00:54
 :author: ankur
 :category: Tech
 :tags: Fedora
 :slug: mailer-for-the-free-media-program
+:summary: A mailer envelop for the Fedora free-media programme.
 
-A `mailer`_ exists for the Free media program. `Joe`_ had made this
+A `mailer`_ exists for the free-media program. `Joe`_ had made this
 sometime back (Thanks a ton Joe!). I had recently posted to the Free
 Media list requesting a more "generic" mailer that everyone could use,
 something not region specific. `Since I got my tablet working`_, I
@@ -16,23 +17,21 @@ almost empty (Can you folks tell me how to populate the interior??) All
 the SVG sources can be found `here`_ at my fedorapeople space. Comments
 welcome.
 
-.. figure:: {filename}/images/mailer-out.png
-    :align: center
-    :height: 800px
+.. image:: {filename}/images/mailer-out.png
+    :width: 800px
     :scale: 25%
     :target: {filename}/images/mailer-out.png
     :alt: Mailer out
 
-    Mailer out
+Mailer out
 
-.. figure:: {filename}/images/mailer-in.png
-    :align: center
-    :height: 800px
+.. image:: {filename}/images/mailer-in.png
+    :width: 800px
     :scale: 25%
     :target: {filename}/images/mailer-in.png
     :alt: Mailer in
 
-    Mailer in
+Mailer in
 
 .. _mailer: http://ascenseur.fedorapeople.org/fedora_mailer_new.otg
 .. _Joe: http://fedoraproject.org/wiki/User:Ascenseur

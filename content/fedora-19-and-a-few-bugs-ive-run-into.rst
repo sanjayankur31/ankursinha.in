@@ -6,8 +6,7 @@ Fedora 19 and a few bugs I've run into
 :tags: Fedora
 :slug: fedora-19-and-a-few-bugs-ive-run-into
 
-[caption id="" align="aligncenter" width="210"]\ |Fedora 19 alpha
-banner| Fedora 19 is here![/caption]
+|Fedora 19 alpha banner|
 
 I generally only update once beta is released. This time however, I
 really wanted to play with `GNOME3.8`_ and well, "accepted my fate" as
