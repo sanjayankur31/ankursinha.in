@@ -5,7 +5,6 @@ AUTHOR = u'Ankur Sinha'
 SITENAME = u'ankursinha.in/blog'
 SITESUBTITLE = u'neuroscience/fedora/musings ...'
 SITETAG = u'neuroscience/fedora/musings ...'
-#SITEURL = 'http://ankursinha.in/blog/'
 TWITTER_USERNAME = 'sanjay_ankur'
 
 STATIC_PATHS = ['images', 'extras/favicon.ico']
@@ -93,5 +92,4 @@ CUSTOM_ARTICLE_FOOTERS = ('sharing.html',)
 CUSTOM_SCRIPTS_ARTICLE = "sharing_scripts.html"
 
 STYLESHEET_FILES = ("use-opensans.css", "voidybootstrap.css", "pygment.css")
-# Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = False
