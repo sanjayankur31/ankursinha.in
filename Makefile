@@ -143,9 +143,12 @@ endif
 
 newpage:
 ifdef NAME
-	echo ":date: $(DATE)" >> $(PAGEDIR)/$(SLUG).$(EXT)
-	echo ":author: $(AUTHOR)" >> $(PAGEDIR)/$(SLUG).$(EXT)
-	echo ":slug: $(SLUG)" >> $(PAGEDIR)/$(SLUG).$(EXT)
+	echo "$(NAME)" >  $(PAGESDIR)/$(SLUG).$(EXT)
+	echo -n "$(NAME)" | sed "s/./#/g" >>  $(PAGESDIR)/$(SLUG).$(EXT)
+	echo >> $(PAGESDIR)/$(SLUG).$(EXT)
+	echo ":date: $(DATE)" >> $(PAGESDIR)/$(SLUG).$(EXT)
+	echo ":author: $(AUTHOR)" >> $(PAGESDIR)/$(SLUG).$(EXT)
+	echo ":slug: $(SLUG)" >> $(PAGESDIR)/$(SLUG).$(EXT)
 	echo ""              >> $(PAGESDIR)/$(SLUG).$(EXT)
 	echo ""              >> $(PAGESDIR)/$(SLUG).$(EXT)
 	${EDITOR} ${PAGESDIR}/${SLUG}.$(EXT)
