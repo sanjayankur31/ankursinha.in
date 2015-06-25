@@ -2,7 +2,7 @@ Research Profile
 ################
 :date: 2014-08-15 03:22
 :author: ankur
-:slug: research-profile
+:slug: 02-research-profile
 
 I'm still working on getting my doctorate in Computer Science. My research interests include plasticity, associative memory, recurrent spiking neural networks, bio-mimetic robotics. There are quite a few other topics I muse about but I general haven't the time to actually research them at the moment.
 
@@ -21,29 +21,17 @@ I have recently submitted my Masters thesis for examination as part of my enrolm
 Supervisor: `Dr. Jack Wang`_
 
 Resume
----------------
+------
 
 My resume can be found `here`_.
 
 Publications
 ------------
 
-#. Sinha, A. & Wang, J. - "An implementation of the path integrator
-   mechanism of head direction cells for bio-mimetic navigation" -
-   `IJCNN 2014`_, Beijing, China.
-   `(Preprint - IJCNN 2014)`_
-#. Sinha, A. & Wang, J. - "Bio-mimetic path integration using a self
-   organizing population of grid cells" -
-   `ICANN 2014`_, Hamburg, Germany.
-   `(Preprint - ICANN 2014)`_
+My publications can be seen `on a separate page <{filename}/pages/03-publications.rst>`_.
 
-The ROS source code that was used in these papers is now available at
-https://github.com/sanjayankur31/bionav. Please do cite the papers if
-you make use of it. Doxygen documentation can be found here:
-http://ankursinha.in/files/research/bionav-doc/index.html.
-
-Achievements/ Awards
---------------------
+Achievements/Awards/Grants
+--------------------------
 
 #. UTS Vice chancellor's research grant, 2014
 #. UTS FEIT research travel grant, 2014
@@ -51,7 +39,3 @@ Achievements/ Awards
 .. _Dr. Volker Steuber: http://homepages.stca.herts.ac.uk/~comqvs/
 .. _Dr. Jack Wang: http://www.uts.edu.au/staff/jianguo.wang
 .. _here: http://ankursinha.in/files/misc/resume.pdf
-.. _IJCNN 2014: http://www.ieee-wcci2014.org/
-.. _(Preprint - IJCNN 2014): http://ankursinha.in/files/research/00-IJCNN14-HDCells/PID3182361.pdf
-.. _ICANN 2014: http://icann2014.org/
-.. _(Preprint - ICANN 2014): http://ankursinha.in/files/research/01-ICANN14-GridCells/main.pdf
