@@ -1,0 +1,249 @@
+CNS 2015 - Day 0
+#################
+:date: 2015-07-29 11:04:59
+:author: ankur
+:category: Research
+:tags: Computational neuroscience, Events, Fedora, 
+:slug: cns-2015-day0
+:summary: I recently attended the conference for computational neuroscience (CNS 2015) in Prague. This post is a summary of the event. These have not been proofread at all. They're just what I noted during the conference.
+
+The notes have not been proofread. Please do your research before you pick anything from this post. It is meant to be a rough sketch of everything that I heard and noted at the conference. Since quite a bit of this is new to me, it is bound to be inaccurate, unspecific, and possibly even incorrectly quoted.
+
+Conference details
+------------------
+
+The conference was between July 18 and July 23, 2015 and was at the University of Economics in Prague. More information on the conference can be found at the `website here`_.
+
+Arrival in Prague
+-----------------
+
+We arrived by a slightly late flight at the Prague airport. Even before we'd left the airport, my supervisor, Volker, introduced us to `Eugene Izhikevich`_ at the baggage carousel. I was obviously star struck and mentally noted how well the trip had begun. We took a bus and a train to get to our hotels which were all around the conference venue in Prague 3.
+
+Day 0 - tutorials
+-----------------
+
+I initially started at the `Brian tutorial`_ hoping to learn more about the simulator. The tutorial was more about using the simulator, and since I'm not using the simulator at the moment, I moved to the `tutorial on Calcium Dynamics`_. The tutorial was most informative, and of course, a rather large part of the information was completely new to me. Here are the notes I scribbled in my not so scientific terms: 
+
+#. Calcium is critical for plasticity.
+#. Kinase takes a phosphate group and puts it on to another molecule.
+#. CaMKII is required for LTP but not required nor activated in LTD.
+#. Inhibition of CaMKII blocks LTP and memory.
+#. Phosphatases play a role in LTD, for example PP2B (Calcineurin) is also activated by Ca.
+#. Both LTD and LTP require elevation in Ca++, so how does the Ca++ decide whether to bind to CaMKII (LTP) or PP2B(LTD)? 
+
+   #. Calcium calmodulin first binds to PP2B.
+   #. With higher concentrations of Calcium calmodulin, the excess Ca binds to CaMKII.
+   #. The CaMKII activity overcomes PP2B activity.
+
+#. The dynamics of Ca and CaMKII do not explain everything.
+
+   #. In neocortical Calcium neurons, for example, the magnitude of peak Calcium does not always predict the direction of plasticity. 
+   #. CITE: Nevian and Sakmann - J. neuroscience 2006. 
+
+#. Other protein kinases:
+   
+   #. Protein kinase C
+   #. Protein kinase A and so on.
+
+#. E-LTP - early LTP
+#. L-LTP - late LTP
+   
+   #. These names aren't the best since people sometimes confuse themselves by thinking that the L means "late induction", which is not the case.
+
+#. Signal pathways and LTP:
+
+   #. Neurotransmitter -> receptor -> second messenger -> kinase/phosphatase -> nucleus.
+
+#. It is yet to be shown that STDP is protein synthesis dependent.
+#. General method of studying effects of molecules seems to be the introduction of inhibitors and analysis of their effects.
+#. MAPK activation is reqired for L-LTP and fear learning.
+#. There are changes in the dendritic spine.
+#. Synaptic plasticity, excitability, gene regulation and memory are all controlled by intracellular signalling pathways.
+#. G protein coupled (metabotrophic) receptors are involved in LTP.
+
+   #. Direct action - directly gates channel
+   #. Indirect action - via downstream messengers. 
+   #. For direct action, the channels that are closest are acted upon.
+   #. For indirect action, G protein binds to an enzyme -> enzyme produces second messenger -> therefore, wide spatial extent due to diffusible second messenger.
+
+#. G proteins can be heterotrimetric:
+
+   #. They are made up of three subunits: alpha, beta and gamma.
+   #. The beta and gamma subunits bind to the alpha subunit and prevent it from binding.
+   #. GDP - inactive.
+   #. GTP - active.
+
+#. Enzymes activated by G proteins:
+
+   #. Adenylyl cyclase (Gs)
+   #. Phospholipase C (Gq)
+
+#. Stoichiometric reactions - the equations provide information on the number of molecules required
+#. The transition from closed to open channels are a first order chemical reaction:
+
+.. math::
+
+    substrate &\underset{k_b}{\overset{k_b}{\rightleftharpoons}} product \\
+    p/s &= k_f/k_b \\
+    d[prod]/dt &= k_f[substrate] - k_b[product] \\
+    [substrate] &= [initial\_concentration] - [product]
+
+22. Second order reactions:
+
+.. math::
+
+    substrate1 + substrate2 &\underset{k_b}{\overset{k_b}{\rightleftharpoons}} product \\
+    d[prod]/dt &= k_f[substrate1][substrate2] - k_b[product] \\
+    [substrate1] &= [initial\_concentration\_substrate1] - [product]  \\
+    [substrate2] &= [initial\_concentration\_substrate2] - [product]
+
+23. Third order reactions:
+
+.. math::
+
+    substrate1 + 2~substrate2 &\underset{k_b}{\overset{k_b}{\rightleftharpoons}} product \\
+    d[prod]/dt &= k_f[substrate1]{[substrate2]}^2 - k_b[product] \\
+    [substrate1] &= [initial\_concentration\_substrate1] - [product] \\
+    [substrate2] &= [initial\_concentration\_substrate2] - 2~[product] 
+
+
+24. Enzymatic reactions:
+
+.. math::
+
+    Enzyme + substrate &\underset{k_b}{\overset{k_b}{\rightleftharpoons}} ES \overset{k_{cat}}{\rightarrow} Enzyme + product \\
+    d[ES]/dt &= k_f[Enzyme][substrate] - (k_{cat} - k_b).[ES] \\
+    dprod/dt &= k_{cat}.[ES]
+
+25. Backward rate constant is very near zero.
+#. Michalis-Menton Dynamics(?).
+#. ES rapdly reaches equilibrium.
+#. Substrate is in excess (enzyme quantity is rate limiting).
+#. At equilibrium:
+
+.. math::
+
+    d[ES]/dt &= 0 \\
+    k_f[Enzyme][Substrate] - (k_b + k_{cat}).[ES] &= 0 \\
+    [Enzyme] &= [Enzyme\_total] - [ES] \\
+    [ES] &= ([Enzyme\_total].[Substrate])/((k_b + k_{cat})/kf + [Substrate]) \\
+    d[product]/dt &= (k_{cat}.[Enzyme\_total].[Substrate])/([Substrate] + k_m) \\
+    k_m &= (k_{cat} + k_b)/k_f
+    
+30. :math:`k_f` is affinity - no need to know :math:`k_b` and :math:`k_f`.
+#. Note that at max:
+
+.. math::
+
+    d[product]/dt &= k_{cat}[Enzyme\_total] \\
+    [Substrate]/([Substrate] + k_m) &= 1~as~[substrate] -> \infty
+
+32. General rule:
+
+.. math::
+
+    d[product]/dt = \sum\limits{all\_rxns} (k_f \prod{[Substrate]} - k_b \prod{[product]}) \\
+
+33. Software:
+
+    #. XPPAUT - general purpose ODE solver.
+
+       #. To smooth out sudden spikes, you filter it out through an RC circuit to make it smoother.
+       #. Just write ODEs normally.
+       #. "aux" key word if you want to see the value of variables not in differential equations.
+       #. Saves data to text files.
+       #. Good tool for single neuron analysis, like AdEx analysis - shows values of diff equations and so on.
+       #. Can also do nullclines.
+       #. Has many ODE solvers to choose from.
+       #. Also does phase plane analysis.
+
+    #. Genesis/Chemesis/Kinetikit/Moose
+       #. Moose has a python interface
+       #. use "showfield" to check values
+       #. Basically, you make different molecule variables and so on and hook them up together at the end.
+
+#. Smooth endoplasmic reticulum are Calcium stores
+#. Sources of Calcium:
+
+  #. Calcium currents (L,N,P,Q,R,T)
+  #. Internal stores
+  #. Calcium sinks
+  #. Source or sink:
+     
+     #. Buffers
+     #. diffusion 
+
+36. Working with experimentalists is a must for accurate constants while modelling Calcium concentrations.
+#. Calcium current:
+
+.. math::
+
+    I_{Ca} = g_{max}m^ph^q (V_m - E_{Ca})
+
+
+38. but Calcium currents don't reverse and it is not well understood why, so we use the Goldman-Hodgkin-Katz equation.
+#. It applies when inside and outside concentrations are asymmetrical.
+#. Influx due to Calcium:
+
+.. math::
+
+    \phi &= (-I_{Ca}(Vm))/(charge.F) \\
+    F &= Faraday's constant
+
+41. Flux = moles per unit time.
+#. :math:`E_{Ca} > E_{Na}`, so never have Ca flowing in. We must use indirect methods - 10% of NMDA conductance and so on.
+#. Ion channels have multiple states one of which is "open and conducting".
+#. Hodgkin-Huxley model says the different subunits are independent:
+
+.. math::
+
+    n^4 = n_1 \times n_2 \times n_3 \times n_4.
+
+45. So, it works for K: single channel data is sufficient for multi state model.
+#. But, this doesn't work for Na channels, which is when you need to include different states of channels.
+#. Pick the level of modelling that you need.
+#. CITE: Li and Rinzi - equations to model Ca channel dynamics.
+#. CITE: Scheuss et al 2002
+#. Note: Calbindin and Parvalbumin are used to classify neurons.
+#. Spines are generally modelled in a single dimension.
+#. Genesis and Moose have simplified Calcium implementations.
+#. TIP: always take a peek at the sources of implementations to make sure what units are used.
+#. Volume of ER is about 18.5% of full cell.
+#. Spatial stochastic simulators
+
+   #. Smoldyn, MCell, CDS
+   #. Each molecule is a point particle
+   #. Computations increase with the number of molecules
+   #. MCell:
+
+      #. Geometry from volumetric data using Blender
+
+   #. CDS:
+
+      #. Particle based simulators with event driven algorithm.
+      #. Investigate crowding and so on since particles have a volume.
+      #. CaMKII diffusion depends on morphology.
+
+   #. Smoldyn
+
+      #. Relatively easy to use and learn.
+
+#. Non spatial stochastic simulators
+
+   #. Each simulator has different goals
+   #. NeuroRD - mesoscopic. 
+
+      #. Different morphology file and reaction file.
+      #. Only first and second order at this time.
+      #. A separate initial condition file.
+      #. Stimulation file.
+      #. Output specification -> list of molecules.
+      #. Top level modal file that tells what files do what.
+      #. Java
+
+   #. VCell
+
+.. _website here: http://www.cnsorg.org/cns-2015
+.. _Eugene Izhikevich: http://www.izhikevich.org/
+.. _Brian tutorial: http://briansimulator.org/brian-tutorial-at-cns-2015/
+.. _tutorial on Calcium Dynamics: http://www.cnsorg.org/cns-2015-tutorials#t5

@@ -90,6 +90,7 @@ SITEMAP = {
 
 CUSTOM_ARTICLE_FOOTERS = ('sharing.html',)
 CUSTOM_SCRIPTS_ARTICLE = "sharing_scripts.html"
-
+MATH_JAX = {'tex_extensions': ['color.js','mhchem.js']}
+MATH_JAX = {'color':'blue','align':'left'}
 STYLESHEET_FILES = ("use-opensans.css", "voidybootstrap.css", "pygment.css")
 RELATIVE_URLS = False
