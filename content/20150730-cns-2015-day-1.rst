@@ -1,0 +1,88 @@
+CNS 2015 - Day 1
+################
+:date: 2015-07-30 13:43:52
+:author: ankur
+:category: Research
+:tags: Computational neuroscience, Fedora
+:slug: cns-2015-day-1
+:summary: I recently attended the conference for computational neuroscience (CNS 2015) in Prague. This post is a summary of the first day event. These have not been proofread at all. They're just what I noted during the conference.
+
+The notes have not been proofread. Please do your research before you pick anything from this post. It is meant to be a rough sketch of everything that I heard and noted at the conference. Since quite a bit of this is new to me, it is bound to be inaccurate, unspecific, and possibly even incorrectly quoted.
+
+Day 0 Keynote - "Birdsong"
+--------------------------
+
+#. Adrienne Fairhall
+#. Birds learn their songs by trial and error.
+#. The Zebra Finch has a single song.
+#. STDP may require sustained depolarisation or bursting to occur.
+#. The structure of the basal ganglia is pretty conserved in all mammals.
+#. EI -> atractor -> stability
+#. Dopamine effect is U shaped in avalanche distribution in basal ganglia, therefore, both too much and too little will give negative results.
+#. Q: Why do you need variability for learning? (Structured variability)
+#. Q: How do we isolate the variability that was "good"?
+
+Day 1 keynote - Wilson-Cowan equations
+--------------------------------------
+
+#. Jack Cowan
+#. Wilson-Cowan equations.
+#. Attractor dynamics in neural systems.
+#. Exhibit various stable behaviours
+#. Oscillations before settle to a fixed point
+
+   #. Stable forms.
+   #. In the Vogels self organising model
+   #. CITE: paper in press
+
+#. Near a phase transition, no need to look at details of single neurons - you're not missing anything by ignoring single neuron details.
+
+Limits of scalability of cortical network models
+------------------------------------------------
+
+#. Sacha van Albada
+#. Mechanism at :math:`N \rightarrow \infty` is not the same mechanism at finite size.
+#. Inappropriate scaling can also cause the network to become unstable -> for example, cause large osciallations.
+#. Asynchronous irregular state, therefore, Gaussian inputs assumed
+#. LIF is like the rate model with white noise added to outputs
+#. So, while scaling you have to maintain effective connectivity and also maintain mean activities.
+#. Important to simulate at natural scale to verify.
+
+Complex synapses as efficient memory systems
+--------------------------------------------
+
+#. Markus Benna.
+#. Dense coding.
+#. Also use SNR.
+#. Synaptic weight distribution gets wider and wider - diffusion process.
+#. Good synaptic memory model:
+
+   #. Work with tightly bounded weights
+   #. Online learning
+   #. High SNR.
+   #. Not too complicated
+   #. Long life time
+   #. CITE: Amit and Fusi 1994
+
+#. Cascade model of complex synapse
+#. Need a balance of LTP/LTD - otherwise your distribution is squished against one of the boundaries.
+
+Self-organisation of computation in neural systems by interaction between homoeostatic and synaptic plasticity
+--------------------------------------------------------------------------------------------------------------
+
+#. Sakyasingha Dasgupta
+#. Cell assembly properties
+
+   #. Pattern completion
+   #. I-O association
+   #. Persistent activity
+
+#. Synaptic scaling is about 50-100 times slower than synaptic plasticity process
+
+A model for spatially periodic firing in the hippocampal formation based on interacting excitatory and inhibitory plasticity
+----------------------------------------------------------------------------------------------------------------------------
+
+#. Simon Weber
+#. If inhibition is not precise enough, you get periodic firing.
+#. Model of grid and place cells
+
