@@ -12,8 +12,8 @@ Conference submissions
 
 #. Ankur Sinha, Neil Davey, Roderick Adams, Volker Steuber - "Structural
    plasticity and associative memory in balanced neural networks with
-   spike-time dependent inhibitory plasticity" - poster to be presented at `CNS
-   2015`_, Prague.
+   spike-time dependent inhibitory plasticity" - `poster presented at CNS
+   2015`_, Prague. `(CNS 2015 - Abstract)`_
 
 2014
 ````
@@ -36,4 +36,5 @@ http://ankursinha.in/files/research/bionav-doc/index.html.
 .. _(Preprint - IJCNN 2014): http://ankursinha.in/files/research/00-IJCNN14-HDCells/PID3182361.pdf
 .. _ICANN 2014: http://icann2014.org/
 .. _(Preprint - ICANN 2014): http://ankursinha.in/files/research/01-ICANN14-GridCells/main.pdf
-.. _CNS 2015: http://www.cnsorg.org/cns-2015-prague
+.. _poster presented at CNS 2015: http://ankursinha.in/files/research/02-CNS2015/poster.pdf
+.. _(CNS 2015 - Abstract): http://ankursinha.in/files/research/02-CNS2015/Sinha_CNS2015_abstract_vs1.pdf
