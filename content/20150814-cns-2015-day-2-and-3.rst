@@ -1,0 +1,74 @@
+CNS 2015 Day 2 and 3
+####################
+:date: 2015-08-14 14:00:59
+:author: ankur
+:category: Research
+:tags: Computational neuroscience, Fedora
+:slug: cns-2015-day-2-and-3
+:summary: I recently attended the conference for computational neuroscience (CNS 2015) in Prague. This post is a summary of the event. These have not been proofread at all. They're just what I noted during the conference.
+
+The notes have not been proofread. Please do your research before you pick anything from this post. It is meant to be a rough sketch of everything that I heard and noted at the conference. Since quite a bit of this is new to me, it is bound to be inaccurate, unspecific, and possibly even incorrectly quoted.
+
+Day 2 - Collective information storage by stochastic model of structural plasticity
+-----------------------------------------------------------------------------------
+
+#. If animal is learning, spine formation and destruction is much higher.
+#. Model of structural plasticity
+
+   #. Neural activity.
+   #. Synaptic weights.
+   #. Network structure.
+   #. Weight is directly proportional to spine volume
+   #. Spine volume is directly proportional to spine stability
+   #. Stochastic
+   #. P(removal), P(formation)
+   #. Calibrated using experimental data.
+   #. Post synaptic correlation stabilises synaptic weight.
+   #. Synapses between 2 neurons don't know about each other.
+
+Limited range correlations, when modulated by firing rate, can substantially improve neural population coding
+-------------------------------------------------------------------------------------------------------------
+
+#. Noisy population coding problem.
+#. Retina displays rate dependent correlations that strongly enhance population codes.
+
+Day 3 - Gerstner Keynote
+------------------------
+
+#. Model scales
+
+   #. Population rate model (Wilson Cowan) -> *coarse graining* -> phenomenological model (LIF) -> *simplification* -> biophysical (Hodgkin-Huxley).
+   #. CITE: Harris & Shepperd 2015 - populations of neuron and classification.
+   #. Parameter extraction
+   #. Adaptation
+   #. Generalised linear model (GLM) or spine response model (SRM).
+   #. CITE: Gerstner and Naud 2009
+
+#. Steps:
+
+   #. Systematic optimisation of parameters
+
+      #. Predict membrane potential -> quadratic error function
+      #. We have potentials, now optimise spike timings.
+      #. Very quick process
+      #. Spikes and thresholds have an effect on functioning of neuron from about 10 seconds.
+
+   #. Quantifying spike timing - 90% predictability
+   #. CITE: Mensi et al. J. neurophsyiology 2011
+   #. Allen Institute - high throughput work
+   #. CITE: Naud and Gerstner 2012 - PLOS computational biology.
+   #. Fluctuations are good because they ensure that multiple solutions are exhibited
+   #. Finite size issue
+   #. Power spectrum
+   #. Schwalger et al. 2014 + poster at CNS
+   #. For differential equations -> find fixed points -> linearise -> them other analysis.
+
+Misc
+----
+
+#. Critical state -> functions of network are most efficient
+#. Lots of evidence from models but only recently have they received experimental data - Poster 221
+#. Disadvantages of criticality
+
+   #. Fine tuning
+   #. Slightly sub-critical is better.
