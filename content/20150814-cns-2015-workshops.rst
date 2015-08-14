@@ -1,0 +1,183 @@
+CNS 2015 - Workshops
+####################
+:date: 2015-08-14 14:41:46
+:author: ankur
+:category: Research
+:tags: Computational neuroscience, Fedora
+:slug: cns-2015-workshops
+:summary: I recently attended the conference for computational neuroscience (CNS 2015) in Prague. This post is a summary of the event. These have not been proofread at all. They're just what I noted during the conference.
+
+The notes have not been proofread. Please do your research before you pick anything from this post. It is meant to be a rough sketch of everything that I heard and noted at the conference. Since quite a bit of this is new to me, it is bound to be inaccurate, unspecific, and possibly even incorrectly quoted.
+
+
+Dendritic growth and wiring workshop
+------------------------------------
+
+#. Hippocampus - theta oscillation and place cell firing -> directly proportional to locomotion speed.
+#. Place related firing of place cells is dendritic function. 
+#. Can control the speed of locomotion by external stimulation -> reaches a plateau.
+#. CITE: Fuhrmann 2015
+#. Cerebellar synaptic units: bouton and synapses placements and distance distribution
+
+   #. Double boutons - split and meet 2 neurons.
+   #. Purkinje cells have access to many boutons - lots of boutons close by
+   #. Not same as interneurons which have few boutons around
+   #. Peter's rule of synapse formation.
+   #. PF connectivity is constrained by volume exclusion.
+   
+#. Deconstructing and reconstructing neuronal morphology - George Ascoli
+
+   #. Biochemistry is very similar to muscles
+   #. B(ranch)A(dvance/extend)R(etract)T(urn)
+   #. CITE: Zhou et al. 2002
+   #. Neuromorpho.org
+   #. BOOK: Trees of the brain, roots of the mind
+
+#. Computational modelling of synaptic and dendritic plasticity in the hippocampus - Peter Jedlicka
+
+   #. Neural activity -> synaptic plasticity -> synaptic efficiency -> neural activity ...
+   #. Dentate Gyrus - (LTP + heterosynaptic STD) (homoeostatic mechanism)
+   #. Model based on STDP and BCM
+   #. STDP:
+
+      #. LTP amplitude and :math: `\tau`
+      #. LTD amplitude and :math: `\tau`
+
+   #. BCM homoeostasis rule LTP/LTD amplitudes vary, proportional to integrated spike count (60 second).
+   #. MPP and LPP are spontaneously active.
+   #. Removing BCM homoeostasis/metaplasticity deteriorates performance
+   #. If the mechanism is too quick, plasticity is hampered - why?
+   #. Working on dendritic remodelling following lesions -> computational modelling
+   #. Functional relevance of dendritic retraction
+   #. Algorithms based on wiring optimisations
+   #. BAPs are selectively stronger in the denervated dendritic layer
+   #. At a dendritic morphology level
+   #. Homoeostasis following dendritic retraction
+   #. Smaller neurons fire more because their resistance is higher(?)
+   #. Compensatory enhancement of the intrinsic excitability -> in spite of lower number of stimulated
+   #. Excitability homoeostasis is present in all dendritic trees which undergo lengthening or shortening of their branches while keeping synaptic density constant
+   #. Friedemann is working on homoeostasis and time scales
+
+#. Different inputs project on different parts of the dendritic tree
+
+   #. Both BAPs and Calcium spikes are involved in synaptic plasticity.
+   #. Inhibition can switch plasticity on and off - hypothesis
+   #. BAP (sodium spike)
+   #. An inhibitory neuron makes about 12 connections to a post synaptic neuron?
+   #. Calcium spikes cause soma to burst
+   #. This is all a GABA-a inhibition
+
+Plasticity workshop
+-------------------
+
+#. Concepts
+
+   #. Pathways are different for LTP and LTD and so on
+   #. Synaptic plasticity
+
+#. Hebbian plasticity and STDP is unstable.
+
+#. Homoeostasis
+
+   #. On synapses
+      #. Local - homosynaptic
+      #. Global - heterosynaptic
+
+   #. Change firing properties
+
+      #. Threshold
+      #. Intrinsic excitability
+
+   #. Modulation of plasticity rule (metaplasticity)
+   #. Anti-hebbian
+   #. Putative role of glial cells
+   #. Synaptic scaling - slow (:math:`\tau_{home} = 1~day`)
+   #. CITE: Kech 2013 - lesioning is followed by upscaling synapses also
+   #. CITE: Zenke 2013 - metaplastic triplet
+   #. All of them have the same behaviour - oscillations if the time scle of STDP is much larger than that homoeostatic mechanism.
+   #. Functional significance of oscillations in weights? No answer yet.
+
+#. Synaptic plasticity and scaling their role in memory formation
+
+   #. Can SPM explain dynamics of memory?
+   #. Memory consolidation during sleep -> important
+   #. Once an assembly (memory) has been formed, they can be consolidated by a completely unspecific stimulus
+   #. Slow wave sleep is important for consolidation
+   #. Recall by partial stimulus causes weakening of assembly because of imbalance of activity - recall acts as perturbation
+   #. Similarly, learning a related, overlapping task also has the tendency to act as a perturbation.
+
+#. Modelling the dynamic interaction between hebbian and homoeostatic plasticity (synaptic scaling)
+
+   #. Hebbian is fast
+   #. Homoestatic is slow
+   #. How can homoeostatic plasticity be powerful enough and slow enough at the same time?
+   #. If homoeostasis is slow, it can result in oscillations
+   #. Data from monocular deprivation
+   #. TNF-alpha mediates homoeostatic plasticity
+   #. Spines fluctuate - explain volume distribution in absence of neuronal activity
+   #. Fluctuation is directly proportional to spine size
+   #. CITE: Yasamatsu 2008
+   #. Small spines tend to stay for longer periods
+   #. CITE: Kasai et al 2010
+   #. Spike fluctuation are responsible for synaptic normalisation (hypothesis!)
+   #. At a population level spike volume exhibits bistability
+
+Open source brain workshop
+--------------------------
+
+#. NeuroML - XML for computational neuroscience
+#. neuroconstruct
+#. neuromorpho
+#. channelpedia
+#. Allen database
+#. pyNeuroML and jNeuroML
+#. Openworm
+
+   #. Cell by cell 3D neurmechanical model
+   #. C. elegans
+   #. 302 neurons
+   #. 956 cells
+   #. Fully sequenced genome
+   #. Current state:
+
+      #. Ready issues are mentioned on GitHub main page like Travis build status
+      #. Wormsim
+
+Large scale modelling workshop
+------------------------------
+
+#. Visual cortex in NEST - Sacha Van Albada
+#. Towards rewiring of full scale cortical networks - Rinke and Butz
+
+   #. Synaptogenesis
+
+      #. Directly proportional to f(distance)
+      #. Direclty proportional to f(availability of neurites)
+      #. Time per axon: :math:`O(n)`
+      #. Time total :math:`O(n^2)`
+
+   #. Deletion:
+
+      #. Time per axon: :math:`O(1)`
+      #. Time total :math:`O(n^2)`
+      #. For increasing number of neurons, the runtime increase drastically. (:math:`10^3 \rightarrow 100ms, 10^4 \rightarrow 10s, 10^5 \rightarrow 16m, 10^6 \rightarrow 27 hours`)
+      #. The probability calculation for 1 neurite takes 100ms
+      #. Optimisation method is inspired by the Barnes-Hut n-body method.
+
+         #. Formation
+
+            #. Tree construction - :math:`O(n log n)`
+            #. Time per axon - :math:`O(log n^2n)`
+            #. Total: :math:`O(nlog^2n)`
+
+         #. Deletion
+
+            #. Time per axon - :math:`O(1)`
+            #. Total: :math:`O(n)`
+
+         #. Runtime (:math:`10^3 \rightarrow 10ms, 10^4 \rightarrow 200ms, 10^5 \rightarrow 3s, 10^6 \rightarrow 40s, 10^7 \rightarrow 10min`)
+         #. Further parallelisation will reduce times even further
+         #. Current and future:
+
+            #. Validate results
+            #. Parallelise
