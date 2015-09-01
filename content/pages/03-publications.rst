@@ -15,6 +15,10 @@ Conference submissions
    spike-time dependent inhibitory plasticity" - `poster presented at CNS
    2015`_, Prague. `(CNS 2015 - Abstract)`_
 
+#. Ankur Sinha - "Bio inspired navigation in a mobile dynamic 
+   environment" - `ME (research) thesis`_ - University of 
+   Technology, Sydney.
+
 2014
 ````
 
@@ -38,3 +42,4 @@ http://ankursinha.in/files/research/bionav-doc/index.html.
 .. _(Preprint - ICANN 2014): http://ankursinha.in/files/research/01-ICANN14-GridCells/main.pdf
 .. _poster presented at CNS 2015: http://ankursinha.in/files/research/02-CNS2015/poster.pdf
 .. _(CNS 2015 - Abstract): http://ankursinha.in/files/research/02-CNS2015/Sinha_CNS2015_abstract_vs1.pdf
+.. _ME (research) thesis: https://opus.lib.uts.edu.au/research/handle/10453/36990?show=full

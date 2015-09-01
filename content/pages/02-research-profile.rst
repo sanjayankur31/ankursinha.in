@@ -16,9 +16,11 @@ Supervisor: `Dr. Volker Steuber`_
 Masters by Research: UTS, Sydney
 --------------------------------
 
-I have recently submitted my Masters thesis for examination as part of my enrolment at the University of Technology, Sydney as a Masters by research student. The title of my thesis was "Bio inspired navigation in a mobile dynamic environment." I studied and modelled neuron sets that are related to navigation in the mammalian brain. I worked on head direction cells, place cells, grid cells and boundary cells.
+I recently completed my ME (by reserach) from the University of Technology, Sydney. The title of my thesis was "Bio inspired navigation in a mobile dynamic environment." I studied and modelled neuron sets that are related to navigation in the mammalian brain using the ROS robotic framework. I worked on head direction cells, place cells, grid cells and boundary cells. 
 
 Supervisor: `Dr. Jack Wang`_
+
+Thesis: `Bio inspired navigation in a mobile dynamic environment`_
 
 Resume
 ------
@@ -37,5 +39,6 @@ Achievements/Awards/Grants
 #. UTS FEIT research travel grant, 2014
 
 .. _Dr. Volker Steuber: http://homepages.stca.herts.ac.uk/~comqvs/
+.. _Bio inspired navigation in a mobile dynamic environment: https://opus.lib.uts.edu.au/research/handle/10453/36990?show=full
 .. _Dr. Jack Wang: http://www.uts.edu.au/staff/jianguo.wang
 .. _here: http://ankursinha.in/files/misc/resume.pdf
