@@ -16,7 +16,7 @@ ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{date:%d}/{slug}.html'
 ARTICLE_URL = '{date:%Y}/{date:%m}/{date:%d}/{slug}.html'
 
 ARCHIVES_SAVE_AS = 'archives.html'
-YEAR_ARCHIVE_SAVE_aS = 'posts/{date:%Y}/index.html'
+YEAR_ARCHIVE_SAVE_AS = 'posts/{date:%Y}/index.html'
 MONTH_ARCHIVE_SAVE_AS = 'posts/{date:%Y}/{date:%m}/index.html'
 
 TAG_URL = 'tag/{slug}/'
