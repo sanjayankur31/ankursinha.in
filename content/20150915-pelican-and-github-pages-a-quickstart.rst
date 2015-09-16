@@ -4,7 +4,7 @@ Pelican and github pages - a quickstart
 :author: ankur
 :category: Tech
 :tags: Fedora, Pelican, Programming, Social
-:slug: pelican-and-github-pages-a-quickstart-
+:slug: pelican-and-github-pages-a-quickstart
 :summary: A quick post on how to get started with Pelican using Github pages.
 
 
