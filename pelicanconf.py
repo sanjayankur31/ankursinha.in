@@ -43,7 +43,7 @@ TAG_CLOUD_SORTING = 'random'
 
 
 # Blogroll
-LINKS =  (('UH Biocomputation', 'http://homepages.stca.herts.ac.uk/~nngroup/index.php'),
+LINKS =  (('UH Biocomputation', 'http://biocomputation.herts.ac.uk'),
           ('OCNS', 'https://ocns.memberclicks.net/'),
           ('Fedora Project', 'http://fedoraproject.org'),
           ('All Feeds', 'http://ankursinha.in/blog/feeds/'),)
