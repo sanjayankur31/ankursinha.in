@@ -4,17 +4,23 @@ About Me
 :author: ankur
 :slug: 01-about
 
-.. image:: {filename}/images/ankur-sinha.png
+.. figure:: {filename}/images/ankur-sinha.png
     :alt: Me in Rome in December 2014.
-    :align: center
     :target: {filename}/images/ankur-sinha.png
 
-I'm Ankur.
+    I'm Ankur.
 
-I'm a `PhD candidate in the area of computational neuroscience <{filename}/pages/02-research-profile.rst>`_ at the University of Hertfordshire.
-I'm also a F/LOSS enthusiast and volunteer at the Fedora Project. Please take a look at my `Fedora  Users' Page`_ for more info.
+I'm a `PhD candidate in the area of computational neuroscience <{filename}/pages/02-research-profile.rst>`_ at the `Biocomputation group <http://biocomputation.herts.ac.uk>`__ at the `University of Hertfordshire <http://www.herts.ac.uk/>`__.
+I'm also a Free and Open source software enthusiast and volunteer at the Fedora Project. Please take a look at my `Fedora  Users' Page`_ for more info.
 
-I thoroughly enjoy food, almost all kinds of music (although I tend to generally stick to Rock), and books - I can read all day. I enjoy tinkering with new technology and drinking beer while watching Football too, of course! You can learn more about me through the links in the right side bar.
+I, like most of us, enjoy many many different things. Off the top of my head, I can think of:
+
+- Food!
+- Music - generally rock - hair metal, indie. Bollywood at times. 
+- Books - I'm a definite bookworm - science and detective fiction are what I read most.
+- Sports and staying fit - I've played football, cricket, hockey, and squash while growing up. I used to play football every week until I began my PhD last year and nowadays I'm pretty much just a spectator. I workout a few times a week to stay fit instead.
+
+If you'd like to get in touch, you can e-mail me at **ankursinha AT fedoraproject DOT org**. Cheerio!
 
 Resume
 ------
@@ -23,16 +29,24 @@ My resume can be found `here`_.
 
 
 License
-~~~~~~~
+-------
+
+.. raw:: html
+
+    <center>
 
 .. figure:: http://i.creativecommons.org/l/by/4.0/88x31.png
-    :align: center
     :target: http://creativecommons.org/licenses/by/4.0/
     :alt: CC by Attribution 4.0 International License
 
     ankursinha.in by Ankur Sinha is licensed under a 
     `Creative Commons Attribution 4.0 International License`_ 
     unless otherwise specified.
+
+.. raw:: html
+
+    </center>
+
 
 
 .. _Fedora  Users' Page: https://fedoraproject.org/wiki/User:Ankursinha
