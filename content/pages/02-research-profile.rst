@@ -4,7 +4,7 @@ Research Profile
 :author: ankur
 :slug: 02-research-profile
 
-I'm still working on getting my doctorate in Computer Science. My research interests include plasticity, associative memory, recurrent spiking neural networks, bio-mimetic robotics. There are quite a few other topics I muse about but I general haven't the time to actually research them at the moment.
+I'm still working on getting my doctorate in Computer Science at the University of Hertfordshire. I work in computational neuroscience and my interests include plasticity - both structural and synaptic, associative memory, recurrent spiking neural networks, bio-mimetic robotics and so on. There are quite a few other topics I muse about but I generally haven't the time to actually research them at the moment.
 
 PhD candidate at Herts
 ----------------------
