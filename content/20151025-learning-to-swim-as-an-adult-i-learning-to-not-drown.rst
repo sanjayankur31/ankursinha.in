@@ -3,7 +3,7 @@ Learning to swim as an adult: Part I - Learning to not drown
 :date: 2015-10-25 18:04:10
 :author: ankur
 :category: Life
-:tags: Social, Sports
+:tags: Social, Sports, Fedora
 :slug: learning-to-swim-as-an-adult-part-i-learning-to-not-drown
 :summary: I'm finally learning to swim!
 
