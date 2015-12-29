@@ -94,3 +94,5 @@ MATH_JAX = {'tex_extensions': ['color.js','mhchem.js']}
 MATH_JAX = {'color':'blue','align':'left'}
 STYLESHEET_FILES = ("use-opensans.css", "voidybootstrap.css", "pygment.css")
 RELATIVE_URLS = False
+CACHE_CONTENT = True
+
