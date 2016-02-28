@@ -3,7 +3,7 @@ Zaphod - a LaTeX change tracking tool
 :date: 2016-02-13 17:16:24
 :author: ankur
 :category: Research
-:tags: LaTeX, Programming, Git, Fedora
+:tags: LaTeX, Programming, Git, Fedora, Zaphod
 :slug: zaphod-a-latex-change-tracking-tool
 :summary: Introducing `Zaphod <https://github.com/sanjayankur31/zaphod>`__ - a `Python <https://www.python.org/>`__ script that attempts to help `LaTeX <https://en.wikipedia.org/wiki/LaTeX>`__ users collaborate over their academic writing. It uses the power of `Git <https://en.wikipedia.org/wiki/Git_(software)>`__ to track changes, `latexdiff <https://www.ctan.org/pkg/latexdiff?lang=en>`__ to generate a PDF with annotated additions and removals from the document, and provides a simple interactive review tool that lets the user pick what changes they want to accept. You can use Zaphod to track changes in your LaTeX documents.
 

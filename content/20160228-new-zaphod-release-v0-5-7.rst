@@ -3,7 +3,7 @@ New Zaphod release - v0.5.7
 :date: 2016-02-28 16:52:27
 :author: ankur
 :category: Research
-:tags: LaTeX, Programming, Git, Fedora
+:tags: LaTeX, Programming, Git, Fedora, Zaphod
 :slug: new-zaphod-release-v0-5-7
 :summary: I've released a new version of `Zaphod <https://github.com/sanjayankur31/zaphod>`__ - A LaTeX change tracking tool that I've been working on recently.
 
