@@ -1,5 +1,5 @@
-sli.vim - syntax file for the NEST simulators SLI language
-##########################################################
+sli.vim - syntax file for the NEST simulator's SLI language
+###########################################################
 :date: 2016-03-02 10:53:58
 :author: ankur
 :category: Research
