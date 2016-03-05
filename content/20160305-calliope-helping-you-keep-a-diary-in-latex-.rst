@@ -14,7 +14,7 @@ The simple solution, of course, is LaTeX_. LaTeX_ is used extensively in academi
 Calliope
 --------
 
-I went looking for packages that may provide this functionality in LaTeX_ but they didn't quite provide the required functionality. I ran into a `this Github project <https://github.com/mikhailklassen/research-diary-project>`__ instead, which is a set of templates and scripts that does quite a good job. I've forked it and made some improvements. There's now a single script that takes arguments, for example. I've also added support for indexing - which works similar to tagging - it'll generate a nice clickable index at the end of the document. Of course, I've given it a fancy name, `Calliope and put it up on Github <https://github.com/sanjayankur31/calliope>`__.
+I went looking for packages that may provide this functionality in LaTeX_ but they didn't quite provide the required functionality. I ran into a `this Github project <https://github.com/mikhailklassen/research-diary-project>`__ instead, which is a set of templates and scripts that does quite a good job. I've forked it and made some improvements. There's now a single script that takes arguments, for example. I've also added support for indexing - which works similar to tagging - it'll generate a nice clickable index at the end of the document. Of course, I've given it a fancy name, `Calliope, and put it up on Github <https://github.com/sanjayankur31/calliope>`__.
 
 Usage is quite straightforward:
 
