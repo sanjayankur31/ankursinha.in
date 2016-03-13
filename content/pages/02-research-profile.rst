@@ -6,15 +6,19 @@ Research Profile
 
 I'm still working on getting my doctorate in Computer Science at the University of Hertfordshire. I work in computational neuroscience and my interests include plasticity - both structural and synaptic, associative memory, recurrent spiking neural networks, bio-mimetic robotics and so on. There are quite a few other topics I muse about but I generally haven't the time to actually research them at the moment.
 
-PhD candidate at Herts
-----------------------
+Ph.D. candidate at Herts
+------------------------
+
+(2015 - present)
 
 I am currently a PhD candidate at the Biocomputation laboratory at the University of Hertfordshire. I study the capacity of associative memory in networks and the effect that plasticity has on it.
 
 Supervisor: `Dr. Volker Steuber`_
 
 Masters by Research: UTS, Sydney
---------------------------------
+---------------------------------
+
+(2012 - 2014)
 
 I recently completed my ME (by reserach) from the University of Technology, Sydney. The title of my thesis was "Bio inspired navigation in a mobile dynamic environment." I studied and modelled neuron sets that are related to navigation in the mammalian brain using the ROS robotic framework. I worked on head direction cells, place cells, grid cells and boundary cells. 
 
@@ -35,6 +39,7 @@ My publications can be seen `on a separate page <{filename}/pages/03-publication
 Achievements/Awards/Grants
 --------------------------
 
+#. University of Hertfordshire Ph.D. studentship, 2015
 #. UTS Vice chancellor's research grant, 2014
 #. UTS FEIT research travel grant, 2014
 

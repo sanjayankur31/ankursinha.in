@@ -39,7 +39,7 @@ License
     :target: http://creativecommons.org/licenses/by/4.0/
     :alt: CC by Attribution 4.0 International License
 
-    ankursinha.in by Ankur Sinha is licensed under a 
+    Posts on ankursinha.in by Ankur Sinha are licensed under a 
     `Creative Commons Attribution 4.0 International License`_ 
     unless otherwise specified.
 
