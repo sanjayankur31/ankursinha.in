@@ -14,4 +14,4 @@ I've been meaning to get myself some business cards - they're really helpful to 
     :align: center
     :target: {filename}/images/20160313-businesscard.png
 
-The sources are `here on Github <https://github.com/sanjayankur31/latex-businesscard>`__, so feel free to use it to make your own.
+The sources are `here on Github <https://github.com/sanjayankur31/latex-businesscard>`__, so feel free to use them to make your own.
