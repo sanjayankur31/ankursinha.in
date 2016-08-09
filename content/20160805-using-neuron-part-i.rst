@@ -36,6 +36,9 @@ First, download the source files:
     # Using a directory in your home folder doesn't require root access
     mkdir -p dump/neuron-installation
 
+    # Keep the sources here
+    cd ~/dump/neuron
+
     # Install mercurial to checkout the neuron source code
     sudo dnf install hg
     # Download the source code
