@@ -3,7 +3,7 @@ Using NEURON - Part I
 :date: 2016-08-05 13:24:48
 :author: ankur
 :category: Research
-:tags: Fedora, Neuron, Computational Neuroscience
+:tags: Fedora, Neuron, Computational neuroscience
 :slug: using-neuron-part-i
 :summary: I've got some time on my hands so I've decided to learn how to use the NEURON_ simulator. This series of posts are my personal notes. In this first one, we install NEURON_.
 
