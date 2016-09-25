@@ -1,5 +1,5 @@
 PY=python3
-PELICAN=pelican-3
+PELICAN=pelican
 PELICANOPTS=
 
 BASEDIR=$(CURDIR)
@@ -52,6 +52,7 @@ help:
 	@echo '   make rsync_upload                upload the web site via rsync+ssh  '
 	@echo '   make dropbox_upload              upload the web site via Dropbox    '
 	@echo '   make ftp_upload                  upload the web site via FTP        '
+	@echo '   make fedora_feed_upload          upload the fedora feed             '
 	@echo '   make s3_upload                   upload the web site via S3         '
 	@echo '   make cf_upload                   upload the web site via Cloud Files'
 	@echo '   make github                      upload the web site via gh-pages   '
@@ -101,6 +102,9 @@ dropbox_upload: publish
 
 ftp_upload: publish
 	lftp ftp://$(FTP_USER)@$(FTP_HOST) -p $(FTP_PORT) -e "set ftp:ssl-force on; set ftp:ssl-protect-data on; set ssl:verify-certificate no; mirror -R --delete --parallel=3 --ignore-time $(OUTPUTDIR) $(FTP_TARGET_DIR) ; quit"
+
+fedora_feed_upload:
+	rsync -avPh output/feeds/tags/fedora.* ankursinha@fedorapeople.org:./public_html/feed/
 
 s3_upload: publish
 	s3cmd sync $(OUTPUTDIR)/ s3://$(S3_BUCKET) --acl-public --delete-removed
