@@ -4,3 +4,4 @@ output
 .ropeproject
 cache
 *.swp
+pelican
