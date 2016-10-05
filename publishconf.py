@@ -21,7 +21,7 @@ TAG_FEED_ATOM = 'feeds/tags/%s.atom.xml'
 TAG_FEED_RSS = 'feeds/tags/%s.rss.xml'
 AUTHOR_FEED_ATOM = 'feeds/authors/%s.atom.xml'
 AUTHOR_FEED_RSS = 'feeds/authors/%s.rss.xml'
-FEED_MAX_ITEMS = 30
+FEED_MAX_ITEMS = 10
 
 DELETE_OUTPUT_DIRECTORY = True
 
