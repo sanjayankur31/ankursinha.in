@@ -1,6 +1,6 @@
 Fedora Join Meeting 26 September 2016 - Summary
 ###############################################
-:date: 2016-09-27 10:41:54
+:date: 2016-10-05 10:41:54
 :author: ankur
 :category: Tech
 :tags: Fedora
