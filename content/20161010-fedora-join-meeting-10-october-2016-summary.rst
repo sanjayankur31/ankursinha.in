@@ -3,7 +3,7 @@ Fedora Join meeting 10 October 2016 - Summary
 :date: 2016-10-11 01:28:06
 :author: ankur
 :category: Tech
-:tags: Fedora Community
+:tags: Fedora, Community
 :slug: fedora-join-meeting-10-october-2016-summary
 :summary: Summary of the `Fedora Join SIG`_ meeting on 10 October, 2016.
 
