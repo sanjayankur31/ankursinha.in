@@ -1,6 +1,6 @@
 Fedora Join meeting 10 October 2016 - Summary
 #############################################
-:date: 2016-11-10 01:28:06
+:date: 2016-10-11 01:28:06
 :author: ankur
 :category: Tech
 :tags: Fedora Community
