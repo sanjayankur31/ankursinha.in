@@ -1,10 +1,10 @@
-It isn't just you, it's me too - I too have trouble with jargon
-################################################################
+On jargon
+#########
 :date: 2016-10-17 08:26:30
 :author: ankur
 :category: Research
 :tags: Computational neuroscience, Fedora, Social
-:slug: it-isnt-just-you-its-me-too-i-too-have-trouble-with-jargon
+:slug: on-jargon
 :summary: When we speak of jargon, it is usually because we heard something we couldn't make sense of. We focus on how it adversely affects the listener. The truth is, it also affects the speaker if the speaker does indeed intend to get the point across. In this post I discuss how it affects my work and me and I try to document what I can do to improve my communications to make it easier for my listeners and me to understand each other correctly.
 
 Jargon is more often than not looked at unfavourably. Jargon is just the "language of a trade" and so, by itself, I don't see why I should denounce it. Rather, to me, it is the usage of jargon that is the issue. If you think of a workplace where people are aware of the context and meaning of certain jargon, I see no reason why it isn't appropriate usage. In fact, in such scenarios, jargon makes conversation efficient since the parties must not needlessly simplify their communications. So, when I go over to my lab mate's desk and say "*well, the STDP rule doesn't seem to result in an AI state*", he knows exactly what I mean. I'd find it quite difficult to rephrase that sentence to make it any simpler. The same applies for most professions if not all of them. Whether it's farming or mechanics; IT or medicine; cooking or sewing; designing or the media; they will all have some specialised terminology. It is just normal evolution of language in the same way that "selfie" is now a word. Jargon is simply a set of words that encapsulate concepts that are frequently used in a context.
