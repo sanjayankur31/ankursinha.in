@@ -15,40 +15,22 @@ I'm also a Free and Open source software enthusiast and volunteer at the Fedora 
 
 I, like most of us, enjoy many many different things. Off the top of my head, I can think of:
 
-- Food!
+- Food and drink!
 - Music - generally rock - hair metal, indie. Bollywood at times. 
 - Books - I'm a definite bookworm - science and detective fiction are what I read most.
 - Sports and staying fit - I've played football, cricket, hockey, and squash while growing up. I used to play football every week until I began my PhD last year and nowadays I'm pretty much just a spectator. I workout a few times a week to stay fit instead.
 
-If you'd like to get in touch, you can e-mail me at **ankursinha AT fedoraproject DOT org**. Cheerio!
 
 Resume
 ------
 
 My resume can be found `here`_.
 
+Get in touch!
+-------------
 
-License
--------
-
-.. raw:: html
-
-    <center>
-
-.. figure:: http://i.creativecommons.org/l/by/4.0/88x31.png
-    :target: http://creativecommons.org/licenses/by/4.0/
-    :alt: CC by Attribution 4.0 International License
-
-    Posts on ankursinha.in by Ankur Sinha are licensed under a 
-    `Creative Commons Attribution 4.0 International License`_ 
-    unless otherwise specified.
-
-.. raw:: html
-
-    </center>
-
+If you'd like to get in touch, you can e-mail me at :code:`ankursinha AT fedoraproject DOT org`. Cheerio!
 
 
 .. _Fedora  Users' Page: https://fedoraproject.org/wiki/User:Ankursinha
 .. _here: http://ankursinha.in/files/misc/resume.pdf
-.. _Creative Commons Attribution 4.0 International License: http://creativecommons.org/licenses/by/4.0/
