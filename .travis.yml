@@ -2,6 +2,7 @@ language: python
 git:
     submodules: false
 before_install:
+    - sed -i 's/pelican-3/pelican/' Makefile
     - sed -i 's/git@github.com:/https:\/\/github.com\//' .gitmodules
     - git submodule update --init --recursive
 install: 
