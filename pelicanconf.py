@@ -7,9 +7,13 @@ SITESUBTITLE = u'neuroscience/fedora/musings ...'
 SITETAG = u'neuroscience/fedora/musings ...'
 TWITTER_USERNAME = 'sanjay_ankur'
 
-STATIC_PATHS = ['images', 'extras/favicon.ico']
+STATIC_PATHS = ['images', 'extras/favicon.ico',
+                'extras/feeds-allow-indexing',
+                'extras/drafts-allow-indexing']
 EXTRA_PATH_METADATA = {
-    'extras/favicon.ico': {'path':'favicon.ico'}
+    'extras/favicon.ico': {'path': 'favicon.ico'},
+    'extras/feeds-allow-indexing': {'path': 'feeds/.htaccess'},
+    'extras/drafts-allow-indexing': {'path': 'drafts/.htaccess'},
 }
 ARTICLE_PATHS = ['']
 ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{date:%d}/{slug}.html'
