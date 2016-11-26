@@ -46,7 +46,10 @@ TAG_CLOUD_SORTING = 'random'
 LINKS =  (('UH Biocomputation', 'http://biocomputation.herts.ac.uk'),
           ('OCNS', 'https://ocns.memberclicks.net/'),
           ('Fedora Project', 'http://fedoraproject.org'),
-          ('All Feeds', 'http://ankursinha.in/blog/feeds/'),)
+          ('Planet Neuroscience', 'https://sanjayankur31.github.io/planet-neuroscience/'),
+          ('Planet Neuroscientists', 'https://sanjayankur31.github.io/planet-neuroscientists/'),
+          ('All Feeds', 'http://ankursinha.in/blog/feeds/'),
+          )
 
 # Social widget
 SOCIAL = (('Goodreads', 'https://www.goodreads.com/user/show/32360473-ankur',
