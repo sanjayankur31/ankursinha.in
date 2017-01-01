@@ -34,7 +34,7 @@ My resume can be found `here`_.
 Publications
 ------------
 
-My publications can be seen `on a separate page <{filename}/pages/03-publications.rst>`_.
+My publications can be seen `on a separate page <03-publications.html>`_.
 
 Achievements/Awards/Grants
 --------------------------

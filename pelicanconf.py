@@ -19,7 +19,7 @@ ARTICLE_PATHS = ['']
 ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{date:%d}/{slug}.html'
 ARTICLE_URL = '{date:%Y}/{date:%m}/{date:%d}/{slug}.html'
 
-ARCHIVES_SAVE_AS = 'archives.html'
+ARCHIVES_SAVE_AS = 'pages/archives.html'
 YEAR_ARCHIVE_SAVE_AS = 'posts/{date:%Y}/index.html'
 MONTH_ARCHIVE_SAVE_AS = 'posts/{date:%Y}/{date:%m}/index.html'
 
@@ -111,5 +111,8 @@ PLUGIN_EVENTS = {
     'ics_fname': 'ankursinha.ics',
 }
 
-PUBLICATIONS_SRC = 'content/pubs.bib'
-DISPLAY_PAGES_ON_MENU = True
+MY_PUBLICATIONS_SRC = 'content/mypubs.bib'
+DIRECT_TEMPLATES=['index', 'archives', 'categories', 'tags', 'publications']
+PUBLICATIONS_SAVE_AS='pages/03-publications.html'
+
+#DIRECT_TEMPLATES = (('publications'))
