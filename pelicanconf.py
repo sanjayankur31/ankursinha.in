@@ -107,3 +107,6 @@ STYLESHEET_FILES = ("use-opensans.css", "voidybootstrap.css", "pygment.css")
 RELATIVE_URLS = False
 CACHE_CONTENT = True
 
+PLUGIN_EVENTS = {
+    'ics_fname': 'ankursinha.ics',
+}
