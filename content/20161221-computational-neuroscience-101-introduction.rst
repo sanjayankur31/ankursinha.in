@@ -1,12 +1,12 @@
-Computational neuroscience 101 - what is it?
-############################################
-:date: 2016-10-22 18:29:30
+Computational neuroscience 101 - Introduction
+#############################################
+:date: 2016-12-21 18:29:30
 :author: ankur
 :category: Research
-:tags: AI, Computational neuroscience
-:slug: computational-neuroscience-101-what-is-it
+:tags: Computational neuroscience
+:slug: computational-neuroscience-101-introduction
 :status: draft
-:summary: An introduction to computational neuroscience. I summarise the importance of the work that is done in this field, and provide an overview of how it is done.
+:summary: An introduction to computational neuroscience.
 
 People usually seem to know what neuroscience is and what neuroscientists do - study the nervous system, of which the brain is a part. In fact, the moment I reveal to someone that I'm working towards becoming a neuroscientist, I can immediately tell that I'm being pictured as a lab-coated figure perched on a stool in a laboratory in a basement somewhere with only test tubes and chemicals for company, probably bent over a microscope looking at something slimy. It is at this point that I usually step in to explain that I work in *computational* neuroscience and neither own a lab coat nor work with brain slices. This clarification usually results in some disappointment. Yea. I know. I'd love to drill into people's skulls too but we don't always get what we want, do we? Anyway, in the end I'm left looking at a visage betraying puzzlement implying the question, "er, so what exactly do you do?"
 
