@@ -36,11 +36,11 @@ DEFAULT_LANG = u'en'
 
 THEME = 'voidy-bootstrap'
 
-PLUGIN_PATHS = ['pelican-plugins']
+PLUGIN_PATHS = ['pelican-plugins', 'pelican-plugins-other']
 #PLUGINS = ['post_stats', 'render_math', 'sitemap', 'better_figures_and_images']
 #RESPONSIVE_IMAGES = False
 PLUGINS = ['post_stats', 'render_math', 'sitemap', 'tag_cloud', 'render_math',
-           'series', 'pelican-cite', 'events']
+           'series', 'pelican-cite', 'pelican-bibtex', 'events']
 
 TAG_CLOUD_STEPS = 6
 TAG_CLOUD_MAX_ITEMS = 30
@@ -110,3 +110,6 @@ CACHE_CONTENT = True
 PLUGIN_EVENTS = {
     'ics_fname': 'ankursinha.ics',
 }
+
+PUBLICATIONS_SRC = 'content/pubs.bib'
+DISPLAY_PAGES_ON_MENU = True
