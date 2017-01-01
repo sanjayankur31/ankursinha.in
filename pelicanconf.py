@@ -39,7 +39,8 @@ THEME = 'voidy-bootstrap'
 PLUGIN_PATHS = ['pelican-plugins']
 #PLUGINS = ['post_stats', 'render_math', 'sitemap', 'better_figures_and_images']
 #RESPONSIVE_IMAGES = False
-PLUGINS = ['post_stats', 'render_math', 'sitemap', 'tag_cloud', 'render_math' ]
+PLUGINS = ['post_stats', 'render_math', 'sitemap', 'tag_cloud', 'render_math',
+           'series', 'pelican-cite', 'events']
 
 TAG_CLOUD_STEPS = 6
 TAG_CLOUD_MAX_ITEMS = 30
