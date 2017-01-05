@@ -39,6 +39,7 @@ My publications can be seen `on a separate page <03-publications.html>`_.
 Achievements/Awards/Grants
 --------------------------
 
+#. University of Hertfordshire post graduate research travel grant, 2016
 #. University of Hertfordshire Ph.D. studentship, 2015
 #. UTS Vice chancellor's research grant, 2014
 #. UTS FEIT research travel grant, 2014
