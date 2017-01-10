@@ -1,12 +1,11 @@
 Python - analysing large files - some notes to self
 ###################################################
-:date: 2016-07-11 15:38:26
+:date: 2017-01-10 15:38:26
 :author: ankur
-:status: draft
 :category: Research
 :tags: Computational neuroscience, Fedora, Programming, Gnuplot, Matplotlib, Python, Pandas, Numpy
 :slug: python-analysing-large-files-some-notes-to-self
-:summary: I'm using Python to post process large amounts of spike data from my simulations. This post documents some observations I've made while writing my scripts.
+:summary: I use Python to post process large amounts of spike data from my simulations. This post documents some observations I've made while writing my scripts.
 
 Use Pandas instead of Numpy to load your data
 ----------------------------------------------
