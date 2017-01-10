@@ -40,7 +40,8 @@ PLUGIN_PATHS = ['pelican-plugins', 'pelican-plugins-other']
 #PLUGINS = ['post_stats', 'render_math', 'sitemap', 'better_figures_and_images']
 #RESPONSIVE_IMAGES = False
 PLUGINS = ['post_stats', 'render_math', 'sitemap', 'tag_cloud', 'render_math',
-           'series', 'pelican-cite', 'pelican-bibtex', 'events']
+           'series', 'pelican-cite', 'pelican-bibtex']
+           # 'series', 'pelican-cite', 'pelican-bibtex', 'events']
 
 TAG_CLOUD_STEPS = 6
 TAG_CLOUD_MAX_ITEMS = 30
@@ -107,9 +108,9 @@ STYLESHEET_FILES = ("use-opensans.css", "voidybootstrap.css", "pygment.css")
 RELATIVE_URLS = False
 CACHE_CONTENT = True
 
-PLUGIN_EVENTS = {
-    'ics_fname': 'ankursinha.ics',
-}
+# PLUGIN_EVENTS = {
+#   'ics_fname': 'ankursinha.ics',
+#}
 
 MY_PUBLICATIONS_SRC = 'content/mypubs.bib'
 DIRECT_TEMPLATES=['index', 'archives', 'categories', 'tags', 'publications']
