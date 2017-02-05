@@ -1,8 +1,9 @@
 Fedora Join meeting 30 January 2017 - Summary and updates
 #########################################################
 :date: 2017-02-05 21:18:19
-:author: ankur :category: Tech
-:tags: Fedora
+:author: ankur
+:category: Tech
+:tags: Fedora, Community, Free software
 :slug: fedora-join-meeting-30-january-2017-summary-and-updates
 :summary: A summary of the `Fedora Join SIG`_ meeting we had on 30th January 2017.
 
