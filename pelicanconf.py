@@ -3,9 +3,10 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Ankur Sinha'
 SITENAME = u'ankursinha.in/blog'
-SITESUBTITLE = u'neuroscience/fedora/musings ...'
-SITETAG = u'neuroscience/fedora/musings ...'
+SITESUBTITLE = u'neuroscience/fedora/musings'
+SITETAG = u'neuroscience/fedora/musings'
 TWITTER_USERNAME = 'sanjay_ankur'
+TWITTER_CARD = True
 
 STATIC_PATHS = ['images', 'extras/favicon.ico',
                 'extras/feeds-allow-indexing',
@@ -29,6 +30,7 @@ CATEGORY_URL = 'category/{slug}/'
 CATEGORY_SAVE_AS = 'category/{slug}/index.html'
 
 SIDEBAR = 'sidebar.html'
+CUSTOM_SIDEBAR_MIDDLES = ("sb_links.html", "sb_tagcloud.html")
 
 TIMEZONE = 'Europe/London'
 
@@ -43,7 +45,7 @@ PLUGINS = ['post_stats', 'render_math', 'sitemap', 'tag_cloud', 'render_math',
            'series', 'pelican-cite', 'pelican-bibtex']
            # 'series', 'pelican-cite', 'pelican-bibtex', 'events']
 
-TAG_CLOUD_STEPS = 6
+TAG_CLOUD_STEPS = 4
 TAG_CLOUD_MAX_ITEMS = 30
 TAG_CLOUD_SORTING = 'random'
 
