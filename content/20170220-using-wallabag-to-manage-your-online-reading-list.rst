@@ -1,11 +1,16 @@
 Using Wallabag to manage your online reading list
 #################################################
-:date: 2017-02-20 20:52:40
+:date: 2017-02-28 20:52:40
 :author: ankur
 :category: Tech
 :tags: Fedora, Wallabag, Planet, Reading
 :slug: using-wallabag-to-manage-your-online-reading-list
 :summary: I've recently begun using Wallabag_ to manage my reading list. It is released under the `MIT license`_, so it's `Free software`_ too!
+
+
+Edit (28 February 2017): Earlier today, it was `announced that Mozilla had acquired Pocket <https://blog.mozilla.org/blog/2017/02/27/mozilla-acquires-pocket/>`__ with `plans to gradually release the Pocket source code under Open Source licenses <https://bugzil.la/1343006>`__.  I guess Wallabag_ will remain as a self hosted solution, but given an improved integration of Pocket with Firefox, I may move back to it in the near future.
+
+------
 
 I always have quite a bit on my pending list to read - academic papers, blogs, planets, and the sort. Usually, when I go through the planets, such as the `Fedora <http://fedoraplanet.org/>`__, `GNOME <http://planet.gnome.org/>`__ or the two neuroscience planets I use - `neuroscience <https://sanjayankur31.github.io/planet-neuroscience/>`__, `neuroscientists <https://sanjayankur31.github.io/planet-neuroscientists/>`__, I don't have the time to read all the articles right then. I used to either bookmark links, or note them down somewhere to read later. One day, though, I ran into Pocket_, which lets you save the article to read later and makes it available to you on multiple devices. It's extremely convenient.
 
