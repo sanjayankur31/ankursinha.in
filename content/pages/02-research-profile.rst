@@ -1,17 +1,21 @@
 Research Profile
 ################
-:date: 2014-08-15 03:22
+:date: 2017-04-15 10:22
 :author: ankur
 :slug: 02-research-profile
 
-I'm still working on getting my doctorate in Computer Science at the University of Hertfordshire. I work in computational neuroscience and my interests include plasticity - both structural and synaptic, associative memory, recurrent spiking neural networks, bio-mimetic robotics and so on. There are quite a few other topics I muse about but I generally haven't the time to actually research them at the moment.
+I'm a computer science major that has migrated over to computational neuroscience over the years. Currently, I research plasticity - structural, and synaptic, Hebbian, and homoeostatic - and associative memory.
+
+Among other tools, I use the `NEST neural simulator <nest-simulator.org/>`__ quite a bit. I prefer Python to Matlab.
+
+I'm also a `Free and Open source software <https://www.gnu.org/philosophy/free-sw.en.html>`__ enthusiast and `volunteer at the Fedora Project <https://fedoraproject.org/wiki/User:Ankursinha>`__ in my spare time.
 
 Ph.D. candidate at Herts
 ------------------------
 
 (2015 - present)
 
-I am currently a PhD candidate at the Biocomputation laboratory at the University of Hertfordshire. I study the capacity of associative memory in networks and the effect that plasticity has on it.
+`PhD candidate in computational neuroscience <{filename}/pages/02-research-profile.rst>`_ at the `Biocomputation group <http://biocomputation.herts.ac.uk>`__ at the `University of Hertfordshire <http://www.herts.ac.uk/>`__.
 
 Supervisor: `Dr. Volker Steuber`_
 
@@ -20,7 +24,7 @@ Masters by Research: UTS, Sydney
 
 (2012 - 2014)
 
-I recently completed my ME (by reserach) from the University of Technology, Sydney. The title of my thesis was "Bio inspired navigation in a mobile dynamic environment." I studied and modelled neuron sets that are related to navigation in the mammalian brain using the ROS robotic framework. I worked on head direction cells, place cells, grid cells and boundary cells. 
+I completed my ME (by reserach) at the `University of Technology, Sydney <http://www.uts.edu.au/>`__. I studied and modelled neuron sets that are related to navigation in the mammalian brain using the `ROS robotic framework <http://www.ros.org/>`__. I worked on head direction cells, place cells, grid cells, and boundary cells.
 
 Supervisor: `Dr. Jack Wang`_
 
@@ -48,3 +52,4 @@ Achievements/Awards/Grants
 .. _Bio inspired navigation in a mobile dynamic environment: https://opus.lib.uts.edu.au/research/handle/10453/36990?show=full
 .. _Dr. Jack Wang: http://www.uts.edu.au/staff/jianguo.wang
 .. _here: http://ankursinha.in/files/misc/resume.pdf
+
