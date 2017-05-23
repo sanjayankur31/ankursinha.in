@@ -3,7 +3,7 @@ A well filed software issue considerably improves the chances of the issue being
 :date: 2017-05-17 00:22:32
 :author: ankur
 :category: Tech
-:tags: Bugzilla, Community, Free software
+:tags: Bugzilla, Community, Free software, Fedora
 :slug: a-well-filed-software-issue-considerably-improves-the-chances-of-the-issue-being-fixed-quicker
 :summary: People find issues with software everyday. Some of these people will take the time to inform the developers of these issues. Some of these issues that have been reported will be looked at by developers. Some of the issues that the developers look at will contain enough information to encourage the developers to work on a fix. Ultimately, only a handful of issues will be fixed. In this post, I encourage users to report issues to developers the right way - increasing the chances of the bug being corrected. In the process, not only does one improve one's personal experience, one can help improve the experience of other users, while helping developers make their software better. The intended target here is not the developer community - they already know most all of this.
 
