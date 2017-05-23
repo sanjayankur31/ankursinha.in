@@ -14,12 +14,14 @@ On this week's agenda were:
 - an update on resurrection of the `IRC classroom programme`_
 - getting the ball rolling on the `Classroom v2 initiative`_
 
+`Here's a wiki page <https://fedoraproject.org/wiki/How_to_use_IRC>`__ that explains how one can use `IRC <https://en.wikipedia.org/wiki/Internet_Relay_Chat>`__.
+
 An update on the resurrection of the IRC classroom programme
 -------------------------------------------------------------
 
 - https://pagure.io/fedora-join/Fedora-Join/issue/22
 
-While work goes on to set up a brand new classroom programme, that we refer to as v2, we decided we could get the ball rolling with the `classic IRC programme that was active a year or two ago <https://fedoraproject.org/wiki/Classroom#Classroom_archives>`__. The advantage here is that all the infrastructure is already there - just the one IRC channel, and since many IRC classroom sessions have happened in the past already, this is a time tested system. All it needs is instructors, students, and a few community members to help with the admin bits.
+While work goes on to set up a brand new classroom programme, that we refer to as v2, we decided we could get the ball rolling with the `classic IRC programme that was active a year or two ago <https://fedoraproject.org/wiki/Classroom#Classroom_archives>`__. The advantage here is that all the infrastructure is already in place - just the one IRC channel, and since many IRC classroom sessions have happened in the past already, this is a time tested system. All it needs is instructors, students, and a few community members to help with the admin bits.
 
 Various community members have already volunteered to instruct sessions, so we already have a time line set up. We intend to begin a few weeks after the `Fedora 26 release <https://fedoraproject.org/wiki/Releases/26/Schedule>`__, so that the community isn't distracted from the release, and the classroom can ride on the release related marketing instead. The classes we have set up are:
 
@@ -48,7 +50,7 @@ The hard bit here isn't restarting the programme, it is maintaining it. So, we n
 
 You can either ping us on #fedora-classroom/#fedora-join on the IRC, or you can drop an e-mail on the `Fedora classroom mailing list <https://lists.fedoraproject.org/admin/lists/classroom.lists.fedoraproject.org/>`__.
 
-Note that while we have the IRC set up, you can use another platform too. For instance, if you have access to BlueJean (a video conferencing platform), you are more than welcome to use it to teach a session.
+Note that while we have the IRC set up, you can use another platform too. For instance, if you have access to BlueJeans (a video conferencing platform), you are more than welcome to use it to teach a session.
 
 I'm actively looking for more instructors, so keep an eye out for a ping ;)
 
@@ -78,7 +80,9 @@ There are certain requirements that we've listed for now:
 - Is there an admin mode?
 - Can it setup/allow for meeting alerts like RSS feed or similar?
 
-If you have some experience in the area already, we could really use your help - please do get in touch.
+Each of us will use the respective platform and write up a blog post that will turn up on the planet. 
+
+That was it, pretty much. Come say "hi!" in #fedora-join or the `mailing list <https://lists.fedoraproject.org/admin/lists/fedora-join@lists.fedoraproject.org/>`__!
 
 Links to the full logs are below:
 ---------------------------------
