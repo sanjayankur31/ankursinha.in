@@ -43,7 +43,7 @@ PLUGIN_PATHS = ['pelican-plugins', 'pelican-plugins-other']
 #RESPONSIVE_IMAGES = False
 PLUGINS = ['post_stats', 'render_math', 'sitemap', 'tag_cloud', 'render_math',
            'series', 'pelican-cite', 'pelican-bibtex']
-           # 'series', 'pelican-cite', 'pelican-bibtex', 'events']
+# 'series', 'pelican-cite', 'pelican-bibtex', 'events']
 
 TAG_CLOUD_STEPS = 4
 TAG_CLOUD_MAX_ITEMS = 30
@@ -51,40 +51,40 @@ TAG_CLOUD_SORTING = 'random'
 
 
 # Blogroll
-LINKS =  (
-          ('Fedora Project', 'http://fedoraproject.org'),
-          ('OCNS', 'https://ocns.memberclicks.net/'),
-          ('UH Biocomputation', 'http://biocomputation.herts.ac.uk'),
-          ('Comp Neuro on the Web', 'http://home.earthlink.net/~perlewitz/index.html'),
-          ('Neuroscience feeds', 'https://sanjayankur31.github.io/planet-neuroscience/'),
-          ('Neuroscientists feeds', 'https://sanjayankur31.github.io/planet-neuroscientists/'),
-          ('Neuroscience central (chat)', 'https://gitter.im/neuroscience-central/Lobby '),
-          ('ankursinha.in/blog Feeds', 'http://ankursinha.in/blog/feeds/'),
-          )
+LINKS = (
+    ('Fedora Project', 'http://fedoraproject.org'),
+    ('OCNS', 'https://ocns.memberclicks.net/'),
+    ('UH Biocomputation', 'http://biocomputation.herts.ac.uk'),
+    ('Comp Neuro on the Web', 'http://home.earthlink.net/~perlewitz/index.html'),
+    ('Neuroscience feeds', 'https://sanjayankur31.github.io/planet-neuroscience/'),
+    ('Neuroscientists feeds', 'https://sanjayankur31.github.io/planet-neuroscientists/'),
+    ('Neuroscience central (chat)', 'https://gitter.im/neuroscience-central/Lobby '),
+    ('ankursinha.in/blog Feeds', 'http://ankursinha.in/blog/feeds/'),
+)
 
 # Social widget
 SOCIAL = (
-          ('Scholar', 'http://scholar.google.co.in/citations?user=919ScZEAAAAJ&hl=en',
-           'fa fa-google fa-fw fa-lg'),
-          ('GitHub', 'http://github.com/sanjayankur31',
-           'fa fa-github-square fa-fw fa-lg'),
-          ('Goodreads', 'https://www.goodreads.com/user/show/32360473-ankur',
-           'fa fa-book fa-fw fa-lg'),
-          ('Twitter', 'https://twitter.com/sanjay_ankur',
-           'fa fa-twitter-square fa-fw fa-lg'),
-          ('Facebook', 'http://www.facebook.com/sanjay.ankur',
-           'fa fa-facebook-square fa-fw fa-lg'),
-          ('Instagram', 'https://instagram.com/sanjay.ankur/',
-           'fa fa-instagram fa-fw fa-lg'),
-          # ('Flickr', 'https://www.flickr.com/people/30402562@N07/',
-          #  'fa fa-flickr fa-fw fa-lg'),
-          # ('Last.fm', 'http://www.last.fm/user/sanjay_ankur',
-          #  'fa fa-lastfm-square fa-fw fa-lg'),
-          # ('Google+', 'https://plus.google.com/105107988864522484597/about',
-          #  'fa fa-google-plus-square fa-fw fa-lg'),
-          # ('Foursquare', 'https://foursquare.com/sanjay_ankur/',
-          #  'fa fa-foursquare fa-fw fa-lg'),
-          )
+    ('Scholar', 'http://scholar.google.co.in/citations?user=919ScZEAAAAJ&hl=en',
+     'fa fa-google fa-fw fa-lg'),
+    ('GitHub', 'http://github.com/sanjayankur31',
+     'fa fa-github-square fa-fw fa-lg'),
+    ('Goodreads', 'https://www.goodreads.com/user/show/32360473-ankur',
+     'fa fa-book fa-fw fa-lg'),
+    ('Twitter', 'https://twitter.com/sanjay_ankur',
+     'fa fa-twitter-square fa-fw fa-lg'),
+    ('Facebook', 'http://www.facebook.com/sanjay.ankur',
+     'fa fa-facebook-square fa-fw fa-lg'),
+    ('Instagram', 'https://instagram.com/sanjay.ankur/',
+     'fa fa-instagram fa-fw fa-lg'),
+    # ('Flickr', 'https://www.flickr.com/people/30402562@N07/',
+    #  'fa fa-flickr fa-fw fa-lg'),
+    # ('Last.fm', 'http://www.last.fm/user/sanjay_ankur',
+    #  'fa fa-lastfm-square fa-fw fa-lg'),
+    # ('Google+', 'https://plus.google.com/105107988864522484597/about',
+    #  'fa fa-google-plus-square fa-fw fa-lg'),
+    # ('Foursquare', 'https://foursquare.com/sanjay_ankur/',
+    #  'fa fa-foursquare fa-fw fa-lg'),
+)
 
 DEFAULT_PAGINATION = 10
 DELETE_OUTPUT_DIRECTORY = True
