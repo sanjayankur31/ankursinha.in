@@ -3,7 +3,7 @@ A channel for neuroscientists on Gitter
 :date: 2017-06-25 20:30:01
 :author: ankur
 :category: Research
-:tags: Community, Computational neuroscience, Gitter
+:tags: Community, Computational neuroscience, Gitter, Planet
 :slug: a-channel-for-neuroscientists-on-gitter
 :summary: I've come across a few mailing lists for neuroscientists, but I couldn't find a chat channel. While mailing lists suit certain purposes, open source communities tend to use a combination of mailing lists and chat channels. So, set up a channel on Gitter_ `here <https://gitter.im/neuroscience-central/Lobby>`_ for everything neuroscience related.
 
