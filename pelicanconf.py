@@ -57,7 +57,8 @@ LINKS =  (
           ('UH Biocomputation', 'http://biocomputation.herts.ac.uk'),
           ('Comp Neuro on the Web', 'http://home.earthlink.net/~perlewitz/index.html'),
           ('Neuroscience feeds', 'https://sanjayankur31.github.io/planet-neuroscience/'),
-          ('Neuroscientist feeds', 'https://sanjayankur31.github.io/planet-neuroscientists/'),
+          ('Neuroscientists feeds', 'https://sanjayankur31.github.io/planet-neuroscientists/'),
+          ('Neuroscience central (chat)', 'https://gitter.im/neuroscience-central/Lobby '),
           ('ankursinha.in/blog Feeds', 'http://ankursinha.in/blog/feeds/'),
           )
 
