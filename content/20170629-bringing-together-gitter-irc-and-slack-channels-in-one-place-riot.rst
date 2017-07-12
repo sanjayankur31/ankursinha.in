@@ -1,7 +1,7 @@
 Bringing together Gitter, IRC, and Slack channels in one place on Riot
 #######################################################################
 :slug: bringing-together-gitter-irc-and-slack-channels-in-one-place-on-riot
-:date: 2017-06-28 10:39:17
+:date: 2017-07-12 13:55:17
 :author: ankur
 :category: Tech
 :tags: Community, Computational neuroscience, Fedora, FlatPak, Free software, Gitter, Linux, Planet
