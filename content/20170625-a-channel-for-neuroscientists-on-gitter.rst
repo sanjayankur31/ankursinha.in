@@ -5,7 +5,7 @@ A channel for neuroscientists on Gitter
 :category: Research
 :tags: Community, Computational neuroscience, Gitter, Planet
 :slug: a-channel-for-neuroscientists-on-gitter
-:summary: I've come across a few mailing lists for neuroscientists, but I couldn't find a chat channel. While mailing lists suit certain purposes, open source communities tend to use a combination of mailing lists and chat channels - each platform serves different purposes. TLDR: here's a new chat channel on Gitter_ `here <https://gitter.im/neuroscience-central/Lobby>`_ for everything neuroscience related.
+:summary: I've come across a few mailing lists for neuroscientists, but I couldn't find a chat channel. While mailing lists suit certain purposes, open source communities tend to use a combination of mailing lists and chat channels - each platform serves different purposes. TLDR: here's a new chat channel on Gitter_ `here <https://gitter.im/neuroscience-central/Lobby>`_ for everything neuroscience related. It is also accessible using the `IRC <https://webchat.freenode.net/?channels=#neuroscience-central-lobby>`__ and `Riot <https://riot.im/app/#/room/#neuroscience-central-lobby:matrix.org>`__.
 
 As opposed to the free software community, where I've been around long enough to know what's where, I'm still relatively new to the neuroscience community. Over the two years that I've been doing my PhD, I've found a few neuroscience related mailing lists, but not any chat channels. Various teams tend to use Slack_ or another platform for internal communications, but nothing seems to be set up for the community in general - an open for all channel.
 
@@ -17,6 +17,15 @@ The third option, and the popular alternative to IRC and Slack, is Gitter_ - it'
 
 So here's the channel then - https://gitter.im/neuroscience-central/Lobby. I hope it'll be useful, and if it doesn't, well no harm done :)
 
+Update (12 July 2017):
+
+To enable people to communicate over various platforms, I've also set the channel up with Riot_. This enables people using Gitter_, IRC_, and Riot_ to `communicate with each other in one place using whatever platform they prefer <{filename}/20170629-bringing-together-gitter-irc-and-slack-channels-in-one-place-riot.rst>`__. So, we also have:
+
+- `#neuroscience-central-lobby <https://webchat.freenode.net/?channels=#neuroscience-central-lobby>`__ on IRC_.
+- `neuroscience-central/Lobby <https://riot.im/app/#/room/#neuroscience-central-lobby:matrix.org>`__ on Riot_.
+
+
 .. _Slack: https://slack.com/
 .. _Gitter: https://github.com/gitterHQ
 .. _IRC: https://en.wikipedia.org/wiki/Internet_Relay_Chat
+.. _Riot: https://riot.im
