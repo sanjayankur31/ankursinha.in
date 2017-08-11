@@ -3,7 +3,7 @@ Fedora Classroom: Command Line 101: report
 :date: 2017-08-10 23:03:24
 :author: ankur
 :category: Tech
-:tags: Bash, Blog, Community, Linux, Planet
+:tags: Bash, Blog, Community, Linux, Planet, Fedora
 :slug: fedora-classroom-command-line-101-report
 :summary: I taught a `Fedora classroom`_ session today - "Command Line 101" - where I introduced the command line and demonstrated how useful the command line is. This is a quick summary of the session.
 
