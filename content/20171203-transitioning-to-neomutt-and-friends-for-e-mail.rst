@@ -141,6 +141,8 @@ Here are most of the links I looked at, in no particular order:
 - https://notmuchmail.org/vimtips/
 - https://www.neomutt.org/guide/configuration.html#my-hdr
 - https://www.neomutt.org/guide/advancedusage.html
+- https://github.com/neomutt/neomutt/issues/629 - address completion using
+  notmuch
 
 .. _neomutt: https://www.neomutt.org
 .. _Vim: https://vim.org
