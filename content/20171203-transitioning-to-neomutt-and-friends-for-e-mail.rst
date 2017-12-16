@@ -5,7 +5,6 @@ Transitioning to Neomutt and friends for e-mail
 :category: Tech
 :tags: Fedora
 :slug: transitioning-to-neomutt-and-friends-for-e-mail
-:status: draft
 :summary: I finally took some time out to set up neomutt_ and related tools
           that let me access my e-mail in a terminal. This post documents how I
           went about it.
