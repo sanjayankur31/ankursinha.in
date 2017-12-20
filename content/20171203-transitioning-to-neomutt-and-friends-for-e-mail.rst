@@ -276,7 +276,7 @@ COPR_ repository set up for users:
 
 .. code:: bash
 
-    sudo dnf enable copr flatcap/neomutt
+    sudo dnf copr enable flatcap/neomutt
     sudo dnf install neomutt
 
 
