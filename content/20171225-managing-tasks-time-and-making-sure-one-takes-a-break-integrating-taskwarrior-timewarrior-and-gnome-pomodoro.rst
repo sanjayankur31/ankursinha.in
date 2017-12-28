@@ -48,6 +48,10 @@ here <https://taskwarrior.org/docs/timewarrior/taskwarrior.html>`__. Each time
 a task is started, or stopped in Taskwarrior_, the hook calls Timewarrior_ to
 start or stop tracking the task too.
 
+Note: to ensure that this hook is run before the `Gnome Pomodoro`_ hook that we
+set up in the next section, please save the hook file as
+:code:`~/.task/hooks/on-modify.00-timewarrior`
+
 Gnome Pomodoro reminds us to take regular breaks
 -------------------------------------------------
 
@@ -90,7 +94,11 @@ for Timewarrior_:
 
     #!/usr/bin/env python2
     # API is here: https://taskwarrior.org/docs/hooks.html
-    # To be saved at ~/.task/hooks/on-modify.gnome-pomodoro
+    # To be saved at ~/.task/hooks/on-modify.01-gnome-pomodoro to ensure it is
+    # run after the timewarrior hook, which should be saved as
+    # ~/.task/hooks/on-modify.00-timewarrior
+    # Otherwise, this is run before which then runs the Gnome-Pomodoro actions
+    # things get quite messy!
     import json
     import os
     import sys
@@ -146,6 +154,81 @@ pauses the Pomodoro_:
 
 (If no tasks are active, Timewarrior_ doesn't do anything, so that case does
 not need to be handled separately.)
+
+There are certain `limitations to what commands can go in there
+<https://github.com/codito/gnome-pomodoro/issues/275#issuecomment-282494447>`__,
+so I've used a shell script to implement the required logic:
+
+.. code:: bash
+
+    #!/bin/bash
+    # save as ~/bin/track-timew.sh
+    # note that ~/bin/ must be in PATH
+
+    resume ()
+    {
+        timew || timew continue
+    }
+
+    pause ()
+    {
+        timew && timew stop
+    }
+
+    clean ()
+    {
+        for entry in $(timew summary :ids | grep -o '@.*' | sed -E 's/(^@[[:digit:]]+)([[:alpha:]|[:punct:]|[:space:]]+)/\1 /' | sed -E 's/[[:space:]]{2,}/ /' | cut -d ' ' -f 1,4 | grep -E '[[:digit:]]{0,2}:0[01]:..' | cut -d ' ' -f 1 | tr '\n' ' '); do timew delete "$entry"; done
+    }
+
+    usage ()
+    {
+        echo "$0: wrapper script around timewarrior to carry out common tasks"
+        echo "For use with Gnome-Pomodoro's action plugin"
+        echo
+        echo "Usage: $0 <option>"
+        echo
+        echo "OPTIONS:"
+        echo "-r    resume tracking of most recently tracked task"
+        echo "-p    pause tracking"
+        echo "-c    clean up short tasks (less than 2 minutes long)"
+    }
+
+    # check for options
+    if [ "$#" -eq 0 ]; then
+        usage
+        exit 1
+    fi
+
+    # parse options
+    while getopts "rpch" OPTION
+    do
+        case $OPTION in
+            r)
+                resume
+                exit 0
+                ;;
+            p)
+                pause
+                exit 0
+                ;;
+            c)
+                clean
+                exit 0
+                ;;
+            h)
+                usage
+                exit 1
+                ;;
+            ?)
+                usage
+                exit 1
+                ;;
+        esac
+    done
+
+
+The script is quite simple, and I hope, self-explanatory too. I'll leave
+interpretation of the :code:`clean` function to the reader ;)
 
 That's all there is to it. There must be other ways of doing the same thing,
 possibly with different tools too, but this system required least changes to my
