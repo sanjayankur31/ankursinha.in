@@ -177,7 +177,7 @@ so I've used a shell script to implement the required logic:
 
     clean ()
     {
-        for entry in $(timew summary :ids | grep -o '@.*' | sed -E 's/(^@[[:digit:]]+)([[:alpha:]|[:punct:]|[:space:]]+)/\1 /' | sed -E 's/[[:space:]]{2,}/ /' | cut -d ' ' -f 1,4 | grep -E '00:0[01]:..' | cut -d ' ' -f 1 | tr '\n' ' '); do timew delete "$entry"; done
+        for entry in $(timew summary :ids | grep -o '@.*' | sed -E 's/(^@[[:digit:]]+)([[:alpha:]|[:punct:]|[:space:]]+)/\1 /' | sed -E 's/[[:space:]]{2,}/ /' | cut -d ' ' -f 1,4 | grep -E '0{0,2}:0[01]:..' | cut -d ' ' -f 1 | tr '\n' ' '); do timew delete "$entry"; done
     }
 
     usage ()
