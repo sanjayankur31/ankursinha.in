@@ -41,8 +41,8 @@ THEME = 'voidy-bootstrap'
 PLUGIN_PATHS = ['pelican-plugins', 'pelican-plugins-other']
 #PLUGINS = ['post_stats', 'render_math', 'sitemap', 'better_figures_and_images']
 #RESPONSIVE_IMAGES = False
-PLUGINS = ['post_stats', 'render_math', 'sitemap', 'tag_cloud', 'render_math',
-           'series', 'pelican-cite', 'pelican-bibtex']
+PLUGINS = ['post_stats', 'render_math', 'sitemap', 'tag_cloud', 'series',
+           'pelican-cite', 'pelican-bibtex']
 # 'series', 'pelican-cite', 'pelican-bibtex', 'events']
 
 TAG_CLOUD_STEPS = 4
