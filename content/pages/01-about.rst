@@ -12,7 +12,7 @@ About Me
 
 I am a conscious entity that aims to live life being the best I can be - learning each day to be better each day.
 
+My name is pronounced :code:`'ǝŋku:r 'sInhɑ:`, and written :code:`अँकुर सिन्हा` in Hindi.
+
 You can learn more about me on this blog, and the links in the right hand sidebar will take you to my social media accounts. If you'd like to get in touch, you can either use a social media platform that I use, or drop me a message at :code:`ankursinha AT fedoraproject DOT org`. Cheerio!
 
-
-.. _here: http://ankursinha.in/files/misc/resume.pdf
