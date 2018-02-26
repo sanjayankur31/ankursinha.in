@@ -10,7 +10,7 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'http://ankursinha.in/blog'
+SITEURL = 'http://ankursinha.in/'
 
 FEED_DOMAIN = SITEURL
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
@@ -23,7 +23,7 @@ AUTHOR_FEED_ATOM = 'feeds/authors/%s.atom.xml'
 AUTHOR_FEED_RSS = 'feeds/authors/%s.rss.xml'
 FEED_MAX_ITEMS = 10
 
-DELETE_OUTPUT_DIRECTORY = True
+DELETE_OUTPUT_DIRECTORY = False
 
 DISQUS_SITENAME = u'ankursinha'
 GOOGLE_ANALYTICS = "UA-60261100-1"
