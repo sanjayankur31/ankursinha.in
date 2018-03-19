@@ -10,11 +10,13 @@ TWITTER_CARD = True
 
 STATIC_PATHS = ['images', 'extras/favicon.ico',
                 'extras/feeds-allow-indexing',
-                'extras/drafts-allow-indexing']
+                'extras/drafts-allow-indexing',
+                'extras/redirect-blog']
 EXTRA_PATH_METADATA = {
     'extras/favicon.ico': {'path': 'favicon.ico'},
     'extras/feeds-allow-indexing': {'path': 'feeds/.htaccess'},
     'extras/drafts-allow-indexing': {'path': 'drafts/.htaccess'},
+    'extras/redirect-blog': {'path': 'blog/index.html'},
 }
 ARTICLE_PATHS = ['']
 ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{date:%d}/{slug}.html'
