@@ -1,4 +1,3 @@
-output
 *.py?
 *.pid
 .ropeproject

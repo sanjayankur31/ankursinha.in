@@ -7,3 +7,6 @@
 [submodule "pelican-plugins-other/pelican-bibtex"]
 	path = pelican-plugins-other/pelican-bibtex
 	url = git@github.com:sanjayankur31/pelican-bibtex.git
+[submodule "output"]
+	path = output
+	url = git@github.com:sanjayankur31/sanjayankur31.github.io.git
