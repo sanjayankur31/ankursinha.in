@@ -41,8 +41,7 @@ DEFAULT_LANG = u'en'
 THEME = 'voidy-bootstrap'
 
 PLUGIN_PATHS = ['pelican-plugins', 'pelican-plugins-other']
-#PLUGINS = ['post_stats', 'render_math', 'sitemap', 'better_figures_and_images']
-#RESPONSIVE_IMAGES = False
+# RESPONSIVE_IMAGES = False
 PLUGINS = ['post_stats', 'render_math', 'sitemap', 'tag_cloud', 'series',
            'pelican-cite', 'pelican-bibtex']
 # 'series', 'pelican-cite', 'pelican-bibtex', 'events']
@@ -54,36 +53,44 @@ TAG_CLOUD_SORTING = 'random'
 
 # Blogroll
 LINKS = (
-    ('Fedora Project', 'http://fedoraproject.org'),
+    ('Free Software Foundation',
+     'https://u.fsf.org/user-liberation'),
     ('OCNS', 'https://ocns.memberclicks.net/'),
-    ('UH Biocomputation', 'http://biocomputation.herts.ac.uk'),
-    ('Comp Neuro on the Web', 'http://home.earthlink.net/~perlewitz/index.html'),
-    ('Neuroscience feeds', 'https://sanjayankur31.github.io/planet-neuroscience/'),
-    ('Neuroscientists feeds', 'https://sanjayankur31.github.io/planet-neuroscientists/'),
-    ('Neuroscience central (chat)', 'https://gitter.im/neuroscience-central/Lobby '),
-    ('ankursinha.in/blog Feeds', 'http://ankursinha.in/blog/feeds/'),
+    ('Comp Neuro on the Web',
+     'http://home.earthlink.net/~perlewitz/index.html'),
+    ('Fedora Project', 'http://fedoraproject.org'),
+    ('Neuroscience feeds',
+     'https://sanjayankur31.github.io/planet-neuroscience/'),
+    ('Neuroscientists feeds',
+     'https://sanjayankur31.github.io/planet-neuroscientists/'),
+    ('Neuroscience central (chat)',
+     'https://gitter.im/neuroscience-central/Lobby '),
 )
 
 # Social widget
 SOCIAL = (
-    ('Scholar', 'http://scholar.google.co.in/citations?user=919ScZEAAAAJ&hl=en',
-     'fa fa-google fa-fw fa-lg'),
+    ('Scholar',
+     'http://scholar.google.co.in/citations?user=919ScZEAAAAJ&hl=en',
+     'fab fa-graduation-cap fa-fw fa-lg'),
     ('GitHub', 'http://github.com/sanjayankur31',
-     'fa fa-github-square fa-fw fa-lg'),
+     'fab fa-github fa-fw fa-lg'),
     ('Orcid', ' https://orcid.org/0000-0001-7568-7167',
-     'fa fa-users fa-fw fa-lg'),
+     'fab fa-flask fa-fw fa-lg'),
     ('NeuroTree', 'https://neurotree.org/neurotree/tree.php?pid=96687',
-     'fa fa-tree fa-fw fa-lg'),
+     'fab fa-tree fa-fw fa-lg'),
+    ('Fedora',
+     'https://fedoraproject.org/wiki/User:Ankursinha',
+     'fab fa-linux fa-fw fa-lg'),
     ('Goodreads', 'https://www.goodreads.com/user/show/32360473-ankur',
-     'fa fa-book fa-fw fa-lg'),
+     'fab fa-goodreads-g fa-fw fa-lg'),
     ('Twitter', 'https://twitter.com/sanjay_ankur',
-     'fa fa-twitter-square fa-fw fa-lg'),
-    ('Facebook', 'http://www.facebook.com/sanjay.ankur',
-     'fa fa-facebook-square fa-fw fa-lg'),
-    ('Instagram', 'https://instagram.com/sanjay.ankur/',
-     'fa fa-instagram fa-fw fa-lg'),
+     'fab fa-twitter fa-fw fa-lg'),
     ('Last.fm', 'http://www.last.fm/user/sanjay_ankur',
-    'fa fa-lastfm-square fa-fw fa-lg'),
+     'fab fa-lastfm fa-fw fa-lg'),
+    #  ('Facebook', 'http://www.facebook.com/sanjay.ankur',
+    #  'fa fa-facebook-square fa-fw fa-lg'),
+    #  ('Instagram', 'https://instagram.com/sanjay.ankur/',
+    #  'fa fa-instagram fa-fw fa-lg'),
     # ('Flickr', 'https://www.flickr.com/people/30402562@N07/',
     #  'fa fa-flickr fa-fw fa-lg'),
     # ('Google+', 'https://plus.google.com/105107988864522484597/about',
@@ -111,18 +118,18 @@ SITEMAP = {
 
 CUSTOM_ARTICLE_FOOTERS = ('sharing.html',)
 CUSTOM_SCRIPTS_ARTICLE = "sharing_scripts.html"
-MATH_JAX = {'tex_extensions': ['color.js','mhchem.js']}
-MATH_JAX = {'color':'blue','align':'left'}
+MATH_JAX = {'tex_extensions': ['color.js', 'mhchem.js']}
+MATH_JAX = {'color': 'blue', 'align': 'left'}
 STYLESHEET_FILES = ("use-opensans.css", "voidybootstrap.css", "pygment.css")
 RELATIVE_URLS = False
 CACHE_CONTENT = True
 
 # PLUGIN_EVENTS = {
 #   'ics_fname': 'ankursinha.ics',
-#}
+# }
 
 MY_PUBLICATIONS_SRC = 'content/mypubs.bib'
-DIRECT_TEMPLATES=['index', 'archives', 'categories', 'tags', 'publications']
-PUBLICATIONS_SAVE_AS='pages/03-publications.html'
+DIRECT_TEMPLATES = ['index', 'archives', 'categories', 'tags', 'publications']
+PUBLICATIONS_SAVE_AS = 'pages/03-publications.html'
 
-#DIRECT_TEMPLATES = (('publications'))
+# DIRECT_TEMPLATES = (('publications'))
