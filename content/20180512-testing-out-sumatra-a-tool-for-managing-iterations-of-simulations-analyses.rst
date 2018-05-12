@@ -145,13 +145,13 @@ test it out.
 Installing Sumatra_ is as easy as a pip_ command. I would suggest setting up a
 `virtual-environment <https://docs.python.org/3/library/venv.html>`__, though:
 
-.. code:: bash
+.. code::
 
     python3 -m venv --system-site-packages sumatra-virtual
 
 We then activate the virtual-environment, and install Sumatra_:
 
-.. code:: bash
+.. code::
 
     source sumatra-virtual/bin/activate
     pip install sumatra
@@ -160,7 +160,7 @@ We then activate the virtual-environment, and install Sumatra_:
 Once it finishes installing, simply mark a version controlled source
 repository as managed by Sumatra_:
 
-.. code:: bash
+.. code::
 
     cd my-awesome-project
     smt init my-awesome-project
@@ -168,7 +168,7 @@ repository as managed by Sumatra_:
 Then, one can see the information that Sumatra_ has on the project, for
 example:
 
-.. code:: bash
+.. code::
 
     smt info
     Project name        : test-repo
@@ -190,7 +190,7 @@ example:
 My test script only prints a short message. Here's how one would run it using
 Sumatra_:
 
-.. code:: bash
+.. code::
 
     # so that we don't have to specify this for each run
     smt configure --executable=python3 --main=test.py
@@ -204,7 +204,7 @@ Sumatra_:
 One can now see all the runs of this simulation that have been made!
 
 
-.. code:: bash
+.. code::
 
     smt list --long
     --------------------------------------------------------------------------------
@@ -254,7 +254,7 @@ version here.
 
 One can run the webversion using:
 
-.. code:: bash
+.. code::
 
     smtweb -p 8001 #whatever port number one wants to use
 
@@ -314,7 +314,29 @@ Free/Open source software promotes Open Science
 
 .. raw:: html
 
-    <video src="//static.fsf.org/nosvn/FSF30-video/FSF_30_720p.webm" controls width="640" height="390"></video>
+    <video controls width="640" height="390" poster="//static.fsf.org/nosvn/FSF30-video/fsf30-poster.png">
+    <source src="//static.fsf.org/nosvn/FSF30-video/FSF_30_720p.webm" type="video/webm">
+    <track kind="subtitles" label="English" srclang="en" src="//static.fsf.org/nosvn/FSF30-video/captions/FSF_30_720p.en.vtt" default="default" />
+    <track kind="subtitles" label="Spanish" srclang="es" src="//static.fsf.org/nosvn/FSF30-video/captions/FSF_30_es.vtt" />
+    <track kind="subtitles" label="French" srclang="fr" src="//static.fsf.org/nosvn/FSF30-video/captions/FSF_30_720p.fr.vtt" />
+    <track kind="subtitles" label="German" srclang="en" src="//static.fsf.org/nosvn/FSF30-video/captions/FSF_30_720p.de.vtt" />
+    <track kind="subtitles" label="русский" srclang="ru" src="//static.fsf.org/nosvn/FSF30-video/captions/FSF_30_720p.ru.vtt" />
+    <track kind="subtitles" label="italiano" srclang="it" src="//static.fsf.org/nosvn/FSF30-video/captions/FSF_30_720p.it.vtt" />
+    <track kind="subtitles" label="português" srclang="pt" src="//static.fsf.org/nosvn/FSF30-video/captions/FSF_30_720p.pt.vtt" />
+    <track kind="subtitles" label="српски" srclang="sr" src="//static.fsf.org/nosvn/FSF30-video/captions/FSF_30_720p.sr.vtt" />
+    <track kind="subtitles" label="fārsi" srclang="fa" src="//static.fsf.org/nosvn/FSF30-video/captions/FSF_30_720p.fa.vtt" />
+    <track kind="subtitles" label="nederlands" srclang="nl" src="//static.fsf.org/nosvn/FSF30-video/captions/FSF_30_720p.nl.vtt" />
+    <track kind="subtitles" label="magyar" srclang="hu" src="//static.fsf.org/nosvn/FSF30-video/captions/FSF_30_720p.hu.vtt" />
+    <track kind="subtitles" label="svenska" srclang="se" src="//static.fsf.org/nosvn/FSF30-video/captions/FSF_30_720p.se.vtt" />
+    <track kind="subtitles" label="română" srclang="ro" src="//static.fsf.org/nosvn/FSF30-video/captions/FSF_30_720p.ro.vtt" />
+    <track kind="subtitles" label="lietuvių" srclang="lt" src="//static.fsf.org/nosvn/FSF30-video/captions/FSF_30_720p.lt.vtt" />
+    <track kind="subtitles" label="hebrew" srclang="lt" src="//static.fsf.org/nosvn/FSF30-video/captions/FSF_30_720p.he.vtt" />
+    <track kind="subtitles" label="português do Brasil" srclang="pt-br" src="//static.fsf.org/nosvn/FSF30-video/captions/FSF_30_720p.pt-br.vtt" />
+    <track kind="subtitles" label="chinese" srclang="lt" src="//static.fsf.org/nosvn/FSF30-video/captions/FSF_30_720p.zh-cn.vtt" />
+    <p><a href="https://www.fsf.org/blogs/community/user-liberation-watch-and-share-our-new-video">
+    User liberation video at the Free Software Foundation.
+    </a></p>
+    </video>
 
 (The original video is at the `Free Software Foundation's website
 <https://www.fsf.org/blogs/community/user-liberation-watch-and-share-our-new-video>`__.)
