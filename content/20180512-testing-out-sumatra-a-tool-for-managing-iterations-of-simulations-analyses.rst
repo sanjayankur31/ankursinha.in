@@ -4,7 +4,7 @@ Testing out Sumatra: a tool for managing iterations of simulations/analyses
 :author: ankur
 :category: Research
 :tags: Python, Reproducible research, Computational neuroscience, Sumatra,
-       Fedora
+       Fedora, Planet
 :slug: testing-out-sumatra-a-tool-for-managing-iterations-of-simulations-analyses
 :summary: When working on projects that require multiple iterations of
           simulations and/or analyses, it's really quite hard to keep track of
