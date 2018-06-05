@@ -51,5 +51,5 @@ Achievements/Awards/Grants
 .. _Dr. Volker Steuber: http://homepages.stca.herts.ac.uk/~comqvs/
 .. _Bio inspired navigation in a mobile dynamic environment: https://opus.lib.uts.edu.au/research/handle/10453/36990?show=full
 .. _Dr. Jack Wang: http://www.uts.edu.au/staff/jianguo.wang
-.. _here: http://ankursinha.in/files/misc/resume.pdf
+.. _here: http://ankursinha.in/files/resume.pdf
 
