@@ -3,7 +3,7 @@ Using the Connfa open source conference management software set: the CMS
 :date: 2018-06-22 23:36:23
 :author: ankur
 :category: Tech
-:tags: Community, Conference, Android
+:tags: Community, Conference, Android, Fedora
 :slug: using-the-connfa-open-source-conference-management-software-set-the-cms
 :summary: The Connfa_ open source suite looks like a great set of tools
           for conference management. It consists of a web application, a
