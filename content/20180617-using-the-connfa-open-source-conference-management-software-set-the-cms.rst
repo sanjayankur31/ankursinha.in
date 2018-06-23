@@ -13,6 +13,13 @@ Using the Connfa open source conference management software set: the CMS
           integration server, which provides an API. So, I looked at how to set
           it up and document my findings in this post.
 
+The Connfa_ open source suite looks like a great set of tools for conference
+management. It consists of a web application, a central CMS integration server,
+and mobile applications for both Android and iOS. I was looking at how one
+could use the mobile applications. The mobile applications get their data from
+the integration server, which provides an API. So, I looked at how to set it up
+and document my findings in this post.
+
 
 The Connfa_ CMS server is a php application that uses a MySQL database.  To
 begin with, the documentation here is quite good:
