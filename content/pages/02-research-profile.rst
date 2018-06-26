@@ -6,14 +6,12 @@ Research Profile
 
 I'm a computer science major that has migrated over to computational neuroscience over the years. Currently, I research plasticity - structural, and synaptic, Hebbian, and homoeostatic - and associative memory.
 
-Among other tools, I use the `NEST neural simulator <nest-simulator.org/>`__ quite a bit. I prefer Python to Matlab.
-
-I'm also a `Free and Open source software <https://www.gnu.org/philosophy/free-sw.en.html>`__ enthusiast and `volunteer at the Fedora Project <https://fedoraproject.org/wiki/User:Ankursinha>`__ in my spare time.
+Among other tools, I use the `NEST neural simulator <nest-simulator.org/>`__ quite a bit. I prefer Python to Matlab, and `Open source software to proprietary tools <http://opensourceforneuroscience.org/>`__ in general.
 
 Ph.D. candidate at Herts
 ------------------------
 
-(2015 - present)
+(2014 - present)
 
 `PhD candidate in computational neuroscience <{filename}/pages/02-research-profile.rst>`_ at the `Biocomputation group <http://biocomputation.herts.ac.uk>`__ at the `University of Hertfordshire <http://www.herts.ac.uk/>`__.
 
