@@ -24,7 +24,7 @@ Masters by Research: UTS, Sydney
 
 (2012 - 2014)
 
-I completed my ME (by reserach) at the `University of Technology, Sydney <http://www.uts.edu.au/>`__. I studied and modelled neuron sets that are related to navigation in the mammalian brain using the `ROS robotic framework <http://www.ros.org/>`__. I worked on head direction cells, place cells, grid cells, and boundary cells.
+I completed my ME (by research) at the `University of Technology, Sydney <http://www.uts.edu.au/>`__. I studied and modelled neuron sets that are related to navigation in the mammalian brain using the `ROS robotic framework <http://www.ros.org/>`__. I worked on head direction cells, place cells, grid cells, and boundary cells.
 
 Supervisor: `Dr. Jack Wang`_
 
