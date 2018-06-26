@@ -3,7 +3,7 @@ Taskwarrior, Taskwarrior-server and Mirakel - syncing and carrying your taskslis
 :date: 2014-07-31 05:02
 :author: ankur
 :category: Tech
-:tags: Fedora
+:tags: Fedora, Taskwarrior
 :slug: taskwarrior-taskwarrior-server-and-mirakel-syncing-and-carrying-your-taskslist-with-you
 :summary: A great way to always have your task list on hand.
 

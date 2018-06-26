@@ -3,7 +3,7 @@ Managing tasks and generating timesheets using taskwarrior
 :date: 2014-04-09 09:41
 :author: ankur
 :category: Tech
-:tags: Fedora
+:tags: Fedora, Taskwarrior
 :slug: managing-tasks-and-generating-timesheets-using-taskwarrior
 :summary: Taskwarrior is a great utility that helps you manage your tasks.
 
