@@ -27,7 +27,7 @@ In my role as a volunteer at the `Fedora project`_, I am currently involved in:
   people to join the community.
 - helping with organising `Fedora Classrooms`_. (I also instruct a few sessions
   on Packaging and the command line.)
-- getting the `NeuroFedora SIG`_ back up and running. It aims to provide
+- helping in building and maintaining `NeuroFedora`_ . It aims to provide
   neuroscience software in Fedora to make it a ready to use platform for
   neuroscientists.
 
@@ -35,7 +35,7 @@ In my role as a volunteer at the `Fedora project`_, I am currently involved in:
 Help wanted
 -----------
 
-- The `NeuroFedora SIG`_ is looking for contributors. It needs more people that
+- `NeuroFedora`_ is looking for contributors. It needs more people that
   can build and maintain rpm packages for Fedora.
 - The `Fedora Classrooms`_ need more instructors. If you'd like to teach a
   session, please get in touch.
@@ -48,5 +48,5 @@ If you can help, please get in touch.
 .. _Fedora project: https://fedoraproject.org/wiki/User:Ankursinha
 .. _Fedora Join SIG: https://fedoraproject.org/wiki/SIGs/Join
 .. _Fedora Classrooms: https://fedoraproject.org/wiki/Classroom
-.. _NeuroFedora SIG: https://fedoraproject.org/wiki/SIGs/NeuroFedora
+.. _NeuroFedora: https://fedoraproject.org/wiki/SIGs/NeuroFedora
 .. _Fedora Free-media SIG: https://fedoraproject.org/wiki/FreeMedia?rd=Distribution/FreeMedia
