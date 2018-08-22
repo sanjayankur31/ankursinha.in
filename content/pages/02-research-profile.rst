@@ -8,6 +8,10 @@ I'm a computer science major that has migrated over to computational neuroscienc
 
 Among other tools, I use the `NEST neural simulator <nest-simulator.org/>`__ quite a bit. I prefer Python to Matlab, and `Open source software to proprietary tools <http://opensourceforneuroscience.org/>`__ in general.
 
+I am part of the team that builds and maintains `NeuroFedora`_. Our goal is to
+provide a large set of neuroscience software to users in an easy, ready to use
+way---via the Fedora_ Linux distribution.
+
 Ph.D. candidate at Herts
 ------------------------
 
@@ -50,4 +54,5 @@ Achievements/Awards/Grants
 .. _Bio inspired navigation in a mobile dynamic environment: https://opus.lib.uts.edu.au/research/handle/10453/36990?show=full
 .. _Dr. Jack Wang: http://www.uts.edu.au/staff/jianguo.wang
 .. _here: http://ankursinha.in/files/resume.pdf
-
+.. _NeuroFedora: https://fedoraproject.org/wiki/SIGs/NeuroFedora
+.. _Fedora: https://getfedora.org
