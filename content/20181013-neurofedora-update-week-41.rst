@@ -47,6 +47,6 @@ regular updates as I do. Feedback is always welcome. You can get in touch with
 us `here <https://fedoraproject.org/wiki/SIGs/NeuroFedora#Communication_and_getting_help>`__.
 
 .. _NeuroFedora: https://fedoraproject.org/wiki/SIGs/NeuroFedora
-.. _NEST: https://nest-simulator.org
+.. _NEST: http://nest-simulator.org
 .. _PyNN: https://github.com/NeuralEnsemble/PyNN
 .. _libneurosim: https://github.com/INCF/libneurosim
