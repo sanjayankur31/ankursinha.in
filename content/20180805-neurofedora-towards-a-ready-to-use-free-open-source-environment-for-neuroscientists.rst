@@ -3,7 +3,7 @@ NeuroFedora: towards a ready to use Free/Open source environment for neuroscient
 :date: 2018-10-06 00:19:32
 :author: ankur
 :category: Research
-:tags: Community, Computational neuroscience, Fedora, Free software, Linux, NEST, Neuron, Numpy, Pandas, Planet, Python, Reproducible research, Sumatra, TeX,
+:tags: Community, Computational neuroscience, Fedora, Free software, Linux, NEST, Neuron, Numpy, Pandas, Planet, Python, Reproducible research, Sumatra, TeX, NeuroFedora
 :slug: neurofedora-towards-a-ready-to-use-free-open-source-environment-for-neuroscientists
 :summary: I have recently resurrected the `NeuroFedora SIG`_. We aim to make
           Fedora_ a ready to use platform for neuroscientists, so that they can
