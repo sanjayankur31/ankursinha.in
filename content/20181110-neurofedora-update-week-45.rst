@@ -4,7 +4,7 @@ NeuroFedora update: week 45
 :author: ankur
 :slug: neurofedora-update-week-45
 :category: Research
-:tags: Community, Computational neuroscience, Free software, NEST, Fedora, NeuroFedora
+:tags: Community, Computational neuroscience, Free software, NEST, Fedora, NeuroFedora, Planet
 :summary: A quick update on NeuroFedora_ at the end of week 45. More software,
           some housekeeping, and a few upstream tickets.
 
