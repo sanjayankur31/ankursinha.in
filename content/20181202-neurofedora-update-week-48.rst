@@ -43,15 +43,16 @@ community before we decide on how to proceed.
 Personal views
 ===============
 
-Personally, I'd prefer if we only provided Free/Open source software. The use
-of proprietary software in science, while currently necessary, should be
-avoided.  Yes, it may make things a little harder to start with, but the
-Free/Open source tools that will be used will be accessible by all. Overtime,
-just like the Free software community, the eco system will mature.
+Personally, I'd prefer if we only provided software that support Free/Open
+source eco systems. The use of proprietary software in science, while currently
+necessary, should be avoided.  Yes, it may make things a little harder to start
+with, but the Free/Open source tools that will be used will be accessible by
+all. Overtime, just like the Free software community, the eco system will
+mature.
 
 A example case is the use of Microsoft products that is common in developed
 countries where universities can afford their licenses. In developing
-countries, this is not the case. They cannot always afford these fees. The
+countries, this is not the case. They cannot always afford these fees. A
 solution, of course, is to use LaTeX_ which is free for all to use, extend,
 study, and share. Similarly, while universities and laboratories in developed
 countries may be able to pay for MATlab licenses, this financial requirement
