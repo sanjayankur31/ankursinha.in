@@ -7,7 +7,7 @@ Fedora Join meeting 24 October 2016 - Summary
 :slug: fedora-join-meeting-24-october-2016-summary
 :summary: A summary of the `Fedora Join SIG`_ meeting we had on 24th October, 2016.
 
-We had another fortnightly `Fedora Join SIG`_ meeting today. We had decided on the specific goal of the SIG the `last time we'd met <{static}/20161010-fedora-join-meeting-10-october-2016-summary.rst>`_. In short, we'd established that the SIG would work on setting up and maintaining channels where newbies can communicate with the community before they've begun contributing. We'd leave the tooling to CommOps, who are working on this already. Following up from then, this week we got together to see what tasks we should get on with. The links are here:
+We had another fortnightly `Fedora Join SIG`_ meeting today. We had decided on the specific goal of the SIG the `last time we'd met <{filename}/20161010-fedora-join-meeting-10-october-2016-summary.rst>`_. In short, we'd established that the SIG would work on setting up and maintaining channels where newbies can communicate with the community before they've begun contributing. We'd leave the tooling to CommOps, who are working on this already. Following up from then, this week we got together to see what tasks we should get on with. The links are here:
 
 - Minutes: https://meetbot.fedoraproject.org/fedora-meeting-3/2016-10-24/joinsig.2016-10-24-15.03.html
 - Minutes (text): https://meetbot.fedoraproject.org/fedora-meeting-3/2016-10-24/joinsig.2016-10-24-15.03.txt

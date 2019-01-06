@@ -7,7 +7,7 @@ New Zaphod release - v0.5.7
 :slug: new-zaphod-release-v0-5-7
 :summary: I've released a new version of `Zaphod <https://github.com/sanjayankur31/zaphod>`__ - A LaTeX change tracking tool that I've been working on recently.
 
-`I'd written about Zaphod recently <{static}/20160213-zaphod-a-latex-change-tracking-tool.rst>`__. I've been making some tweaks to it - just some enhancements to the revision bit which will make it easier to use. The diff bit is still the same - I didn't see the need to make too many improvements there. 
+`I'd written about Zaphod recently <{filename}/20160213-zaphod-a-latex-change-tracking-tool.rst>`__. I've been making some tweaks to it - just some enhancements to the revision bit which will make it easier to use. The diff bit is still the same - I didn't see the need to make too many improvements there. 
 
 New revision bits
 ------------------

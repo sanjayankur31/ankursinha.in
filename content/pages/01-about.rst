@@ -4,9 +4,9 @@ About Me
 :author: ankur
 :slug: 01-about
 
-.. figure:: {filename}/images/ankur-sinha.png
+.. figure:: {static}/images/ankur-sinha.png
     :alt: Me in Rome in December 2014.
-    :target: {filename}/images/ankur-sinha.png
+    :target: {static}/images/ankur-sinha.png
 
     I'm Ankur (pronounced :code:`'ǝŋku:r 'sInhɑ:`, and written :code:`अँकुर सिन्हा` in Hindi).
 
