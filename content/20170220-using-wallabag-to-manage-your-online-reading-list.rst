@@ -25,17 +25,17 @@ You either enter the URL in the Wallabag page manually, or you can use the `Fire
 
 Wallabag fetches the text of the page and stores it for you so that you can read it later. You can even organise your saved pages with tags and the sort.
 
-.. image:: {filename}/images/20170220-wallabag.png
+.. image:: {static}/images/20170220-wallabag.png
     :align: center
-    :target: {filename}/images/20170220-wallabag.png
+    :target: {static}/images/20170220-wallabag.png
     :alt: Screenshot showing the Wallabag main page
     :class: img-responsive
 
 Here's a page that I'm trying to read later, for example:
 
-.. image:: {filename}/images/20170220-wallabag-2.png
+.. image:: {static}/images/20170220-wallabag-2.png
     :align: center
-    :target: {filename}/images/20170220-wallabag-2.png
+    :target: {static}/images/20170220-wallabag-2.png
     :alt: Screenshot showing an article in Wallabag
     :class: img-responsive
 

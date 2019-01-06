@@ -21,11 +21,11 @@ task. It's `available`_ in the Fedora repositories for Fedora 20+:
 
     sudo yum install vit
 
-.. figure:: {filename}/images/vit-screenshot.png
+.. figure:: {static}/images/vit-screenshot.png
     :align: center
     :height: 800px
     :scale: 25 %
-    :target: {filename}/images/vit-screenshot.png
+    :target: {static}/images/vit-screenshot.png
     :alt: vit screenshot
 
     A vit screenshot.
@@ -198,11 +198,11 @@ device and add a new Mirakel user using this file:
 
     Menu > Settings > Sync > Add (button on top right) > Taskwarrior > Select config file.
 
-.. figure:: {filename}/images/2014-07-31-04.39.19.png
+.. figure:: {static}/images/2014-07-31-04.39.19.png
     :align: center
     :height: 800px
     :scale: 25 %
-    :target: {filename}/images/2014-07-31-04.39.19.png
+    :target: {static}/images/2014-07-31-04.39.19.png
     :alt: Mirakel screenshot
 
     Mirakel screenshot
@@ -215,11 +215,11 @@ write up fresh instructions.
 
 Now, you have Mirakel up and running:
 
-.. figure:: {filename}/images/2014-07-31-04.53.57.png
+.. figure:: {static}/images/2014-07-31-04.53.57.png
     :align: center
     :height: 800px
     :scale: 25 %
-    :target: {filename}/images/2014-07-31-04.53.57.png
+    :target: {static}/images/2014-07-31-04.53.57.png
     :alt: Mirakel screenshot 2
 
     Mirakel screenshot 2

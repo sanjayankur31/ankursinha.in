@@ -11,9 +11,9 @@ A well filed software issue considerably improves the chances of the issue being
 
     <center>
 
-.. image:: {filename}/images/20170501-keep-calm.png
+.. image:: {static}/images/20170501-keep-calm.png
     :alt: Keep calm and file a bug report
-    :target: {filename}/images/20170501-keep-calm.png
+    :target: {static}/images/20170501-keep-calm.png
     :width: 40%
     :class: text-center img-responsive pagination-centered
 
@@ -82,9 +82,9 @@ Bugzilla itself contains quite a lot of information, and may not be the most usa
 
     <center>
 
-.. image:: {filename}/images/20170516-packages-app.png
+.. image:: {static}/images/20170516-packages-app.png
     :alt: The Fedora packages web application
-    :target: {filename}/images/20170516-packages-app.png
+    :target: {static}/images/20170516-packages-app.png
     :width: 80%
     :class: text-center img-responsive pagination-centered
 
@@ -98,9 +98,9 @@ Bugzilla itself contains quite a lot of information, and may not be the most usa
 
     <center>
 
-.. image:: {filename}/images/20170516-packages-firefox.png
+.. image:: {static}/images/20170516-packages-firefox.png
     :alt: Firefox on the Fedora packages web application
-    :target: {filename}/images/20170516-packages-firefox.png
+    :target: {static}/images/20170516-packages-firefox.png
     :width: 80%
     :class: text-center img-responsive pagination-centered
 
@@ -118,9 +118,9 @@ Note: commenting on an existing bug is a better way to inform the developers of 
 
     <center>
 
-.. image:: {filename}/images/20170516-bugzilla-form.png
+.. image:: {static}/images/20170516-bugzilla-form.png
     :alt: An empty bug report form on Bugzilla
-    :target: {filename}/images/20170516-bugzilla-form.png
+    :target: {static}/images/20170516-bugzilla-form.png
     :width: 80%
     :class: text-center img-responsive pagination-centered
 
@@ -146,9 +146,9 @@ The template in the description requires a little more explanation:
 
     <center>
 
-.. image:: {filename}/images/20170516-bugzilla-description.png
+.. image:: {static}/images/20170516-bugzilla-description.png
     :alt: The description of a bug.
-    :target: {filename}/images/20170516-bugzilla-description.png
+    :target: {static}/images/20170516-bugzilla-description.png
     :width: 80%
     :class: text-center img-responsive pagination-centered
 

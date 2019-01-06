@@ -10,9 +10,9 @@ NeuroFedora update: week 47
           importantly, more volunteers have joined the core team!
 
 
-.. figure:: {filename}/images/20181005-NeuroFedoraLogo01.png
+.. figure:: {static}/images/20181005-NeuroFedoraLogo01.png
     :alt: NeuroFedora logo!
-    :target: {filename}/images/20181005-NeuroFedoraLogo01.png
+    :target: {static}/images/20181005-NeuroFedoraLogo01.png
     :width: 30%
     :class: text-center img-responsive pagination-centered
 

@@ -11,9 +11,9 @@ Hello from Fedora 23!
 
     <center>
 
-.. image:: {filename}/images/Fedora23.png
+.. image:: {static}/images/Fedora23.png
     :alt: Fedora 23
-    :target: {filename}/images/Fedora23.png
+    :target: {static}/images/Fedora23.png
 
 .. raw:: html
 

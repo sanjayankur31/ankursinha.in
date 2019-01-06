@@ -10,9 +10,9 @@ NeuroFedora: towards a ready to use Free/Open source environment for neuroscient
           focus on the science. Read on to learn more!
 
 
-.. figure:: {filename}/images/20181005-NeuroFedoraLogo01.png
+.. figure:: {static}/images/20181005-NeuroFedoraLogo01.png
     :alt: NeuroFedora logo!
-    :target: {filename}/images/20181005-NeuroFedoraLogo01.png
+    :target: {static}/images/20181005-NeuroFedoraLogo01.png
     :width: 30%
     :class: text-center img-responsive pagination-centered
 

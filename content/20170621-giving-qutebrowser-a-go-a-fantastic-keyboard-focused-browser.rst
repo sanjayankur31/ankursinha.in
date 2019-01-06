@@ -13,9 +13,9 @@ Giving Qutebrowser a go - a fantastic keyboard-focused browser
     <center>
 
 
-.. image:: {filename}/images/20170621-qutebrowser3.png
+.. image:: {static}/images/20170621-qutebrowser3.png
     :alt: A screenshot showing hints in Qutebrowser on the Qutebrowser website
-    :target: {filename}/images/20170621-qutebrowser3.png
+    :target: {static}/images/20170621-qutebrowser3.png
     :width: 80%
     :class: text-center img-responsive pagination-centered
 
@@ -43,9 +43,9 @@ The best thing about Qutebrowser_ is that it's `actively maintained <https://git
 
     <center>
 
-.. image:: {filename}/images/20170621-qutebrowser1.png
+.. image:: {static}/images/20170621-qutebrowser1.png
     :alt: A screenshot showing hints in Qutebrowser
-    :target: {filename}/images/20170621-qutebrowser1.png
+    :target: {static}/images/20170621-qutebrowser1.png
     :width: 80%
     :class: text-center img-responsive pagination-centered
 
@@ -60,9 +60,9 @@ The screenshot shows "hinting" which is how one opens links. You press "f" and t
 
     <center>
 
-.. image:: {filename}/images/20170621-qutebrowser2.png
+.. image:: {static}/images/20170621-qutebrowser2.png
     :alt: A screenshot showing the command mode in Qutebrowser
-    :target: {filename}/images/20170621-qutebrowser2.png
+    :target: {static}/images/20170621-qutebrowser2.png
     :width: 80%
     :class: text-center img-responsive pagination-centered
 
@@ -111,7 +111,7 @@ To get flash working, one needs to also install the ppapi bits. Assuming one alr
 There are, obviously a few limitations in the current Qutebrowser_ version. The most noticeable one is probably the lack of a sync service similar to ones Firefox and Chrome provide. Google does tell me something about using `syncthing <https://syncthing.net/>`__ but I haven't gotten down to this yet. While it would be nice to have, it isn't quite that necessary. There isn't a password manager either. There are `plans to develop a plug-in system <https://github.com/qutebrowser/qutebrowser/issues/30>`__ in the pipeline to implement such features already, though. (`userscripts <https://github.com/qutebrowser/qutebrowser/blob/master/doc/userscripts.asciidoc>`__ seem to provide some additional functionality too.)
 
 
-Anyway, it's a great, quick, and lean browser if you're a VIM_ addict like me, so give it a go? If you have some cycles and are intersted in some hacking, get in touch with the devs over Github too. If not, please do at least `file bugs <{filename}/20170501-a-well-filed-software-issue-considerably-improves-the-chances-of-the-issue-being-fixed-quicker.rst>`__ if you see them.
+Anyway, it's a great, quick, and lean browser if you're a VIM_ addict like me, so give it a go? If you have some cycles and are intersted in some hacking, get in touch with the devs over Github too. If not, please do at least `file bugs <{static}/20170501-a-well-filed-software-issue-considerably-improves-the-chances-of-the-issue-being-fixed-quicker.rst>`__ if you see them.
 
 Here's a `quickstart <https://www.qutebrowser.org/doc/quickstart.html>`__ to quickly get up and running with. Oh, and yeah, *the mouse/touchpad works in the browser too*!
 

@@ -7,7 +7,7 @@ pdfpc - now in the Fedora repositories
 :slug: pdfpc-now-in-the-fedora-repositories
 :summary: pdfpc is now available in the Fedora repositories and can be installed using DNF.
 
-I'd `written about pdfpc earlier <{filename}/20150615-pdfpc.rst>`_. I packaged it for Fedora and you can now install it directly using DNF. It's still in the testing repositories, so you'll need to enable the repository for the time being. I'm leaving the copr repository as it is, but please note that I will not update the packages there any more.
+I'd `written about pdfpc earlier <{static}/20150615-pdfpc.rst>`_. I packaged it for Fedora and you can now install it directly using DNF. It's still in the testing repositories, so you'll need to enable the repository for the time being. I'm leaving the copr repository as it is, but please note that I will not update the packages there any more.
 
 .. code-block:: bash
 

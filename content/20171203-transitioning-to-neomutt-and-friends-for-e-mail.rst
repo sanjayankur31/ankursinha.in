@@ -310,11 +310,11 @@ setting tells neomutt to use :code:`msmtp` to send e-mail.
 If it all went well, running :code:`neomutt` should bring up a window like the
 figure below:
 
-.. figure:: {filename}/images/20171215-neomutt.png
+.. figure:: {static}/images/20171215-neomutt.png
     :align: center
     :height: 800px
     :scale: 60%
-    :target: {filename}/images/20171215-neomutt.png
+    :target: {static}/images/20171215-neomutt.png
     :alt: A screenshot of Neomutt in action
 
 
@@ -498,11 +498,11 @@ tool such as :code:`w3m` to strip the e-mail of HTML tags and show the text.
 The screenshot below shows an example HTML from Quora.
 
 
-.. figure:: {filename}/images/20171215-neomutt-html.png
+.. figure:: {static}/images/20171215-neomutt-html.png
     :align: center
     :height: 800px
     :scale: 60%
-    :target: {filename}/images/20171215-neomutt-html.png
+    :target: {static}/images/20171215-neomutt-html.png
     :alt: A screenshot of Neomutt showing HTML e-mail.
 
 A simple configuration line tells neomutt_ what to do:
@@ -546,11 +546,11 @@ Hitting enter opens up the HTML attached version in the browser I've set up in
 my :code:`mailcap` above, :code:`qutebrowser`.
 
 
-.. figure:: {filename}/images/20171215-neomutt-attachments.png
+.. figure:: {static}/images/20171215-neomutt-attachments.png
     :align: center
     :height: 800px
     :scale: 60%
-    :target: {filename}/images/20171215-neomutt-attachments.png
+    :target: {static}/images/20171215-neomutt-attachments.png
     :alt: A screenshot of Neomutt showing e-mail attachments.
 
 
@@ -572,11 +572,11 @@ to open, as the screenshot below shows:
     macro pager \cb | urlview\n
 
 
-.. figure:: {filename}/images/20171215-neomutt-urlview.png
+.. figure:: {static}/images/20171215-neomutt-urlview.png
     :align: center
     :height: 800px
     :scale: 60%
-    :target: {filename}/images/20171215-neomutt-urlview.png
+    :target: {static}/images/20171215-neomutt-urlview.png
     :alt: A screenshot of Neomutt with urlview.
 
 Right then, let's stick to the home row!

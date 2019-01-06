@@ -8,9 +8,9 @@ NeuroFedora update: week 48
 :summary: An update on NeuroFedora_ at the end of week 48.
 
 
-.. figure:: {filename}/images/20181005-NeuroFedoraLogo01.png
+.. figure:: {static}/images/20181005-NeuroFedoraLogo01.png
     :alt: NeuroFedora logo!
-    :target: {filename}/images/20181005-NeuroFedoraLogo01.png
+    :target: {static}/images/20181005-NeuroFedoraLogo01.png
     :width: 30%
     :class: text-center img-responsive pagination-centered
 

@@ -260,9 +260,9 @@ One can run the webversion using:
 
 Then, it'll open up in your default web-browser at http://127.0.0.1:8001/.
 
-.. image:: {filename}/images/20180512-sumatra1.png
+.. image:: {static}/images/20180512-sumatra1.png
     :alt: Sumatra initial interface.
-    :target: {filename}/images/20180512-sumatra1.png
+    :target: {static}/images/20180512-sumatra1.png
     :width: 80%
     :class: text-center img-responsive pagination-centered
 
@@ -270,9 +270,9 @@ Then, it'll open up in your default web-browser at http://127.0.0.1:8001/.
 For each project, one can see the various runs, with all the associated
 information too.
 
-.. image:: {filename}/images/20180512-sumatra2.png
+.. image:: {static}/images/20180512-sumatra2.png
     :alt: Records for a project in Sumatra
-    :target: {filename}/images/20180512-sumatra2.png
+    :target: {static}/images/20180512-sumatra2.png
     :width: 80%
     :class: text-center img-responsive pagination-centered
 
@@ -280,9 +280,9 @@ information too.
 One can then add more information about a run. Sumatra_ already stores lots of
 important information as the image shows:
 
-.. image:: {filename}/images/20180512-sumatra3.png
+.. image:: {static}/images/20180512-sumatra3.png
     :alt: More information on each record in Sumatra
-    :target: {filename}/images/20180512-sumatra3.png
+    :target: {static}/images/20180512-sumatra3.png
     :width: 80%
     :class: text-center img-responsive pagination-centered
 

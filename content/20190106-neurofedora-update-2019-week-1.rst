@@ -9,7 +9,7 @@ NeuroFedora update: 2019 week 1
           year!
 
 
-.. figure:: {filename}/images/20181005-NeuroFedoraLogo01.png
+.. figure:: {static}/images/20181005-NeuroFedoraLogo01.png
     :alt: NeuroFedora logo
     :target: https://docs.fedoraproject.org/en-US/neurofedora/overview/
     :width: 30%

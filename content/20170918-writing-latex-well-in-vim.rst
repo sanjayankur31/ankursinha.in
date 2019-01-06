@@ -69,11 +69,11 @@ The image below shows a LaTeX_ file open in Vim_ with different plug-ins in acti
 
     <center>
 
-.. image:: {filename}/images/20170919-latex-vim.png
+.. image:: {static}/images/20170919-latex-vim.png
     :align: center
     :height: 800px
     :scale: 60 %
-    :target: {filename}/images/20170919-latex-vim.png
+    :target: {static}/images/20170919-latex-vim.png
     :alt: Screenshot of Vim with a LaTeX file open showing various features.
 
 .. raw:: html

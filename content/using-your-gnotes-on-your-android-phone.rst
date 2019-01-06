@@ -8,13 +8,13 @@ Using your gnotes on your android phone
 :summary: Using Gnotes on your Android phone.
 
 
-.. image:: {filename}/images/gnote.png
+.. image:: {static}/images/gnote.png
     :alt: Gnote icon
 
-.. image:: {filename}/images/swiftp.jpg
+.. image:: {static}/images/swiftp.jpg
     :alt: swiftp icon
 
-.. image:: {filename}/images/tomdroid.jpg
+.. image:: {static}/images/tomdroid.jpg
     :alt: tomdroid icon
 
 I recently came across this tutorial which dealt with `using Gnote to

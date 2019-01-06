@@ -9,9 +9,9 @@ Next round of Fedora classroom sessions: call for instructors
           classroom`_ sessions.
 
 
-.. figure:: {filename}/images/20180607-teach.jpg
+.. figure:: {static}/images/20180607-teach.jpg
     :alt: Teach a Fedora classroom session!
-    :target: {filename}/images/20180607-teach.jpg
+    :target: {static}/images/20180607-teach.jpg
     :width: 80%
     :class: text-center img-responsive pagination-centered
 

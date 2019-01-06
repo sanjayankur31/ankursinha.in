@@ -53,9 +53,9 @@ Not everyone must build `TeX Live`_ from source, upstream provides binaries for
 all platforms, and a `convenient installer
 <https://www.tug.org/texlive/acquire-netinstall.html>`__.
 
-.. image:: {filename}/images/20180325-texlive.png
+.. image:: {static}/images/20180325-texlive.png
     :alt: TeX Live installer
-    :target: {filename}/images/20180325-texlive.png
+    :target: {static}/images/20180325-texlive.png
     :width: 80%
     :class: text-center img-responsive pagination-centered
 

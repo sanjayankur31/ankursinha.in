@@ -19,7 +19,7 @@ So here's the channel then - https://gitter.im/neuroscience-central/Lobby. I hop
 
 Update (12 July 2017):
 
-To enable people to communicate over various platforms, I've also set the channel up with Riot_. This enables people using Gitter_, IRC_, and Riot_ to `communicate with each other in one place using whatever platform they prefer <{filename}/20170629-bringing-together-gitter-irc-and-slack-channels-in-one-place-riot.rst>`__. So, we also have:
+To enable people to communicate over various platforms, I've also set the channel up with Riot_. This enables people using Gitter_, IRC_, and Riot_ to `communicate with each other in one place using whatever platform they prefer <{static}/20170629-bringing-together-gitter-irc-and-slack-channels-in-one-place-riot.rst>`__. So, we also have:
 
 - `#neuroscience-central-lobby <https://webchat.freenode.net/?channels=#neuroscience-central-lobby>`__ on IRC_.
 - `neuroscience-central/Lobby <https://riot.im/app/#/room/#neuroscience-central-lobby:matrix.org>`__ on Riot_.

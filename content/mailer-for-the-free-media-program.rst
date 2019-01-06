@@ -17,18 +17,18 @@ almost empty (Can you folks tell me how to populate the interior??) All
 the SVG sources can be found `here`_ at my fedorapeople space. Comments
 welcome.
 
-.. image:: {filename}/images/mailer-out.png
+.. image:: {static}/images/mailer-out.png
     :width: 800px
     :scale: 25%
-    :target: {filename}/images/mailer-out.png
+    :target: {static}/images/mailer-out.png
     :alt: Mailer out
 
 Mailer out
 
-.. image:: {filename}/images/mailer-in.png
+.. image:: {static}/images/mailer-in.png
     :width: 800px
     :scale: 25%
-    :target: {filename}/images/mailer-in.png
+    :target: {static}/images/mailer-in.png
     :alt: Mailer in
 
 Mailer in

@@ -6,7 +6,7 @@ Appstream data for RPMFusion - now available!
 :tags: Fedora, RPMFusion
 :summary: Appstream data for RPMFusion repositories for Fedora 22 packages are now available as easy to install RPM packages.
 
-`I've been working on generating appstream data for RPMFusion packages recently <{filename}/20150525-appdata-for-rpmfusion.rst>`_. At the moment, since only Fedora packages provide appstream data, only they can be installed using Gnome software - for RPMFusion packages, a user must use another package manager - DNF and so on. Considering that a lot of the packages in RPMFusion are media player front-ends and things, it'd make it a lot easier for users if these were also listed in Gnome software. I spent a number of hours today writing appstream data files for the RPMFusion packages - both in the free and non free repositories. I believe I've written appstream data files for all packages that could be listed in Gnome software now. (They're hosted here in the `Github repository I set up for this purpose`_). I had already generated initial RPM packages for the free and non free repositories and submitted review tickets to RPMFusion. They're still unassigned, so if you are a package maintainer with a few free cycles, please consider reviewing them. They are really simple reviews.
+`I've been working on generating appstream data for RPMFusion packages recently <{static}/20150525-appdata-for-rpmfusion.rst>`_. At the moment, since only Fedora packages provide appstream data, only they can be installed using Gnome software - for RPMFusion packages, a user must use another package manager - DNF and so on. Considering that a lot of the packages in RPMFusion are media player front-ends and things, it'd make it a lot easier for users if these were also listed in Gnome software. I spent a number of hours today writing appstream data files for the RPMFusion packages - both in the free and non free repositories. I believe I've written appstream data files for all packages that could be listed in Gnome software now. (They're hosted here in the `Github repository I set up for this purpose`_). I had already generated initial RPM packages for the free and non free repositories and submitted review tickets to RPMFusion. They're still unassigned, so if you are a package maintainer with a few free cycles, please consider reviewing them. They are really simple reviews.
 
 - `Package review: rpmfusion-nonfree-appstream-data - Appstream metadata for the RPMFusion nonfree repository`_
 - `Package review: rpmfusion-free-appstream-data - Appstream metadata for the RPMFusion free repository`_
@@ -27,19 +27,19 @@ You'll need to kill and restart Gnome software to get it to load the new appstre
 
 Now, for example, you can now install Mixxx_ from RPMFusion using Gnome software! 
 
-.. image:: {filename}/images/20150528-mixx-gs.png
+.. image:: {static}/images/20150528-mixx-gs.png
     :width: 500px
     :alt: Screenshot showing Mixxx in Gnome software
     :align: center
-    :target: {filename}/images/20150528-mixx-gs.png
+    :target: {static}/images/20150528-mixx-gs.png
 
 or, you can pick which of the many Xine front ends that are available in RPMFusion you'd like to install:
 
-.. image:: {filename}/images/20150528-xine-search-gs.png
+.. image:: {static}/images/20150528-xine-search-gs.png
     :width: 500px
     :alt: Screenshot showing multiple Xine front ends available in RPMFusion in Gnome software.
     :align: center
-    :target: {filename}/images/20150528-xine-search-gs.png
+    :target: {static}/images/20150528-xine-search-gs.png
 
 The screen-shots are currently hosted on my fedora people space, but once the packages are added to RPMFusion, we'll probably move them there too. 
 

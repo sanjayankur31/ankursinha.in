@@ -28,9 +28,9 @@ Riot - bringing it all together in once place
     <center>
 
 
-.. image:: {filename}/images/20170628-riot.png
+.. image:: {static}/images/20170628-riot.png
     :alt: Using riot to access IRC, Slack, and Gitter
-    :target: {filename}/images/20170628-riot.png
+    :target: {static}/images/20170628-riot.png
     :width: 70%
     :class: text-center img-responsive pagination-centered
 
@@ -46,9 +46,9 @@ Riot_ is an Open source platform that uses the Matrix_ protocol. It's similar to
     <center>
 
 
-.. image:: {filename}/images/20170628-riot-gitter.png
+.. image:: {static}/images/20170628-riot-gitter.png
     :alt: Neuroscience-Central/Lobby on Riot integrated with the same room on Gitter.
-    :target: {filename}/images/20170628-riot-gitter.png
+    :target: {static}/images/20170628-riot-gitter.png
     :width: 70%
     :class: text-center img-responsive pagination-centered
 
@@ -64,9 +64,9 @@ Setting up the integrations is rather easy too. One needs to go to the integrati
     <center>
 
 
-.. image:: {filename}/images/20170628-riot-integrations.png
+.. image:: {static}/images/20170628-riot-integrations.png
     :alt: Integrations on Riot
-    :target: {filename}/images/20170628-riot-integrations.png
+    :target: {static}/images/20170628-riot-integrations.png
     :width: 70%
     :class: text-center img-responsive pagination-centered
 

@@ -18,11 +18,11 @@ To start with, the app needs to have a name. I've come up with some unique ones 
 
 Cajal is a simple web page that shows a world map. On this map are markers that denote different neuroscience laboratories. The markers are clickable, so when you click one of these, some information about the laboratory is displayed below the map - the principal investigator, the website address, and the sort. I've only managed to add a few laboratories to it now, but I've hosted a working demo `here <http://ankursinha.in/cajal-map/>`__. The screenshot below shows what it looks like.
 
-.. image:: {filename}/images/20160804-cajal.png
+.. image:: {static}/images/20160804-cajal.png
     :align: center
     :height: 800px
     :scale: 50 %
-    :target: {filename}/images/20160804-cajal.png
+    :target: {static}/images/20160804-cajal.png
     :alt: Screenshot of Cajal web application
 
 

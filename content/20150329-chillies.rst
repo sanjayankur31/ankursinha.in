@@ -7,11 +7,11 @@ On chilli
 :slug: on-chilli
 :summary: On why chillies exist, why people eat them and whether their hottness can be measured.
 
-.. image:: {filename}/images/green-chilli.jpg
+.. image:: {static}/images/green-chilli.jpg
     :align: center
     :height: 800px
     :scale: 50 %
-    :target: {filename}/images/green-chilli.jpg
+    :target: {static}/images/green-chilli.jpg
     :alt: Green chilli
 
 Since I moved away from India a few years ago, I've been exposed to many new cuisines. Some of these are quite bland in comparison to Indian food. I'm not saying I don't like them, they're just relatively tasteless - I'm just not used to it, like people aren't used to the spicy food that I tend to eat. 
@@ -24,11 +24,11 @@ Now, chillies are only one of the many spices that are used in Indian food. `Her
 
 The further addition of chillies makes food hotter, which makes one sweat, which helps regulate body temperature in a hot climate. People eat hot food to handle the heat. This is coherent with the fact that food in the southern Indian state of Andhra Pradesh is on average hotter than what I ate as a resident of the northern states of Bihar, Jharkhand and Uttarakhand - as the map below shows, southern states have higher average temperatures `(taken from mapsofindia.com)`_.
 
-.. figure:: {filename}/images/india-map-annualtemperature.jpg
+.. figure:: {static}/images/india-map-annualtemperature.jpg
     :align: center
     :height: 800px
     :scale: 50 %
-    :target: {filename}/images/india-map-annualtemperature.jpg
+    :target: {static}/images/india-map-annualtemperature.jpg
     :alt: India average annual temperature map
 
     India average annual temperature map

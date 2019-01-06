@@ -8,9 +8,9 @@ NeuroFedora update: week 41
 :slug: neurofedora-update-week-41
 :summary: A quick update on NeuroFedora_ at the end of week 41.
 
-.. figure:: {filename}/images/20181005-NeuroFedoraLogo01.png
+.. figure:: {static}/images/20181005-NeuroFedoraLogo01.png
     :alt: NeuroFedora logo!
-    :target: {filename}/images/20181005-NeuroFedoraLogo01.png
+    :target: {static}/images/20181005-NeuroFedoraLogo01.png
     :width: 30%
     :class: text-center img-responsive pagination-centered
 

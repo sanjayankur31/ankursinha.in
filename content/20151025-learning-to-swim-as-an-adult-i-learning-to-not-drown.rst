@@ -11,7 +11,7 @@ Learning to swim as an adult: Part I - Learning to not drown
 
     <center>
 
-.. figure:: {filename}/images/20151025-learning-to-swim-as-an-adult-i-learning-to-not-drown.png
+.. figure:: {static}/images/20151025-learning-to-swim-as-an-adult-i-learning-to-not-drown.png
     :alt: https://commons.wikimedia.org/wiki/File:Fireman_swimming_by_mimooh.svg that is under the `CC by SA 3.0 unported license <https://creativecommons.org/licenses/by-sa/3.0/deed.en>`__.
     :target: https://commons.wikimedia.org/wiki/File:Fireman_swimming_by_mimooh.svg 
     :scale: 50%

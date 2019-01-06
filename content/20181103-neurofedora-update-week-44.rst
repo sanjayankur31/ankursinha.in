@@ -8,9 +8,9 @@ NeuroFedora update: week 44
 :summary: A quick update on NeuroFedora_ at the end of week 44. More software,
           some housekeeping, and a few upstream tickets.
 
-.. figure:: {filename}/images/20181005-NeuroFedoraLogo01.png
+.. figure:: {static}/images/20181005-NeuroFedoraLogo01.png
     :alt: NeuroFedora logo!
-    :target: {filename}/images/20181005-NeuroFedoraLogo01.png
+    :target: {static}/images/20181005-NeuroFedoraLogo01.png
     :width: 30%
     :class: text-center img-responsive pagination-centered
 

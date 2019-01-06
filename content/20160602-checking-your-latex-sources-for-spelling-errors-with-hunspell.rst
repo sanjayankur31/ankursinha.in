@@ -34,16 +34,16 @@ Then, to check all your :code:`.tex` files, you can use something like this:
 
 I looked around a bit, and decided to use Hunspell_. It's used by LibreOffice, Firefox, and other applications. I commit my work first and then run the above command which opens a window like this:
 
-.. image:: {filename}/images/hunspell-example.png
+.. image:: {static}/images/hunspell-example.png
     :alt: Hunspell screenshot
-    :target: {filename}/images/hunspell-example.png
+    :target: {static}/images/hunspell-example.png
     :width: 750px
 
 Once you've gone through it and made your changes, you can then use :code:`git diff --word-diff` to review your changes. If you'd like to undo some of them, use :code:`git add -i` and so on:
 
-.. image:: {filename}/images/git-word-diff.png
+.. image:: {static}/images/git-word-diff.png
     :alt: Git diff screenshot
-    :target: {filename}/images/git-word-diff.png
+    :target: {static}/images/git-word-diff.png
     :width: 750px
 
 That's it! Happy writing!

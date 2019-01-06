@@ -6,9 +6,9 @@ Another Fedora experience, a different Fedora experience
 :tags: Fedora
 :slug: another-fedora-experience-a-different-fedora-experience
 
-.. |image0| image:: {filename}/images/gift.png
+.. |image0| image:: {static}/images/gift.png
     :alt: free-media image
-    :target: {filename}/images/gift.png
+    :target: {static}/images/gift.png
 
 Hello all, I received some feed back from one of the folks whose ticket
 I had accepted this month as a part of my free-media duties. It's

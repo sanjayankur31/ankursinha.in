@@ -124,32 +124,32 @@ The other direction requires some tinkering with `Gnome Pomodoro`_ to set up
 custom scripts. In the preferences, one must enable the "Custom actions"
 plugin:
 
-.. figure:: {filename}/images/20171225-gnome-pomodoro-plugins.png
+.. figure:: {static}/images/20171225-gnome-pomodoro-plugins.png
     :align: center
     :height: 500px
     :scale: 60%
-    :target: {filename}/images/20171225-gnome-pomodoro-plugins.png
+    :target: {static}/images/20171225-gnome-pomodoro-plugins.png
     :alt: A screenshot showing the plugin preferences in Gnome Pomodoro.
 
 Then, a "Custom Actions" entry will be added to the preferences. We need to add
 two of them. The first, resumes Timewarrior_ tracking when the Pomodoro
 resumes:
 
-.. figure:: {filename}/images/20171225-gnome-pomodoro-action-resume-timew.png
+.. figure:: {static}/images/20171225-gnome-pomodoro-action-resume-timew.png
     :align: center
     :height: 500px
     :scale: 60%
-    :target: {filename}/images/20171225-gnome-pomodoro-action-resume-timew.png
+    :target: {static}/images/20171225-gnome-pomodoro-action-resume-timew.png
     :alt: A screenshot showing custom action that will resume timew after a break.
 
 Similarly, the second stops Timewarrior_ when a break begins, or the user
 pauses the Pomodoro_:
 
-.. figure:: {filename}/images/20171225-gnome-pomodoro-action-stop-timew.png
+.. figure:: {static}/images/20171225-gnome-pomodoro-action-stop-timew.png
     :align: center
     :height: 500px
     :scale: 60%
-    :target: {filename}/images/20171225-gnome-pomodoro-action-stop-timew.png
+    :target: {static}/images/20171225-gnome-pomodoro-action-stop-timew.png
     :alt: A screenshot showing custom action that will stop timew at the start of a break.
 
 (If no tasks are active, Timewarrior_ doesn't do anything, so that case does

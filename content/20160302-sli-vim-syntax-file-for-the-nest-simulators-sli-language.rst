@@ -9,11 +9,11 @@ sli.vim - syntax file for the NEST simulator's SLI language
 
 I've been reading some of `NEST <http://nest-simulator.org>`__'s `SLI <http://www.nest-simulator.org/quickref/>`__ examples to understand the simulation better. I noticed that these files had no syntax highlighting at all which made the code difficult to read. I couldn't find a syntax highlighting file for Vim anywhere so I've begun writing my own. It isn't complete, and I'm sure it's buggy, but it already seems to make reading and writing SLI easier. Here's what it makes an SLI file look like:
 
-.. image:: {filename}/images/20160302-sli-vim.png
+.. image:: {static}/images/20160302-sli-vim.png
     :width: 500px
     :alt: Screenshot showing SLI syntax highlighting in Vim
     :align: center
-    :target: {filename}/images/20160302-sli-vim.png
+    :target: {static}/images/20160302-sli-vim.png
 
 Installation
 -------------

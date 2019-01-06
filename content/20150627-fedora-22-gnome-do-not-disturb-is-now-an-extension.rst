@@ -9,14 +9,14 @@ Fedora 22 - Gnome - do not disturb - is now an extension
 
 Just a quick note.
 
-`I'd written earlier about setting the Gnome Shell session status to "busy" <{filename}/20150616-gnome-dnd.rst>`_. The post documented how it could be done from the terminal. We'd been `discussing this on the Fedora Workstation mailing list`_ and one of the subscribers there, Norman, `went ahead and wrote an extension already`_! I tried it out already and it works really well. You can get it here from the Gnome Shell `extensions page`_.
+`I'd written earlier about setting the Gnome Shell session status to "busy" <{static}/20150616-gnome-dnd.rst>`_. The post documented how it could be done from the terminal. We'd been `discussing this on the Fedora Workstation mailing list`_ and one of the subscribers there, Norman, `went ahead and wrote an extension already`_! I tried it out already and it works really well. You can get it here from the Gnome Shell `extensions page`_.
 
 It adds a button to the top panel that toggles the session status between "Active" and "Busy".
 
-.. image:: {filename}/images/gnome-shell-dnd-extension.png
+.. image:: {static}/images/gnome-shell-dnd-extension.png
     :scale: 100%
     :alt: Gnome shell extension DND button screenshot
-    :target: {filename}/images/gnome-shell-dnd-extension.png
+    :target: {static}/images/gnome-shell-dnd-extension.png
 
 
 Cheers!

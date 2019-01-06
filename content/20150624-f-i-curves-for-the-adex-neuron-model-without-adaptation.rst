@@ -9,18 +9,18 @@ F-I curves for the AdEx neuron model - tonic spiking without adaptation
 
 I'm looking into the `Adaptive exponential integrate and fire neuron model`_ (AdEx) in my research at the moment. This neuron model includes various improvements over the simple `Leaky integrate and fire`_ (LIF) neuron model. AdEx, depending on various parameters, `can exhibit different spiking behaviours`_. I'm looking at the simplest one at the moment - tonic spiking in the absence of adaptation **(a,b=0)**. With this parameter set, the AdEx is simplified to a simple LIF model. The figure below shows the "firing rate (spikes per second) vs current" graph for different reset voltages (-58mV, -60mV, -65mV, -70mV).
 
-.. image:: {filename}/images/AdEx-ab0-FI.png
+.. image:: {static}/images/AdEx-ab0-FI.png
     :align: center
     :width: 800px
-    :target: {filename}/images/AdEx-ab0-FI.png
+    :target: {static}/images/AdEx-ab0-FI.png
     :alt: AdEx F-I curve with different reset voltages
 
 The variation here is quite expected - if the neuron is reset to a lower voltage after a spike, it'll take more time to spike again and the firing rate will be less as a result. The second figure shows the membrane potential plotted as a function of time with the reset voltage at -70mV and the external current being given to the neuron is 500pA.
 
-.. image:: {filename}/images/adex-70mV-500pA.png
+.. image:: {static}/images/adex-70mV-500pA.png
     :align: center
     :width: 800px
-    :target: {filename}/images/adex-70mV-500pA.png
+    :target: {static}/images/adex-70mV-500pA.png
     :alt: AdEx tonic spiking without adaptation membrane potential with 70mV reset voltage and 500pA external current.
 
 This graph is self-explanatory too. The upswing in membrane potential brought about by the exponential term is quite apparent. The lack of adaptation is shown by the constant inter spike interval (ISI). In the presence of adaptation, the ISI would steadily increase. I've looked in to that too, but I haven't a pretty graph to show at the moment. 

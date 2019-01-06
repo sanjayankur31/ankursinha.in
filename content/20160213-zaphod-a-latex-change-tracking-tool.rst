@@ -117,11 +117,11 @@ and your repository now looks like this:
 
 Zaphod uses latexdiff to check for differences between the two revisions, marks them as branches for easy reference, and then creates a new branch with annotated source files and a nice pdf which looks like this:
 
-.. image:: {filename}/images/20160213-zaphod-screenshot.png
+.. image:: {static}/images/20160213-zaphod-screenshot.png
     :align: center
     :height: 800px
     :scale: 50 %
-    :target: {filename}/images/20160213-zaphod-screenshot.png
+    :target: {static}/images/20160213-zaphod-screenshot.png
     :alt: Screenshot of annotated PDF
 
 That looks rather nice, isn't it? And it resembles what a Word document with annotations looks like too. latexdiff has various markup styles which can be passed to Zaphod as arguments to modify how the annotations look. The most important part here is that because Zaphod is using mighty Git, there's no chance of you losing any work at all. *In fact, if you have untracked and uncommitted changes in your repository, Zaphod refuses to run at all.*
@@ -185,11 +185,11 @@ and your repository looks like this:
 
 The new pdf, accepted.pdf, is the latest version of your document and includes the changes you think should make the cut. If you're happy with these, you can simply merge this branch into master, and continue working. If you're not, you can go back to master, or another commit, and tinker some more - we're using Git, do what you want. In line with what I did above, the PDF looks like this:
 
-.. image:: {filename}/images/20160213-zaphod-2.png
+.. image:: {static}/images/20160213-zaphod-2.png
     :align: center
     :height: 800px
     :scale: 50 %
-    :target: {filename}/images/20160213-zaphod-2.png
+    :target: {static}/images/20160213-zaphod-2.png
     :alt: Screenshot of annotated PDF
 
 Pretty neat, huh? At least I think so ;)

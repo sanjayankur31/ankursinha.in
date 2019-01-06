@@ -10,7 +10,7 @@ Python - analysing large files - some notes to self
 Use Pandas instead of Numpy to load your data
 ----------------------------------------------
 
-When most of us think of using Python for scientific computing, `Numpy <http://www.numpy.org/>`__ comes to mind. I've used it before. Recently, I ran into `Pandas <http://pandas.pydata.org/>`__ which is a library that's tailored for data analysis. Usually, you'd use Numpy to load data, but it was extremely slow with my large data (30 Gb) files. When I looked around a bit, I found `this post <http://akuederle.com/stop-using-numpy-loadtxt>`__ which explained it - so, do not use :code:`numpy.loadtxt()`, instead use :code:`pandas.load_csv()`. An alternative would be to to use `memory mapped files <https://en.wikipedia.org/wiki/Memory-mapped_file>`__ as `I'd done before with C++ <{filename}/20150220-memory-mapped-files.rst>`__ - Numpy `does support them <http://docs.scipy.org/doc/numpy/reference/generated/numpy.memmap.html>`__.
+When most of us think of using Python for scientific computing, `Numpy <http://www.numpy.org/>`__ comes to mind. I've used it before. Recently, I ran into `Pandas <http://pandas.pydata.org/>`__ which is a library that's tailored for data analysis. Usually, you'd use Numpy to load data, but it was extremely slow with my large data (30 Gb) files. When I looked around a bit, I found `this post <http://akuederle.com/stop-using-numpy-loadtxt>`__ which explained it - so, do not use :code:`numpy.loadtxt()`, instead use :code:`pandas.load_csv()`. An alternative would be to to use `memory mapped files <https://en.wikipedia.org/wiki/Memory-mapped_file>`__ as `I'd done before with C++ <{static}/20150220-memory-mapped-files.rst>`__ - Numpy `does support them <http://docs.scipy.org/doc/numpy/reference/generated/numpy.memmap.html>`__.
 
 Use Matplotlib for easy stuff but Gnuplot when you need performance
 -------------------------------------------------------------------
@@ -19,10 +19,10 @@ I usually use `Gnuplot <http://www.gnuplot.info/>`__ to plot my graphs. As `this
 
 An example graph generated using Gnuplot is shown below. This is with modified settings, of course. Doesn't look too bad, does it?
 
-.. image:: {filename}/images/20160711-gnuplot-graph.png
+.. image:: {static}/images/20160711-gnuplot-graph.png
     :align: center
     :width: 800px
-    :target: {filename}/images/20160711-gnuplot-graph.png
+    :target: {static}/images/20160711-gnuplot-graph.png
     :alt: Graph generated using Gnuplot
 
 If you're looking to use Gnuplot with Python, there's a `Gnuplot.py <http://gnuplot-py.sourceforge.net/>`__ package that makes it much easier. Unfortunately, though, the package does not work with Python3. Upstream seems to be inactive - my e-mail to the mailing list hasn't received any replies. `I've put the code here on Github at the moment <https://github.com/sanjayankur31/gnuplot-py>`__. When I do have free cycles, I'll look at `porting it over to Python3 <https://github.com/sanjayankur31/gnuplot-py/issues/1>`__. Pull requests are welcome, of course.

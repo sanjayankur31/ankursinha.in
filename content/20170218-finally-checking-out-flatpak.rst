@@ -17,9 +17,9 @@ The instructions are all there in the documentation `here <http://flatpak.org/ap
 
 Then, you go to the `FlatPak website <http://flatpak.org/apps.html>`__ and click on an app that you want to install. This opens up the Gnome Software centre that installs the application for you. The application then shows up in the list in the activities menu on Gnome. For Firefox, you can follow the instructions `here <https://firefox-flatpak.mojefedora.cz/>`__. For example, I now have the Firefox nightly installed:
 
-.. image:: {filename}/images/20170218-firefox-nightly-flatpak.png
+.. image:: {static}/images/20170218-firefox-nightly-flatpak.png
     :align: center
-    :target: {filename}/images/20170218-firefox-nightly-flatpak.png
+    :target: {static}/images/20170218-firefox-nightly-flatpak.png
     :alt: Screenshot showing Firefox nightly FlatPak application
     :class: img-responsive
 
