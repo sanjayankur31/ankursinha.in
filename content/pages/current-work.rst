@@ -23,13 +23,13 @@ Open Neuroscience and Free Software
 
 In my role as a volunteer at the `Fedora project`_, I am currently involved in:
 
+- helping in building and maintaining `NeuroFedora`_ . It aims to provide
+  neuroscience software in Fedora to make it a ready to use platform for
+  neuroscientists.
 - helping with the `Fedora Join SIG`_ that aims to make it easier for new
   people to join the community.
 - helping with organising `Fedora Classrooms`_. (I also instruct a few sessions
   on Packaging and the command line.)
-- helping in building and maintaining `NeuroFedora`_ . It aims to provide
-  neuroscience software in Fedora to make it a ready to use platform for
-  neuroscientists.
 
 
 Help wanted
@@ -48,5 +48,5 @@ If you can help, please get in touch.
 .. _Fedora project: https://fedoraproject.org/wiki/User:Ankursinha
 .. _Fedora Join SIG: https://fedoraproject.org/wiki/SIGs/Join
 .. _Fedora Classrooms: https://fedoraproject.org/wiki/Classroom
-.. _NeuroFedora: https://fedoraproject.org/wiki/SIGs/NeuroFedora
+.. _NeuroFedora: https://docs.fedoraproject.org/en-US/neurofedora/overview/
 .. _Fedora Free-media SIG: https://fedoraproject.org/wiki/FreeMedia?rd=Distribution/FreeMedia

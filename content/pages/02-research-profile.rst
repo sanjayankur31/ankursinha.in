@@ -54,5 +54,5 @@ Achievements/Awards/Grants
 .. _Bio inspired navigation in a mobile dynamic environment: https://opus.lib.uts.edu.au/research/handle/10453/36990?show=full
 .. _Dr. Jack Wang: http://www.uts.edu.au/staff/jianguo.wang
 .. _here: http://ankursinha.in/files/resume.pdf
-.. _NeuroFedora: https://fedoraproject.org/wiki/SIGs/NeuroFedora
+.. _NeuroFedora: https://docs.fedoraproject.org/en-US/neurofedora/overview/
 .. _Fedora: https://getfedora.org
