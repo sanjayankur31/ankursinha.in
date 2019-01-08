@@ -55,6 +55,8 @@ TAG_CLOUD_SORTING = 'random'
 
 # Blogroll
 LINKS = (
+    ('NeuroFedora',
+     'https://docs.fedoraproject.org/en-US/neurofedora/overview/'),
     ('Free Software Foundation',
      'https://u.fsf.org/user-liberation'),
     ('Fedora Project', 'http://fedoraproject.org'),
@@ -63,8 +65,6 @@ LINKS = (
     ('OCNS', 'https://ocns.memberclicks.net/'),
     ('Comp Neuro on the Web',
      'http://home.earthlink.net/~perlewitz/index.html'),
-    ('Fedora Project', 'http://fedoraproject.org'),
-    ('NeuroFedora', 'https://fedoraproject.org/wiki/SIGs/NeuroFedora'),
     ('Neuroscience feeds',
      'https://sanjayankur31.github.io/planet-neuroscience/'),
     ('Neuroscientists feeds',
@@ -84,8 +84,6 @@ SOCIAL = (
      'fab fa-github fa-fw fa-lg'),
     ('Orcid', ' https://orcid.org/0000-0001-7568-7167',
      'fas fa-flask fa-fw fa-lg'),
-    ('NeuroTree', 'https://neurotree.org/neurotree/tree.php?pid=96687',
-     'fas fa-tree fa-fw fa-lg'),
     ('Fedora',
      'https://fedoraproject.org/wiki/User:Ankursinha',
      'fab fa-linux fa-fw fa-lg'),
@@ -93,6 +91,8 @@ SOCIAL = (
      'fab fa-goodreads-g fa-fw fa-lg'),
     ('Twitter', 'https://twitter.com/sanjay_ankur',
      'fab fa-twitter fa-fw fa-lg'),
+    ('NeuroTree', 'https://neurotree.org/neurotree/tree.php?pid=96687',
+     'fas fa-tree fa-fw fa-lg'),
     ('Last.fm', 'http://www.last.fm/user/sanjay_ankur',
      'fab fa-lastfm fa-fw fa-lg'),
     #  ('Facebook', 'http://www.facebook.com/sanjay.ankur',
