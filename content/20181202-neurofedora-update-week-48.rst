@@ -82,6 +82,6 @@ Feedback is always welcome. You can get in touch with us `here
 .. _python-pyphi: https://src.fedoraproject.org/rpms/python-pyphi
 .. _python-pynwb: https://src.fedoraproject.org/rpms/python-pynwb
 .. _python-chaospy: https://src.fedoraproject.org/rpms/python-chaospy
-.. _NeuroFedora: https://fedoraproject.org/wiki/SIGs/NeuroFedora
+.. _NeuroFedora: https://neuro.fedoraproject.org
 .. _FSL: https://git.fmrib.ox.ac.uk/fsl
 .. _LaTeX: https://www.latex-project.org

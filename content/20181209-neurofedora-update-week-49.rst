@@ -49,7 +49,7 @@ Feedback is always welcome. You can get in touch with us `here
 .. _nest: https://src.fedoraproject.org/rpms/nest
 .. _libneurosim: https://src.fedoraproject.org/rpms/libneurosim
 .. _PyNN: https://github.com/NeuralEnsemble/PyNN
-.. _NeuroFedora: https://fedoraproject.org/wiki/SIGs/NeuroFedora
+.. _NeuroFedora: https://neuro.fedoraproject.org
 .. _GENESIS: https://pagure.io/neuro-sig/NeuroFedora/issue/30
 .. _FiPy: https://pagure.io/neuro-sig/NeuroFedora/issue/158
 .. _Spiking-circus: https://pagure.io/neuro-sig/NeuroFedora/issue/134

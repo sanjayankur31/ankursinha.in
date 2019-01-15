@@ -44,4 +44,4 @@ Happy new year, everyone! In week 1 of the year 2019:
 You can get in touch with us `here
 <https://docs.fedoraproject.org/en-US/neurofedora/overview/#_communicating_and_getting_help>`__.
 
-.. _NeuroFedora: https://fedoraproject.org/wiki/SIGs/NeuroFedora
+.. _NeuroFedora: https://neuro.fedoraproject.org

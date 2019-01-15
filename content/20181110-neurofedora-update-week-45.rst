@@ -101,7 +101,7 @@ everyone in the Fedora_ community (including people I may have missed) for
 enabling us to further `Open Science`_ via Fedora_.
 
 
-.. _NeuroFedora: https://fedoraproject.org/wiki/SIGs/NeuroFedora
+.. _NeuroFedora: https://neuro.fedoraproject.org
 .. _NEST: https://github.com/nest/nest-simulator/wiki/issue-labeling-scheme
 .. _libneurosim: https://src.fedoraproject.org/rpms/libneurosim
 .. _python-libNeuroML: https://src.fedoraproject.org/rpms/python-libNeuroML

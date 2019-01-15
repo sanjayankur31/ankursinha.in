@@ -119,7 +119,7 @@ findings. NeuroFedora_ hopes to aid this movement. Come, join us!
 
 .. _Fedora: https://getfedora.org
 .. _NeuroFedora SIG: https://fedoraproject.org/wiki/SIGs/NeuroFedora
-.. _NeuroFedora: https://fedoraproject.org/wiki/SIGs/NeuroFedora
+.. _NeuroFedora: https://neuro.fedoraproject.org
 .. _Neuron: https://neuron.yale.edu/neuron/
 .. _Nest: https://nest-simulator.org
 .. _LaTeX: http://tug.org/

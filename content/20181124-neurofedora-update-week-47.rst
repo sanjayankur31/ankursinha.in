@@ -67,7 +67,7 @@ Feedback is always welcome. You can get in touch with us `here
 <https://fedoraproject.org/wiki/SIGs/NeuroFedora#Communication_and_getting_help>`__.
 
 
-.. _NeuroFedora: https://fedoraproject.org/wiki/SIGs/NeuroFedora
+.. _NeuroFedora: https://neuro.fedoraproject.org
 .. _fsleyes: https://src.fedoraproject.org/rpms/python-fsleyes
 .. _python-dipy: https://src.fedoraproject.org/rpms/python-dipy
 .. _python-pybids: https://src.fedoraproject.org/rpms/python-pybids

@@ -65,7 +65,7 @@ Feedback is always welcome. You can get in touch with us `here
 
 
 .. _PyLEMS: https://src.fedoraproject.org/rpms/python-PyLEMS
-.. _NeuroFedora: https://fedoraproject.org/wiki/SIGs/NeuroFedora
+.. _NeuroFedora: https://neuro.fedoraproject.org
 .. _fsleyes: https://git.fmrib.ox.ac.uk/fsl/fsleyes
 .. _NEST: https://github.com/nest/nest-simulator/wiki/issue-labeling-scheme
 .. _MUSIC: https://github.com/INCF/MUSIC

@@ -48,5 +48,5 @@ If you can help, please get in touch.
 .. _Fedora project: https://fedoraproject.org/wiki/User:Ankursinha
 .. _Fedora Join SIG: https://fedoraproject.org/wiki/SIGs/Join
 .. _Fedora Classrooms: https://fedoraproject.org/wiki/Classroom
-.. _NeuroFedora: https://docs.fedoraproject.org/en-US/neurofedora/overview/
+.. _NeuroFedora: https://neuro.fedoraproject.org
 .. _Fedora Free-media SIG: https://fedoraproject.org/wiki/FreeMedia?rd=Distribution/FreeMedia
