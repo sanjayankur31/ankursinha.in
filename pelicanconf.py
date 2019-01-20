@@ -56,7 +56,7 @@ TAG_CLOUD_SORTING = 'random'
 # Blogroll
 LINKS = (
     ('NeuroFedora',
-     'https://docs.fedoraproject.org/en-US/neurofedora/overview/'),
+     'https://neuro.fedoraproject.org'),
     ('Free Software Foundation',
      'https://u.fsf.org/user-liberation'),
     ('Fedora Project', 'http://fedoraproject.org'),
