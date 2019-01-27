@@ -5,8 +5,8 @@ About Me
 :slug: 01-about
 
 .. figure:: {static}/images/ankur-sinha.png
-    :alt: Me in Rome in December 2014.
-    :target: {static}/images/ankur-sinha.png
+    :alt: A picture of me.
+    :width: 20%
 
     I'm Ankur (pronounced :code:`'ǝŋku:r 'sInhɑ:`, and written :code:`अँकुर सिन्हा` in Hindi).
 
