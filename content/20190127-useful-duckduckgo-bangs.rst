@@ -39,7 +39,7 @@ I use a number of general bangs:
 - :code:`!g` to use Google when I must.
 - :code:`!gmaps` to search Google Maps.
 - :code:`!openstreetmap` to search Open Street Maps.
-- :code:`!youtuble` to search Youtube.
+- :code:`!youtube` to search Youtube.
 - :code:`!bbcw` to search BBC weather.
 - :code:`!goodreads` to search Goodreads.
 - :code:`!ox` to search the Oxford dictionary.
