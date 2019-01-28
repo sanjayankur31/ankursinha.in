@@ -42,8 +42,12 @@ I use a number of general bangs:
 - :code:`!youtuble` to search Youtube.
 - :code:`!bbcw` to search BBC weather.
 - :code:`!goodreads` to search Goodreads.
+- :code:`!ox` to search the Oxford dictionary.
 - :code:`!sauk` to search Amazon UK (smile.amazon.uk).
 - :code:`!github` to search Github.
+- :code:`!ctan` to search CTAN.
+- :code:`!pypi` to search PyPi.
+- :code:`!man` to search man pages.
 
 A few academic ones I use often are:
 
