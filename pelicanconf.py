@@ -12,13 +12,13 @@ STATIC_PATHS = ['images', 'extras/favicon.ico',
                 'extras/feeds-allow-indexing',
                 'extras/drafts-allow-indexing',
                 'extras/redirect-blog',
-                'extras/resume.pdf']
+                'extras/AnkurSinha-resume.pdf']
 EXTRA_PATH_METADATA = {
     'extras/favicon.ico': {'path': 'favicon.ico'},
     'extras/feeds-allow-indexing': {'path': 'feeds/.htaccess'},
     'extras/drafts-allow-indexing': {'path': 'drafts/.htaccess'},
     'extras/redirect-blog': {'path': 'blog/index.html'},
-    'extras/resume.pdf': {'path': 'files/resume.pdf'},
+    'extras/AnkurSinha-resume.pdf': {'path': 'files/AnkurSinha-resume.pdf'},
 }
 ARTICLE_PATHS = ['']
 ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{date:%d}/{slug}.html'

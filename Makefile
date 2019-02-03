@@ -66,7 +66,7 @@ cleanoutput:
 	[ ! -d $(OUTPUTDIR) ] || rm -rf $(OUTPUTDIR)
 
 clean:
-	[ ! -d $(OUTPUTDIR) ] || rm -rf $(OUTPUTDIR)/{tag,author,20*,category,index*html,posts,feeds}
+	[ ! -d $(OUTPUTDIR) ] || rm -rf $(OUTPUTDIR)/{tag,author,20*,category,index*html,posts,feeds,files}
 
 regenerate:
 	$(PELICAN) -r $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)

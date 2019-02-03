@@ -63,6 +63,6 @@ My publications can be seen `on a separate page <03-publications.html>`_.
 .. _Dr. Volker Steuber: http://homepages.stca.herts.ac.uk/~comqvs/
 .. _Bio inspired navigation in a mobile dynamic environment: https://opus.lib.uts.edu.au/research/handle/10453/36990?show=full
 .. _Dr. Jack Wang: http://www.uts.edu.au/staff/jianguo.wang
-.. _here: http://ankursinha.in/files/resume.pdf
+.. _here: https://ankursinha.in/files/AnkurSinha-resume.pdf
 .. _NeuroFedora: https://neuro.fedoraproject.org
 .. _Fedora: https://getfedora.org
