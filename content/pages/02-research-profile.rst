@@ -1,6 +1,6 @@
 Research Profile
 ################
-:date: 2017-04-15 10:22
+:date: 2019-03-07 11:50:02
 :author: ankur
 :slug: 02-research-profile
 
@@ -8,6 +8,7 @@ I'm a computer science major that has migrated over to computational neuroscienc
 
 Among other tools, I use the `NEST neural simulator <nest-simulator.org/>`__ quite a bit. I prefer Python to Matlab, and `Open source software to proprietary tools <http://opensourceforneuroscience.org/>`__ in general.
 
+-----
 
 Education
 ----------
@@ -32,6 +33,8 @@ Supervisor: `Dr. Jack Wang`_
 
 Thesis: `Bio inspired navigation in a mobile dynamic environment`_
 
+-----
+
 OCNS
 ----
 
@@ -42,6 +45,8 @@ in-charge of the web resources used by OCNS.
 If you see an issue with any of the OCNS web resources, please let me know (or
 file an issue on Github `here
 <https://github.com/OCNS/Website/issues/new?assignees=&labels=&template=bug_report.md&title=>`__)
+
+-----
 
 NeuroFedora: Free Software for Free Neuroscience
 -------------------------------------------------
