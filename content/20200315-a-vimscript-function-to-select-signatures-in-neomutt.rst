@@ -34,6 +34,7 @@ dabble in `Vim script`_ a bit and automate it. Here's what I've come up with:
         let this_file_type = &filetype
         if this_file_type != "mail"
             echo "This is not a mail file! Not running!"
+            return 1
         endif
 
         " Get the current signature's line
