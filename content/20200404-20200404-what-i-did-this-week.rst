@@ -1,0 +1,197 @@
+20200404: What I did this week
+##############################
+:date: 2020-04-04 10:49:50
+:author: ankur
+:category: Life
+:tags: Computational neuroscience, Fedora, Open Source Brain, OCNS, NeuroFedora, SilverLab
+:slug: 20200404-what-i-did-this-week
+:summary: This is what I was up to this week!
+
+
+.. raw:: html
+
+   <center>
+
+.. figure:: {static}/images/20200404-banner.jpg
+    :alt: Picture of "Report" written on a blackboard in chalk kept on a desk with a calculator, a pen, clips
+    :width: 70%
+    :class: text-center img-responsive pagination-centered
+    :align: center
+
+    "Report" by `GotCredit <http://gotcredit.com>`__ `on Flickr
+    <https://flic.kr/p/QGKX1P>`__ (CC-BY 2.0 license)
+
+.. raw:: html
+
+   </center>
+
+
+I seem to be getting busier every day, and the only way I can seem to be able
+to do all the work I want to is by staying extremely organised. An important
+part of organisation is being able to look back at the work that was done, and
+whether it could be done better---perhaps prioritised better---to make it all a
+little more efficient. So, given that I haven't been blogging frequently over
+the last year, I am trying to track the time I spend working more religiously
+and write a short weekly work report. It gives me the chance to review the past
+week.
+
+So, in the weeks leading up to today, 4th April, this is what I have been up
+to.
+
+Dissertation writing
+---------------------
+
+I'm working on writing up my dissertation, at the end of my PhD now. I've made
+good progress. I have another chapter or so to go before I should be able to
+submit. My supervision team has been reviewing and editing individual chapters
+as I finish them. We are already working on a paper, and the `pre-print
+<https://www.biorxiv.org/content/early/2019/10/21/810846>`__ for this had gone
+through multiple rounds of review. So the chapters that came from the paper
+didn't need too much work. Another chapter is based on the reports I wrote for
+my assessments (back in 2015!), but having it all written down also made it
+easier to edit and add to the dissertation. I am extremely glad that my
+supervision team got me to maintain a `daily lab journal
+<https://github.com/sanjayankur31/calliope/issues>`__. It makes writing the
+dissertation so much easier.
+
+Research fellow at the Silver Lab at University College London
+----------------------------------------------------------------
+
+I was fortunate enough to secure a research fellow job at the `Silver Lab`_
+while working on my dissertation. Generally, we PhD candidates submit our
+dissertations and then spend a few months hunting for positions. From all
+accounts, it's not meant to be an easy transition to a post-doc position. The
+number of PhDs entering the job market easily outnumbers the number of
+available research positions. So, I was also preparing for a few months of
+unemployment---saving money primarily---while I hunted for positions after I
+had submitted. In my case as an international migrant/expat/job stealer, my
+employers would also have to sponsor my visa, and not all employers do that. If
+I hadn't managed to find a position before my current student visa expired, I'd
+have to return to India and continue applying from there. That makes it even
+harder, and all the time one is not working on research, one is already falling
+behind. So, transitioning on to a position while still writing up was a very
+very lucky break for me.
+
+The research group does a lot of experimental work, but it is also where the
+`Open Source Brain`_ project is based. Given my computing background, and
+experience with FOSS in `Fedora
+<https://fedoraproject.org/wiki/User:Ankursinha>`__, a large component of my
+role is to work on the development of the `Open Source Brain`_ platform, and liaise
+with MetaCell_ who do most of the core development. Along with that, I get to
+work on modelling and other research projects. I was looking to work in a group
+that included experimentalists. I think that it is important for me to develop
+as an independent researcher in neuroscience.
+
+It's early days yet. I am only two weeks in, so I am still settling down. Since
+I am on a `Tier 4 student visa`_ at the moment, I can only work twenty hours a
+week. That's about two days a week, and is really not enough to get a lot done,
+especially given that it is meant to include the various meetings that I am to
+attend. HR are working on getting me my Certificate of Sponsorship (CoS) so
+that I can apply to transition on to a `Tier 2 work visa`_. It is similar to the
+Certificate of Acceptance of Studies (CAS) that international students must get
+from their universities before they can apply for their `Tier 4 student visa`_.
+Sponsoring organisations can sponsor a limited number of internationals each
+year, so we're waiting for the new cycle to start this month in April when UCL
+will be able to sponsor more of us.
+
+In the two weeks that I've been in, I've been learning the development process
+that `Open Source Brain`_ follows: attending sprint meetings, and the sort.
+I'll write a post dedicated to this in a near future. It is on my to-do list.
+This week, we `diagnosed and fixed
+<https://github.com/SilverLabUCL/docker-osq/pull/6>`__ an issue with the
+current deployment. `Sendmail <https://en.wikipedia.org/wiki/Sendmail>`__ was
+blocking the server because the `Docker <https://docker.io>`__ container hadn't
+a `FQDN <https://en.wikipedia.org/wiki/FQDN>`__ as its hostname. The things we
+learn. If you do find any issues with the `Open Source Brain`_ platform, please
+file an issue (or e-mail me if you prefer).
+
+There's more work to be done: the deployment is being moved off `AWS
+<https://aws.amazon.com/>`__ on to the `Google Cloud Platform
+<https://cloud.google.com/>`__. It's simple enough, but of course, the
+deployment needs to be tested and validated before it can be declared live and
+the AWS instance torn down.
+
+I've also been learning how the research group works: getting to know the
+people, what their interests are; attending the group discussions and journal
+clubs; keeping an eye on various journals to share new science that may be
+interesting to us. I've already learned quite a bit from the discussion. Given
+the COVID situation, we're all working from home, so everything is happening
+over Slack and video calls. I had managed to go to UCL for my induction in my
+first week. I was the only one there for that particular session. Again, I was
+lucky, since I expect that was the last induction session before UCL decided to
+limit access.
+
+
+Fedora
+--------
+
+We're nearing the Fedora 32 release, so I worked on the bits remaining for the
+new `CompNeuroFedora`_ lab image.  Based on the discussion at the NeuroFedora_
+meeting, I `passed all the information
+<https://pagure.io/fedora-websites/issue/1010>`__ needed to set up a page for
+the lab to the Websites team. 
+
+The general package updates continue. I just updated Brian2_ to the new version
+this morning and `pushed an update with a test case
+<https://bodhi.fedoraproject.org/updates/?packages=python-brian2>`__.  The test
+case takes one through the tutorial, so if one is looking to learn how to use
+Brian2_, this is a good way of doing it while contributing to NeuroFedora_.
+Another few bugs were fixed and `updates pushed
+<https://bodhi.fedoraproject.org/users/ankursinha>`__ too. I've got to work on
+packaging a few new tools that are on the `list
+<https://pagure.io/neuro-sig/NeuroFedora/issues?status=Open&assignee=ankursinha>`__.
+
+On the `Fedora-Join <https://pagure.io/fedora-join/Welcome-to-Fedora>`__ front,
+we've had a few more folks join the community to help out. It was lovely
+chatting with new folks and discussing where and how they'd like to work with
+the community. Needless to say, lots of cookie giving has occurred in the `IRC
+channel <https://webchat.freenode.net/?channels=#fedora-join>`__.
+
+I've also been thinking about the lack of a process for Community Changes in
+Fedora. Why isn't there something similar to the `Change process that we use
+for dev changes
+<https://docs.fedoraproject.org/en-US/program_management/changes_policy/>`__? I
+finally `filed a ticket with the Council
+<https://pagure.io/Fedora-Council/tickets/issue/291>`__. It's being discussed
+on the `council-discuss mailing list
+<https://lists.fedoraproject.org/archives/list/council-discuss@lists.fedoraproject.org/thread/NT3JI4QIA7D2UJWCOV662FZHOV6BUBLJ/>`__.
+I've also asked `Mindshare <https://pagure.io/mindshare/issue/197>`__ and
+`CommOps <https://pagure.io/fedora-commops/issue/205>`__ to weigh in this
+morning. Please feel free to jump in and discuss how we should go about this. A
+change process that
+focusses on community is important, in my book.
+
+The Git forge discussion continues on the `-devel mailing list
+<https://lists.fedoraproject.org/archives/list/devel@lists.fedoraproject.org/>`__,
+so I've been keeping up with that. I would prefer Pagure myself, and I do
+understand the CPE team's view even if I don't necessarily agree with it.
+
+
+Organisation for Computational Neuroscience: OCNS
+--------------------------------------------------
+
+Things are quite quiet in OCNS_. The `Board
+<https://www.cnsorg.org/board-of-directors>`__ has been discussing how best to
+handle the `CNS*2020 <https://www.cnsorg.org/cns-2020>`__ conference. An
+announcement will be made once a decision has been reached.
+
+Review comments
+-----------------
+
+This turned out a lot longer than I'd expected. As I settle down to a weekly
+post, it should get shorter. However, I do see that I've got lots going on, and
+perhaps I do need to be more disciplined when accepting/volunteering for tasks,
+and prioritising them once I've taken them up. I'm not `cookie-licking
+<https://www.winglemeyer.org/ramblings/2019/01/07/cookie-cleanup.html>`__ at
+the moment, so that's quite good. Still, lots to do.
+
+
+.. _Silver Lab: http://silverlab.org/
+.. _Open Source Brain: opensourcebrain.org
+.. _MetaCell: https://metacell.us/
+.. _Tier 4 student visa: https://www.gov.uk/tier-4-general-visa
+.. _Tier 2 work visa: https://www.gov.uk/tier-2-general
+.. _NeuroFedora: http://neuro.fedoraproject.org
+.. _CompNeuroFedora: https://fedoraproject.org/wiki/Changes/Comp_Neuro_Lab
+.. _Brian2: https://briansimulator.org/
+.. _OCNS: https://www.cnsorg.org/

@@ -10,6 +10,20 @@ Among other tools, I use the `NEST neural simulator <nest-simulator.org/>`__ qui
 
 -----
 
+Work
+----
+
+Research Fellow at the Silver Lab at UCL
+==========================================
+
+(March 2020 - present)
+
+I am currently a research fellow at the `Silver Lab <https://silverlab.org>`__
+at `University College London <https://ucl.ac.uk>`__. I work on the development
+of the `Open Source Brain <https://opensourcebrain.org>`__, and lots of other
+modelling based research.
+
+
 Education
 ----------
 
@@ -35,8 +49,12 @@ Thesis: `Bio inspired navigation in a mobile dynamic environment`_
 
 -----
 
+Volunteering
+-------------
+
+
 OCNS
-----
+=====
 
 I am a member of the `Board of Directors for Organisation for Computational
 Neuroscience (OCNS) <https://www.cnsorg.org/board-of-directors>`__, where I am
@@ -49,7 +67,7 @@ file an issue on Github `here
 -----
 
 NeuroFedora: Free Software for Free Neuroscience
--------------------------------------------------
+=================================================
 
 I am part of the team that builds and maintains `NeuroFedora`_. Our goal is to
 provide a large set of neuroscience software to users in an easy, ready to use

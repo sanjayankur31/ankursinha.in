@@ -12,6 +12,8 @@ Research
 
 My research work focusses on:
 
+- development of the `Open Source Brain <https://opensourcebrain.org>`__ platform
+  and related neuroscience tooling,
 - homeostatic plasticity
 - structural plasticity
 - synaptic plasticity
