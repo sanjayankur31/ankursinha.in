@@ -1,6 +1,6 @@
 About Me
 ########
-:date: 2017-04-15 13:20
+:date: 2020-08-14 14:24:49
 :author: ankur
 :slug: 01-about
 
@@ -8,12 +8,9 @@ About Me
     :alt: A picture of me.
     :width: 20%
 
-    I'm Ankur (pronounced :code:`'ǝŋku:r 'sInhɑ:`, and written :code:`अँकुर सिन्हा` in Hindi).
+    I'm Ankur (pronounced :code:`'ǝŋkur 'sInhɑ:`, and written :code:`अँकुर सिन्हा` in Hindi).
 
-I am a conscious entity that aims to live life being the best I can
-be---learning each day to be better each day.
-
-By profession, I am a `computational neuroscientist <02-research-profile.rst>`__. I am also a `Free Software enthusiast`_ and belive in openness---`in software`_, `in science`_, in society in general.
+By profession, I am a `computational neuroscientist <02-research-profile.rst>`__. I am also a `Free Software enthusiast`_ and believe in openness---`in software`_, `in science`_, in society in general.
 
 I can be reached at :code:`ankursinha AT fedoraproject DOT org` or via one of
 the various social media platforms linked to in the right hand side bar.

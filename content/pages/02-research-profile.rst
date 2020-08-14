@@ -42,9 +42,9 @@ Ph.D. candidate in computational neuroscience: UH Biocomputation
 
 I'm a Ph.D. candidate in computational neuroscience at the `Biocomputation group <http://biocomputation.herts.ac.uk>`__ at the `University of Hertfordshire <http://www.herts.ac.uk/>`__.
 
-Primary supervisor: `Professor Volker Steuber`_
-
-Secondary supervisors: `Dr Christoph Metzner`_, `Professor Rod Adams`_, `Dr Neil Davey`_, `Professor Michael Schmuker`_.
+| Primary supervisor: `Professor Volker Steuber`_
+| Secondary supervisors: `Dr Christoph Metzner`_, `Professor Rod Adams`_, `Dr Neil Davey`_, `Professor Michael Schmuker`_.
+|
 
 Thesis: Structural Plasticity and Associative Memory in Balanced Neural Networks With Spike-Time Dependent Inhibitory Plasticity.
 
