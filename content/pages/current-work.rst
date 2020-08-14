@@ -1,6 +1,6 @@
 Current work
 ############
-:date: 2018-06-26 12:27:40
+:date: 2020-08-14 14:22:17
 :author: ankur
 :slug: 04-current-work
 
@@ -14,9 +14,8 @@ My research work focusses on:
 
 - development of the `Open Source Brain <https://opensourcebrain.org>`__ platform
   and related neuroscience tooling,
-- homeostatic plasticity
-- structural plasticity
-- synaptic plasticity
+- corticocerebellar processing,
+- various forms of plasticity: homeostatic, structural, synaptic
 - associative memory
 
 
@@ -30,9 +29,6 @@ In my role as a volunteer at the `Fedora project`_, I am currently involved in:
   neuroscientists.
 - helping with the `Fedora Join SIG`_ that aims to make it easier for new
   people to join the community.
-- helping with organising `Fedora Classrooms`_. (I also instruct a few sessions
-  on Packaging and the command line.)
-
 
 Help wanted
 -----------
@@ -41,9 +37,6 @@ Help wanted
   can build and maintain rpm packages for Fedora.
 - The `Fedora Classrooms`_ need more instructors. If you'd like to teach a
   session, please get in touch.
-- The `Fedora Free-media SIG`_ needs help to migrate to `Pagure <pagure.io>`__.
-  The Free Media programme is currently stalled until the migration can be
-  completed.
 
 If you can help, please get in touch.
 
@@ -51,4 +44,3 @@ If you can help, please get in touch.
 .. _Fedora Join SIG: https://fedoraproject.org/wiki/SIGs/Join
 .. _Fedora Classrooms: https://fedoraproject.org/wiki/Classroom
 .. _NeuroFedora: https://neuro.fedoraproject.org
-.. _Fedora Free-media SIG: https://fedoraproject.org/wiki/FreeMedia?rd=Distribution/FreeMedia
