@@ -24,7 +24,7 @@ I am currently a research fellow at the `Silver Lab <https://silverlab.org>`__ a
 Visiting Lecturer at the University of Hertfordshire
 ====================================================
 
-(2014 - )
+(2014 - 2020)
 
 I am a visiting lecturer at the School of Engineering, Computer Science,
 Physics, Astronomy, and Mathematics at UH. I teach on modules related to
