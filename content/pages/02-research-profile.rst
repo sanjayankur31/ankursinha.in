@@ -1,10 +1,11 @@
 Research Profile
 ################
-:date: 2020-10-09 22:49:01
+:date: 2020-10-24 22:13:35
 :author: ankur
 :slug: 02-research-profile
 
-I'm a computer science major that has migrated over to computational neuroscience over the years. I am interested in various areas of neuroscience---structural, synaptic, homeostatic plasticity; cortical and cerebellar processing; tools for neural modelling at various levels of detail and standardisation of computational models, and also the plethora of tools for data analysis.
+I'm a computer science major that has migrated over to computational neuroscience over the years.
+I am interested in various areas of neuroscience---structural, synaptic, homeostatic plasticity; cortical and cerebellar processing; tools for neural modelling at various levels of detail and standardisation of computational models, and also the plethora of tools for data analysis.
 
 I prefer Python to Matlab, and `Open source software to proprietary tools <http://opensourceforneuroscience.org/>`__.
 
@@ -18,7 +19,8 @@ Research Fellow at the Silver Lab at UCL
 
 (March 2020 - )
 
-I am currently a research fellow at the `Silver Lab <https://silverlab.org>`__ at `University College London <https://ucl.ac.uk>`__. Apart from the research projects that are ongoing at the research group, I also focus on the development of the `Open Source Brain <https://opensourcebrain.org>`__ platform and associated technologies.
+I am currently a research fellow at the `Silver Lab <https://silverlab.org>`__ at `University College London <https://ucl.ac.uk>`__.
+Apart from the research projects that are ongoing at the research group, I also focus on the development of the `Open Source Brain <https://opensourcebrain.org>`__ platform and associated technologies.
 
 
 Visiting Lecturer at the University of Hertfordshire
@@ -26,21 +28,20 @@ Visiting Lecturer at the University of Hertfordshire
 
 (2014 - 2020)
 
-I am a visiting lecturer at the School of Engineering, Computer Science,
-Physics, Astronomy, and Mathematics at UH. I teach on modules related to
-computing, and supervise undergraduate and post-graduate projects.
+I was a visiting lecturer at the School of Engineering, Computer Science, Physics, Astronomy, and Mathematics at UH.
+I taught on modules related to computing, and supervised undergraduate and post-graduate projects.
 
 -----
 
 Education
 ----------
 
-Ph.D. candidate in computational neuroscience: UH Biocomputation
-=================================================================
+Ph.D. in Computational Neuroscience: UH Biocomputation
+=======================================================
 
 (2014 - 2020)
 
-I'm a Ph.D. candidate in computational neuroscience at the `Biocomputation group <http://biocomputation.herts.ac.uk>`__ at the `University of Hertfordshire <http://www.herts.ac.uk/>`__.
+I earned my Ph.D. in Computational Neuroscience at the `Biocomputation group <http://biocomputation.herts.ac.uk>`__ at the `University of Hertfordshire <http://www.herts.ac.uk/>`__.
 
 | Primary supervisor: `Professor Volker Steuber`_
 | Secondary supervisors: `Dr Christoph Metzner`_, `Professor Rod Adams`_, `Dr Neil Davey`_, `Professor Michael Schmuker`_.
