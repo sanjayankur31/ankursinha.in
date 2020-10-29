@@ -12,13 +12,15 @@ STATIC_PATHS = ['images', 'extras/favicon.ico',
                 'extras/feeds-allow-indexing',
                 'extras/drafts-allow-indexing',
                 'extras/redirect-blog',
-                'extras/AnkurSinha-resume.pdf']
+                'extras/AnkurSinha-resume.pdf',
+                'extras/Sinha2020b - Structural Plasticity and Associative Memory in Balanced Neural Networks with Spike Time Dependent Inhibitory Plasticity.pdf']
 EXTRA_PATH_METADATA = {
     'extras/favicon.ico': {'path': 'favicon.ico'},
     'extras/feeds-allow-indexing': {'path': 'feeds/.htaccess'},
     'extras/drafts-allow-indexing': {'path': 'drafts/.htaccess'},
     'extras/redirect-blog': {'path': 'blog/index.html'},
     'extras/AnkurSinha-resume.pdf': {'path': 'files/AnkurSinha-resume.pdf'},
+    'extras/Sinha2020b - Structural Plasticity and Associative Memory in Balanced Neural Networks with Spike Time Dependent Inhibitory Plasticity.pdf': {'path': 'files/Sinha2020b - Structural Plasticity and Associative Memory in Balanced Neural Networks with Spike Time Dependent Inhibitory Plasticity.pdf'},
 }
 ARTICLE_PATHS = ['']
 ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{date:%d}/{slug}.html'
